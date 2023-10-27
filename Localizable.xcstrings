@@ -1,0 +1,731 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "About the Wheel" : {
+      "extractionState" : "manual"
+    },
+    "about_description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the Medical Eligibility Criteria for Contraceptive Use guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+          }
+        }
+      }
+    },
+    "Additional Info" : {
+      "extractionState" : "manual"
+    },
+    "Conditions" : {
+      "extractionState" : "manual"
+    },
+    "Contraceptive Choices" : {
+      "extractionState" : "manual"
+    },
+    "Eligibility Tool" : {
+      "extractionState" : "manual"
+    },
+    "Feedback" : {
+      "extractionState" : "manual"
+    },
+    "How to Use the Wheel" : {
+      "extractionState" : "manual"
+    },
+    "howtouse_1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+          }
+        }
+      }
+    },
+    "howtouse_2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the method in any circumstance"
+          }
+        }
+      }
+    },
+    "howtouse_3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally use the method"
+          }
+        }
+      }
+    },
+    "howtouse_4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+          }
+        }
+      }
+    },
+    "howtouse_5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Method NOT to be used"
+          }
+        }
+      }
+    },
+    "howtouse_6" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu."
+          }
+        }
+      }
+    },
+    "India-adapted MEC Wheel 2022" : {
+      "extractionState" : "manual"
+    },
+    "Launch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গৰ্ভনিৰোধক ব্যৱহাৰৰ বাবে চিকিৎসা যোগ্যতাৰ মাপকাঠী (ভাৰত-অনুকূলিত WHO MEC Wheel 2022)"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গর্ভনিরোধক ব্যবহারের জন্য মেডিকেল যোগ্যতার মানদণ্ড (ভারত-অভিযোজিত WHO MEC Wheel 2022)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medical Eligibility Criteria for Contraceptive Use (India-adapted WHO MEC Wheel 2022)"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભનિરોધક ઉપયોગ માટે તબીબી પાત્રતા માપદંડ (ભારત-અનુકૂલિત WHO MEC વ્હીલ 2022)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भनिरोधक उपयोग के लिए चिकित्सा पात्रता मानदंड (भारत-अनुकूलित WHO MEC व्हील 2022)"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ಗರ್ಭನಿರೋಧಕ ಬಳಕೆಗಾಗಿ ವೈದ್ಯಕೀಯ ಅರ್ಹತೆಯ ಮಾನದಂಡಗಳು (ಭಾರತ-ಹೊಂದಾಣಿಕೆ WHO MEC ವ್ಹೀಲ್ 2022)"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ഗർഭനിരോധന ഉപയോഗത്തിനുള്ള മെഡിക്കൽ യോഗ്യതാ മാനദണ്ഡം (ഇന്ത്യ-അഡാപ്റ്റഡ് WHO MEC വീൽ 2022)"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ଗର୍ଭନିରୋଧକ ବ୍ୟବହାର ପାଇଁ ଡାକ୍ତରୀ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ (ଭାରତ-ଅନୁକୂଳ WHO MEC ଚକ 2022)"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਗਰਭ ਨਿਰੋਧਕ ਵਰਤੋਂ ਲਈ ਡਾਕਟਰੀ ਯੋਗਤਾ ਮਾਪਦੰਡ (ਭਾਰਤ-ਅਨੁਕੂਲ WHO MEC ਵ੍ਹੀਲ 2022)"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "கருத்தடை பயன்பாட்டிற்கான மருத்துவ தகுதி அளவுகோல்கள் (இந்தியா தழுவிய WHO MEC வீல் 2022)"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భనిరోధక ఉపయోగం కోసం వైద్య అర్హత ప్రమాణాలు (భారతదేశం-అనుకూలించిన WHO MEC వీల్ 2022)"
+          }
+        }
+      }
+    },
+    "lower_wheel_en" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_as"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_be"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_gu"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_hi"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_ka"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_ma"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_or"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_pa"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_ta"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lower_wheel_te"
+          }
+        }
+      }
+    },
+    "Medical Eligibility Criteria for Contraceptive Use" : {
+      "extractionState" : "manual"
+    },
+    "upper_wheel_en" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_as"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_be"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_gu"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_hi"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_ka"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_ma"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_or"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_pa"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_ta"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "upper_wheel_te"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
