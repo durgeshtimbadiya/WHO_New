@@ -19,14 +19,14 @@ struct ConditionsModel {
     var isArrow = Bool()
     var list1 = [ConditionProgressModel]()
     var list2 = [ConditionProgressModel]()
-    var checkBoxContent3 = String()
-    var options = String()
+    var checkBoxContent3 = ""
+    var options = ""
     var viewPos = -1
     var selectedPos = -1
-    var isSelected = Bool()
-    var isSelected1 = Bool()
-    var isSelected2 = Bool()
-    var isAlreadySelected = Int()}
+    var isSelected = false
+    var isSelected1 = false
+    var isSelected2 = false
+    var isAlreadySelected = 0}
 
 struct ConditionProgressModel {
     var progressTitle = String()
@@ -36,7 +36,8 @@ struct ConditionProgressModel {
     var desc = String()
     var icon = String()
     var isHTML = Bool()
-    var isSelected = Bool()
+    var clazz = ""
+    var isSelected = -1
     var contraceptualChoicesModel: ContraceptualChoicesModel?
 }
 
@@ -50,12 +51,12 @@ struct ContraceptualChoicesModel {
     var issueName3 = String()
     var issueImg3 = String()
     var progressTitle = String()
-    var progressPercent = String()
+    var progressPercent = Int()
     var desc = String()
     var howItWorks = String()
     var list = [ContraceptualContentModel]()
     var detailIcon = String()
-    var layoutParams = String()
+    var layoutParams = Int()
     var progressVal = String()
     var progresscontent = Bool()
 }
@@ -67,8 +68,5 @@ struct ContraceptualContentModel {
     var bulletValue = String()
 }
 
-struct ConditionNoteModel {
-    var image = String()
-    var title = String()
-    var description = String()
-}
+
+
