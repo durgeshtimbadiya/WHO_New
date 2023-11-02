@@ -1,0 +1,23 @@
+//
+//  NewConditionModel.swift
+//  WHO
+//
+//  Created by Apple on 30/10/23.
+//
+
+import Foundation
+
+struct NavigationListModel{
+        var title = String()
+        var id = Int()
+        var list = [NavigationSubListModel]()
+        var clazz = ""
+        var icon = Int()
+}
+
+
+struct NavigationSubListModel{
+         var subListTitle = String()
+         var subListId = Int()
+         var clazz = ""
+    }

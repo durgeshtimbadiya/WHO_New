@@ -389,12 +389,6 @@ struct AntiretroviralString {
     static let value4_1 = "Raltegravir".localizeString()
 }
 
-struct CombinedHarmonal {
-    static let content_1 = "Reduces risk of endometrial and ovarian cancer.\n".localizeString()
-    
-    static let title_2 = "How do you use CHC?".localizeString()
-}
-
 struct LanguageName {
     static let Assamese = "অসমীয়া"
     static let Bengali = "বাংলা"
