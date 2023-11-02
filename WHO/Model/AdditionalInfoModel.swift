@@ -9,16 +9,16 @@ import Foundation
 
 struct AdditionalInfoModel{
     var additionalContent = String()
-        var additionalTitle = String()
-        var clazz = ""
-        var additionalSubPoint = [AdditionalSubPoint]()
+    var additionalTitle = String()
+    var clazz = ""
+    var additionalSubPoint = [AdditionalSubPoint]()
 }
 
 struct AdditionalSubPoint {
-        var additionSubPoint = String()
-        var additionSubPointName = String()
-        var list = [SubPointList]()
-        var isClose = ""
+    var additionSubPoint = String()
+    var additionSubPointName = String()
+    var list = [SubPointList]()
+    var isClose = ""
 }
 
 struct SubPointList{

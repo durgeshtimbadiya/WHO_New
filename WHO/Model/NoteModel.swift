@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct NoteModel{
+struct NoteModel {
     var aplhabet = String()
     var point = String()
 }

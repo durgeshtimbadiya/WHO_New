@@ -44,7 +44,6 @@ open class ContainerViewController: UIViewController {
     open var contentScrollView : UIScrollView?
     open var titles = NSMutableArray()
     open var childControllers = NSMutableArray()
-    open var isSquareBox = false
 
     open var menuItemFont:UIFont?
     open var menuItemTitleColor:UIColor?
@@ -116,14 +115,13 @@ open class ContainerViewController: UIViewController {
         }
         
         // meunView
-        menuView = ScrollMenuView.init(frame: CGRect(x: 20.0, y: topBarHeight!, width: menuViewWidth - 40.0, height: menuViewHeight), mwidth: menuWidth, mmargin: menuMargin, mindicator: indicatorHeight)
-        if !isSquareBox {
-            menuView!.frame.size.width += 40.0
-        }
+        menuView = ScrollMenuView.init(frame: CGRect(x: 5.0, y: topBarHeight!, width: menuViewWidth - 10.0, height: menuViewHeight), mwidth: menuWidth, mmargin: menuMargin, mindicator: indicatorHeight)
+    
+        menuView?.layer.masksToBounds = true
+        menuView?.layer.cornerRadius = menuViewHeight / 2.0
         menuView!.backgroundColor = UIColor.clear
         menuView!.delegate = self
         menuView!.viewbackgroundColor = self.menuBackGroudColor
-        menuView!.isSquareBox = self.isSquareBox
         menuView!.itemfont = self.menuItemFont
         
         if let col = self.menuItemTitleColor {
@@ -139,11 +137,6 @@ open class ContainerViewController: UIViewController {
         menuView!.scrollView!.scrollsToTop = false
         
         menuView!.itemTitleArray = self.titles as NSArray as? [NSString]
-        if isSquareBox {
-            let lineView = UIView(frame: CGRect(x: 0, y: (menuView?.frame.size.height ?? menuViewHeight - 1) - 1, width: (menuView?.frame.width ?? menuWidth) + 40.0, height: 1))
-            lineView.backgroundColor = menuItemTitleColor
-            self.view.addSubview(lineView)
-        }
         self.view.addSubview(menuView!)
         
         //menuView!.setShadowView()

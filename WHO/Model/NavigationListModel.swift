@@ -8,15 +8,15 @@
 import Foundation
 
 struct NavigationListModel{
-        var title = String()
-        var id = Int()
-        var list = [NavigationSubListModel]()
-        var clazz = ""
-        var icon = String()
+    var title = String()
+    var id = Int()
+    var list = [NavigationSubListModel]()
+    var clazz = ""
+    var icon = String()
 }
 
 struct NavigationSubListModel{
-         var subListTitle = String()
-         var subListId = Int()
-         var clazz = ""
-    }
+    var subListTitle = String()
+    var subListId = Int()
+    var clazz = ""
+}

@@ -23,6 +23,7 @@ struct ConditionsModel {
     var options = ""
     var viewPos = -1
     var selectedPos = -1
+    var isSelected0 = false
     var isSelected = false
     var isSelected1 = false
     var isSelected2 = false
@@ -69,4 +70,8 @@ struct ContraceptualContentModel {
 }
 
 
-
+struct ConditionNoteModel {
+    var image = String()
+    var title = String()
+    var description = String()
+}

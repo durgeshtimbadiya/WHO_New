@@ -17,7 +17,6 @@ open class ContainerConstant {
         contaninerVC.menuBackGroudColor = menuBackGroudColor
         contaninerVC.menuWidth = (menuViewWidth - 50.0) / CGFloat(containerControllers.count)
         contaninerVC.menuViewWidth = menuViewWidth
-        contaninerVC.isSquareBox = isSquareBox
         
         if contaninerVC.menuWidth <= 100.0 {
             contaninerVC.menuWidth = 120.0

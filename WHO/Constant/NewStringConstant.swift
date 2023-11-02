@@ -9,134 +9,96 @@ import Foundation
 
 import Foundation
 
-struct NewStringConstant {
-    //en, as-IN, bn-IN, gu-IN, hi-IN, kn-IN, ml-IN, or-IN, pa-IN, ta-IN, te-IN,
+//struct ConditionProgressString1 {
+//    static let chc = "CHC"
+//    static let combinepill = "Combined pills and combined injectables"
+//    static let ageLess18 = "Age (Menarche to <18 Years)"
+//}
 
-    static let selectedLanguage = UserDefaults.standard.value(forKey: "SelectedLanguege") as? String ?? "en"
-    static let launchTagLine = "Launch".localizeString()
-    static let lower_wheel = "lower_wheel_en".localizeString()
-    static let upper_wheel = "upper_wheel_en".localizeString()
-    static let shortTagLine = "Medical Eligibility Criteria for Contraceptive Use".localizeString()
-    static let india_adapted_MEC = "India-adapted MEC Wheel 2022".localizeString()
-    static let aboutTheWheel = "About the Wheel".localizeString()
-    static let HowtoUsetheWheel = "How to Use the Wheel".localizeString()
-    static let EligibilityTool = "Eligibility Tool".localizeString()
-    static let ContraceptiveChoices = "Contraceptive Choices".localizeString()
-    static let Conditions = "Conditions".localizeString()
-    static let AdditionalInfo = "Additional Info".localizeString()
-    static let Feedback = "Feedback".localizeString()
-    static let SelectLanguage = "Select Language".localizeString()
-    static let Search = "Search".localizeString()
-    static let guideTitle1 = "Select the medical condition or history that apply. More than one condition can be identified".localizeString()
-    static let guideTitle2 = "Additional Info on how to use the methods safely and effectively".localizeString()
-    static let guideTitle3 = "The recommendations reflect the eligibility  for  contraceptive methods based on the condition(s) identified".localizeString()
-    static let guideTitle4 = "This chart demonstrates the comparative efficacy with typical use of commonly used contraceptive methods.".localizeString()
-    static let about_description = "about_description".localizeString()
-    static let howtouse_1 = "howtouse_1".localizeString()
-    static let howtouse_2 = "howtouse_2".localizeString()
-    static let howtouse_3 = "howtouse_3".localizeString()
-    static let howtouse_4 = "howtouse_4".localizeString()
-    static let howtouse_5 = "howtouse_5".localizeString()
-    static let howtouse_6 = "howtouse_6".localizeString()
-
-    static let yes = "Yes".localizeString()
-    static let no = "No".localizeString()
-    
-    static let combinedHarmonalText = "Reduces risk of endometrial and ovarian cancer.<br><br><p><strong>How do you use CHC?</strong></p>\n<p>CHCs are typically dosed with 21-24 consecutive days of hormone followed by 4-7 hormone-free days. However, dosing regimens that have fewer or no hormone-free days are also used.</p>\n<p><strong>How many months should be provided at a time?</strong></p>\n<p>Up to 1 year of supply can be provided. However, the resupply schedule should be flexible.</p>\n<p><strong>When can a woman start CHC?</strong></p>\n<p><strong>Having menstrual cycles</strong></p>\n\n<ul>\n<li>Within 5 days after the start of menstrual&nbsp;bleeding: Start CHC. No additional contraceptive protection in needed.</li><li>More than 5 days since the start of menstrual bleeding: Start CHC if it is reasonably certain that the women is not pregnant. Abstain from sex or use additional contraceptive protection for the next 7 days.</li>\n</ul>\n<p><strong>Amenorrhoeic</strong></p>\n<ul>\n<li>&nbsp;Start CHC if it is reasonably certain that the women is not pregnant. Abstain from sex or use additional contraceptive protection for the next 7 days. </li>\n</ul>\n<p><strong>Postpartum (breastfeeding)*</strong></p>\n<ul>\n<li>If she is less than 6 months postpartum, CHC are generally not advised (category 3 or 4)</li>\n<li>If she is more than 6 months postpartum, follow advice for non-postpartum women</li>\n</ul>\n<p><strong>Postpartum (non-breastfeeding)*</strong></p>\n<ul>\n<li>If her menstrual cycles have not returned and she is 21 or more days postpartum, she can start CHC immediately, if it is reasonably certain that she is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days.</li>\n<li>If her menstrual cycles have returned, she can start CHC as advised for other women having menstrual cycles.</li>\n</ul>\n<p><strong>Post-abortion</strong></p>\n<ul>\n<li>CHC can be initiated immediately post-abortion. No additional contraceptive protection is needed.</li>\n</ul>".localizeString()
-    
-    
-}
-
-struct ConditionProgressString1 {
-    static let chc = "CHC"
-    static let combinepill = "Combined pills and combined injectables"
-    static let ageLess18 = "Age (Menarche to <18 Years)"
-}
-
-struct ContraceptualChoicesString1 {
-    static let title_1 = "Combined hormonal contraceptives"
-    static let issueName1_1_Regularbleeding = "Regular bleeding"
-    static let issueName2_1 = "Client controlled"
-    static let progressTitle_1 = "Effectiveness to prevent pregnancy"
-    static let desc_1 = "Daily pill, weekly patch, or monthly ring, containing two hormones (estrogen and progestogen)."
-    static let howItswork_1 = "Prevents the release of eggs from the ovaries (ovulation)."
-   
-    static let title_2 = "Non-hormonal Contraceptives (Centchroman)"
-    static let issueName1_2 = "Weekly pill free from hormone and contains Ormeloxifene"
-    static let desc_2 = "It is a non-steroidal, non-hormonal once-a-week oral contraceptive pill."
-    static let howItswork_2 = "Prevents implantation of blastocyst in endometrium by creating asynchrony between fertilized ovum and endometrial bed."
-    static let progressValue_2 = "<strong>1–2 pregnancy</strong> per 100 women with perfect use"
-    
-    static let title_3 = "Progestogen-only pills"
-    static let desc_3 = "Contains only progestogen hormone, not estrogen."
-    static let howItswork_3 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
-    
-    static let title_4 = "Progestogen-only injectables"
-    static let issueName1_4_Privacy = "Privacy"
-    static let desc_4 = "Injected into the muscle or under the skin every 2 or 3 months, depending on the product."
-    static let howItswork_4 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
-    
-    static let title_5 = "Implants"
-    static let issueName1_5_HighlyEffective = "Highly effective"
-    static let issueName2_5_LongLasting = "Long Lasting"
-    static let desc_5 = "Small, flexible rods or capsules placed under the skin of the upper arm; contains progestogen hormone only."
-    static let howItswork_5 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
-    static let progressValue_5_G99 = ">99"
-    
-    static let title_6 = "Levonorgestrel IUD"
-    static let desc_6 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day."
-    static let howItswork_6 = "Thickens cervical mucous to block sperm and egg from meeting."
-    
-    static let title_7 = "Levonorgestrel IUD"
-    static let desc_7 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day."
-    static let howItswork_7 = "Thickens cervical mucous to block sperm and egg from meeting."
-    
-    static let title_8 = "Copper intrauterine device"
-    static let issueName1_8_NoHormone = "No hormone"
-    static let desc_8 = "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus."
-    static let howItswork_8 = "Copper component damages sperm and prevents it from meeting the egg."
-    
-    static let title_9 = "Barrier methods"
-    static let issueName1_9_STIprevention = "STI prevention"
-    static let desc_9 = "Male condoms\nFemale condoms\nDiaphragm\nSpermicide\n"
-    static let howItswork_9 = "Forms a barrier to prevent sperm and egg from meeting."
-    
-    static let title_10 = "Lactational amenorrhea method"
-    static let dec_10 = "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus."
-    static let howItswork_10 = "Copper component damages sperm and prevents it from meeting the egg."
-    
-    static let title_11 = "Female sterilization"
-    static let dec_11 = "Permanent contraception to block or cut the fallopian tubes."
-    static let howItswork_11 = "Eggs are blocked from meeting sperm."
-    
-    static let title_12 = "Male sterilization\n(vasectomy)"
-    static let dec_12 = "Permanent contraception to block or cut the vas deferens tubes that carry sperm from the testicles."
-    static let howItswork_12 = "Keeps sperm out of ejaculated semen."
-    
-    static let ic_progestongen_detail = "ic_progestongen_detail"
-    static let ic_contraceptual_harmonal = "ic_contraceptual_harmonal"
-    static let ic_non_harmonal_contra = "ic_non_harmonal_contra"
-    static  let ic_progestogen_only = "ic_progestogen_only"
-    static let ic_bleeding = "ic_bleeding"
-    static let ic_client_control = "ic_client_control"
-    static let ic_combined_harmonal_detail = "ic_combined_harmonal_detail"
-    static let ic_no_harmones = "ic_no_harmones"
-    static let ic_implants = "ic_implants"
-    static let ic_highly_effective = "ic_highly_effective"
-    static let ic_long_lasting = "ic_long_lasting"
-    static let ic_uid = "ic_uid"
-    static let ic_privacy = "ic_privacy"
-    static let ic_copper = "ic_copper"
-    static let ic_copper_intrauterne_details = "ic_copper_intrauterne_details"
-    static let ic_barrier = "ic_barrier"
-    static let ic_sti_prevention = "ic_sti_prevention"
-    static let ic_amenorrhea = "ic_amenorrhea"
-    static let ic_lactational_amenorrhea_details = "ic_lactational_amenorrhea_details"
-    static let ic_female_sterialization = "ic_female_sterialization"
-    static let ic_female_sterialization_details = "ic_female_sterialization_details"
-    static let ic_male_steriallization = "ic_male_steriallization"
-    static let ic_male_sterialization_details = "ic_male_sterialization_details"
-}
+//struct ContraceptualChoicesString1 {
+//    static let title_1 = "Combined hormonal contraceptives"
+//    static let issueName1_1_Regularbleeding = "Regular bleeding"
+//    static let issueName2_1 = "Client controlled"
+//    static let progressTitle_1 = "Effectiveness to prevent pregnancy"
+//    static let desc_1 = "Daily pill, weekly patch, or monthly ring, containing two hormones (estrogen and progestogen)."
+//    static let howItswork_1 = "Prevents the release of eggs from the ovaries (ovulation)."
+//   
+//    static let title_2 = "Non-hormonal Contraceptives (Centchroman)"
+//    static let issueName1_2 = "Weekly pill free from hormone and contains Ormeloxifene"
+//    static let desc_2 = "It is a non-steroidal, non-hormonal once-a-week oral contraceptive pill."
+//    static let howItswork_2 = "Prevents implantation of blastocyst in endometrium by creating asynchrony between fertilized ovum and endometrial bed."
+//    static let progressValue_2 = "<strong>1–2 pregnancy</strong> per 100 women with perfect use"
+//    
+//    static let title_3 = "Progestogen-only pills"
+//    static let desc_3 = "Contains only progestogen hormone, not estrogen."
+//    static let howItswork_3 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
+//    
+//    static let title_4 = "Progestogen-only injectables"
+//    static let issueName1_4_Privacy = "Privacy"
+//    static let desc_4 = "Injected into the muscle or under the skin every 2 or 3 months, depending on the product."
+//    static let howItswork_4 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
+//    
+//    static let title_5 = "Implants"
+//    static let issueName1_5_HighlyEffective = "Highly effective"
+//    static let issueName2_5_LongLasting = "Long Lasting"
+//    static let desc_5 = "Small, flexible rods or capsules placed under the skin of the upper arm; contains progestogen hormone only."
+//    static let howItswork_5 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
+//    static let progressValue_5_G99 = ">99"
+//    
+//    static let title_6 = "Levonorgestrel IUD"
+//    static let desc_6 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day."
+//    static let howItswork_6 = "Thickens cervical mucous to block sperm and egg from meeting."
+//    
+//    static let title_7 = "Levonorgestrel IUD"
+//    static let desc_7 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day."
+//    static let howItswork_7 = "Thickens cervical mucous to block sperm and egg from meeting."
+//    
+//    static let title_8 = "Copper intrauterine device"
+//    static let issueName1_8_NoHormone = "No hormone"
+//    static let desc_8 = "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus."
+//    static let howItswork_8 = "Copper component damages sperm and prevents it from meeting the egg."
+//    
+//    static let title_9 = "Barrier methods"
+//    static let issueName1_9_STIprevention = "STI prevention"
+//    static let desc_9 = "Male condoms\nFemale condoms\nDiaphragm\nSpermicide\n"
+//    static let howItswork_9 = "Forms a barrier to prevent sperm and egg from meeting."
+//    
+//    static let title_10 = "Lactational amenorrhea method"
+//    static let dec_10 = "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus."
+//    static let howItswork_10 = "Copper component damages sperm and prevents it from meeting the egg."
+//    
+//    static let title_11 = "Female sterilization"
+//    static let dec_11 = "Permanent contraception to block or cut the fallopian tubes."
+//    static let howItswork_11 = "Eggs are blocked from meeting sperm."
+//    
+//    static let title_12 = "Male sterilization\n(vasectomy)"
+//    static let dec_12 = "Permanent contraception to block or cut the vas deferens tubes that carry sperm from the testicles."
+//    static let howItswork_12 = "Keeps sperm out of ejaculated semen."
+//    
+//    static let ic_progestongen_detail = "ic_progestongen_detail"
+//    static let ic_contraceptual_harmonal = "ic_contraceptual_harmonal"
+//    static let ic_non_harmonal_contra = "ic_non_harmonal_contra"
+//    static  let ic_progestogen_only = "ic_progestogen_only"
+//    static let ic_bleeding = "ic_bleeding"
+//    static let ic_client_control = "ic_client_control"
+//    static let ic_combined_harmonal_detail = "ic_combined_harmonal_detail"
+//    static let ic_no_harmones = "ic_no_harmones"
+//    static let ic_implants = "ic_implants"
+//    static let ic_highly_effective = "ic_highly_effective"
+//    static let ic_long_lasting = "ic_long_lasting"
+//    static let ic_uid = "ic_uid"
+//    static let ic_privacy = "ic_privacy"
+//    static let ic_copper = "ic_copper"
+//    static let ic_copper_intrauterne_details = "ic_copper_intrauterne_details"
+//    static let ic_barrier = "ic_barrier"
+//    static let ic_sti_prevention = "ic_sti_prevention"
+//    static let ic_amenorrhea = "ic_amenorrhea"
+//    static let ic_lactational_amenorrhea_details = "ic_lactational_amenorrhea_details"
+//    static let ic_female_sterialization = "ic_female_sterialization"
+//    static let ic_female_sterialization_details = "ic_female_sterialization_details"
+//    static let ic_male_steriallization = "ic_male_steriallization"
+//    static let ic_male_sterialization_details = "ic_male_sterialization_details"
+//}
 
 struct CombinedHarmonal {
     
@@ -799,6 +761,10 @@ struct ConditionList{
 
     static let additionalContent38 = "Conditions that are Category 1 or 2 for All Methods (Method can be Used)".localizeString()
     static let additionalContent39 = "Notes to the Conditions".localizeString()
+    static let warningECondMessage = "Can not select more than 3 items"
+    
+    static let continuePrefBtn = "CONTINUE TO PREFERENCES"
+    static let seeRecomButton = "SEE RECOMMENDATIONS"
 
     }
 
@@ -916,29 +882,31 @@ struct ContraceptiveList{
     }
 
 
-struct preferencesList{
+struct PreferencesList{
     
     static let icon1 = "ic_highly_effective"
-    static let title1 = "preference_highly_effective"
-    static let content1 = "preference_method_effective_preventing_pregnancy"
+    static let title1 = "Highly effective"
+    static let content1 = "A method that is more than 99% effective at preventing pregnancy in typical use."
     static let icon2 = "ic_sti_prevention"
-    static let title2 = "preference_sti_prevention"
-    static let content2 = "preference_method_prevent_sexually_transmitted_infection"
+    static let title2 = "STI prevention"
+    static let content2 = "A method that prevent sexually transmitted infections along with preventing pregnancy."
     static let icon3 = "ic_no_harmones"
-    static let title3 = "preference_no_hormones"
-    static let content3 = "preference_method_no_hormones"
+    static let title3 = "No hormones"
+    static let content3 = "A method that does not contain any hormones."
     static let icon4 = "ic_bleeding"
-    static let title4 = "preference_regular_bleeding"
-    static let content4 = "preference_method_scheduled_monthly_bleeding"
+    static let title4 = "Regular bleeding"
+    static let content4 = "A method that results in regularly scheduled monthly bleeding, similar to a period."
     static let icon5 = "ic_privacy"
-    static let title5 = "preference_privacy"
-    static let content5 = "preference_method_not_detected_partner_people"
+    static let title5 = "Privacy"
+    static let content5 = "A method that is not able to detected by a partner or other people when in use."
     static let icon6 = "ic_client_control"
-    static let title6 = "preference_client_controlled"
-    static let content6 = "preference_method_client_medical_provider"
+    static let title6 = "Client controlled"
+    static let content6 = "A method that a client can stop or start without seeing a medical provider."
     static let icon7 = "ic_long_lasting"
-    static let title7 = "preference_long_lasting"
-    static let content7 = "preference_method_last_years"
+    static let title7 = "Long lasting"
+    static let content7 = "A method that can last a number of years."
+    
+    static let warningEPreMessage = "A maximum of 3 characteristics must be selected"
 }
 
 struct infoList{
@@ -948,36 +916,6 @@ struct infoList{
     static let text4 = "Method NOT to be used"
 
 }
-
-struct alphabet {
-    static let a = "A:".localizeString()
-    static let b = "B:".localizeString()
-    static let c = "C:".localizeString()
-    static let d = "D:".localizeString()
-    static let e = "E:".localizeString()
-    static let f = "F:".localizeString()
-    static let g = "G:".localizeString()
-    static let h = "H:".localizeString()
-    static let i = "I:".localizeString()
-    static let j = "J:".localizeString()
-    static let k = "K:".localizeString()
-    static let l = "L:".localizeString()
-    static let m = "M:".localizeString()
-    static let n = "N:".localizeString()
-    static let o = "O:".localizeString()
-    static let p = "P:".localizeString()
-    static let q = "Q:".localizeString()
-    static let r = "R:".localizeString()
-    static let s = "S:".localizeString()
-    static let t = "T:".localizeString()
-    static let u = "U:".localizeString()
-    static let v = "V:".localizeString()
-    static let w = "W:".localizeString()
-    static let x = "X:".localizeString()
-    static let y = "Y:".localizeString()
-    static let z = "Z:".localizeString()
-}
-
 
 //struct effectiveNessOfMethod{
 //    
@@ -1026,7 +964,7 @@ struct alphabet {
 
 
 
-struct EligibilityList{
+struct EligibilityList {
     
     //common
     static let chc = "CHC".localizeString()
@@ -1143,32 +1081,4 @@ struct EligibilityList{
     static let ProgressVal54_4 = "1-2<sup><small><small>J</small></small></sup>".localizeString()
     static let ProgressVal54_6r7 = "1<sup><small><small>K</small></small></sup>".localizeString()
     
-}
-
-struct LanguageName1 {
-    static let Assamese = "অসমীয়া"
-    static let Bengali = "বাংলা"
-    static let English = "English"
-    static let Gujarati = "ગુજરાતી"
-    static let Hindi = "हिंदी"
-    static let Kannada = "ಕನ್ನಡ"
-    static let Malayalam = "മലയാളം"
-    static let Odia_Oriya = "ଓଡିଆ"
-    static let Punjabi = "ਪੰਜਾਬੀ"
-    static let Tamil = "தமிழ்"
-    static let Telugu = "తెలుగు"
-}
-
-struct LanguageCode1 {
-    static let Assamese = "as-IN"
-    static let Bengali = "bn-IN"
-    static let English = "en"
-    static let Gujarati = "gu-IN"
-    static let Hindi = "hi-IN"
-    static let Kannada = "kn-IN"
-    static let Malayalam = "ml-IN"
-    static let Odia_Oriya = "or-IN"
-    static let Punjabi = "pa-IN"
-    static let Tamil = "ta-IN"
-    static let Telugu = "te-IN"
 }

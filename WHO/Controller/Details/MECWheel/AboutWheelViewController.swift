@@ -41,7 +41,6 @@ class AboutWheelViewController: UIViewController {
     
     func rotate2(imageView: UIImageView, aCircleTime: Double) { //UIView
         UIView.animate(withDuration: aCircleTime/2, delay: 0.0, options: .curveLinear, animations: {
-//            print(CGFloat(Double.pi))
             imageView.transform = CGAffineTransform(rotationAngle: CGFloat(Double.pi))
         }, completion: { finished in
             UIView.animate(withDuration: aCircleTime/2, delay: 0.0, options: .curveLinear, animations: {

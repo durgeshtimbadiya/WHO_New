@@ -89,6 +89,9 @@ extension HomeListViewController: UITableViewDelegate {
             self.tableView.reloadData()
             break
         case 1:
+            if let myObject = Storyboard.details.instantiateViewController(withIdentifier: EligibilityToolsViewController().className) as? EligibilityToolsViewController {
+                self.navigationController?.pushViewController(myObject, animated: true)
+            }
             break
         case 2:
             break
@@ -107,7 +110,7 @@ extension HomeListViewController: UITableViewDelegate {
                 UIApplication.shared.openURL(url)
               }
             } else {
-                showToast(message: "Please enable mail from settings!")
+                Toast.show("Please enable mail from settings!")
             }
             break
         default:

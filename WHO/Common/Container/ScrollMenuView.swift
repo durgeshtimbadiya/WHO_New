@@ -22,9 +22,7 @@ class ScrollMenuView: UIView {
     var scrollView:UIScrollView?
     var itemViewArray:[UILabel]? = [UILabel]()
     var itemMainViewArray:[UIView]? = [UIView]()
-    var itemBottomLineArray:[UIView]? = [UIView]()
     var itemSelectedTitleColor = UIColor.black
-    var isSquareBox = false
     
     var menuViewWidth:CGFloat = 70
     var menuViewMargin:CGFloat = 5.0
@@ -62,7 +60,6 @@ class ScrollMenuView: UIView {
         didSet {
             
             var views:[UILabel] = [UILabel]()
-            var bottomView: [UIView] = [UIView]()
             var mainViews: [UIView] = [UIView]()
             
             for index in 0..<itemTitleArray!.count {
@@ -72,11 +69,6 @@ class ScrollMenuView: UIView {
                 mainView.tag = index
                 
                 let itemView = UILabel.init(frame: frame)
-                if isSquareBox {
-                    let lineView = UIView(frame: CGRect(x: frame.width, y: 8.0, width: 1.0, height: self.frame.height - 16.0))
-                    lineView.backgroundColor = itemTitleColor
-                    itemView.addSubview(lineView)
-                }
 //                itemView.tag = index
                 itemView.text = itemTitleArray![index] as String
 //                itemView.isUserInteractionEnabled = true
@@ -89,13 +81,6 @@ class ScrollMenuView: UIView {
                 views.append(itemView)
                 mainView.addSubview(itemView)
 
-                let bottomView1 = UIView(frame: CGRect(x: 0.0, y: frame.height - 1.0, width: frame.size.width, height: 1.0))
-                bottomView1.backgroundColor = itemTitleColor
-                bottomView.append(bottomView1)
-                mainView.clipsToBounds = false
-                if isSquareBox {
-                    mainView.addSubview(bottomView1)
-                }
 //                let btn = UIButton(frame: CGRect(x: 0.0, y: 0.0, width: mainView.frame.size.width, height: mainView.frame.size.height))
 //                btn.tag = index
 //                btn.addTarget(self, action: #selector(itemTapAction), for: .touchUpInside)
@@ -109,7 +94,6 @@ class ScrollMenuView: UIView {
             
             self.itemMainViewArray = mainViews
             self.itemViewArray = views
-            self.itemBottomLineArray = bottomView
             self.indicatorView = UIView.init(frame: CGRect(x: 0, y: self.scrollView!.frame.size.height - indicatorHeight, width: menuViewWidth, height: indicatorHeight))
             self.indicatorView.backgroundColor = self.itemIndicatorColor
             self.scrollView?.addSubview(self.indicatorView)
@@ -175,34 +159,15 @@ class ScrollMenuView: UIView {
         
         for index in 0..<self.itemViewArray!.count {
             let label = self.itemViewArray![index]
-            let bottomV = self.itemBottomLineArray![index]
             if index == currentIndex {
-                if self.isSquareBox {
-                    label.layer.borderColor = itemTitleColor.cgColor
-                    label.layer.borderWidth = 1.0
-                    label.layer.masksToBounds = true
-                    label.layer.cornerRadius = 10.0
-                    label.backgroundColor = .black
-                    label.layer.maskedCorners = [.layerMinXMinYCorner, .layerMaxXMinYCorner]
-                    bottomV.backgroundColor = .black
-                }
-                
-//                label.alpha = 0.0
+                label.backgroundColor = UIColor(hexString: "#22CF80")
                 UIView.animate(withDuration: 0.75, delay: 0.0, options: [.curveLinear , .allowUserInteraction], animations: {
 //                    label.alpha = 1.0
                     label.textColor = self.itemSelectedTitleColor
                     }, completion:nil)
             } else {
-                bottomV.backgroundColor = itemTitleColor
-
                 label.textColor = self.itemTitleColor
                 label.backgroundColor = .clear
-                if self.isSquareBox {
-                    label.layer.borderColor = UIColor.clear.cgColor
-                    label.layer.borderWidth = 0.0
-                    label.layer.masksToBounds = false
-                    label.layer.cornerRadius = 0.0
-                }
             }
         }
     }

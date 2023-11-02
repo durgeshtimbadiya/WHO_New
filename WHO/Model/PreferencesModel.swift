@@ -9,8 +9,9 @@ import Foundation
 
 struct PreferencesModel{
     var icon = String()
-        var title = String()
-        var content = String()
-        var pos = ""
-        var viewPos = ""
+    var title = String()
+    var content = String()
+    var pos = ""
+    var viewPos = ""
+    var isSelected = false
 }

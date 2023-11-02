@@ -8,21 +8,21 @@
 import Foundation
 
 struct ConditionModel {
-        var additionalContent = String()
-        var clazz = ""
-        var additionalSubPointCond = [AdditionalSubPointCond]()
+    var additionalContent = String()
+    var clazz = ""
+    var additionalSubPointCond = [AdditionalSubPointCond]()
 }
 
 struct AdditionalSubPointCond {
-        var img = String()
-        var additionSubPoint = String()
-        var points = String()
-        var subPointCond = [SubPointListCond]()
-        var isClose = ""
-    }
+    var img = String()
+    var additionSubPoint = String()
+    var points = String()
+    var subPointCond = [SubPointListCond]()
+    var isClose = ""
+}
 
 struct SubPointListCond {
-        var points = String()
-        var value = String()
-    }
+    var points = String()
+    var value = String()
+}
 
