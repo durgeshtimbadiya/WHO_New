@@ -11,11 +11,10 @@ class EligibilityToolsViewController: UIViewController {
     
     @IBOutlet fileprivate weak var textField: UITextField!
     @IBOutlet fileprivate weak var segmentController: UISegmentedControl!
-    @IBOutlet fileprivate weak var scrollView: UIScrollView!
-    @IBOutlet fileprivate weak var tableViewCondition: UITableView!
-    @IBOutlet fileprivate weak var tableViewPreference: UITableView!
-    @IBOutlet fileprivate weak var bottomConstrMainView: UIScrollView!
-    
+    @IBOutlet fileprivate weak var containerView: UIView!
+
+    var containerVC: ContainerViewController?
+
     private var conditionalList = [ConditionsModel]()
 
     override func viewDidLoad() {
@@ -34,6 +33,30 @@ class EligibilityToolsViewController: UIViewController {
     }
     
     @IBAction func changeSegment(_ sender: UISegmentedControl) {
+        
+    }
+    
+    private func addContainers() {
+        var viewsArray = [UIViewController]()
+        if let conditionView = Storyboard.details.instantiateViewController(withIdentifier: EConditionViewController().className) as? EConditionViewController {
+            conditionView.title = "Conditions"
+            viewsArray.append(conditionView)
+        }
+        if let prefeView = Storyboard.details.instantiateViewController(withIdentifier: EConditionViewController().className) as? EConditionViewController {
+            prefeView.title = "Preferences"
+            viewsArray.append(prefeView)
+        }
+        
+        self.containerVC = ContainerConstant.addContainerTo(self, containerControllers: viewsArray as NSArray, menuIndicatorColor: .clear, menuItemTitleColor: .systemGray2, menuItemSelectedTitleColor: .white, menuBackGroudColor: .clear, font: UIFont.systemFont(ofSize: 16.0), menuViewWidth: self.containerView.frame.size.width, isSquareBox: true)
+//        self.containerVC?.view.frame.size.width = self.parentFrame!.size.width
+        self.containerVC?.view.frame.size.height = self.view.frame.size.height
+        self.containerVC?.delegate = self
+    }
+}
+
+// MARK: - ContainerVCDelegate -
+extension EligibilityToolsViewController: ContainerVCDelegate {
+    func containerViewItem(_ index: NSInteger, currentController: UIViewController) {
         
     }
 }
