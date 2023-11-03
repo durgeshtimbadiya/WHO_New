@@ -909,12 +909,11 @@ struct PreferencesList{
     static let warningEPreMessage = "A maximum of 3 characteristics must be selected"
 }
 
-struct infoList{
+struct InformationProgressList {
     static let text1 = "Use the method in any circumstance"
     static let text2 = "Generally use the method"
     static let text3 = "Use of the method not usually recommended unless other, more and appropriate methods are not available or acceptable"
     static let text4 = "Method NOT to be used"
-
 }
 
 //struct effectiveNessOfMethod{
@@ -1081,4 +1080,11 @@ struct EligibilityList {
     static let ProgressVal54_4 = "1-2<sup><small><small>J</small></small></sup>".localizeString()
     static let ProgressVal54_6r7 = "1<sup><small><small>K</small></small></sup>".localizeString()
     
+}
+
+struct Recommendation {
+    static let title = "Recommendation"
+    static let subTitle = "Based on the selected medical condition(s), these are the safety ratings for contraceptive methods."
+    static let backToCondition = "BACK TO CONDITIONS"
+    static let warningMessage = "No Contraceptive Choices found"
 }

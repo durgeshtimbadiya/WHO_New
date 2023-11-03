@@ -11,7 +11,7 @@ class EPreferencesViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
     
-    private var preferenceList = ConentManager.shared.ePreferencesList
+    private var preferenceList = ContentManager.shared.ePreferencesList
     private var selectedList = [Int]()
     
     override func viewDidLoad() {

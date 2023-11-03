@@ -54,6 +54,7 @@ class HomeListTableViewCell: UITableViewCell {
     func configure(_ title: String, imageName: String) {
         if self.titleLabel != nil {
             self.titleLabel.text = title
+            titleLabel.sizeToFit()
         }
         if imageViewV != nil {
             self.imageViewV.image = UIImage(named: imageName)
@@ -63,12 +64,15 @@ class HomeListTableViewCell: UITableViewCell {
     func configureExpand(_ title: String, title1: String, title2: String, imageName: String, row: Int, target: Any, selectors: [Selector]) {
         if self.titleLabel != nil {
             self.titleLabel.text = title
+            titleLabel.sizeToFit()
         }
         if self.titleLabel1 != nil {
             self.titleLabel1.text = title1
+            titleLabel1.sizeToFit()
         }
         if self.titleLabel2 != nil {
             self.titleLabel2.text = title2
+            titleLabel2.sizeToFit()
         }
         if imageViewV != nil {
             self.imageViewV.image = UIImage(named: imageName)
@@ -95,22 +99,14 @@ class HomeListTableViewCell: UITableViewCell {
     func configureCondition(_ title: String, isExapand: Bool, isSelected: Bool) {
         if self.titleLabel != nil {
             self.titleLabel.text = title
-            if title.contains("<sup><small>"), let position = title.firstIndex(of: "<") {
-                //<sup><small><small><strong>2</strong></small></small></sup>
-                var newStr = title.replacingOccurrences(of: "<sup>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</sup>", with: "")
-                newStr = newStr.replacingOccurrences(of: "<small>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</small>", with: "")
-                newStr = newStr.replacingOccurrences(of: "<strong>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</strong>", with: "")
-                let index: Int = title.distance(from: title.startIndex, to: position)
-                let attributeStr = NSMutableAttributedString(string: newStr)
-                let smallAtt = [ NSAttributedString.Key.baselineOffset: 5, NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 10.0) ] as [NSAttributedString.Key : Any]
-                let rangeTitle1 = NSRange(location: index, length: 1)
-                attributeStr.addAttributes(smallAtt as [NSAttributedString.Key : Any], range: rangeTitle1)
+            if title.contains("<sup><small>")/*, let position = cellData.conditionTitle.firstIndex(of: "<") */ {
+                titleLabel.attributedText = title.htmlToAttributedString
+                titleLabel.textAlignment = .left
+                titleLabel.font = UIFont.systemFont(ofSize: 14.0, weight: .semibold)
 
-                self.titleLabel.attributedText = attributeStr
+//                self.titleLabel.attributedText = Core.setProunceVal(title, position: position)
             }
+            titleLabel.sizeToFit()
         }
         if imageViewV != nil {
             self.imageViewV.isHidden = !isExapand
@@ -123,22 +119,13 @@ class HomeListTableViewCell: UITableViewCell {
     func configureConditionFilter(_ cellData: ConditionsModel, target: Any, selectors: [Selector], row: Int) {
         if titleLabel != nil {
             titleLabel.text = cellData.conditionTitle
-            if cellData.conditionTitle.contains("<sup><small>"), let position = cellData.conditionTitle.firstIndex(of: "<") {
-                //<sup><small><small><strong>2</strong></small></small></sup>
-                var newStr = cellData.conditionTitle.replacingOccurrences(of: "<sup>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</sup>", with: "")
-                newStr = newStr.replacingOccurrences(of: "<small>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</small>", with: "")
-                newStr = newStr.replacingOccurrences(of: "<strong>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</strong>", with: "")
-                let index: Int = cellData.conditionTitle.distance(from: cellData.conditionTitle.startIndex, to: position)
-                let attributeStr = NSMutableAttributedString(string: newStr)
-                let smallAtt = [ NSAttributedString.Key.baselineOffset: 5, NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 10.0) ] as [NSAttributedString.Key : Any]
-                let rangeTitle1 = NSRange(location: index, length: 1)
-                attributeStr.addAttributes(smallAtt as [NSAttributedString.Key : Any], range: rangeTitle1)
-
-                self.titleLabel.attributedText = attributeStr
+            if cellData.conditionTitle.contains("<sup><small>")/*, let position = cellData.conditionTitle.firstIndex(of: "<")*/ {
+                titleLabel.attributedText = cellData.conditionTitle.htmlToAttributedString
+                titleLabel.textAlignment = .left
+                titleLabel.font = UIFont.systemFont(ofSize: 14.0, weight: .semibold)
+//                self.titleLabel.attributedText = Core.setProunceVal(cellData.conditionTitle, position: position)
             }
+            titleLabel.sizeToFit()
         }
         if button != nil {
             button.tag = row
@@ -157,34 +144,28 @@ class HomeListTableViewCell: UITableViewCell {
        
         if titleLabel1 != nil {
             titleLabel1.text = cellData.isSelected ? EligibilityList.ageLess40 : EligibilityList.ageLess18
+            titleLabel1.sizeToFit()
         }
         if titleLabel2 != nil {
             titleLabel2.text = EligibilityList.ageLess18
+            titleLabel2.sizeToFit()
         }
         if titleLabel3 != nil {
             titleLabel3.text = EligibilityList.ageLess40
+            titleLabel3.sizeToFit()
         }
     }
     
     func configureConditionSelection(_ cellData: ConditionsModel, target: Any, selectors: [Selector], row: Int) {
         if titleLabel != nil {
             titleLabel.text = cellData.conditionTitle
-            if cellData.conditionTitle.contains("<sup><small>"), let position = cellData.conditionTitle.firstIndex(of: "<") {
-                //<sup><small><small><strong>2</strong></small></small></sup>
-                var newStr = cellData.conditionTitle.replacingOccurrences(of: "<sup>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</sup>", with: "")
-                newStr = newStr.replacingOccurrences(of: "<small>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</small>", with: "")
-                newStr = newStr.replacingOccurrences(of: "<strong>", with: "")
-                newStr = newStr.replacingOccurrences(of: "</strong>", with: "")
-                let index: Int = cellData.conditionTitle.distance(from: cellData.conditionTitle.startIndex, to: position)
-                let attributeStr = NSMutableAttributedString(string: newStr)
-                let smallAtt = [ NSAttributedString.Key.baselineOffset: 5, NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 10.0) ] as [NSAttributedString.Key : Any]
-                let rangeTitle1 = NSRange(location: index, length: 1)
-                attributeStr.addAttributes(smallAtt as [NSAttributedString.Key : Any], range: rangeTitle1)
-
-                self.titleLabel.attributedText = attributeStr
+            if cellData.conditionTitle.contains("<sup><small>")/*, let position = cellData.conditionTitle.firstIndex(of: "<") */{
+                titleLabel.attributedText = cellData.conditionTitle.htmlToAttributedString
+                titleLabel.textAlignment = .left
+                titleLabel.font =  UIFont.systemFont(ofSize: 14.0, weight: .semibold)
+//                self.titleLabel.attributedText = Core.setProunceVal(cellData.conditionTitle, position: position)
             }
+            titleLabel.sizeToFit()
         }
         
         if selectionView1 != nil {
@@ -199,12 +180,15 @@ class HomeListTableViewCell: UITableViewCell {
         
         if titleLabel1 != nil {
             titleLabel1.text = cellData.checkBoxContent
+            titleLabel1.sizeToFit()
         }
         if titleLabel2 != nil {
             titleLabel2.text = cellData.checkBoxContent2
+            titleLabel2.sizeToFit()
         }
         if titleLabel3 != nil {
             titleLabel3.text = cellData.checkBoxContent3
+            titleLabel3.sizeToFit()
         }
         
         if radioImg1 != nil {
@@ -242,9 +226,11 @@ class HomeListTableViewCell: UITableViewCell {
     func configurePreference(_ cellData: PreferencesModel, target: Any, selector: Selector, row: Int) {
         if self.titleLabel != nil {
             self.titleLabel.text = cellData.title
+            titleLabel.sizeToFit()
         }
         if self.titleLabel1 != nil {
             self.titleLabel1.text = cellData.content
+            titleLabel1.sizeToFit()
         }
         if imageViewV != nil {
             self.imageViewV.image = UIImage(named: cellData.icon)

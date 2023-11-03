@@ -94,6 +94,9 @@ extension HomeListViewController: UITableViewDelegate {
             }
             break
         case 2:
+            if let myObject = Storyboard.details.instantiateViewController(withIdentifier: ContraceptiveViewController().className) as? ContraceptiveViewController {
+                self.navigationController?.pushViewController(myObject, animated: true)
+            }
             break
         case 3, 4:
             if let myObject = Storyboard.details.instantiateViewController(withIdentifier: ConditionsListViewController().className) as? ConditionsListViewController {

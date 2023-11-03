@@ -41,12 +41,15 @@ class ConditionsTableViewCell: UITableViewCell {
     func configure(_ cellData: ConditionNoteModel, target: Any, selector: Selector, row: Int) {
         if titleLabel != nil {
             titleLabel.text = cellData.title
+            titleLabel.sizeToFit()
         }
         if subTitleLabel != nil {
             subTitleLabel.isHidden = true
+            subTitleLabel.sizeToFit()
         }
         if descLabel != nil {
             descLabel.text = cellData.description
+            descLabel.sizeToFit()
         }
         if cellButton != nil {
             cellButton.tag = row
@@ -60,25 +63,31 @@ class ConditionsTableViewCell: UITableViewCell {
     func configureAdditional(_ cellData: AdditionalModel) {
         if titleLabel != nil {
             titleLabel.text = cellData.title
+            titleLabel.sizeToFit()
         }
         if subTitleLabel != nil {
             subTitleLabel.isHidden = true
+            subTitleLabel.sizeToFit()
         }
         if descLabel != nil {
             descLabel.text = cellData.description
+            descLabel.sizeToFit()
         }
     }
     
     func configureAddSub(_ cellData: AdditionalSubModel, target: Any, selector: Selector, row: Int) {
         if titleLabel != nil {
             titleLabel.text = cellData.title
+            titleLabel.sizeToFit()
         }
         if subTitleLabel != nil {
             subTitleLabel.isHidden = cellData.description.isEmpty
             subTitleLabel.text = cellData.description
+            subTitleLabel.sizeToFit()
         }
         if descLabel != nil {
             descLabel.text = cellData.description
+            descLabel.sizeToFit()
         }
         if cellButton != nil {
             cellButton.tag = row

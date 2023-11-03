@@ -65,28 +65,36 @@ class EffectivenessTableViewCell: UITableViewCell {
         
         if imagePerc1 != nil {
             imagePerc1.text = cellData.imagePerc1
+            imagePerc1.sizeToFit()
         }
         if imagePerc2 != nil {
             imagePerc2.text = cellData.imagePerc2
+            imagePerc3.sizeToFit()
         }
         if imagePerc3 != nil {
             imagePerc3.text = cellData.imagePerc3
+            imagePerc3.sizeToFit()
         }
         if imagePerc4 != nil {
             imagePerc4.text = cellData.imagePerc4
+            imagePerc4.sizeToFit()
         }
         
         if imageTitle1 != nil {
             imageTitle1.text = cellData.imageTitle1
+            imageTitle1.sizeToFit()
         }
         if imageTitle2 != nil {
             imageTitle2.text = cellData.imageTitle2
+            imageTitle2.sizeToFit()
         }
         if imageTitle3 != nil {
             imageTitle3.text = cellData.imageTitle3
+            imageTitle3.sizeToFit()
         }
         if imageTitle4 != nil {
             imageTitle4.text = cellData.imageTitle4
+            imageTitle4.sizeToFit()
         }
         
         if contentLabel1 != nil {

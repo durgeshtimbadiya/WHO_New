@@ -16,15 +16,16 @@ class EConditionViewController: UIViewController {
     @IBOutlet weak var seeRecomndButton: UIButton!
     @IBOutlet weak var collectionView: UICollectionView!
     
-    private var conditionList = ConentManager.shared.eConditionsList
-    private var searchDataList = ConentManager.shared.eConditionsList
+    private var conditionList = ContentManager.shared.eConditionsList
+    private var searchDataList = [ConditionsModel]()
+    private var selectedProgress = [ConditionProgressModel]()
     
     private struct SelectedData {
         var index = -1
         var title = ""
         var selectedIndex = -1
     }
-    private var selectedList = [SelectedData]()
+    private var selectedList = [ConditionsModel]()
     var containerVCC: ContainerViewController?
 
     override func viewDidLoad() {
@@ -32,7 +33,7 @@ class EConditionViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         self.bottomSheetView.isHidden = true
-        
+        self.searchDataList = self.conditionList
 //        containerView.layer.masksToBounds = true
 //        containerView.layer.cornerRadius = 25.0
 //        containerView.layer.maskedCorners = [.layerMinXMinYCorner, .layerMaxXMinYCorner]
@@ -49,15 +50,19 @@ class EConditionViewController: UIViewController {
     }
     
     @IBAction func tapOnSeeRecommandation(_ sender: UIButton) {
-        
+        if let myObject = Storyboard.details.instantiateViewController(withIdentifier: RecommendationViewController().className) as? RecommendationViewController {
+            myObject.recommedationList = self.selectedProgress
+            self.navigationController?.pushViewController(myObject, animated: true)
+        }
     }
     
     @objc func tapOnRow(_ sender: UIButton) {
         self.conditionList[sender.tag].selectedPos = -1
-        if let index = self.selectedList.firstIndex(where: { $0.title == self.conditionList[sender.tag].conditionTitle }) {
+        if let index = self.selectedList.firstIndex(where: { $0.conditionTitle == self.conditionList[sender.tag].conditionTitle }) {
             self.conditionList[sender.tag].isSelected = false
             self.conditionList[sender.tag].isSelected1 = false
             self.conditionList[sender.tag].isSelected2 = false
+            self.conditionList[sender.tag].options = ""
             self.selectedList.remove(at: index)
         }
         self.tableView.reloadRows(at: [IndexPath(row: sender.tag, section: 0)], with: .none)
@@ -75,7 +80,9 @@ class EConditionViewController: UIViewController {
             self.conditionList[sender.tag].isSelected = selectedInd == 0
             self.conditionList[sender.tag].isSelected1 = selectedInd == 1
             self.conditionList[sender.tag].isSelected2 = selectedInd == 2
-            if !self.selectedList.contains(where: { $0.title == self.conditionList[sender.tag].conditionTitle }) {
+            self.conditionList[sender.tag].options = selectedInd == 0 ? "A" : (selectedInd == 1 ? "B" : "C")
+            
+            if !self.selectedList.contains(where: { $0.conditionTitle == self.conditionList[sender.tag].conditionTitle }) {
                 self.addIntoSelected(sender.tag)
             }
         }
@@ -85,24 +92,20 @@ class EConditionViewController: UIViewController {
     
     private func addIntoSelected(_ rowIndex: Int) {
         //Need to remove duplicate
-        self.selectedList.append(SelectedData(index: rowIndex, title: self.conditionList[rowIndex].conditionTitle, selectedIndex: self.conditionList[rowIndex].isSelected0 ? 3 : (self.conditionList[rowIndex].isSelected ? 0 : (self.conditionList[rowIndex].isSelected1 ? 1 : 2))))
+        self.selectedList.append(self.conditionList[rowIndex])
     }
     
     func searchData(with search: String) {
         if !search.isEmpty {
-            conditionList = ConentManager.shared.eConditionsList.filter({ (object) -> Bool in
+            conditionList = ContentManager.shared.eConditionsList.filter({ (object) -> Bool in
                 return object.conditionTitle.range(of: search, options: .caseInsensitive) != nil
             })
         } else {
-            conditionList = ConentManager.shared.eConditionsList
+            conditionList = ContentManager.shared.eConditionsList
         }
         for select in self.selectedList {
-            if let index = self.conditionList.firstIndex(where: { $0.conditionTitle == select.title }) {
-                self.conditionList[index].isSelected = select.selectedIndex == 0
-                self.conditionList[index].isSelected1 = select.selectedIndex == 1
-                self.conditionList[index].isSelected2 = select.selectedIndex == 2
-                self.conditionList[index].isSelected0 = select.selectedIndex == 3
-                self.conditionList[index].selectedPos = self.conditionList[index].isArrow && select.index != -1 ? index : -1
+            if let index = self.conditionList.firstIndex(where: { $0.conditionTitle == select.conditionTitle }) {
+                self.conditionList[index] = select
             }
         }
         self.tableView.reloadData()
@@ -110,6 +113,26 @@ class EConditionViewController: UIViewController {
     
     private func openBottomSheet(_ indexRow: Int) {
         self.bottomSheetView.isHidden = false
+        if self.conditionList[indexRow].conditionTitle == EligibilityList.age3_1 {
+            if let ageL = Int(self.conditionList[indexRow].age), ageL >= 40 {
+                self.selectedProgress = self.conditionList[indexRow].list1
+            } else {
+                self.selectedProgress = self.conditionList[indexRow].list
+            }
+        } else {
+            switch self.conditionList[indexRow].options {
+            case "B":
+                self.selectedProgress = self.conditionList[indexRow].list1
+                break
+            case "C":
+                self.selectedProgress = self.conditionList[indexRow].list2
+                break
+            default:
+                self.selectedProgress = self.conditionList[indexRow].list
+                break
+            }
+        }
+        self.collectionView.reloadData()
     }
 }
 
@@ -149,22 +172,26 @@ extension EConditionViewController: UITableViewDelegate {
             }
             if !self.conditionList[indexPath.row].isSelected0 {
                 self.conditionList[indexPath.row].isSelected0 = !self.conditionList[indexPath.row].isSelected0
-            } else if let index = self.selectedList.firstIndex(where: { $0.title == self.conditionList[indexPath.row].conditionTitle }) {
+                openBottomSheet(indexPath.row)
+            } else if let index = self.selectedList.firstIndex(where: { $0.conditionTitle == self.conditionList[indexPath.row].conditionTitle }) {
                 self.selectedList.remove(at: index)
             }
             self.conditionList[indexPath.row].isSelected0 = !self.conditionList[indexPath.row].isSelected0
             self.tableView.reloadRows(at: [indexPath], with: .none)
-            openBottomSheet(indexPath.row)
         }
     }
 }
 
 extension EConditionViewController: UICollectionViewDataSource {
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return 0
+        return self.selectedProgress.count
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        if let cell = collectionView.dequeueReusableCell(withReuseIdentifier: EConditionCollectionViewCell.identifier, for: indexPath) as? EConditionCollectionViewCell {
+            cell.configure(self.selectedProgress[indexPath.row])
+            return cell
+        }
         return UICollectionViewCell()
     }
 }
