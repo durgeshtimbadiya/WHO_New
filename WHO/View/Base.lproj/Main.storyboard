@@ -2,6 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="toj-qv-WED">
     <device id="retina6_5" orientation="portrait" appearance="light"/>
     <dependencies>
+        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
@@ -43,7 +44,7 @@
                                             <constraint firstAttribute="width" secondItem="IbX-fR-cdp" secondAttribute="height" multiplier="247:101" id="bch-gR-W7J"/>
                                         </constraints>
                                     </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Medical Eligibility Criteria for Contraceptive Use (India-adapted WHO MEC Wheel 2022)" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TCP-r7-I3k">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Medical Eligibility Criteria for Contraceptive Use (India-adapted WHO MEC Wheel 2022)" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="15" translatesAutoresizingMaskIntoConstraints="NO" id="TCP-r7-I3k">
                                         <rect key="frame" x="132.33333333333337" y="0.0" width="221.66666666666663" height="80"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="80" id="VCa-qH-fFb"/>
@@ -152,7 +153,7 @@
                                         <state key="normal" image="Home button"/>
                                         <state key="selected" image="ic_back_arrow"/>
                                     </button>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Conditions" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qM8-Ws-c7N">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Conditions" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="15" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="qM8-Ws-c7N">
                                         <rect key="frame" x="42.000000000000014" y="0.0" width="199.33333333333337" height="21.333333333333332"/>
                                         <fontDescription key="fontDescription" name="Roboto-Bold" family="Roboto" pointSize="18"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -221,7 +222,7 @@
                                         </constraints>
                                     </imageView>
                                     <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="5nX-8u-gAc">
-                                        <rect key="frame" x="0.0" y="0.0" width="414" height="752"/>
+                                        <rect key="frame" x="0.0" y="20" width="414" height="732"/>
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <prototypes>
                                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="singleCell" id="Sgu-ke-35n" customClass="HomeListTableViewCell" customModule="WHO" customModuleProvider="target">
@@ -246,7 +247,7 @@
                                                                         </imageView>
                                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="India-adapted MEC Wheel 2022" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Z4-Rf-GfW">
                                                                             <rect key="frame" x="53" y="18" width="275" height="18"/>
-                                                                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                                                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
                                                                             <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                             <nil key="highlightedColor"/>
                                                                         </label>
@@ -327,7 +328,7 @@
                                                                                         </imageView>
                                                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="India-adapted MEC Wheel 2022" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wpB-IW-dQY">
                                                                                             <rect key="frame" x="53" y="18" width="275" height="18"/>
-                                                                                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                                                                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
                                                                                             <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                                             <nil key="highlightedColor"/>
                                                                                         </label>
@@ -504,7 +505,7 @@
                                     <constraint firstAttribute="bottom" secondItem="5nX-8u-gAc" secondAttribute="bottom" constant="42" id="QUy-Ko-Z7z"/>
                                     <constraint firstAttribute="bottom" secondItem="PNp-pE-uIZ" secondAttribute="bottom" id="hqT-ML-k9t"/>
                                     <constraint firstAttribute="trailing" secondItem="5nX-8u-gAc" secondAttribute="trailing" id="lU8-vO-pJv"/>
-                                    <constraint firstItem="5nX-8u-gAc" firstAttribute="top" secondItem="e3K-Sj-weV" secondAttribute="top" id="npQ-ws-T5T"/>
+                                    <constraint firstItem="5nX-8u-gAc" firstAttribute="top" secondItem="e3K-Sj-weV" secondAttribute="top" constant="20" id="npQ-ws-T5T"/>
                                     <constraint firstAttribute="trailing" secondItem="PNp-pE-uIZ" secondAttribute="trailing" id="xfI-UH-14c"/>
                                 </constraints>
                                 <userDefinedRuntimeAttributes>
@@ -805,7 +806,7 @@
         <image name="search_green" width="18" height="18"/>
         <image name="upper_wheel_en" width="1807.5" height="1807.5"/>
         <systemColor name="systemRedColor">
-            <color red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>

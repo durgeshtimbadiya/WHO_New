@@ -100,10 +100,9 @@ class HomeListTableViewCell: UITableViewCell {
         if self.titleLabel != nil {
             self.titleLabel.text = title
             if title.contains("<sup><small>")/*, let position = cellData.conditionTitle.firstIndex(of: "<") */ {
-                titleLabel.attributedText = title.htmlToAttributedString
+                titleLabel.attributedText = title.htmlToAttributedString(SystemFont.semiBold14)
                 titleLabel.textAlignment = .left
-                titleLabel.font = UIFont.systemFont(ofSize: 14.0, weight: .semibold)
-
+//                titleLabel.font = UIFont.systemFont(ofSize: 14.0, weight: .semibold)
 //                self.titleLabel.attributedText = Core.setProunceVal(title, position: position)
             }
             titleLabel.sizeToFit()
@@ -120,10 +119,8 @@ class HomeListTableViewCell: UITableViewCell {
         if titleLabel != nil {
             titleLabel.text = cellData.conditionTitle
             if cellData.conditionTitle.contains("<sup><small>")/*, let position = cellData.conditionTitle.firstIndex(of: "<")*/ {
-                titleLabel.attributedText = cellData.conditionTitle.htmlToAttributedString
+                titleLabel.attributedText = cellData.conditionTitle.htmlToAttributedString(SystemFont.semiBold14)
                 titleLabel.textAlignment = .left
-                titleLabel.font = UIFont.systemFont(ofSize: 14.0, weight: .semibold)
-//                self.titleLabel.attributedText = Core.setProunceVal(cellData.conditionTitle, position: position)
             }
             titleLabel.sizeToFit()
         }
@@ -159,11 +156,9 @@ class HomeListTableViewCell: UITableViewCell {
     func configureConditionSelection(_ cellData: ConditionsModel, target: Any, selectors: [Selector], row: Int) {
         if titleLabel != nil {
             titleLabel.text = cellData.conditionTitle
-            if cellData.conditionTitle.contains("<sup><small>")/*, let position = cellData.conditionTitle.firstIndex(of: "<") */{
-                titleLabel.attributedText = cellData.conditionTitle.htmlToAttributedString
+            if cellData.conditionTitle.contains("<sup><small>") {
+                titleLabel.attributedText = cellData.conditionTitle.htmlToAttributedString(SystemFont.semiBold14)
                 titleLabel.textAlignment = .left
-                titleLabel.font =  UIFont.systemFont(ofSize: 14.0, weight: .semibold)
-//                self.titleLabel.attributedText = Core.setProunceVal(cellData.conditionTitle, position: position)
             }
             titleLabel.sizeToFit()
         }

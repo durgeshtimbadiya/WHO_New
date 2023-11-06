@@ -47,10 +47,10 @@ extension HowToWheelViewController: UITableViewDataSource {
         if let cell = tableView.dequeueReusableCell(withIdentifier: indexPath.row == 1 ? CustomTableViewCell.wheelCell : CustomTableViewCell.identifier, for: indexPath) as? CustomTableViewCell {
             
             if cell.subTitleLabel != nil {
-                cell.subTitleLabel.font = UIFont(name: "Roboto-Regular", size: 15.0)
+//                cell.subTitleLabel.font = UIFont(name: "Roboto-Regular", size: 15.0)
                 cell.subTitleLabel.attributedText = cellList[indexPath.row].htmlToAttributedString
                 cell.subTitleLabel.backgroundColor = .white
-                cell.subTitleLabel.textColor = .black
+//                cell.subTitleLabel.textColor = .black
             }
             if cell.titleLabel != nil {
                 cell.titleLabel.isHidden = false

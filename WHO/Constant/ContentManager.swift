@@ -114,7 +114,7 @@ class ContentManager : NSObject {
         ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: ProgestogenOnlyInjectables.content_29 ,bulletValue: ""))
         ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: false ,title: ProgestogenOnlyInjectables.title_30 ,content: "" ,bulletValue: ""))
         ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: ProgestogenOnlyInjectables.content_31 ,bulletValue: ""))
-        ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: ProgestogenOnlyInjectables.content_3 ,bulletValue: ""))
+        ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: ProgestogenOnlyInjectables.content_32 ,bulletValue: ""))
         
         
         var ImplantsList = [ContraceptualContentModel]()
@@ -632,7 +632,7 @@ class ContentManager : NSObject {
         postpartumBreastfeedingList.append(ConditionProgressModel(progressTitle:EligibilityList.dmpaNet ,progressValS:EligibilityList.num3 ,progressValueF:3 ,subTitle:EligibilityList.progestogenInjectables ,desc:EligibilityList.PostpartumBreastfeedingLess48 ,icon:"ic_3" ,isHTML:false ,contraceptualChoicesModel: contraceptiveList[3]))
         postpartumBreastfeedingList.append(ConditionProgressModel(progressTitle:EligibilityList.lngEtg ,progressValS:EligibilityList.num2 ,progressValueF:2 ,subTitle:EligibilityList.Implants ,desc:EligibilityList.PostpartumBreastfeedingLess48 ,icon:"ic_2" ,isHTML:false ,contraceptualChoicesModel: contraceptiveList[4]))
         postpartumBreastfeedingList.append(ConditionProgressModel(progressTitle:EligibilityList.lngIud ,progressValS:EligibilityList.ProgressVal41_6 ,progressValueF:2 ,subTitle:EligibilityList.levonorgestrelIUD ,desc:EligibilityList.PostpartumBreastfeedingLess48 ,icon:"ic_2_v" ,isHTML:true ,contraceptualChoicesModel: contraceptiveList[5]))
-        postpartumBreastfeedingList.append(ConditionProgressModel(progressTitle:EligibilityList.cuIucd ,progressValS:EligibilityList.ProgressVal41_7 ,progressValueF:2 ,subTitle:EligibilityList.copperIntrauterineDevice ,desc:EligibilityList.PostpartumBreastfeedingLess48 ,icon:"ic_2_v" ,isHTML:true ,contraceptualChoicesModel: contraceptiveList[6]))
+        postpartumBreastfeedingList.append(ConditionProgressModel(progressTitle:EligibilityList.cuIucd ,progressValS:EligibilityList.ProgressVal41_7 ,progressValueF:1 ,subTitle:EligibilityList.copperIntrauterineDevice ,desc:EligibilityList.PostpartumBreastfeedingLess48 ,icon:"ic_2_v" ,isHTML:true ,contraceptualChoicesModel: contraceptiveList[6]))
         
         var postpartumBreastfeedingList1 = [ConditionProgressModel]()
         

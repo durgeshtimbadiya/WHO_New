@@ -46,11 +46,15 @@ class ProgressViewTableViewCell: UITableViewCell {
             titleLabel.sizeToFit()
         }
         if subTitleLabel != nil {
-            subTitleLabel.text = cellData.subTitle
+            subTitleLabel.text = cellData.progressTitle
             subTitleLabel.sizeToFit()
         }
         if descriptionLabel != nil {
             descriptionLabel.text = cellData.desc
+            if cellData.desc.contains("<sup><small>")/*, let position = cellData.conditionTitle.firstIndex(of: "<")*/ {
+                descriptionLabel.attributedText = cellData.desc.htmlToAttributedString(SystemFont.regular13)
+                descriptionLabel.textAlignment = .left
+            }
             descriptionLabel.sizeToFit()
         }
         if arrowImageView != nil {
@@ -138,15 +142,16 @@ class ProgressViewTableViewCell: UITableViewCell {
         
         if progTitleLabel1 != nil {
             if cellData.isHTML {
-                progTitleLabel1.attributedText = cellData.progressValS.htmlToAttributedString
+                progTitleLabel1.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.bold15)
+
                 progTitleLabel1.textAlignment = .center
-                progTitleLabel1.font = UIFont.boldSystemFont(ofSize: 15.0)
+//                progTitleLabel1.font = UIFont.boldSystemFont(ofSize: 15.0)
             } else {
                 progTitleLabel1.text = cellData.progressValS
                 if cellData.progressValS.contains("<sup><small>") {
-                    progTitleLabel1.attributedText = cellData.progressValS.htmlToAttributedString
+                    progTitleLabel1.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.bold15)
                     progTitleLabel1.textAlignment = .center
-                    progTitleLabel1.font = UIFont.boldSystemFont(ofSize: 15.0)
+//                    progTitleLabel1.font = UIFont.boldSystemFont(ofSize: 15.0)
                 }
             }
             progTitleLabel1.sizeToFit()
@@ -154,15 +159,15 @@ class ProgressViewTableViewCell: UITableViewCell {
         
         if progTitleLabel2 != nil {
             if cellData.isHTML {
-                progTitleLabel2.attributedText = cellData.progressValS.htmlToAttributedString
+                progTitleLabel2.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.bold15)
                 progTitleLabel2.textAlignment = .center
-                progTitleLabel2.font = UIFont.boldSystemFont(ofSize: 15.0)
+//                progTitleLabel2.font = UIFont.boldSystemFont(ofSize: 15.0)
             } else {
                 progTitleLabel2.text = cellData.progressValS
                 if cellData.progressValS.contains("<sup><small>") {
-                    progTitleLabel2.attributedText = cellData.progressValS.htmlToAttributedString
+                    progTitleLabel2.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.bold15)
                     progTitleLabel2.textAlignment = .center
-                    progTitleLabel2.font = UIFont.boldSystemFont(ofSize: 15.0)
+//                    progTitleLabel2.font = UIFont.boldSystemFont(ofSize: 15.0)
                 }
             }
             progTitleLabel2.sizeToFit()

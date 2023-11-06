@@ -43,41 +43,17 @@ class ConditionsDetailViewController: UIViewController {
     func setDetailData() {
         mainView.backgroundColor = UIColor(displayP3Red: 241.0 / 255.0, green: 241.0 / 255.0, blue: 241.0 / 255.0, alpha: 1.0)
         conditionList = [ConditionNoteModel]()
-        let desc1 = ConditionsListString.beforeDescrip1 + ConditionsListString.detailDesc1_1
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_2
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_3
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_4
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_5
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_6
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_7
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_8
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_9
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_10
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc1_11
         
-        let desc2 = ConditionsListString.beforeDescrip1 + ConditionsListString.detailDesc2_1
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_2
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_3
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_4
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_5
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_6
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_7
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_8
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_9
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_10
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc2_11
+        let descList1: [String] = [ConditionsListString.detailDesc1_1, ConditionsListString.detailDesc1_2, ConditionsListString.detailDesc1_3, ConditionsListString.detailDesc1_4, ConditionsListString.detailDesc1_5, ConditionsListString.detailDesc1_6, ConditionsListString.detailDesc1_7, ConditionsListString.detailDesc1_8, ConditionsListString.detailDesc1_9, ConditionsListString.detailDesc1_10, ConditionsListString.detailDesc1_11]
         
-        let desc3 = ConditionsListString.beforeDescrip1 + ConditionsListString.detailDesc3_1
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc3_2
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc3_3
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc3_4
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc3_5
-        + ConditionsListString.beforeDescrip + ConditionsListString.detailDesc3_6
+        let descList2: [String] = [ConditionsListString.detailDesc2_1, ConditionsListString.detailDesc2_2, ConditionsListString.detailDesc2_3, ConditionsListString.detailDesc2_4, ConditionsListString.detailDesc2_5, ConditionsListString.detailDesc2_6, ConditionsListString.detailDesc2_7, ConditionsListString.detailDesc2_8, ConditionsListString.detailDesc2_9, ConditionsListString.detailDesc2_10, ConditionsListString.detailDesc2_11]
         
-        conditionList.append(ConditionNoteModel(image: ConditionsListString.detailImg1, title: ConditionsListString.detailTitle1, description: desc1))
-        conditionList.append(ConditionNoteModel(image: ConditionsListString.detailImg2, title: ConditionsListString.detailTitle2, description: desc2))
-        conditionList.append(ConditionNoteModel(image: ConditionsListString.detailImg3, title: ConditionsListString.detailTitle3, description: desc3))
-        conditionList.append(ConditionNoteModel(image: ConditionsListString.detailImg4, title: ConditionsListString.detailTitle4, description: "\n" + ConditionsListString.detailDesc4_1))
+        let descList3: [String] = [ConditionsListString.detailDesc3_1, ConditionsListString.detailDesc3_2, ConditionsListString.detailDesc3_3, ConditionsListString.detailDesc3_4, ConditionsListString.detailDesc3_5, ConditionsListString.detailDesc3_6]
+        
+        conditionList.append(ConditionNoteModel(image: ConditionsListString.detailImg1, title: ConditionsListString.detailTitle1, descList: descList1))
+        conditionList.append(ConditionNoteModel(image: ConditionsListString.detailImg2, title: ConditionsListString.detailTitle2, descList: descList2))
+        conditionList.append(ConditionNoteModel(image: ConditionsListString.detailImg3, title: ConditionsListString.detailTitle3, descList: descList3))
+        conditionList.append(ConditionNoteModel(image: ConditionsListString.detailImg4, title: ConditionsListString.detailTitle4, description: "", descList: [ConditionsListString.detailDesc4_1]))
         self.tableView.reloadData()
     }
     
@@ -134,7 +110,7 @@ extension ConditionsDetailViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         if isCondition {
             if let cell = tableView.dequeueReusableCell(withIdentifier: conditionIndex == 0 ? (expandIndex == indexPath.row ? ConditionsTableViewCell.expandCell : ConditionsTableViewCell.singleCell) : ConditionsTableViewCell.textCell, for: indexPath) as? ConditionsTableViewCell {
-                cell.configure(conditionList[indexPath.row], target: self, selector: #selector(tapOnExpand(_:)), row: indexPath.row)
+                cell.configure(conditionList[indexPath.row], target: self, selector: #selector(tapOnExpand(_:)), row: indexPath.row, isLast: self.conditionList.count - 1 == indexPath.row)
                 return cell
             }
         } else {

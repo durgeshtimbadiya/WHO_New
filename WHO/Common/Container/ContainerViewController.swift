@@ -101,7 +101,7 @@ open class ContainerViewController: UIViewController {
         self.contentScrollView?.scrollsToTop = false
         self.view.addSubview(self.contentScrollView!)
         
-        self.contentScrollView?.contentSize = CGSize(width: (self.contentScrollView?.frame.width)! * CGFloat( self.childControllers.count), height: (self.contentScrollView?.frame.height)!)
+        self.contentScrollView?.contentSize = CGSize(width: (self.contentScrollView?.frame.width)!, height: (self.contentScrollView?.frame.height)!)
         
         for index in 0..<self.childControllers.count {
             let obj = self.childControllers.object(at: index)
@@ -148,7 +148,7 @@ open class ContainerViewController: UIViewController {
        
         self.contentScrollView?.frame = CGRect(x: 0, y: topBarHeight! + menuViewHeight, width: self.view.frame.size.width, height: self.view.frame.size.height - topBarHeight! - menuViewHeight - bottomHeight)
 
-        self.contentScrollView?.contentSize = CGSize(width: (self.contentScrollView?.frame.width)! * CGFloat( self.childControllers.count), height: (self.contentScrollView?.frame.height)!)
+        self.contentScrollView?.contentSize = CGSize(width: (self.contentScrollView?.frame.width)!, height: (self.contentScrollView?.frame.height)!)
 
         for index in 0..<self.childControllers.count {
             let obj = self.childControllers.object(at: index)

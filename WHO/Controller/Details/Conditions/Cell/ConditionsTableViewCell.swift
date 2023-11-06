@@ -21,10 +21,14 @@ class ConditionsTableViewCell: UITableViewCell {
     @IBOutlet weak var imageViewV: UIImageView!
     @IBOutlet weak var cellButton: UIButton!
     @IBOutlet weak var descLabel: UILabel!
+    @IBOutlet weak var dotLabel: UILabel!
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var tableViewHeight: NSLayoutConstraint!
     
     private var pointsList = [PointValueModel]()
+    private var descriptionList = [String]()
+    private var isDescription = false
+    private var isLastRow = false
 
     override func awakeFromNib() {
         super.awakeFromNib()
@@ -38,7 +42,8 @@ class ConditionsTableViewCell: UITableViewCell {
         // Configure the view for the selected state
     }
     
-    func configure(_ cellData: ConditionNoteModel, target: Any, selector: Selector, row: Int) {
+    func configure(_ cellData: ConditionNoteModel, target: Any, selector: Selector, row: Int, isLast: Bool) {
+        isLastRow = isLast
         if titleLabel != nil {
             titleLabel.text = cellData.title
             titleLabel.sizeToFit()
@@ -57,6 +62,20 @@ class ConditionsTableViewCell: UITableViewCell {
         }
         if imageViewV != nil {
             imageViewV.image = UIImage(named: cellData.image)
+        }
+        if tableView != nil {
+            isDescription = true
+            descriptionList = cellData.descList
+            self.tableView.reloadData()
+            self.tableView.alwaysBounceVertical = false
+            self.tableView.alwaysBounceHorizontal = false
+            
+            if tableViewHeight != nil {
+                tableViewHeight.constant = self.tableView.contentSize.height
+            }
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
+                self.tableView.reloadData()
+            }
         }
     }
     
@@ -87,6 +106,10 @@ class ConditionsTableViewCell: UITableViewCell {
         }
         if descLabel != nil {
             descLabel.text = cellData.description
+            if cellData.description.contains("<sup><small>"){
+                descLabel.attributedText = cellData.description.htmlToAttributedString(SystemFont.regular13)
+                descLabel.textAlignment = .left
+            }
             descLabel.sizeToFit()
         }
         if cellButton != nil {
@@ -100,8 +123,12 @@ class ConditionsTableViewCell: UITableViewCell {
             tableViewHeight.constant = 587.0
         }
         if tableView != nil {
+            isDescription = false
             self.pointsList = cellData.list
             self.tableView.reloadData()
+            self.tableView.alwaysBounceVertical = false
+            self.tableView.alwaysBounceHorizontal = false
+            
             if tableViewHeight != nil {
                 tableViewHeight.constant = self.tableView.contentSize.height
             }
@@ -116,6 +143,10 @@ class ConditionsTableViewCell: UITableViewCell {
     func configurePoint(_ cellData: PointValueModel) {
         if titleLabel != nil {
             titleLabel.text = cellData.point
+            if cellData.point.contains("<sup><small>"){
+                titleLabel.attributedText = cellData.point.htmlToAttributedString(SystemFont.regular14)
+                titleLabel.textAlignment = .left
+            }
             titleLabel.sizeToFit()
         }
         if descLabel != nil {
@@ -123,16 +154,30 @@ class ConditionsTableViewCell: UITableViewCell {
             descLabel.sizeToFit()
         }
     }
+    
+    func configureDescription(_ cellData: String) {
+        if descLabel != nil {
+            descLabel.text = cellData
+            descLabel.sizeToFit()
+        }
+    }
 }
 
 extension ConditionsTableViewCell: UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return self.pointsList.count
+        return isDescription ? self.descriptionList.count : self.pointsList.count
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         if let cell = tableView.dequeueReusableCell(withIdentifier: ConditionsTableViewCell.addSubCell, for: indexPath) as? ConditionsTableViewCell {
-            cell.configurePoint(self.pointsList[indexPath.row])
+            if isDescription {
+                cell.configureDescription(self.descriptionList[indexPath.row])
+                if cell.dotLabel != nil {
+                    cell.dotLabel.isHidden = isLastRow
+                }
+            } else {
+                cell.configurePoint(self.pointsList[indexPath.row])
+            }
             return cell
         }
         return UITableViewCell()

@@ -59,15 +59,16 @@ class EConditionCollectionViewCell: UICollectionViewCell {
         }
         if subtitleLabel != nil {
             if cellData.isHTML {
-                subtitleLabel.attributedText = cellData.progressValS.htmlToAttributedString
+                subtitleLabel.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.bold15)
                 subtitleLabel.textAlignment = .center
-                subtitleLabel.font = UIFont.boldSystemFont(ofSize: 15.0)
+//                subtitleLabel.font = UIFont.boldSystemFont(ofSize: 15.0)
             } else {
                 subtitleLabel.text = cellData.progressValS
                 if cellData.progressValS.contains("<sup><small>") /*, let position = cellData.progressValS.firstIndex(of: "<")*/ {
-                    subtitleLabel.attributedText = cellData.progressValS.htmlToAttributedString
+//                    subtitleLabel.attributedText = cellData.progressValS.htmlToAttributedString
+                    subtitleLabel.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.bold15)
                     subtitleLabel.textAlignment = .center
-                    subtitleLabel.font = UIFont.boldSystemFont(ofSize: 15.0)
+//                    subtitleLabel.font = UIFont.boldSystemFont(ofSize: 15.0)
 //                    self.subtitleLabel.attributedText = Core.setProunceVal(cellData.progressValS, position: position)
                 }
             }

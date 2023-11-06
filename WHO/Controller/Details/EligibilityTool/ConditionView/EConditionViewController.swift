@@ -37,6 +37,40 @@ class EConditionViewController: UIViewController {
 //        containerView.layer.masksToBounds = true
 //        containerView.layer.cornerRadius = 25.0
 //        containerView.layer.maskedCorners = [.layerMinXMinYCorner, .layerMaxXMinYCorner]
+        
+        let swipeDown = UISwipeGestureRecognizer(target: self, action: #selector(respondToSwipeGesture))
+        swipeDown.direction = .down
+        self.bottomSheetView.addGestureRecognizer(swipeDown)
+        
+        let swipeUp = UISwipeGestureRecognizer(target: self, action: #selector(respondToSwipeGesture))
+        swipeUp.direction = .up
+        self.bottomSheetView.addGestureRecognizer(swipeUp)
+    }
+    
+    @objc func respondToSwipeGesture(gesture: UIGestureRecognizer) {
+        if let swipeGesture = gesture as? UISwipeGestureRecognizer {
+
+            switch swipeGesture.direction {
+            case .right:
+                print("Swiped right")
+            case .down:
+//                print("Swiped down")
+                UIView.transition(with: self.collectionView, duration: 0.2, options: .transitionCrossDissolve,
+                                  animations: {
+                    self.collectionView.isHidden = true
+                })
+            case .left:
+                print("Swiped left")
+            case .up:
+//                print("Swiped up")
+                UIView.transition(with: self.collectionView, duration: 0.2, options: .transitionCrossDissolve,
+                                  animations: {
+                    self.collectionView.isHidden = false
+                })
+            default:
+                break
+            }
+        }
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -64,6 +98,7 @@ class EConditionViewController: UIViewController {
             self.conditionList[sender.tag].isSelected2 = false
             self.conditionList[sender.tag].options = ""
             self.selectedList.remove(at: index)
+            self.bottomSheetView.isHidden = self.selectedList.count <= 0
         }
         self.tableView.reloadRows(at: [IndexPath(row: sender.tag, section: 0)], with: .none)
     }
@@ -77,17 +112,42 @@ class EConditionViewController: UIViewController {
     
     @objc func tapOnOptions(_ sender: UIButton) {
         if let selectedInd = sender.layer.value(forKey: "SelectedOptionIndex") as? Int {
-            self.conditionList[sender.tag].isSelected = selectedInd == 0
-            self.conditionList[sender.tag].isSelected1 = selectedInd == 1
-            self.conditionList[sender.tag].isSelected2 = selectedInd == 2
-            self.conditionList[sender.tag].options = selectedInd == 0 ? "A" : (selectedInd == 1 ? "B" : "C")
+            switch selectedInd {
+            case 0:
+                self.conditionList[sender.tag].isSelected = !self.conditionList[sender.tag].isSelected
+                self.conditionList[sender.tag].isSelected1 = false
+                self.conditionList[sender.tag].isSelected2 = false
+                break
+            case 1:
+                self.conditionList[sender.tag].isSelected = false
+                self.conditionList[sender.tag].isSelected1 = !self.conditionList[sender.tag].isSelected1
+                self.conditionList[sender.tag].isSelected2 = false
+                break
+            case 2:
+                self.conditionList[sender.tag].isSelected = false
+                self.conditionList[sender.tag].isSelected1 = false
+                self.conditionList[sender.tag].isSelected2 = !self.conditionList[sender.tag].isSelected2
+                break
+            default:
+                break
+            }
             
-            if !self.selectedList.contains(where: { $0.conditionTitle == self.conditionList[sender.tag].conditionTitle }) {
-                self.addIntoSelected(sender.tag)
+            self.conditionList[sender.tag].options = self.conditionList[sender.tag].isSelected ? "A" : (self.conditionList[sender.tag].isSelected1 ? "B" : (self.conditionList[sender.tag].isSelected2 ? "C" : ""))
+            
+            if (self.conditionList[sender.tag].isSelected || self.conditionList[sender.tag].isSelected1 || self.conditionList[sender.tag].isSelected2) {
+                if !self.selectedList.contains(where: { $0.conditionTitle == self.conditionList[sender.tag].conditionTitle }) {
+                   self.addIntoSelected(sender.tag)
+               }
+            } else if let index = self.selectedList.firstIndex(where: { $0.conditionTitle == self.conditionList[sender.tag].conditionTitle }) {
+                self.selectedList.remove(at: index)
             }
         }
         self.tableView.reloadRows(at: [IndexPath(row: sender.tag, section: 0)], with: .none)
-        openBottomSheet(sender.tag)
+        if self.selectedList.count > 0 {
+            openBottomSheet(sender.tag)
+        } else {
+            self.bottomSheetView.isHidden = true
+        }
     }
     
     private func addIntoSelected(_ rowIndex: Int) {
@@ -166,16 +226,17 @@ extension EConditionViewController: UITableViewDelegate {
             }
             self.tableView.reloadRows(at: [indexPath], with: .none)
         } else {
-            if self.selectedList.count > 2 {
-                Toast.show(ConditionList.warningECondMessage)
-                return
-            }
             if !self.conditionList[indexPath.row].isSelected0 {
-                self.conditionList[indexPath.row].isSelected0 = !self.conditionList[indexPath.row].isSelected0
+                if self.selectedList.count > 2 {
+                    Toast.show(ConditionList.warningECondMessage)
+                    return
+                }
+                self.addIntoSelected(indexPath.row)
                 openBottomSheet(indexPath.row)
             } else if let index = self.selectedList.firstIndex(where: { $0.conditionTitle == self.conditionList[indexPath.row].conditionTitle }) {
                 self.selectedList.remove(at: index)
             }
+            self.bottomSheetView.isHidden = self.selectedList.count <= 0
             self.conditionList[indexPath.row].isSelected0 = !self.conditionList[indexPath.row].isSelected0
             self.tableView.reloadRows(at: [indexPath], with: .none)
         }

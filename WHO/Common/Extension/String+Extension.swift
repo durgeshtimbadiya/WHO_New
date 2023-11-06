@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 extension String {
     func localizeString() -> String { //en, as-IN, bn-IN, gu-IN, hi-IN, kn-IN, ml-IN, or-IN, pa-IN, ta-IN, te-IN,
@@ -13,6 +14,14 @@ extension String {
             return NSLocalizedString(self, tableName: nil, bundle: bundle, value: "", comment: "")
         }
         return self
+    }
+    
+    func htmlToAttributedString(_ font: UIFont) -> NSAttributedString? {
+        do {
+            return try NSAttributedString(htmlString: self, font: font, useDocumentFontSize: false)
+        } catch {
+            return self.htmlToAttributedString
+        }
     }
     
     var htmlToAttributedString: NSAttributedString? {

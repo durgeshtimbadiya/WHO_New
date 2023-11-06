@@ -158,7 +158,7 @@ struct ConditionsListString {
     static let detailDesc1_10 = "Post-abortion (no sepsis)".localizeString()
     static let detailDesc1_11 = "Postpartum ≥ 6 months".localizeString()
     static let beforeDescrip = "\n\n● "
-    static let beforeDescrip1 = "\n● "
+    static let beforeDescrip1 = ""
 
     static let detailDesc2_1 = "Depression".localizeString()
     static let detailDesc2_2 = "Epilepsy".localizeString()
@@ -236,7 +236,7 @@ struct AdditionalInfoString {
     static let detailDesPoint1_1 = "Pregnancy.".localizeString()
     static let detailDesPoint1_2 = "Breastfeeding.".localizeString()
     static let detailDesPoint1_3 = "Past ectopic pregnancy.".localizeString()
-    static let detailDesPoint1_4 = "Obesity* (BMI ≥ 30 kg/m2).".localizeString()
+    static let detailDesPoint1_4 = "Obesity* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>).".localizeString()
     static let detailDesPoint1_5 = "History of severe cardiovascular disease, (ischaemic heart disease, cerebrovascular attack, or other thromboembolic conditions).".localizeString()
     static let detailDesPoint1_6 = "Migraine.".localizeString()
     static let detailDesPoint1_7 = "Severe liver disease (including jaundice).".localizeString()
@@ -266,7 +266,7 @@ struct AdditionalInfoString {
     static let detailDesVal4_3 = "3".localizeString()
     static let detailDesVal4_4 = "1".localizeString()
 
-    static let mainContent = "NA = not applicable\n\n*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m2 than among women with < 25 kg/m.\n\nDespite this, there are no safety concerns."
+    static let mainContent = "NA = not applicable<br><br>*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> than among women with < 25 kg/m<sup><small><small>2</small></small></sup>.<br><br>Despite this, there are no safety concerns."
 }
 
 struct Alphabet {
@@ -311,7 +311,7 @@ struct EffectivenessString {
     static let imageTitle1_3 = "IUD".localizeString()
     static let imageTitle1_4 = "Vasectomy".localizeString()
     static let content1_1 = "Implants, IUD, female sterilization:\nAfter procedure, little or nothing to do or remember.".localizeString()
-    static let content1_2 = "Vasectomy: Use another method for first 3 months.".localizeString()
+    static let content1_2 = "Vasectomy:\nUse another method for first 3 months.".localizeString()
     
     static let image2_1 = "ic_injection_1".localizeString()
     static let image2_2 = "ic_patch_ring".localizeString()
@@ -322,7 +322,7 @@ struct EffectivenessString {
     static let imageTitle2_3 = "LAM".localizeString()
     static let imageTitle2_4 = "Pills".localizeString()
     
-    static let content2_1 = "Injectables:\nGet repeat injections on time.\n\n".localizeString()
+    static let content2_1 = "Injectables:\nGet repeat injections on time.".localizeString()
     static let content2_2 = "Lactational amenorrhea method, LAM (for 6 months): The baby is fully or near fully breastfed.\n\nTo maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breast-feeds is reduced, bottle feeds are introduced or the baby reaches 6 months of age.".localizeString()
     static let content2_3 = "Pills: Take a hormonal pill daily and non-hormonal pills weekly (as scheduled).".localizeString()
     static let content2_4 = "Patch, ring: Keep in place, change on time.".localizeString()

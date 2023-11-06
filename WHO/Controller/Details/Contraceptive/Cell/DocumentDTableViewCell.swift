@@ -57,7 +57,7 @@ class DocumentDTableViewCell: UITableViewCell {
             progressMainView.isHidden = cellData.progresscontent
         }
         if progressTitle != nil {
-            progressTitle.text = "\(cellData.progressPercent)%"
+            progressTitle.text = cellData.progressVal
         }
         if progress1Content != nil {
             progress1Content.text = cellData.progressTitle
@@ -66,9 +66,9 @@ class DocumentDTableViewCell: UITableViewCell {
         if progress2Content != nil {
             progress2Content.isHidden = !cellData.progresscontent
             progress2Content.attributedText = cellData.progressVal.htmlToAttributedString
-            progress2Content.textAlignment = .left
-            progress2Content.font = UIFont.systemFont(ofSize: 14.0)
-            progress2Content.sizeToFit()
+//            progress2Content.textAlignment = .left
+//            progress2Content.font = UIFont.systemFont(ofSize: 14.0)
+//            progress2Content.sizeToFit()
         }
         
     

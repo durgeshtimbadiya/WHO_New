@@ -124,13 +124,13 @@ struct CombinedHarmonal {
     
     static let content_11 = "Start CHC if it is reasonably certain that the women is not pregnant. Abstain from sex or use additional contraceptive protection for the next 7 days.".localizeString()
     
-    static let title_12 = "Postpartum (breastfeeding)*".localizeString()
+    static let title_12 = "Postpartum (breastfeeding)".localizeString()
     
     static let content_13 = "If she is less than 6 months postpartum, CHC are generally not advised (category 3 or 4).".localizeString()
     
     static let content_14 = "If she is more than 6 months postpartum, follow advice for non-postpartum women.".localizeString()
     
-    static let title_15 = "Postpartum (non-breastfeeding)*".localizeString()
+    static let title_15 = "Postpartum (non-breastfeeding)".localizeString()
     
     static let content_16 = "If her menstrual cycles have not returned and she is 21 or more days postpartum, she can start CHC immediately, if it is reasonably certain that she is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days.".localizeString()
     
@@ -537,7 +537,7 @@ struct InformationList {
     
     static let Value3 = "1".localizeString()
     
-    static let Points4 = "Obesity* (BMI ≥ 30 kg/m<sup><small><small><strong>2</strong></small></small></sup>).".localizeString()
+    static let Points4 = "Obesity* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>).".localizeString()
     
     static let Value4 = "1".localizeString()
     
@@ -585,7 +585,7 @@ struct InformationList {
     
     static let Value15 = "1".localizeString()
     
-    static let Points16 = "Obesity* (BMI ≥ 30 kg/m<sup><small><small><strong>2</strong></small></small></sup>).".localizeString()
+    static let Points16 = "Obesity* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>).".localizeString()
     
     static let Value16 = "1".localizeString()
     
@@ -847,7 +847,7 @@ struct ContraceptiveList{
     static let IssueName8 = "STI prevention".localizeString()
     static let IssueName08 = "No hormone".localizeString()
     static let ProgressTitle8 = "Effectiveness to prevent pregnancy".localizeString()
-    static let Desc8 = "Male condoms\n Female condoms\n Diaphragm\n Spermicide\n".localizeString()
+    static let Desc8 = "Male condoms\nFemale condoms\nDiaphragm\nSpermicide\n".localizeString()
     static let HowItWork8 = "Forms a barrier to prevent sperm and egg from meeting.".localizeString()
     static let ProgressVal8 = "85".localizeString()
 
@@ -1046,7 +1046,7 @@ struct EligibilityList {
     "</small></small></sup>".localizeString()
     static let ProgressVal20_7 = "3-4<sup><strong><small>U</small></strong></sup>".localizeString()
     static let ProgressVal22r23_3456r1 = "2-3<sup><small><small>P</small></small></sup>".localizeString()
-    static let conditionTitle24_1 = "Headache<sup><small><small>N</small></small></sup>".localizeString()
+    static let conditionTitle24_1 = "<strong>Headache</strong><sup><small><small>N</small></small></sup>".localizeString()
     static let checkboxContent24_1 = "Migraine with aura°".localizeString()
     static let checkboxContent24_2 = "Migraine without aura°".localizeString()
     static let conditionTitle27_1 = "Hypertension".localizeString()
@@ -1073,7 +1073,7 @@ struct EligibilityList {
     static let checkboxContent44_3 = "6 weeks–6 months".localizeString()
     static let ProgressVal49_1 = "3<sup><small><small>M</small></small></sup>".localizeString()
     static let ProgressVal51_6r7 = "4<sup><small><small>E</small></small></sup>".localizeString()
-    static let conditionTitle53_1 = "STIs/RTIs<sup><small><small>F</small></small></sup>".localizeString()
+    static let conditionTitle53_1 = "<strong>STIs/RTIs</strong><sup><small><small>F</small></small></sup>".localizeString()
     static let checkboxContent53_1 = "Purulent discharge".localizeString()
     static let checkboxContent53_2 = "Non-purulent discharge & individual with high risk".localizeString()
     static let ProgressVal54_1 = "2-3<sup><small><small>I</small></small></sup>".localizeString()

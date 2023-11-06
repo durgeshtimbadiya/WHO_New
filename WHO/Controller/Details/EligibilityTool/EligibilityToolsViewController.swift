@@ -99,8 +99,8 @@ class EligibilityToolsViewController: UIViewController {
         if let contaninerVC = containerVC {
             contaninerVC.menuItemFont = UIFont.systemFont(ofSize: 16.0)
             contaninerVC.menuBackGroudColor = UIColor(hexString: "#D6E2DD")
-            contaninerVC.menuWidth = (self.containerView.frame.size.width / 2.0) - 5.0
-            contaninerVC.menuViewWidth = self.containerView.frame.size.width
+            contaninerVC.menuWidth = (UIScreen.main.bounds.size.width / 2.0) - 5.0
+            contaninerVC.menuViewWidth = UIScreen.main.bounds.size.width
             
             contaninerVC.delegate = self
             contaninerVC.menuIndicatorColor = .clear // UIColor(hexString: "#22CF80") // Green color

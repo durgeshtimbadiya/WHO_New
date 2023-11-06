@@ -120,7 +120,7 @@ extension ConditionsListViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         if let cell = tableView.dequeueReusableCell(withIdentifier: isConditions ? ConditionsTableViewCell.singleCell : ConditionsTableViewCell.addListCell, for: indexPath) as? ConditionsTableViewCell {
             if isConditions {
-                cell.configure(conditionList[indexPath.row], target: self, selector: Selector(("methodname")), row: indexPath.row)
+                cell.configure(conditionList[indexPath.row], target: self, selector: Selector(("methodname")), row: indexPath.row, isLast: false)
             } else {
                 cell.configureAdditional(additionalList[indexPath.row])
             }

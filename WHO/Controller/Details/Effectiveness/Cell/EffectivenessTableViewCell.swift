@@ -69,7 +69,7 @@ class EffectivenessTableViewCell: UITableViewCell {
         }
         if imagePerc2 != nil {
             imagePerc2.text = cellData.imagePerc2
-            imagePerc3.sizeToFit()
+            imagePerc2.sizeToFit()
         }
         if imagePerc3 != nil {
             imagePerc3.text = cellData.imagePerc3
