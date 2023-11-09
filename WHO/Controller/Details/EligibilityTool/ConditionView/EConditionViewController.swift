@@ -98,8 +98,8 @@ class EConditionViewController: UIViewController {
             self.conditionList[sender.tag].isSelected2 = false
             self.conditionList[sender.tag].options = ""
             self.selectedList.remove(at: index)
-            self.bottomSheetView.isHidden = self.selectedList.count <= 0
         }
+        self.bottomSheetView.isHidden = self.selectedList.count <= 0
         self.tableView.reloadRows(at: [IndexPath(row: sender.tag, section: 0)], with: .none)
     }
    

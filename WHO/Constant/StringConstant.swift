@@ -266,7 +266,7 @@ struct AdditionalInfoString {
     static let detailDesVal4_3 = "3".localizeString()
     static let detailDesVal4_4 = "1".localizeString()
 
-    static let mainContent = "NA = not applicable<br><br>*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> than among women with < 25 kg/m<sup><small><small>2</small></small></sup>.<br><br>Despite this, there are no safety concerns."
+    static let mainContent = "NA = not applicable<br><br>*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbspthan among women with < 25 kg/m<sup><small><small>2</small></small></sup>.<br><br>Despite this, there are no safety concerns."
 }
 
 struct Alphabet {
@@ -299,7 +299,7 @@ struct Alphabet {
 }
 
 struct EffectivenessString {
-    static let title = "Comparing Effectiveness of Family Planning Method "
+    static let title = "Comparing Effectiveness of\nFamily Planning Method "
     static let description = "(Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method)."
     
     static let image1_1 = "ic_implants_1".localizeString()

@@ -25,4 +25,75 @@ class Core: NSObject {
         
         return attributeStr
     }
+    
+    public static func setPowerAttributes(_ string: String, font: UIFont, isBold: Bool, smallFont: UIFont) -> NSAttributedString? {
+        var stringOptions = string.components(separatedBy: "<sup><small><small>")
+        let attStr = NSMutableAttributedString()
+        if stringOptions.count > 0 {
+            if isBold {
+                stringOptions[0] = "<strong>\(stringOptions[0])</strong>"
+            }
+            if let att = stringOptions[0].htmlToAttributedString(font) {
+                attStr.append(att)
+            }
+        } else {
+            return string.htmlToAttributedString(font)
+        }
+        for i in 1..<stringOptions.count {
+            var strOpt1 = stringOptions[i].components(separatedBy: "</small></small></sup>")
+            if strOpt1.count > 1, !strOpt1[1].isEmpty {
+                strOpt1[0] = "<sup><small><small>" + strOpt1[0] + "</small></small></sup>"
+                if isBold {
+                    strOpt1[0] = "<strong>\(strOpt1[0])</strong>"
+                }
+                if let att1 = strOpt1[0].htmlToAttributedString(smallFont) {
+                    attStr.append(att1)
+                }
+                
+                if isBold {
+                    strOpt1[1] = "<strong>\(strOpt1[1])</strong>"
+                }
+                if let att = strOpt1[1].htmlToAttributedString(font) {
+                    attStr.append(att)
+                }
+            } else {
+                stringOptions[i] = "<sup><small><small>" + stringOptions[i]
+                if isBold {
+                    stringOptions[i] = "<strong>\(stringOptions[i])</strong>"
+                }
+                if let att1 = stringOptions[i].htmlToAttributedString(smallFont) {
+                    attStr.append(att1)
+                }
+            }
+        }
+//        if stringOptions.count > 1 {
+//            var strOpt1 = stringOptions[1].components(separatedBy: "</small></small></sup>")
+//            if strOpt1.count > 1, !strOpt1[1].isEmpty {
+//                strOpt1[0] = "<sup><small><small>" + strOpt1[0] + "</small></small></sup>"
+//                if isBold {
+//                    strOpt1[0] = "<strong>\(strOpt1[0])</strong>"
+//                }
+//                if let att1 = strOpt1[0].htmlToAttributedString(smallFont) {
+//                    attStr.append(att1)
+//                }
+//                
+//                if isBold {
+//                    strOpt1[1] = "<strong>\(strOpt1[1])</strong>"
+//                }
+//                if let att = strOpt1[1].htmlToAttributedString(font) {
+//                    attStr.append(att)
+//                }
+//            } else {
+//                stringOptions[1] = "<sup><small><small>" + stringOptions[1]
+//                if isBold {
+//                    stringOptions[1] = "<strong>\(stringOptions[1])</strong>"
+//                }
+//                if let att1 = stringOptions[1].htmlToAttributedString(smallFont) {
+//                    attStr.append(att1)
+//                }
+//            }
+//        }
+      
+        return attStr
+    }
 }

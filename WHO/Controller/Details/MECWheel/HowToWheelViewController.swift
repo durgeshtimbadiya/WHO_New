@@ -48,7 +48,7 @@ extension HowToWheelViewController: UITableViewDataSource {
             
             if cell.subTitleLabel != nil {
 //                cell.subTitleLabel.font = UIFont(name: "Roboto-Regular", size: 15.0)
-                cell.subTitleLabel.attributedText = cellList[indexPath.row].htmlToAttributedString
+                cell.subTitleLabel.attributedText = cellList[indexPath.row].htmlToAttributedString(SystemFont.regular16)
                 cell.subTitleLabel.backgroundColor = .white
 //                cell.subTitleLabel.textColor = .black
             }

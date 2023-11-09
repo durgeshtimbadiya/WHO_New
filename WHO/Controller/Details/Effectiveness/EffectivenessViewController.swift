@@ -12,6 +12,8 @@ class EffectivenessViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var topConstraint: NSLayoutConstraint!
     @IBOutlet weak var bottomConstraint: NSLayoutConstraint!
+    @IBOutlet weak var titleLabel: UILabel!
+    @IBOutlet weak var subTitleLabel: UILabel!
 
     var titleString = ""
     
@@ -22,6 +24,8 @@ class EffectivenessViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         setCellData()
+        self.titleLabel.text = EffectivenessString.title
+        self.subTitleLabel.text = EffectivenessString.description
     }
     
     override func viewWillAppear(_ animated: Bool) {

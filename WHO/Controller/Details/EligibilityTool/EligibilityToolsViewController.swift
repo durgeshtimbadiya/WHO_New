@@ -97,7 +97,7 @@ class EligibilityToolsViewController: UIViewController {
         containerVC = ContainerViewController(controllers: viewsArray as NSArray, topBarHeight: 0.0, parentViewController: self)
 
         if let contaninerVC = containerVC {
-            contaninerVC.menuItemFont = UIFont.systemFont(ofSize: 16.0)
+            contaninerVC.menuItemFont = UIFont.boldSystemFont(ofSize: 18.0)
             contaninerVC.menuBackGroudColor = UIColor(hexString: "#D6E2DD")
             contaninerVC.menuWidth = (UIScreen.main.bounds.size.width / 2.0) - 5.0
             contaninerVC.menuViewWidth = UIScreen.main.bounds.size.width

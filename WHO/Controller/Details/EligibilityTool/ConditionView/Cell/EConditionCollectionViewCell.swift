@@ -58,19 +58,14 @@ class EConditionCollectionViewCell: UICollectionViewCell {
             progressBar.animate(fromAngle: 0, toAngle: 360 * progressV, duration: 0.5) { completed in }
         }
         if subtitleLabel != nil {
-            if cellData.isHTML {
-                subtitleLabel.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.bold15)
+            if cellData.progressValS.contains("<sup><small>") {
+                subtitleLabel.attributedText = Core.setPowerAttributes(cellData.progressValS, font: SystemFont.regular16, isBold: true, smallFont: SystemFont.regular9)
                 subtitleLabel.textAlignment = .center
-//                subtitleLabel.font = UIFont.boldSystemFont(ofSize: 15.0)
+            } else if cellData.isHTML {
+                subtitleLabel.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.regular16)
+                subtitleLabel.textAlignment = .center
             } else {
                 subtitleLabel.text = cellData.progressValS
-                if cellData.progressValS.contains("<sup><small>") /*, let position = cellData.progressValS.firstIndex(of: "<")*/ {
-//                    subtitleLabel.attributedText = cellData.progressValS.htmlToAttributedString
-                    subtitleLabel.attributedText = "<strong>\(cellData.progressValS)</strong>".htmlToAttributedString(SystemFont.bold15)
-                    subtitleLabel.textAlignment = .center
-//                    subtitleLabel.font = UIFont.boldSystemFont(ofSize: 15.0)
-//                    self.subtitleLabel.attributedText = Core.setProunceVal(cellData.progressValS, position: position)
-                }
             }
         }
     }

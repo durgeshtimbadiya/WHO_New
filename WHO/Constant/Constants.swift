@@ -26,14 +26,14 @@ struct Storyboard {
 }
 
 struct SystemFont {
-    static let regular12 = UIFont.systemFont(ofSize: 12.0)
+    static let regular8 = UIFont.systemFont(ofSize: 8.0)
+    static let regular9 = UIFont.systemFont(ofSize: 9.0)
     static let regular13 = UIFont.systemFont(ofSize: 13.0)
     static let regular14 = UIFont.systemFont(ofSize: 14.0)
-    static let semiBold14 = UIFont.systemFont(ofSize: 14.0, weight: .semibold)
     static let regular15 = UIFont.systemFont(ofSize: 15.0)
-    static let bold15 = UIFont.boldSystemFont(ofSize: 15.0)
     static let regular16 = UIFont.systemFont(ofSize: 16.0)
+    static let regular17 = UIFont.systemFont(ofSize: 16.0)
+    static let regular18 = UIFont.systemFont(ofSize: 16.0)
     static let semiBold16 = UIFont.systemFont(ofSize: 16.0, weight: .semibold)
 }
-
 

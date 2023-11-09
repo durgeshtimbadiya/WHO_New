@@ -107,7 +107,7 @@ class ConditionsTableViewCell: UITableViewCell {
         if descLabel != nil {
             descLabel.text = cellData.description
             if cellData.description.contains("<sup><small>"){
-                descLabel.attributedText = cellData.description.htmlToAttributedString(SystemFont.regular13)
+                descLabel.attributedText = Core.setPowerAttributes(cellData.description, font: SystemFont.regular14, isBold: false, smallFont: SystemFont.regular9)
                 descLabel.textAlignment = .left
             }
             descLabel.sizeToFit()
@@ -144,7 +144,8 @@ class ConditionsTableViewCell: UITableViewCell {
         if titleLabel != nil {
             titleLabel.text = cellData.point
             if cellData.point.contains("<sup><small>"){
-                titleLabel.attributedText = cellData.point.htmlToAttributedString(SystemFont.regular14)
+                titleLabel.attributedText = Core.setPowerAttributes(cellData.point, font: SystemFont.regular15, isBold: false, smallFont: SystemFont.regular9)
+               
                 titleLabel.textAlignment = .left
             }
             titleLabel.sizeToFit()
