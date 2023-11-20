@@ -723,7 +723,7 @@ struct ConditionList{
     static let Points9 = "Past pelvic inflammatory disease.".localizeString()
     static let Points10 = "Post-abortion (no sepsis).".localizeString()
     static let Points11 = "Postpartum ≥ 6 months.".localizeString()
-    static let Points12 = "\n"+"● Benign breast disease or undiagnosed mass\n\n ● Benign ovarian tumours, including cysts\n\n ● Dysmenorrhoea\n\n ● Endometriosis\n\n ● History of gestational diabetes\n\n ● History of high blood pressure during pregnancy\n\n ● History of pelvic surgery, including caesarean delivery\n\n ● Past ectopic pregnancy\n\n ● Past pelvic inflammatory disease\n\n ● Post-abortion (no sepsis)\n\n ● Postpartum ≥ 6 months\n\n".localizeString()
+    static let Points12 = "\n"+"● Benign breast disease or undiagnosed mass.\n\n ● Benign ovarian tumours, including cysts.\n\n ● Dysmenorrhoea.\n\n ● Endometriosis.\n\n ● History of gestational diabetes.\n\n ● History of high blood pressure during pregnancy.\n\n ● History of pelvic surgery, including caesarean delivery.\n\n ● Past ectopic pregnancy.\n\n ● Past pelvic inflammatory disease.\n\n ● Post-abortion (no sepsis).\n\n ● Postpartum ≥ 6 months.\n\n".localizeString()
     
     static let additionSubPoint13 = "Reproductive Conditions".localizeString()
 
@@ -739,7 +739,7 @@ struct ConditionList{
     static let Points23 = "Uncomplicated valvular heart disease.".localizeString()
     static let Points24 = "Viral hepatitis (carrier or chronic).".localizeString()
 
-    static let medicalCondition25 = "\n ● Depression\n\n ● Epilepsy\n\n ● HIV asymptomatic or mild clinical disease (WHO Stage 1 or 2)\n\n ● Iron-deficiency anaemia, sickle-cell disease and thalassaemia\n\n ● Malaria\n\n ● Mild cirrhosis\n\n ● Superficial venous disorders, including varicose veins\n\n ● Thyroid disorders\n\n ● Tuberculosis (non-pelvic)\n\n ● Uncomplicated valvular heart disease\n\n● Viral hepatitis (carrier or chronic)".localizeString()
+    static let medicalCondition25 = "\n ● Depression.\n\n ● Epilepsy.\n\n ● HIV asymptomatic or mild clinical disease (WHO Stage 1 or 2).\n\n ● Iron-deficiency anaemia, sickle-cell disease and thalassaemia.\n\n ● Malaria.\n\n ● Mild cirrhosis.\n\n ● Superficial venous disorders, including varicose veins.\n\n ● Thyroid disorders.\n\n ● Tuberculosis (non-pelvic).\n\n ● Uncomplicated valvular heart disease.\n\n● Viral hepatitis (carrier or chronic).".localizeString()
     
     static let additionSubPoint26 = "Medical Conditions".localizeString()
 
@@ -751,7 +751,7 @@ struct ConditionList{
     static let Points31 = "Surgery without prolonged immobilization.".localizeString()
     static let Points32 = "Taking antibiotics (excluding rifampicin/rifabutin).".localizeString()
     
-    static let others33 = "\n ● Adolescents\n\n ● Breast cancer family history\n\n ● Venous thromboembolism (VTE) family history\n\n ● High risk for HIV\n\n ● Surgery without prolonged immobilization\n\n ● Taking antibiotics (excluding rifampicin/rifabutin)".localizeString()
+    static let others33 = "\n ● Adolescents.\n\n ● Breast cancer family history.\n\n ● Venous thromboembolism (VTE) family history.\n\n ● High risk for HIV.\n\n ● Surgery without prolonged immobilization.\n\n ● Taking antibiotics (excluding rifampicin/rifabutin).".localizeString()
     
     static let additionalSubPoint34 = "Others".localizeString()
 

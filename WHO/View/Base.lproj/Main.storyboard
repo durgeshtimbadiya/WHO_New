@@ -741,7 +741,7 @@
                                         </connections>
                                     </pageControl>
                                 </subviews>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="backgroundColor" red="0.19215686274509802" green="0.42352941176470588" blue="0.32941176470588235" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="trailing" secondItem="Sh4-g0-mdv" secondAttribute="trailing" id="8Uk-rU-aB8"/>
                                     <constraint firstItem="Sh4-g0-mdv" firstAttribute="top" secondItem="JTp-FF-igZ" secondAttribute="top" constant="10" id="Fj6-4S-wpQ"/>

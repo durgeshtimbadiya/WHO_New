@@ -62,10 +62,11 @@ class LaunchViewController: UIViewController {
                     self.pageController.numberOfPages = self.appGuideList.count
                     var xOrigin = 0.0
                     for ag in self.appGuideList {
-                        let stackView = UIStackView(frame: CGRect(x: xOrigin + 10.0, y: 0.0, width: self.guideScrollView.frame.size.width - 20.0, height: self.guideScrollView.frame.size.height - 20.0))
+                        let stackView = UIStackView(frame: CGRect(x: xOrigin + 10.0, y: 0.0, width: self.guideScrollView.frame.size.width - 20.0, height: self.guideScrollView.frame.size.height - 0.0))
                         stackView.axis = .vertical
                         stackView.alignment = .center
-                        stackView.spacing = 15
+                        stackView.distribution = .fillProportionally
+                        stackView.spacing = 5
                         
                         let imageVi = UIImageView()
                         imageVi.image = ag.image
@@ -79,6 +80,8 @@ class LaunchViewController: UIViewController {
                         titleLabel.textAlignment = .center
                         titleLabel.numberOfLines = 0
                         titleLabel.sizeToFit()
+                        let heightConstraint = NSLayoutConstraint(item: titleLabel, attribute: NSLayoutConstraint.Attribute.height, relatedBy: NSLayoutConstraint.Relation.equal, toItem: nil, attribute: NSLayoutConstraint.Attribute.notAnAttribute, multiplier: 1, constant: 80.0)
+                        titleLabel.addConstraint(heightConstraint)
                         stackView.addArrangedSubview(titleLabel)
 
                         self.guideScrollView.addSubview(stackView)
