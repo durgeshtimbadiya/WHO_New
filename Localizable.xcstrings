@@ -64,6 +64,12 @@
             "state" : "translated",
             "value" : "<48 hrs"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<48 గంటలు"
+          }
         }
       }
     },
@@ -71,6 +77,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "<160/100"
@@ -240,6 +252,12 @@
             "state" : "translated",
             "value" : "6 અઠવાડિયા - 6 મહિના"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6 వారాలు - 6 నెలలు"
+          }
         }
       }
     },
@@ -262,6 +280,12 @@
             "state" : "translated",
             "value" : "40 વર્ષ અને તેનાથી મોટી વય"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "40  ఏళ్ళు, ఆ పైన వయసు"
+          }
         }
       }
     },
@@ -272,6 +296,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "48 કલાક - 6 અઠવાડિયા"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "48 గంటలు - 6 వారాలు"
           }
         }
       }
@@ -328,6 +358,12 @@
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જેને ક્લાયેન્ટ મેડિકલ પ્રોવાઇડરની મદદ વગર ચાલું કે બંધ કરી શકે છે"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "వైద్యం అందించేవ్యక్తిని చూడకుండానే క్లయింట్ ఆపివేయగల లేదా ప్రారంభించగల పద్ధతి"
+          }
         }
       }
     },
@@ -338,6 +374,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એવી પદ્ધતિ જે વર્ષો વર્ષ સુધી ટકી શકે છે"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కొన్ని సంవత్సరాల పాటు ఉండే పద్ధతి"
           }
         }
       }
@@ -350,6 +392,12 @@
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જે કોઈ હોર્મોન ધરાવતી નથી"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఏ హార్మోన్లు లేని పద్ధతి"
+          }
         }
       }
     },
@@ -360,6 +408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જેનો ચોક્કસ રીતે ઉપયોગ કરવાથી ગર્ભાવસ્થાને નિવારવામાં 99% કરતાં વધારે અસરકારક સાબિત થાય"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "సాధారణ ఉపయోగంలో గర్భధారణను నివారించడంలో 99% కంటే ఎక్కువ ప్రభావవంతమైన పద్ధతి"
           }
         }
       }
@@ -372,6 +426,12 @@
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જેનો ઉપયોગ કરતી વખતે તમારા જીવનસાથી કે અન્ય લોકોને ખબર પડે નહીં"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఉపయోగంలో ఉన్నప్పుడు భాగస్వామి లేదా ఇతర వ్యక్తులు గుర్తించలేని పద్ధతి"
+          }
         }
       }
     },
@@ -383,6 +443,12 @@
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જે ગર્ભાવસ્થાને નિવારવાની સાથે-સાથે જાતીય સમાગમથી પ્રસારિત થતાં ચેપને પણ અટકાવે છે"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భధారణను నివారించడంతో పాటు లైంగికంగా సంక్రమించే అంటువ్యాధులను నిరోధించే పద్ధతి"
+          }
         }
       }
     },
@@ -393,6 +459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એવી પદ્ધતિ જેના પરિણામસ્વરૂપ માસિક રક્તસ્રાવ નિયમિતપણે આવતો થઈ જવો, પીરિયડની જેમ જ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "క్రమం తప్పకుండా షెడ్యూల్ చేయబడిన నెలవారీ రక్తస్రావానికి దారితీసే ఒక పద్ధతి, ఒక పీరియడ్ మాదిరిగానే"
           }
         }
       }
@@ -517,8 +589,8 @@
         },
         "te-IN" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of contraceptives :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the <strong><i>Medical Eligibility Criteria for Contraceptive Use</i></strong> guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ఈ చక్రం, గర్భనిరోధక పద్ధతులను వాడడం మొదలుపెట్టడానికి వైద్య అర్హత ప్రమాణాలను కలిగి ఉంది. ఇది గర్భనిరోధక సాధనాల ఉపయోగం కోసం WHO MEC వీల్ నుండి (2022 ఆధునీకరణతో) తీసుకోవడం జరిగింది. అలాగే, గర్భనిరోధక సాధనాల ఉపయోగం కోసం, వైద్య అర్హత ప్రమాణాలు, 4వ మరియు 5వ ఎడిషన్ (2008 మరియు 2022) ఆధారంగా రూపొందించబడింది. ఇది వైద్య పరిస్థితులు లేదా వైద్యపరంగా సంబంధిత లక్షణాలతో ఉన్న మహిళలకు, సురక్షితమైన మరియు సమర్థవంతమైన గర్భనిరోధక పద్ధతులను సిఫార్సు చేయడంలో కుటుంబ నియంత్రణ సాధనాలను అందించే సిబ్బందికి దిశా నిర్దేశం చేసి, దారి చూపిస్తుంది..<br />చక్రం, ఏడు సాధారణ రకాల గర్భనిరోధకాల పద్ధతులను ఉపయోగించడం ప్రారంభించే సిఫార్సులను కలిగి ఉంటుంది:</p>\n  <ol>\n    <li>కలిపిన మాత్రల మిశ్రమం (తక్కువ మోతాదు కలిపిన నోటి మాత్రల గర్భనిరోధకాలు, <35 Ug ఇథినైల్‌స్ట్రాడియోల్‌తో) మరియు వాటితోపాటుగా సూదితో ఇంజెక్ట్ చేయగల గర్భనిరోధకాలు</li>\n    <li>సెంక్రోమన్ మాత్రలు</li>\n    <li>ప్రొజెస్టోజెన్- మాత్రలు మాత్రమే</li>\n    <li>ప్రొజెస్టోజెన్- ఇంజెక్షన్లు మాత్రమే. DMPA (ఒక 3-నెలలవారీ ఇంజెక్షన్) మరియు NET-EN (ఒక 2-నెలలవారీ ఇంజెక్షన్)</li>\n    <li>ప్రొజెస్టోజెన్-మాత్రమే ఇంప్లాంట్లు మాత్రమే</li>\n    <li>యోనిలోకి చొప్పించేది కాపర్-బేరింగ్ IUCD</li>\n    <li>యోనిలోకి చొప్పించేది లివోనార్జెస్ట్రెల్ ఇంట్రా యుటెరైన్ డివైస్ (LNG-IUD)</li>\n  </ol>\n  <p><br />చక్రంలోని మార్గదర్శకత్వం అనేది, తొలిదశలో గర్భనిరోధక పద్ధతుల ప్రారంభానికి వర్తిస్తుంది. ఒక పద్ధతిని ఉపయోగిస్తున్నప్పుడు, ఒక మహిళ ఒక రకమైన ఆరోగ్యపరిస్థితిని ఎదుర్కోవచ్చును. అప్పుడు, ఆపద్ధతిని కొనసాగించడానికి సిఫార్సులు, <strong>గర్భనిరోధక వినియోగ సాధనాల మార్గదర్శకాలలో ఆలక్షణాల కోసం వైద్య అర్హత ప్రమాణాలల</strong> చూడవచ్చు.</p>\n  <p>ఇది, భారత దేశం-  అవలంబించిన WHO MEC Wheel  తాలూకా, MoHFW వారిచేత రూపొందించబడిన ఒక ఈ వెర్షన్.</p>\n</div>"
           }
         }
       }
@@ -531,6 +603,12 @@
             "state" : "translated",
             "value" : "તીવ્ર DVT"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "తీవ్రమైన DVT"
+          }
         }
       }
     },
@@ -541,6 +619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તીવ્ર વાઇરલ હીપેટાઇટિસ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "తీవ్రమైన వైరల్ హెపటైటిస్"
           }
         }
       }
@@ -556,6 +640,17 @@
         }
       }
     },
+    "Additional Info explains how to use the methods safely and effectively." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భనిరోధక పద్ధతులను సురక్షితముగా ఇంకా శక్తివంతంగా ఎలా ఉపయోగించాలో అనే విషయమై అదనపు సమాచారాన్ని ఇవ్వడం. "
+          }
+        }
+      }
+    },
     "Additional Info on how to use the methods safely and effectively " : {
       "extractionState" : "manual",
       "localizations" : {
@@ -563,6 +658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "આ પદ્ધતિનો ઉપયોગ સલામત અને અસરકારક રીતે કેવી રીતે કરવો તે અંગેની વધારાની માહિતી  "
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భనిరోధక పద్ధతులను సురక్షితముగా ఇంకా శక్తివంతంగా ఎలా ఉపయోగించాలో అనే విషయమై అదనపు సమాచారాన్ని ఇవ్వడం."
           }
         }
       }
@@ -596,6 +697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વય"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "వయస్సు"
           }
         }
       }
@@ -674,6 +781,12 @@
             "state" : "translated",
             "value" : "એનીમિયા (પાંડુરોગ)"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రక్తహీనత"
+          }
         }
       }
     },
@@ -706,6 +819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એક વખતમાં ઓછામાં ઓછા 2-3 મહિના આપવામાં આવી શકે છે અને તે દેશની પ્રોગ્રામ સંબંધિત માર્ગદર્શિકા મુજબ વધારે પણ હોઈ શકે છે."
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కనీసం 2 -3 నెలలు. అసలు ఒకేసారిగా , ఏక మొత్తంగా ఇవ్వవచ్చు, అది కూడా మరింతగా చెప్పాలంటే దేశములో అమలులో ఉన్న మార్గదర్శకాల ప్రకారమే ఉంటుంది."
           }
         }
       }
@@ -740,6 +859,12 @@
             "state" : "translated",
             "value" : "પરિસ્થિતિઓ પર પરત"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "షరతులకు, పరిస్థితులకి వెనక్కు వెళ్దాం"
+          }
         }
       }
     },
@@ -751,6 +876,12 @@
             "state" : "translated",
             "value" : "બેરિયર મેથડ્સ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "అడ్డంకి పద్ధతులు"
+          }
         }
       }
     },
@@ -761,6 +892,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કેટલીક પસંદગીની તબીબી સ્થિતિ(ઓ) પર આધાર રાખીને અહીં ગર્ભનિરોધક પદ્ધતિઓ માટેના સલામતીના રેટિંગ્સ આપવામાં આવ્યાં છે."
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఎంచుకున్న వైద్య పరిస్థితి(ల) ఆధారంగా, ఇవి గర్భనిరోధక సాధనాలు, పద్ధతులకు భద్రతా రేటింగ్‌లు."
           }
         }
       }
@@ -805,6 +942,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્તનનું કેન્સર"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రొమ్ము క్యాన్సర్"
           }
         }
       }
@@ -861,6 +1004,34 @@
             "state" : "translated",
             "value" : "કેન્સર"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "క్యాన్సర్"
+          }
+        }
+      }
+    },
+    "Cancer (Breast Cancer)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "క్యాన్సర్ (రొమ్ము క్యాన్సర్)"
+          }
+        }
+      }
+    },
+    "Cancer (Cervical cancer)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "క్యాన్సర్ (గర్భాశయ క్యాన్సర్)"
+          }
         }
       }
     },
@@ -872,6 +1043,34 @@
             "state" : "translated",
             "value" : "કાર્ડિયોવાસ્ક્યુલર બીમારીઓ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గుండెకు సంబంధించిన వ్యాధులు"
+          }
+        }
+      }
+    },
+    "Cardiovascular Diseases (Stroke, IHD, multiple risk factors°)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గుండెకు సంబంధించిన కార్డియోవాస్కులర్ వ్యాధులు (స్ట్రోక్, IHD, అనేక రకాల ప్రమాద కారకాలు°)"
+          }
+        }
+      }
+    },
+    "Cardiovascular Diseases (Valvular heart disease (complicated))" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కార్డియోవాస్కులర్ వ్యాధులు (వాల్యులర్ గుండె జబ్బు (సంక్లిష్టమైనది))"
+          }
         }
       }
     },
@@ -882,6 +1081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cent."
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "సెంట్."
           }
         }
       }
@@ -916,6 +1121,12 @@
             "state" : "translated",
             "value" : "સેન્ટક્રોમેન પિલ્સ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "సెంక్రోమన్ మాత్రలు"
+          }
         }
       }
     },
@@ -927,6 +1138,12 @@
             "state" : "translated",
             "value" : "ગર્ભાશયના મુખનું કેન્સર"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భాశయ క్యాన్సర్"
+          }
         }
       }
     },
@@ -934,6 +1151,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "CHC"
@@ -960,6 +1183,12 @@
             "state" : "translated",
             "value" : "CHCsને સામાન્ય રીતે સળંગ 21-24 દિવસ હોર્મોનના ડૉઝની સાથે આપવામાં આવે છે, જેના પછી 4-7 દિવસ હોર્મોન આપવામાં આવતાં નથી. જોકે, ખૂબ જ થોડાં અથવા સહેજ પણ હોર્મોનનો ઉપયોગ કરવામાં ન આવતો હોય તેવા ડૉઝનો પણ ઉપયોગ થાય છે.\n"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHCలు సాధారణంగా 21-24 వరుస రోజుల హార్మోన్‌తో డోస్ చేయబడతాయి, తర్వాత 4-7 హార్మోన్-రహిత రోజులు ఉంటాయి. అయినప్పటికీ, తక్కువ లేదా హార్మోన్ లేని రోజులు కూడా, మోతాదు నియమాలు ఉపయోగించబడతాయి."
+          }
         }
       }
     },
@@ -971,6 +1200,12 @@
             "state" : "translated",
             "value" : "સિરોસિસ/લિવરમાં ગાંઠ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "సిర్రోసిస్/లివర్ ట్యూమర్"
+          }
         }
       }
     },
@@ -981,6 +1216,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ક્લાયેન્ટ દ્વારા નિયંત્રિત"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "క్లయింట్ ద్వారా నియంత్రించబడింది"
           }
         }
       }
@@ -1026,6 +1267,12 @@
             "state" : "translated",
             "value" : "કમ્બાઇન્ડ હોર્મોનલ કૉન્ટ્રાસેપ્ટિવ્સ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కంబైన్డ్ హార్మోన్ల గర్భనిరోధకాలు"
+          }
         }
       }
     },
@@ -1047,6 +1294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કમ્બાઇન્ડ પિલ્સ અને કમ્બાઇન્ડ ઇન્જેક્ટેબલ્સ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కలిపిన మాత్రలు మరియు కలిపి ఇంజక్షన్ చేయదగిన మిశ్రమాలు"
           }
         }
       }
@@ -1080,6 +1333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પરિસ્થિતિઓ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "పరిస్థితులు"
           }
         }
       }
@@ -1147,11 +1406,14 @@
             "state" : "translated",
             "value" : "પ્રાથમિકતાઓ ચાલું રાખો"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మీకు కావలసినవాటిని ఎంచుకుంటూ కొనసాగండి"
+          }
         }
       }
-    },
-    "Contraceptive Choices" : {
-      "extractionState" : "manual"
     },
     "Contraceptive Choices\n\n" : {
       "extractionState" : "manual",
@@ -1160,6 +1422,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભનિરોધકના વિકલ્પો"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భనిరోధకాల ప్రత్యామ్నాయాలు"
           }
         }
       }
@@ -1194,6 +1462,12 @@
             "state" : "translated",
             "value" : "કૉપર ઇન્ટ્રાયુટેરાઇન ડીવાઇઝ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రాగితో చేసిన గర్భనిరోధక సాధనం"
+          }
         }
       }
     },
@@ -1212,6 +1486,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu-IUCD"
+          }
+        },
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cu-IUCD"
@@ -1237,6 +1517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વર્તમાન"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రస్తుత స్థితి"
           }
         }
       }
@@ -1282,6 +1568,12 @@
             "state" : "translated",
             "value" : "દરરોજ ગોળી, અઠવાડિક પેચ અથવા માસિક રિંગ, જે બે હોર્મોન્સ (એસ્ટ્રોજેન અને પ્રોજેસ્ટોજેન) ધરાવે છે."
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "డైలీ పిల్, వీక్లీ ప్యాచ్ లేదా నెలవారీ రింగ్, రెండు హార్మోన్లను (ఈస్ట్రోజెన్ మరియు ప్రొజెస్టోజెన్) కలిగి ఉంటుంది."
+          }
         }
       }
     },
@@ -1315,6 +1607,34 @@
             "state" : "translated",
             "value" : "ડીપ વેઇન થ્રોમ્બોસિસ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "డీప్ వెయిన్ థ్రాంబోసిస్"
+          }
+        }
+      }
+    },
+    "Deep Vein Thrombosis (Acute DVT)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "డీప్ వెయిన్ థ్రాంబోసిస్ (తీవ్రమైన DVT)"
+          }
+        }
+      }
+    },
+    "Deep Vein Thrombosis (H/O DVT/PE, on anticoagulant, prolonged immobilization)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "డీప్ వెయిన్ థ్రాంబోసిస్ (H/O DVT/PE, రక్తం గడ్డకుండా వాడే యాంటీ-కాగ్యూలాంట్, కదలికలు ఆగిపోయిన స్థితి)"
+          }
         }
       }
     },
@@ -1337,6 +1657,12 @@
             "state" : "translated",
             "value" : "વર્ણન"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "వివరణ"
+          }
         }
       }
     },
@@ -1347,6 +1673,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ડાયાબિટીસ મેલિટસ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మధుమేహం మెల్లిటస్"
+          }
+        }
+      }
+    },
+    "Diabetes Mellitus (Current)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మధుమేహం (ప్రస్తుత స్థితి)"
           }
         }
       }
@@ -1432,6 +1775,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA/NET-EN"
+          }
+        },
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "DMPA/NET-EN"
@@ -1535,6 +1884,12 @@
             "state" : "translated",
             "value" : "ગર્ભાવસ્થાને નિવારવા માટેની અસરકારકતા"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భం నిరోధించడానికి ప్రభావం"
+          }
         }
       }
     },
@@ -1622,6 +1977,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વાઈ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మూర్ఛరోగము"
+          }
+        }
+      }
+    },
+    "Epilepsy (On anticonvulsants)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మూర్ఛరోగము (యాంటీ కన్వల్సెంట్లపై)"
           }
         }
       }
@@ -1711,6 +2083,12 @@
             "state" : "translated",
             "value" : "સ્ત્રીઓની નસબંધી"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "స్త్రీలకు సంతాన నిరోధక శస్త్రచికిత్స"
+          }
         }
       }
     },
@@ -1743,6 +2121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ફાઇબ્રોઇડ યુટેરસ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భాశయ కణితిలు"
           }
         }
       }
@@ -1821,6 +2205,12 @@
             "state" : "translated",
             "value" : "જેસ્ટેશનલ ટ્રોફોબ્લાસ્ટિક ડીસીઝ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భధారణకాలంలో కలిగే కణితి లు వంటి వ్యాధి/ ట్రోఫోబ్లాస్టిక్ వ్యాధి"
+          }
         }
       }
     },
@@ -1842,6 +2232,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "H/O DVT/PE, એન્ટિકોએગ્યુલેન્ટ પર, લાંબા સમય સુધી હલનચલન ન થવું"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "H/O DVT/PE, రక్తం గడ్డకుండా వాడే యాంటీ-కాగ్యూలాంట్, కదలికలు ఆగిపోయిన స్థితి"
           }
         }
       }
@@ -1868,6 +2264,39 @@
         }
       }
     },
+    "Headache<sup><small><small>N</small></small></sup>" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "తలనొప్పి<sup><small><small>N</small></small></sup>"
+          }
+        }
+      }
+    },
+    "Headache<sup><small><small>N</small></small></sup> (Migraine with aura°)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Headache<sup><small><small>N</small></small></sup> (కాంతి వలయంతో వచ్చే పార్శ్వ తలనొప్పి°)"
+          }
+        }
+      }
+    },
+    "Headache<sup><small><small>N</small></small></sup> (Migraine without aura°)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "తలనొప్పి<sup><small><small>N</small></small></sup> (కాంతి వలయంతో వచ్చే పార్శ్వ తలనొప్పి°)"
+          }
+        }
+      }
+    },
     "HeadacheN" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1875,6 +2304,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માથામાં દુઃખાવો<sup><small><small>N</small></small></sup>"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "తలనొప్పిN"
           }
         }
       }
@@ -1908,6 +2343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "અત્યંત અસરકારક"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "అత్యంత ప్రభావవంతమైనది"
           }
         }
       }
@@ -1975,6 +2416,12 @@
             "state" : "translated",
             "value" : "HIV/AIDS"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HIV/AIDS"
+          }
         }
       }
     },
@@ -1997,6 +2444,12 @@
             "state" : "translated",
             "value" : "તમે CHCનો ઉપયોગ કેવી રીતે કરી શકો?"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మీరు CHCని ఎలా ఉపయోగిస్తున్నారు?"
+          }
         }
       }
     },
@@ -2014,6 +2467,12 @@
             "state" : "translated",
             "value" : "તે કેવી રીતે કામ કરે છે? "
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "అది ఎలా పని చేస్తుంది"
+          }
         }
       }
     },
@@ -2024,6 +2483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એક સમયે કેટલા મહિનાનો પુરવઠો પૂરો પાડવો જોઇએ?"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఒకేసారి ఎన్ని నెలలకు అందించాలి?"
           }
         }
       }
@@ -2116,7 +2581,7 @@
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>చక్రం  బయటనున్న అంచుచుట్టూ చూపబడిన నిర్దిష్ట వైద్య పరిస్థితులతో లోపలి డిస్క్‌లో చూపబడిన గర్భనిరోధక పద్ధతులతో చక్రం సరిపోలుతుంది. కనిపిస్తున్న ముక్కలోని సంఖ్యలు, మీకు తెలిసిన ఈ పరిస్థితిని కలిగి ఉన్న స్త్రీ, గర్భనిరోధక పద్ధతిని ఉపయోగించడం ప్రారంభించి, పాటించడం వీలవుతుందో లేదో మీకు మార్గనిర్దేశం చేస్తాయి:</p>\n</div>"
           }
         }
       }
@@ -2126,13 +2591,13 @@
       "localizations" : {
         "as-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Use the method in any circumstance"
           }
         },
         "bn-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Use the method in any circumstance"
           }
         },
@@ -2144,50 +2609,50 @@
         },
         "gu-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "કોઈ પણ સંજોગોમાં પદ્ધતિનો ઉપયોગ કરો"
           }
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Use the method in any circumstance"
           }
         },
         "kn-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Use the method in any circumstance"
           }
         },
         "ml-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Use the method in any circumstance"
           }
         },
         "or-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Use the method in any circumstance"
           }
         },
         "pa-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Use the method in any circumstance"
           }
         },
         "ta-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Use the method in any circumstance"
           }
         },
         "te-IN" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Use the method in any circumstance"
+            "state" : "needs_review",
+            "value" : "ఏ సందర్భంలోనైనా పద్ధతిని ఉపయోగించండి"
           }
         }
       }
@@ -2258,7 +2723,7 @@
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generally use the method"
+            "value" : "సాధారణంగా పద్ధతిని ఉపయోగించండి"
           }
         }
       }
@@ -2329,7 +2794,7 @@
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+            "value" : "ఇతర మరింత తగిన పద్ధతులు అందుబాటులో లేకున్నా లేదా ఒప్పుకోకపోయినా లేదా కుదరదు అనుకున్నా, ఆ పద్ధతి యొక్క ఉపయోగం, సాధారణంగా సిఫార్సు చేయబడదు"
           }
         }
       }
@@ -2400,7 +2865,7 @@
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Method NOT to be used"
+            "value" : "పద్ధతి ఉపయోగించరాదు"
           }
         }
       }
@@ -2471,7 +2936,7 @@
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu.<br><br>"
+            "value" : "<br><br>1 మరియు 4 రకాలు, స్పష్టంగా చెప్పబడిన సిఫార్సులు. కేటగిరీలు 2 లేదా 3 కోసం, మరింత ఎక్కువ క్లినికల్ జడ్జిమెంట్ అవసరం. అలాగే, వైద్య పర్యవేక్షణ విషయమై ఫాలో-అప్ జాగ్రత్త అవసరం కావచ్చు. ఒకవేళ క్లినికల్ తీర్పు- పరిమితం అయితే,    1 మరియు 2 కేటగిరీలు రెండూ అయితే ఆ పద్ధతిని ఉపయోగించవచ్చని అర్థం, మరి 3 లేదా 4 కేటగిరీలు రెండూ అయితే, ఆ పద్ధతిని ఉపయోగించకూడదని అర్థం.<br><br>కొన్ని పరిస్థితులకు పరిమితి లేదు: అన్ని సాధనాల విధానాలను ఉపయోగించవచ్చును అనగల అనేక మెడికల్ పరిస్థితులు ఉన్నాయి (అంటే, అన్ని సాధనాల విధానాలు వర్గం 1 లేదా 2 లోకి వస్తాయి). ఈ <b>పరిస్థితుల మెనులో</b> జాబితా చేయబడ్డాయి.<br><br>ఏ పద్ధతిలో గర్భ నిరోధక సాధనాలను వాడుకునే వీలున్నదో ఒకసారి తెలిసిన తరువాత, అప్పుడు మిగిలిన పరిస్థితులను గురించి <strong>మరింత సమాచారం</strong> కోసం స్క్రీన్ సమీక్ష చేయవచ్చును. గర్భ నిరోధక సాధనాల పనితీరుని గురించి విభిన్నమైన శ్రేణిలో గల వివిధ పద్ధతుల గురించిన ఉపయోగ రీతులని పోల్చి చూసుకోవడానికి వీలుగా ఒక చార్టుని తయారు చేసి పెట్టడం జరిగింది. (ఈ యాప్ లో వివరంగా చెప్పనివి కూడా కలుపుకుని)ఈ మెనూ లో పెట్టడం జరిగింది.<br><br>"
           }
         }
       }
@@ -2483,6 +2948,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "હાઇપરટેન્શન (ઉચ્ચ રક્તચાપ)"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రక్తపోటు లేదా హైపర్ టెన్షన్"
+          }
+        }
+      }
+    },
+    "Hypertension (<160/100)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రక్తపోటు (<160/100)"
+          }
+        }
+      }
+    },
+    "Hypertension (>160/100)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రక్తపోటు (>160/100)"
           }
         }
       }
@@ -2847,6 +3340,12 @@
             "state" : "translated",
             "value" : "Impl."
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఇంప్లిమెంట్/ అమలు చేయు."
+          }
         }
       }
     },
@@ -2857,6 +3356,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઇમ્પ્લાન્ટ્સ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఇంప్లాంట్లు"
           }
         }
       }
@@ -2895,15 +3400,12 @@
       }
     },
     "India-adapted MEC Wheel 2022" : {
-      "extractionState" : "manual"
-    },
-    "India-adapted MEC Wheel 2022 " : {
       "extractionState" : "manual",
       "localizations" : {
-        "gu-IN" : {
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ઇન્ડિયા-એડેપ્ટેડ એમઇસી વ્હિલ 2022"
+            "value" : "భారత దేశం-   MEC Wheel 2022అవలంబించినది"
           }
         }
       }
@@ -3024,6 +3526,12 @@
     "Key" : {
       "extractionState" : "manual"
     },
+    "Key 1" : {
+      "extractionState" : "manual"
+    },
+    "Key 2" : {
+      "extractionState" : "manual"
+    },
     "Lactational amenorrhea method" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -3053,6 +3561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "લેક્ટેશનલ એમેનોર્હીયા મેથડ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "లాక్టేషనల్ అమెనోరియా పద్ధతి"
           }
         }
       }
@@ -3191,6 +3705,12 @@
             "state" : "translated",
             "value" : "લીવોનોરજેસ્ટ્રેલ આઇયુડી"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "లెవోనోర్జెస్ట్రెల్ IUD"
+          }
         }
       }
     },
@@ -3201,6 +3721,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "લિવરની બીમારી"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కాలేయ వ్యాధి"
+          }
+        }
+      }
+    },
+    "Liver Disease (Acute viral hepatitis)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కాలేయ వ్యాధి (తీవ్రమైన వైరల్ హెపటైటిస్)"
+          }
+        }
+      }
+    },
+    "Liver Disease (Cirrhosis/ liver tumor)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కాలేయ వ్యాధి (సిర్రోసిస్/లివర్ ట్యూమర్)"
           }
         }
       }
@@ -3220,6 +3768,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "LNG-IUD"
@@ -3245,6 +3799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "લાંબા સમય સુધી ટકે છે"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "దీర్ఘకాలం"
           }
         }
       }
@@ -3377,6 +3937,12 @@
             "state" : "translated",
             "value" : "પુરુષોની નસબંધી (વેસ્કેટોમી)"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "పురుషులకు సంతాన నిరోధక శస్త్రచికిత్స (వ్యాసెక్టమీ)"
+          }
         }
       }
     },
@@ -3387,6 +3953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તબીબી"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "వైద్యపరమైన"
           }
         }
       }
@@ -3402,9 +3974,6 @@
         }
       }
     },
-    "Medical Eligibility Criteria for Contraceptive Use" : {
-      "extractionState" : "manual"
-    },
     "Medical Eligibility Criteria for Contraceptive Use " : {
       "extractionState" : "manual",
       "localizations" : {
@@ -3413,16 +3982,28 @@
             "state" : "translated",
             "value" : "ગર્ભનિરોધકના ઉપયોગ માટેની તબીબી પાત્રતાના માપદંડો "
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భనిరోధక సాధనాల వాడుకకు గల వైద్య పరమైనఅర్హతకు సంబంధించిన విధి విధానం"
+          }
         }
       }
     },
-    "Medical Eligibility Criteria for Contraceptive Use (India-adapted WHO MEC Wheel 2022) " : {
+    "Medical Eligibility Criteria for Contraceptive Use (India-adapted WHO MEC Wheel 2022)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભનિરોધકના ઉપયોગ માટેની તબીબી પાત્રતાના માપદંડો (ઇન્ડિયા-એડેપ્ટેડ ડબ્લ્યુએચઓ એમઇસી વ્હિલ 2022) "
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భనిరోధక సాధనాల వాడుకకు గల వైద్య పరమైన అర్హత కు సంబంధించిన విధి విధానం (భారతదేశం- WHO MEC Wheel 2022)అవలంబించినది"
           }
         }
       }
@@ -3435,6 +4016,12 @@
             "state" : "translated",
             "value" : "સૌપ્રથમ વખત રજોદર્શન શરૂ થવાથી માંડીને <18 વર્ષ સુધી"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రజస్వల, పుష్పవతి అయినప్పటినుండి <18  సంవత్సరాలు"
+          }
         }
       }
     },
@@ -3446,6 +4033,12 @@
             "state" : "translated",
             "value" : "સૌપ્રથમ વખત રજોદર્શન શરૂ થવાથી માંડીને <18 વર્ષ સુધી\n40 વર્ષ અને તેનાથી મોટી વય\n"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రజస్వల, పుష్పవతి అయినప్పటినుండి <18  సంవత్సరాలు \n40  ఏళ్ళు, ఆ పైన వయసు"
+          }
         }
       }
     },
@@ -3456,6 +4049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "આ પદ્ધતિનો ઉપયોગ કરશો નહીં"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "పద్ధతి ఉపయోగించరాదు"
           }
         }
       }
@@ -3470,6 +4069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઑરાની સાથે માઇગ્રેન°"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కాంతి వలయంతో వచ్చే పార్శ్వ తలనొప్పి°"
           }
         }
       }
@@ -3492,6 +4097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઑરા વગર માઇગ્રેન°"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కాంతి వలయంతో వచ్చే పార్శ్వ తలనొప్పి°"
           }
         }
       }
@@ -3606,6 +4217,17 @@
         }
       }
     },
+    "No" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కాదు"
+          }
+        }
+      }
+    },
     "No hormone\t" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -3618,7 +4240,15 @@
       }
     },
     "No hormones" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "హార్మోన్లు లేవు"
+          }
+        }
+      }
     },
     "Non-hormonal contraceptives (Centchroman)" : {
       "extractionState" : "manual",
@@ -3627,6 +4257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "નોન-હોર્મોનલ કૉન્ટ્રાસેપ્ટિવ્સ\n(સેન્ટક્રોમેન)\n"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "నాన్-హార్మోనల్ గర్భనిరోధకాలు (సెంక్రోమన్)"
           }
         }
       }
@@ -3649,6 +4285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પરુ વગરનો સ્રાવ થવો અને ઊંચું જોખમ ધરાવતી વ્યક્તિ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "నాన్-ప్యూరెంట్ డిశ్చార్జ్ & అధిక ప్రమాదం ఉన్న వ్యక్తి"
           }
         }
       }
@@ -3674,6 +4316,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "નલિપેરસ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఏ కారణంవలన అయినా కనిపించే సంతానహీనత / శూన్యగర్భం"
           }
         }
       }
@@ -3708,6 +4356,12 @@
             "state" : "translated",
             "value" : "એન્ટિકોન્વુલસેન્ટ્સ પર"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "యాంటీ కన్వల్సెంట్లపై"
+          }
         }
       }
     },
@@ -3729,6 +4383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "રિફામપિસિન રિફાબ્યુટિન પર"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రిఫాంపిసిన్ రిఫాబుటిన్‌ పైన"
           }
         }
       }
@@ -3818,6 +4478,12 @@
             "state" : "translated",
             "value" : "PCOD"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCOD"
+          }
         }
       }
     },
@@ -3828,6 +4494,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પેલ્વિક ઇન્ફ્લેમેટરી ડીસીઝ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కటి సంబంధిత వాపుల వ్యాధి/పెల్విక్ ఇన్ఫ్లమేటరీ వ్యాధి"
+          }
+        }
+      }
+    },
+    "Pelvic Inflammatory Disease (Current)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "పెల్విక్ ఇన్ఫ్లమేటరీ వ్యాధి (ప్రస్తుత స్థితి)"
           }
         }
       }
@@ -3895,6 +4578,12 @@
             "state" : "translated",
             "value" : "POP"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POP"
+          }
         }
       }
     },
@@ -3927,6 +4616,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભપાત પછી"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భస్రావం తరువాత"
+          }
+        }
+      }
+    },
+    "Post Abortal (Medical)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భస్రావం తరువాత (వైద్యపరమైన)"
+          }
+        }
+      }
+    },
+    "Post Abortal (Surgical)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భస్రావం తరువాత (శస్త్ర చికిత్స)"
           }
         }
       }
@@ -4044,6 +4761,45 @@
             "state" : "translated",
             "value" : "પ્રસૂતિ પછી સ્તનપાન કરાવવું"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రసవానంతర తల్లిపాలు ఇస్తుండడం"
+          }
+        }
+      }
+    },
+    "Postpartum Breastfeeding (<48 hrs)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రసవానంతర తల్లిపాలు (<48 గంటలు)"
+          }
+        }
+      }
+    },
+    "Postpartum Breastfeeding (6 weeks–6 months)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రసవానంతర తల్లిపాలు (6 వారాలు - 6 నెలలు)"
+          }
+        }
+      }
+    },
+    "Postpartum Breastfeeding (48 hrs–6 weeks)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రసవానంతర తల్లిపాలు (48 గంటలు - 6 వారాలు)"
+          }
         }
       }
     },
@@ -4054,6 +4810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રાથમિકતાઓ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రాధాన్యతలు"
           }
         }
       }
@@ -4088,16 +4850,11 @@
             "state" : "translated",
             "value" : "તે અંડાશયમાંથી અંડાણુંઓને મુક્ત થતાં (અંડોત્સર્ગ) અટકાવે છે."
           }
-        }
-      }
-    },
-    "Prevents the release of eggs from the ovaries (ovulation)\n" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
+        },
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "અંડાશયમાંથી અંડાણુઓને ઉત્સર્જિત (અંડોત્સર્ગ) થતાં અટકાવે છે."
+            "value" : "అండాశయాల నుండి గుడ్లు విడుదలను నిరోధిస్తుంది (అండోత్సర్గము)"
           }
         }
       }
@@ -4110,6 +4867,12 @@
             "state" : "translated",
             "value" : "અગાઉના LSCS"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మునుపటి LSCS"
+          }
         }
       }
     },
@@ -4120,6 +4883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગુપ્તતા"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గోప్యత"
           }
         }
       }
@@ -4146,6 +4915,12 @@
             "state" : "translated",
             "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రొజెస్టోజెన్- ఇంజక్షన్ చేయదగినవి మాత్రమే"
+          }
         }
       }
     },
@@ -4167,6 +4942,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રોજેસ્ટોજેન-ઓન્લી પિલ્સ"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రొజెస్టోజెన్ - మాత్రలు మాత్రమే"
           }
         }
       }
@@ -4201,6 +4982,12 @@
             "state" : "translated",
             "value" : "પ્રસૂતિ સંબંધિત / ગર્ભપાત પછી"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రసవానంతర/ప్రసవానంతర"
+          }
         }
       }
     },
@@ -4211,6 +4998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્રાવમાં પરુ નીકળવું"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "చీముతో కలిసిన డిశ్చార్జి, స్రావాలు"
           }
         }
       }
@@ -4270,6 +5063,12 @@
             "state" : "translated",
             "value" : "ભલામણ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "సిఫార్సు"
+          }
         }
       }
     },
@@ -4281,6 +5080,12 @@
             "state" : "translated",
             "value" : "એન્ડોમેટ્રિયલ અને અંડાશયના કેન્સરના જોખમને ઘટાડે છે."
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఎండోమెట్రియల్ మరియు అండాశయ క్యాన్సర్ ప్రమాదాన్ని తగ్గిస్తుంది."
+          }
         }
       }
     },
@@ -4291,6 +5096,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ નિયમિતપણે થવો"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రెగ్యులర్ రక్తస్రావం"
           }
         }
       }
@@ -4435,11 +5246,25 @@
             "state" : "translated",
             "value" : "ભલામણો જુઓ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "సిఫార్సులను చూడండి"
+          }
         }
       }
     },
-    "Select the medical condition or history that apply. More than one condition can be identified.\"" : {
-      "extractionState" : "manual"
+    "Select the medical condition or history that apply. More than one condition can be identified." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "అనుకూలమై వర్తించే వైద్య పరమైన పరిస్థితి లేదా పూర్వ చరిత్ర ను ఎంచుకోండి. ఒకటి కంటే ఎక్కువ పరిస్థితులను కూడా ఎంచుకోవచ్చును. "
+          }
+        }
+      }
     },
     "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period." : {
       "extractionState" : "manual",
@@ -4459,6 +5284,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સેપ્સિસ (ઘામાં સડો થવો)"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "రక్త పూతి దోషం లేదా సెప్సిస్"
+          }
+        }
+      }
+    },
+    "Sepsis (Puerperal/postabortal)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "సెప్సిస్ (ప్రసవానంతర/ప్రసవానంతర)"
           }
         }
       }
@@ -4482,6 +5324,12 @@
             "state" : "translated",
             "value" : "છોડી દો"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "దాటివేయు"
+          }
         }
       }
     },
@@ -4489,6 +5337,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SLE"
+          }
+        },
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SLE"
@@ -4525,6 +5379,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ધૂમ્રપાન"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ధూమపానం"
+          }
+        }
+      }
+    },
+    "Smoking (>35 years)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ధూమపానం (> 35 సంవత్సరాలు)"
           }
         }
       }
@@ -4569,6 +5440,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "શરૂ કરો"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ప్రారంభం"
           }
         }
       }
@@ -4647,16 +5524,50 @@
             "state" : "translated",
             "value" : "STIને નિવારે છે"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STI నివారణ"
+          }
         }
       }
     },
-    "STIs/RTIsF" : {
+    "STIs/RTIs<sup><small><small>F</small></small></sup>" : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "STIs/RTIs<sup><small><small>F</small></small></sup>"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STIలు/RTIs<sup><small><small>F</small></small></sup>"
+          }
+        }
+      }
+    },
+    "STIs/RTIs<sup><small><small>F</small></small></sup> (Non-purulent discharge & individual with high risk)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STIలు/RTIs <sup><small><small>F</small></small></sup> (నాన్-ప్యూరెంట్ డిశ్చార్జ్ & అధిక ప్రమాదం ఉన్న వ్యక్తి\nప్యూరెంట్ డిచ్ఛార్జ్)"
+          }
+        }
+      }
+    },
+    "STIs/RTIs<sup><small><small>F</small></small></sup> (Purulent discharge)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STIలు/RTIs<sup><small><small>F</small></small></sup> (చీముతో కలిసిన డిశ్చార్జి, స్రావాలు)"
           }
         }
       }
@@ -4668,6 +5579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ટ્રોક, IHD, એકથી વધારે જોખમકારક પરિબળો°"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "స్ట్రోక్, IHD, అనేక రకాల ప్రమాద కారకాలు°"
           }
         }
       }
@@ -4702,6 +5619,12 @@
             "state" : "translated",
             "value" : "સર્જિકલ"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "శస్త్ర చికిత్స"
+          }
         }
       }
     },
@@ -4723,6 +5646,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "TB"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TB"
+          }
+        }
+      }
+    },
+    "TB (On rifampicin rifabutin)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TB (రిఫాంపిసిన్ రిఫాబుటిన్‌ పైన)"
           }
         }
       }
@@ -4815,13 +5755,19 @@
         }
       }
     },
-    "The recommendations reflect the eligibility  for  contraceptive methods based on the condition(s) identified" : {
+    "The recommendations reflect the eligibility  for  contraceptive methods based on the condition(s) identified." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "અહીં કરવામાં આવેલી ભલામણો ઓળખી કાઢવામાં આવેલી સ્થિતિ(ઓ) પર આધાર રાખીને ગર્ભનિરોધક પદ્ધતિ માટેની પાત્રતાઓને દર્શાવે છે"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గుర్తించబడిన పరిస్థితి (లు) ఆధారంగా గర్భనిరోధక పద్ధతులను ఉపయోగించగల అర్హత సంబంధమైన సిఫార్సు లను ఇది ప్రతిఫలిస్తుంది."
           }
         }
       }
@@ -4892,13 +5838,19 @@
         }
       }
     },
-    "This chart demonstrates the comparative efficacy with typical use of commonly used contraceptive methods   " : {
+    "This chart demonstrates the comparative efficacy with typical use of commonly used contraceptive methods." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "આ ચાર્ટ સર્વસામાન્ય રીતે ઉપયોગમાં લેવાતી ગર્ભનિરોધ પદ્ધતિઓના ચોક્કસ ઉપયોગની તુલનાત્મક અસરકારકતાને દર્શાવે છે  "
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "సాధారణంగా వాడుకలో ఉండే గర్భనిరోధక పద్ధతులను వాడడం వలన కలిగే ఫలితాన్ని పోల్చి ఎలా ప్రయోజన తరము ఈ ఛార్టు చూపిస్తుంది. "
           }
         }
       }
@@ -4999,6 +5951,12 @@
             "state" : "translated",
             "value" : "યોનિમાંથી અસ્પષ્ટ રીતે રક્તસ્રાવ થવો"
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "చెప్పలేని యోని రక్తస్రావం"
+          }
         }
       }
     },
@@ -5089,6 +6047,17 @@
         }
       }
     },
+    "Use of the method not usually recommended unless other, more and appropriate methods are not available or acceptable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఇతర, మరిన్ని మరియు తగిన పద్ధతులు అందుబాటులో లేకుంటే లేదా అంగీకరించలేకపోతే తప్పించి, సాధనాల విధానాన్ని ఉపయోగించడం సాధారణంగా సిఫార్సు చేయబడదు."
+          }
+        }
+      }
+    },
     "Valvular heart disease (complicated)" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -5096,6 +6065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વાલ્વુલર હાર્ટ ડીસીઝ (જટિલ)"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "వాల్యులర్ గుండె జబ్బు (సంక్లిష్టమైనది)"
           }
         }
       }
@@ -5349,6 +6324,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભાવસ્થા અસ્વીકાર્ય જોખમ બની જાય તેવી સ્થિતિ ધરાવતી સ્ત્રીઓને સલાહ આપવામાં આવે છે કે, જે સ્ત્રીઓ ગર્ભાવસ્થાને નિવારવા માટે બેરિયર (અવરોધક) પદ્ધતિનો સતત અને યોગ્ય રીતે ઉપયોગ કરી શકે તેમ નથી તેમના માટે તે યોગ્ય નથી, કારણ કે, તેમાં તેનો નિષ્ફળ જવાનો સામાન્ય કરતાં વધારે ઊંચો દર ધરાવે છે."
+          }
+        }
+      }
+    },
+    "Yes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "అవును"
           }
         }
       }
