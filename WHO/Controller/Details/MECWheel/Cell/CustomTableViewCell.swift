@@ -31,7 +31,10 @@ class CustomTableViewCell: UITableViewCell {
         if self.lowerWheelImg != nil {
             let _panGesture = UIPanGestureRecognizer(target: self, action: #selector(rotateItem(_:)))
             self.addGestureRecognizer(_panGesture)
-            _startTransform = self.lowerWheelImg.transform
+            //_startTransform = self.lowerWheelImg.transform
+            _startTransform = CGAffineTransform(a: 1.0, b: 0.0, c: 0.0, d: 1.0, tx: 0.0, ty: 0.0)
+
+            self.lowerWheelImg.transform = CGAffineTransformRotate(_startTransform, CGFloat(1.7797605991363525))
 //            self.rotate2(imageView: self.lowerWheelImg, aCircleTime: 10.0)
         }
     }
@@ -60,6 +63,8 @@ class CustomTableViewCell: UITableViewCell {
             let ang = atan2f(Float(currPoint.y - center.y), Float(currPoint.x - center.x)) - atan2f(Float(_prevPoint.y - center.y), Float(_prevPoint.x - center.x))
             _prevPoint = recognizer.location(in: self)
             _deltaAngle += ang
+                        print(_startTransform)
+                        print(CGFloat(_deltaAngle))
             self.lowerWheelImg.transform = CGAffineTransformRotate(_startTransform, CGFloat(_deltaAngle))
         }
     }

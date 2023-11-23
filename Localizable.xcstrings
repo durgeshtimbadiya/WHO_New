@@ -1,8 +1,456 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "\"NA = not applicable<br><br>*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbspthan among women with < 25 kg/m<sup><small><small>2</small></small></sup>.<br><br>Despite this, there are no safety concerns." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = લાગુ થતું નથી\n*< 25 kg/m2 BMI ધરાવતી સ્ત્રીઓની સરખામણીએ BMI ≥ 30 kg/m2 ધરાવતી સ્ત્રીઓમાં ઇમર્જન્સીમાં લેવાની ગર્ભનિરોધક ગોળીઓ ઓછી અસરકારક સાબિત થઈ શકે છે.\nતેમ છતાં તેમાં સુરક્ષા સંબંધિત કોઈ ચિંતાનું કારણ નથી."
+          }
+        }
+      }
+    },
+    "(Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(અહીં દર્શાવવામાં આવેલી સંખ્યાઓ કોઈ ચોક્કસ પદ્ધતિનો વિશિષ્ટ રીતે ઉપયોગ કરવાના પ્રથમ વર્ષ દરમિયાન અનિચ્છિત ગર્ભાવસ્થાનો સામનો કરી રહેલી સ્ત્રીઓની ટકાવારીને દર્શાવે છે)"
+          }
+        }
+      }
+    },
+    "* For women who are less than 6 weeks postpartum and primarily breastfeeding, use of POIs is not usually recommended unless other more appropriate methods are not available or not acceptable." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "* જે સ્ત્રીઓને પ્રસૂતિ પછી 6 અઠવાડિયાથી પણ ઓછો સમય થયો હોય અને પ્રાથમિક રીતે સ્તનપાન કરાવી રહી હોય, તેમને સામાન્ય રીતે POIsનો ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી, સિવાય કે અન્ય કોઈ વધારે યોગ્ય પદ્ધતિઓ ઉપલબ્ધ ના હોય કે સ્વીકાર્ય ના હોય."
+          }
+        }
+      }
+    },
+    "* However, for programmatic reasons, some contraceptive methods may be provided during this period." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "* જોકે, કાર્યક્રમ સંબંધિત કેટલાક કારણોસર આ સમયગાળા દરમિયાન કેટલીક ગર્ભનિરોધક પદ્ધતિઓને પૂરી પાડવામાં આવી શકે છે."
+          }
+        }
+      }
+    },
+    "* It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*પ્રસૂતિ પછીના પ્રથમ 21 દિવસો દરમિયાન સ્ત્રી અંડોત્સર્ગ કરવા લાગે અને ગર્ભાવસ્થા રહી જવાનું જોખમ હોય તેની શક્યતા ખૂબ ઓછી છે. જોકે, કાર્યક્રમ સંબંધિત કેટલાક કારણોસર આ સમયગાળા દરમિયાન કેટલીક ચોક્કસ ગર્ભનિરોધક પદ્ધતિઓને જ પૂરી પાડવામાં આવી શકે છે."
+          }
+        }
+      }
+    },
+    "<48 hrs" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<48 hrs"
+          }
+        }
+      }
+    },
+    "<160/100" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        }
+      }
+    },
+    ">35years" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">35years"
+          }
+        }
+      }
+    },
+    ">45 yrs = 2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">45 વર્ષ = 2"
+          }
+        }
+      }
+    },
+    ">99" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        }
+      }
+    },
+    "0.5% Female sterilization - 0.15% Vasectomy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0.5% મહિલા નસબંધી - 0.15% પુરુષ નસબંધી"
+          }
+        }
+      }
+    },
+    "0.05% Implants - 0.8% IUD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0.05% ઇમ્પ્લાન્ટ્સ - 0.8% IUD"
+          }
+        }
+      }
+    },
+    "1-rod implant, containing 68 mg of etonogestrel (Barium Impregnated)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-રોડ ઇમ્પ્લાન્ટ, જે 68 મિગ્રા એટોનોજેસ્ટ્રેલ (બેરિયમ ઇમ્પ્રેગ્નેટેડ) ધરાવે છે "
+          }
+        }
+      }
+    },
+    "1–2 pregnancy per 100 women with perfect use" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પર્ફેક્ટ રીતે ઉપયોગ કરવા પર દર 100 સ્ત્રીઓ દીઠ 1-2 ગર્ભાવસ્થા"
+          }
+        }
+      }
+    },
+    "1.  Levonorgestrel (LNG):" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1.   લીવોનોરજેસ્ટ્રેલ (LNG):"
+          }
+        }
+      }
+    },
+    "1. Amenorrhoea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. માસિક રક્તસ્રાવ બંધ થઈ ગયેલો હોવો જોઇએ."
+          }
+        }
+      }
+    },
+    "2-rod implant, each rod containing 75 mg of LNG" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2-રોડનો ઇમ્પ્લાન્ટ, પ્રત્યેક રોડ 75 મિગ્રા LNG ધરાવે છે."
+          }
+        }
+      }
+    },
+    "2. Fully or nearly fully breastfeeding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. સંપૂર્ણ અથવા લગભગ સંપૂર્ણ સ્તપાન કરાવવું જોઇએ."
+          }
+        }
+      }
+    },
+    "3 months delay in taking effect while stored sperm is still present; does not affect male sexual performance; voluntary and informed choice is essential." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જ્યારે સંગ્રહિત થયેલા શુક્રાણુ હજુ પણ હાજર હોય તો અસર થવામાં 3 મહિનાનો વિલંબ થાય છે; તેનાથી પુરુષોના જાતીય કાર્યદેખાવ પર કોઈ અસર થતી નથી; સ્વૈચ્છિક અને સૂચિત રીતે પસંદગી કરવી જરૂરી બની જાય છે."
+          }
+        }
+      }
+    },
+    "3. Less than six months postpartum." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. પ્રસૂતિ પછી છ મહિનાથી ઓછો સમય થયો હોવો જોઇએ."
+          }
+        }
+      }
+    },
+    "3TC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
+          }
+        }
+      }
+    },
+    "6 weeks–6 months" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6 અઠવાડિયા - 6 મહિના"
+          }
+        }
+      }
+    },
+    "6-rod implant, each rod containing 36 mg of LNG (no longer in production)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6-રોડનો ઇમ્પ્લાન્ટ, પ્રત્યેક રોડ 36 મિગ્રા LNG (હવે તેનું ઉત્પાદન થતું નથી) ધરાવે છે."
+          }
+        }
+      }
+    },
+    "40 years and above" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "40 વર્ષ અને તેનાથી મોટી વય"
+          }
+        }
+      }
+    },
+    "48 hrs–6 weeks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "48 કલાક - 6 અઠવાડિયા"
+          }
+        }
+      }
+    },
+    "85" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "85"
+          }
+        }
+      }
+    },
+    "92" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "92"
+          }
+        }
+      }
+    },
+    "99% with correct and consistent use\n98% as commonly used" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "યોગ્ય અને નિરંતર ઉપયોગ કરવા પર 99%\nકૉમન રીતે ઉપયોગ કરવા પર 98%"
+          }
+        }
+      }
+    },
+    "A Cu-IUD can be inserted at any time if it can be determined that the woman is not pregnant. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી નથી તે જો નક્કી કરી શકાય તેમ હોય તો Cu-IUDને કોઈ પણ સમયે દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        }
+      }
+    },
+    "A method that a client can stop or start without seeing a medical provider" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એવી પદ્ધતિ કે જેને ક્લાયેન્ટ મેડિકલ પ્રોવાઇડરની મદદ વગર ચાલું કે બંધ કરી શકે છે"
+          }
+        }
+      }
+    },
+    "A method that can last a number of years" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એવી પદ્ધતિ જે વર્ષો વર્ષ સુધી ટકી શકે છે"
+          }
+        }
+      }
+    },
+    "A method that does not contain any hormones" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એવી પદ્ધતિ કે જે કોઈ હોર્મોન ધરાવતી નથી"
+          }
+        }
+      }
+    },
+    "A method that is more than 99% effective at preventing pregnancy in typical use" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એવી પદ્ધતિ કે જેનો ચોક્કસ રીતે ઉપયોગ કરવાથી ગર્ભાવસ્થાને નિવારવામાં 99% કરતાં વધારે અસરકારક સાબિત થાય"
+          }
+        }
+      }
+    },
+    "A method that is not able to detected by a partner or other people when in use." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એવી પદ્ધતિ કે જેનો ઉપયોગ કરતી વખતે તમારા જીવનસાથી કે અન્ય લોકોને ખબર પડે નહીં"
+          }
+        }
+      }
+    },
+    "A method that prevent sexually transmitted infections along with preventing pregnancy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એવી પદ્ધતિ કે જે ગર્ભાવસ્થાને નિવારવાની સાથે-સાથે જાતીય સમાગમથી પ્રસારિત થતાં ચેપને પણ અટકાવે છે"
+          }
+        }
+      }
+    },
+    "A method that results in regularly scheduled monthly bleeding, similar to a period" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એવી પદ્ધતિ જેના પરિણામસ્વરૂપ માસિક રક્તસ્રાવ નિયમિતપણે આવતો થઈ જવો, પીરિયડની જેમ જ"
+          }
+        }
+      }
+    },
+    "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભાશયમાં T-આકારના પ્લાસ્ટિકના ઉપકરણને દાખલ કરવામાં આવે છે, જે દરરોજ સ્થિરપણે લીવોનોરજેસ્ટ્રેલની થોડી-થોડી માત્રાને મુક્ત કરે છે."
+          }
+        }
+      }
+    },
+    "A temporary family planning method based on the natural effect of breastfeeding on fertility" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રજનનક્ષમતા પર સ્તનપાનની કુદરતી અસર પર આધારિત કામચલાઉ કુટુંબ નિયોજનની પદ્ધતિ છે."
+          }
+        }
+      }
+    },
+    "Abacavir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એબાકાવિર"
+          }
+        }
+      }
+    },
+    "ABC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        }
+      }
+    },
     "About the Wheel" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વ્હિલ વિશે"
+          }
+        }
+      }
     },
     "about_description" : {
       "extractionState" : "manual",
@@ -27,8 +475,8 @@
         },
         "gu-IN" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of contraceptives :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the <strong><i>Medical Eligibility Criteria for Contraceptive Use</i></strong> guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>આ વ્હિલ ગર્ભનિરોધકની પદ્ધતિઓનો ઉપયોગ શરૂ કરવા માટેના તબીબી પાત્રતાના માપદંડો ધરાવે છે. તેને ગર્ભનિરોધકના ઉપયોગ માટે WHO MEC વ્હિલમાંથી લેવામાં આવ્યાં છે (વર્ષ 2022નું અપડેટ) અને તે મેડિકલ એલિજિબિલિટી ક્રાઇટેરિયા ફોર કૉન્ટ્રાસેપ્ટિવ યુઝ, ચોથી અને પાંચમી આવૃત્તિ (અનુક્રમે વર્ષ 2008 અને વર્ષ 2022) પર આધારિત છે. તે કોઈ ચોક્કસ તબીબી સ્થિતિ કે તબીબી રીતે સંબંધિત લાક્ષણિકતાઓ ધરાવતી મહિલાઓ માટે ગર્ભનિરોધકની સલામત અને અસરકારક પદ્ધતિઓની ભલામણ કરવામાં કુટુંબ નિયોજન કરનારા પરિવારને માર્ગદર્શન પૂરું પાડે છે. :</p>\n  <ol>\n    <li>કમ્બાઇન્ડ પિલ્સ (સાથે લેવાની ગોળીઓ) (ઓછા ડૉઝની મોં વાટે લેવાની કમ્બાઇન્ડ ગર્ભનિરોધક ગોળીઓ, જેમાં < 35 Ug એથિનીલેસ્ટ્રેડિયલ આવે છે) અને કમ્બાઇન્ડ ઇન્જેક્ટેબલ ગર્ભનિરોધકો)</li>\n    <li>સેન્ટક્રોમેન પિલ્સ</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી પિલ્સ</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સ. DMPA (ત્રિ-માસિક ઇન્જેક્ટેબ) અને NET-EN (દ્વિ-માસિક ઇન્જેક્ટેબલ)</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પાન્ટ્સ</li>\n    <li>કૉપરયુક્ત IUCD</li>\n    <li>લેવોનોરજેસ્ટ્રલ ઇન્ટ્રા યુટેરાઇન ડીવાઇઝ (LNG-IUD)</li>\n  </ol>\n  <p><br />વ્હિલમાં આપવામાં આવેલું માર્ગદર્શન ગર્ભનિરોધક પદ્ધતિઓની શરૂઆત કરવા માટે લાગુ થાય છે. આ પદ્ધતિનો ઉપયોગ કરતી વખતે જો કોઈ સ્ત્રીમાં કોઈ તબીબી સ્થિતિ વિકસે ત્યારે આ પદ્ધતિનો ઉપયોગ ચાલું રાખવા માટેની ભલામણો મેડિકલ એલિજિબિલિટી ક્રાઇટેરિયા ફોર કૉન્ટ્રાસેપ્ટિવ યુઝ નામની માર્ગદર્શિકામાંથી મળી જશે.</p>\n  <p>તે MoHFW દ્વારા તૈયાર કરવામાં આવેલા ઇન્ડિયા-એડેપ્ટેડ ડબ્લ્યુએચઓ એમઇસી વ્હિલ 2022ની ઈ-આવૃત્તિ છે.</p>\n</div>"
           }
         },
         "hi" : {
@@ -75,23 +523,1532 @@
         }
       }
     },
+    "Acute DVT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તીવ્ર DVT"
+          }
+        }
+      }
+    },
+    "Acute viral hepatitis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તીવ્ર વાઇરલ હીપેટાઇટિસ"
+          }
+        }
+      }
+    },
     "Additional Info" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વધારાની માહિતી"
+          }
+        }
+      }
+    },
+    "Additional Info on how to use the methods safely and effectively " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ પદ્ધતિનો ઉપયોગ સલામત અને અસરકારક રીતે કેવી રીતે કરવો તે અંગેની વધારાની માહિતી  "
+          }
+        }
+      }
+    },
+    "Adolescents" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કિશોરો"
+          }
+        }
+      }
+    },
+    "After 2nd trimester abortion, Cu IUCD and LNG-IUD = Cat 2.The provider should be skilled in PPIUCD technique" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બીજા ત્રિમાસિકગાળામાં થયેલા ગર્ભપાત બાદ Cu IUCD અને LNG-IUD = કેટેગરી 2. પ્રોવાઇડર PPIUCD ટેકનિકમાં કુશળ હોવા જોઇએ."
+          }
+        }
+      }
+    },
+    "Age" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વય"
+          }
+        }
+      }
+    },
+    "Amenorrhoeic" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એમેનોર્હોઇક"
+          }
+        }
+      }
+    },
+    "Amenorrhoeic (non-postpartum)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એમેનોર્હોઇક (પ્રસૂતિ થયાં પહેલાં)  "
+          }
+        }
+      }
+    },
+    "An IUD can be inserted at the woman’s convenience if it is reasonably certain that she is not pregnant. " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને સ્ત્રીની અનુકૂળતાએ દાખલ કરી શકાય છે."
+          }
+        }
+      }
+    },
+    "An IUD can be inserted immediately after a first-trimester abortion." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભપાતના પ્રથમ ત્રિમાસિકગાળા બાદ તરત જ IUDને દાખલ કરી શકાય છે."
+          }
+        }
+      }
+    },
+    "An IUD can generally be inserted immediately after a second-trimester abortion." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સામાન્ય રીતે બીજા ત્રિમાસિકગાળાના ગર્ભપાત બાદ તરત જ IUDને દાખલ કરી શકાય છે."
+          }
+        }
+      }
+    },
+    "An IUD should not be inserted immediately following septic abortion (MEC category 4)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સેપ્સિસ ગર્ભપાત (MEC કેટેગરી 4) બાદ તરત IUD દાખલ કરવી જોઇએ નહીં."
+          }
+        }
+      }
+    },
+    "Anaemia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એનીમિયા (પાંડુરોગ)"
+          }
+        }
+      }
+    },
+    "AnIUD can be inserted at any time if it can be determined that the woman is not pregnant. she will require back up method for first 7 days after insertion." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને કોઈ પણ સમયે દાખલ કરી શકાય છે. તેને દાખલ કર્યા પછી પ્રથમ 7 દિવસ માટે તેમને બેક અપ મેથડની જરૂર પડશે."
+          }
+        }
+      }
+    },
+    "Antiretroviral medications and abbreviations" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એન્ટિરીટ્રોવાઇરલ દવાઓ અને સંક્ષિપ્ત રૂપો"
+          }
+        }
+      }
+    },
+    "At least 2–3 months. Can be given at a time and it may be more as per programmatic guidelines of the country." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક વખતમાં ઓછામાં ઓછા 2-3 મહિના આપવામાં આવી શકે છે અને તે દેશની પ્રોગ્રામ સંબંધિત માર્ગદર્શિકા મુજબ વધારે પણ હોઈ શકે છે."
+          }
+        }
+      }
+    },
+    "ATV/r" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ATV/r"
+          }
+        }
+      }
+    },
+    "AZT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AZT"
+          }
+        }
+      }
+    },
+    "BACK TO CONDITIONS" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પરિસ્થિતિઓ પર પરત"
+          }
+        }
+      }
+    },
+    "Barrier methods" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બેરિયર મેથડ્સ"
+          }
+        }
+      }
+    },
+    "Based on the selected medical condition(s), these are the safety ratings for contraceptive methods." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કેટલીક પસંદગીની તબીબી સ્થિતિ(ઓ) પર આધાર રાખીને અહીં ગર્ભનિરોધક પદ્ધતિઓ માટેના સલામતીના રેટિંગ્સ આપવામાં આવ્યાં છે."
+          }
+        }
+      }
+    },
+    "Based on the selected medical condition(s), these are the safety ratings for contraceptive methods. Click on the arrow to review safety ratings for each condition alone." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કેટલીક પસંદગીની તબીબી સ્થિતિ(ઓ) પર આધાર રાખીને અહીં ગર્ભનિરોધક પદ્ધતિઓ માટેના સલામતીના રેટિંગ્સ આપવામાં આવ્યાં છે. દરેક પરિસ્થિતિ માટેના સલામતીના રેટિંગ્સની અલગથી સમીક્ષા કરવા માટે એરો પર ક્લિક કરો."
+          }
+        }
+      }
+    },
+    "Benign breast disease or undiagnosed mass" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બેનાઇન બ્રેસ્ટ ડીસીઝ અથવા નિદાન નહીં થયેલું દ્રવ્યમાન"
+          }
+        }
+      }
+    },
+    "Benign ovarian tumours, including cysts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બેનાઇન ઓવેરિયન ટ્યુમર્સ, સીસ્ટ સહિત"
+          }
+        }
+      }
+    },
+    "Breast cancer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્તનનું કેન્સર"
+          }
+        }
+      }
+    },
+    "Breast cancer family history" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્તનના કેન્સરની કૌટુંબિક પૂર્વવિગત"
+          }
+        }
+      }
+    },
+    "Breastfeeding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્તનપાન"
+          }
+        }
+      }
+    },
+    "Can be used while breastfeeding; must be taken at the same time each day." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી સ્તનપાન કરાવતી હોય તે દરમિયાન પણ લઈ શકાય છે; તેને દરરોજ એક જ સમયે લઈ શકાય છે."
+          }
+        }
+      }
+    },
+    "Can insert Cu IUCD and LNG-IUD <48 hours after delivery andduring LSCS or≥6 weeks after delivery" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી <48 કલાકે અને LSCS દરમિયાન કે પ્રસૂતિ પછી ≥6 અઠવાડિયે Cu IUCD અને LNG-IUDને દાખલ કરી શકાય છે."
+          }
+        }
+      }
+    },
+    "Cancer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કેન્સર"
+          }
+        }
+      }
+    },
+    "Cardiovascular Diseases" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કાર્ડિયોવાસ્ક્યુલર બીમારીઓ"
+          }
+        }
+      }
+    },
+    "Cent." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cent."
+          }
+        }
+      }
+    },
+    "Centchroman can be safely taken by women just after abortion, miscarriage or ectopic pregnancy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી દ્વારા સેન્ટક્રોમેનને ગર્ભપાત, કસુવાવડ કે એક્ટોપિક ગર્ભાવસ્થા પછી તરત સલામતીપૂર્વક લઈ શકાય છે."
+          }
+        }
+      }
+    },
+    "Centchroman is to be taken twice a week for the first 3 months and once a week from the 4th month onwards." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સેન્ટક્રોમેનને પ્રથમ 3 મહિના માટે અઠવાડિયામાં બે વખત અને ચોથા મહિનાથી અઠવાડિયે એક વખત લેવાની રહે છે."
+          }
+        }
+      }
+    },
+    "Centchroman pills" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સેન્ટક્રોમેન પિલ્સ"
+          }
+        }
+      }
+    },
+    "Cervical cancer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભાશયના મુખનું કેન્સર"
+          }
+        }
+      }
+    },
+    "CHC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        }
+      }
+    },
+    "CHC can be initiated immediately post-abortion. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભપાત પછી તરત જ CHCને શરૂ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+          }
+        }
+      }
+    },
+    "CHCs are typically dosed with 21-24 consecutive days of hormone followed by 4-7 hormone-free days. However, dosing regimens that have fewer or no hormone-free days are also used." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHCsને સામાન્ય રીતે સળંગ 21-24 દિવસ હોર્મોનના ડૉઝની સાથે આપવામાં આવે છે, જેના પછી 4-7 દિવસ હોર્મોન આપવામાં આવતાં નથી. જોકે, ખૂબ જ થોડાં અથવા સહેજ પણ હોર્મોનનો ઉપયોગ કરવામાં ન આવતો હોય તેવા ડૉઝનો પણ ઉપયોગ થાય છે.\n"
+          }
+        }
+      }
+    },
+    "Cirrhosis/ liver tumor" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સિરોસિસ/લિવરમાં ગાંઠ"
+          }
+        }
+      }
+    },
+    "Client controlled" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ક્લાયેન્ટ દ્વારા નિયંત્રિત"
+          }
+        }
+      }
+    },
+    "COC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
+          }
+        }
+      }
+    },
+    "COCs = 3; CICs = 2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COCs = 3; CICs = 2"
+          }
+        }
+      }
+    },
+    "COCs and heavy smoking = 4; COCs and heavy smokers, <35 = 2;CICs and light smoking = 2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COCs અને ભારે ધૂમ્રપાન = 4; COCs અને ભારે ધૂમ્રપાન કરનારા લોકો, <35 = 2; CICs અને હળવું ધૂમ્રપાન = 2"
+          }
+        }
+      }
+    },
+    "Combined hormonal contraceptives" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કમ્બાઇન્ડ હોર્મોનલ કૉન્ટ્રાસેપ્ટિવ્સ"
+          }
+        }
+      }
+    },
+    "Combined oral contraceptives" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કમ્બાઇન્ડ ઓરલ કૉન્ટ્રાસેપ્ટિવ્સ"
+          }
+        }
+      }
+    },
+    "Combined pills and combined injectables" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કમ્બાઇન્ડ પિલ્સ અને કમ્બાઇન્ડ ઇન્જેક્ટેબલ્સ"
+          }
+        }
+      }
+    },
+    "Comments" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટિપ્પણીઓ"
+          }
+        }
+      }
+    },
+    "Comparing Effectiveness of Family Planning Method" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કુટુંબ નિયોજનની પદ્ધતિની અસરકારકતાની સરખામણી"
+          }
+        }
+      }
     },
     "Conditions" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પરિસ્થિતિઓ"
+          }
+        }
+      }
+    },
+    "Conditions that are Category 1 or 2 for All Methods (Method can be Used)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પરિસ્થિતિઓ કે જે તમામ પદ્ધતિઓ માટે કેટેગરી 1 અથવા 2 છે (ઉપયોગમાં લઈ શકાય તેવી પદ્ધતિ)"
+          }
+        }
+      }
+    },
+    "Condoms = male latex condoms, male polyurethane condoms, female condoms" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કન્ડોમ્સ = પુરુષો માટેના લેટેક્સ કન્ડોમ્સ, પુરુષો માટેના પૉલીયુરેથેન કન્ડોમ્સ, સ્ત્રીઓ માટેના કન્ડોમ્સ"
+          }
+        }
+      }
+    },
+    "Condoms also protect against sexually transmitted infections, including HIV" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ ઉપરાંત, કન્ડોમ્સ HIV સહિત જાતીય રીતે પ્રસારિત થતાં ચેપો સામે સુરક્ષા પૂરી પાડે છે."
+          }
+        }
+      }
+    },
+    "Condoms, diaphragm: Use correctly every time you have sex." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કન્ડોમ્સ, ડાયાફ્રામઃ તમે જ્યારે પણ જાતીય સમાગમ કરો ત્યારે દર વખતે યોગ્ય રીતે ઉપયોગમાં લો."
+          }
+        }
+      }
+    },
+    "Contains only progestogen hormone, not estrogen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફક્ત પ્રોજેસ્ટોજેન હોર્મોન ધરાવે છે, એસ્ટ્રોજેન નહીં."
+          }
+        }
+      }
+    },
+    "CONTINUE TO PREFERENCES" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રાથમિકતાઓ ચાલું રાખો"
+          }
+        }
+      }
     },
     "Contraceptive Choices" : {
       "extractionState" : "manual"
     },
+    "Contraceptive Choices\n\n" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભનિરોધકના વિકલ્પો"
+          }
+        }
+      }
+    },
+    "Contraceptives like COCs & CICs, Centchroman, POPs, DMPA & NET-EN, Implantscan be initiated on the day Misoprostol is given" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જે દિવસે મિસોપ્રોસ્ટોલ આપ્યું હોય તે જ દિવસથી COCs અને CICs, સેન્ટક્રોમેન, POPs, DMPA અને NET-EN, ઇમ્પ્લાન્ટ જેવી ગર્ભનિરોધકોની શરૂઆત કરી શકાય છે."
+          }
+        }
+      }
+    },
+    "Copper component damages sperm and prevents it from meeting the egg" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તાંબાનું ઘટક શુક્રાણુને નુકસાન પહોંચાડે છે અને અંડાણુ સાથે તેનું મિલન થતું અટકાવે છે."
+          }
+        }
+      }
+    },
+    "Copper intrauterine device" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કૉપર ઇન્ટ્રાયુટેરાઇન ડીવાઇઝ"
+          }
+        }
+      }
+    },
+    "Cu IUCD and LNG-IUD to be inserted after ensuring the abortion is complete" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભપાતની સમગ્ર પ્રક્રિયા સમાપ્ત થઈ ગઈ છે, તેની ખાતરી થયાં બાદ Cu IUCD અને LNG-IUDને દાખલ કરી શકાય છે."
+          }
+        }
+      }
+    },
+    "Cu-IUCD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu-IUCD"
+          }
+        }
+      }
+    },
+    "Cu-IUD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu-IUD"
+          }
+        }
+      }
+    },
+    "Current" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વર્તમાન"
+          }
+        }
+      }
+    },
+    "Current PID and Current STI (Purulent discharge): Cu IUCD andLNG-IUD = 4; if she develops these conditions while usingCu IUCD and LNG-IUD, give treatment and continue with the device" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વર્તમાન PID અને વર્તમાન STI (પરુનો સ્રાવ): Cu IUCD અને LNG-IUD = 4; જો તેમનામાં Cu IUCD અને LNG-IUDનો ઉપયોગ કરતી વખતે આ પરિસ્થિતિ વિકસે તો તેમની સારવાર કરો અને ડીવાઇઝનો ઉપયોગ ચાલું રાખો."
+          }
+        }
+      }
+    },
+    "CYP3A4 inducers (e.g. rifampicin, phenytoin, phenobarbital, carbamazepine, efavirenz, fosphenytoin, nevirapine, oxcarbazepine, primidone, rifabutin, St John’s wort/ hypericum perforatum) " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CYP3A4 ઉત્પ્રેરકો (જેમ કે, રિફામપિસિન, ફેનિટોઇન, ફેનોબારબિટલ, કાર્બામાઝેપાઇન, ઇફાવિરેન્ઝ, ફોસફેનીટોઇન, નેવિરાપાઇન, ઓક્સારબેઝેપાઇન, પેરિમિડોન, રિફાબ્યુટિન, સેંટ જૉન્સ વૉર્ટ/ હાઇપરિક્યુમ પર્ફોરેટમ)"
+          }
+        }
+      }
+    },
+    "D4T" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        }
+      }
+    },
+    "Daily pill, weekly patch, or monthly ring, containing two hormones (estrogen and progestogen)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "દરરોજ ગોળી, અઠવાડિક પેચ અથવા માસિક રિંગ, જે બે હોર્મોન્સ (એસ્ટ્રોજેન અને પ્રોજેસ્ટોજેન) ધરાવે છે."
+          }
+        }
+      }
+    },
+    "DDI" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DDI"
+          }
+        }
+      }
+    },
+    "Decreases amount of blood lost with menstruation over time; Reduces menstrual cramps and symptoms of endometriosis; amenorrhea (no menstrual bleeding) in a group of users." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સમયાંતરે માસિક દરમિયાન નીકળતા લોહીની માત્રા ઘટાડી દે છે; માસિકચક્ર દરમિયાન વપરાશકર્તાઓના જૂથમાં આંકડી (ક્રેમ્પ્સ) અને એન્ડોમેટ્રિયોસિસના લક્ષણોને ઘટાડી દે છે; એમેનોર્હીયા એટલે માસિક રક્તસ્રાવ થતો નથી."
+          }
+        }
+      }
+    },
+    "Deep Vein Thrombosis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડીપ વેઇન થ્રોમ્બોસિસ"
+          }
+        }
+      }
+    },
+    "Depression" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હતાશા"
+          }
+        }
+      }
+    },
+    "Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વર્ણન"
+          }
+        }
+      }
+    },
+    "Diabetes Mellitus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડાયાબિટીસ મેલિટસ"
+          }
+        }
+      }
+    },
+    "Diaphragm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડાયાફ્રામ"
+          }
+        }
+      }
+    },
+    "Diaphragm (with spermicide): 94% with correct and consistent use, 88% as commonly used" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડાયાફ્રામ (સ્પર્મિસાઇડની સાથે): યોગ્ય અને સતત ઉપયોગ કરવા પર 94%, કૉમન રીતે ઉપયોગ કરવા પર 88%"
+          }
+        }
+      }
+    },
+    "Diaphragm = diaphragm (with spermicide), cervical cap" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડાયાફ્રામ = ડાયાફ્રામ (સ્પર્મિસાઇડની સાથે), સર્વાઇકલ કેપ"
+          }
+        }
+      }
+    },
+    "Didanosine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડિડાનોસાઇન"
+          }
+        }
+      }
+    },
+    "DMPA = 1; NET-EN = 2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA = 1; NET-EN = 2"
+          }
+        }
+      }
+    },
+    "DMPA-IM = 150 mg of DMPA given intramuscularly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA-IM = 150 મિગ્રા DMPAને સ્નાયુમાં આપવામાં આવે છે"
+          }
+        }
+      }
+    },
+    "DMPA-SC = 104 mg of DMPA given subcutaneously" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA-SC = 104 મિગ્રા DMPAને ચામડીની નીચે આપવામાં આવે છે"
+          }
+        }
+      }
+    },
+    "DMPA/NET-EN" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA/NET-EN"
+          }
+        }
+      }
+    },
+    "DRV/r" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DRV/r"
+          }
+        }
+      }
+    },
+    "During this period, he should resume sexual activity, but he or his partner will need to use additional contraceptive protection." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ સમયગાળા દરમિયાન તેમણે જાતીય પ્રવૃત્તિ ફરીથી શરૂ કરવી જોઇએ પણ તેમણે અથવા તેમના સાથીએ વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો જોઇએ."
+          }
+        }
+      }
+    },
+    "Dysmenorrhoea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડીસમેનોરીયા"
+          }
+        }
+      }
+    },
+    "Early for an injection" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વહેલું ઇન્જેક્શન આપવું"
+          }
+        }
+      }
+    },
+    "EC pill is Category 1 for all physiological and medical conditions and Category 2 for women with h/o severe cardiovascular disease, migraine and severe liver disease." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC પિલ્સ એ તમામ પ્રકારની શારીરિક અને તબીબી પરિસ્થિતિઓ માટેની કેટેગરી 1 છે અને h/o ગંભીર કાર્ડિયોવાસ્ક્યુલર બીમારી, માઇગ્રેન અને લિવરની ગંભીર બીમારી ધરાવતી મહિલાઓ માટે કેટેગરી 2 છે."
+          }
+        }
+      }
+    },
+    "ECpill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC પિલ્સ"
+          }
+        }
+      }
+    },
+    "Efavirenz" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એફાવિરેન્ઝ"
+          }
+        }
+      }
+    },
+    "Effectiveness of methods" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પદ્ધતિઓની અસરકારકતા"
+          }
+        }
+      }
+    },
+    "Effectiveness to prevent pregnancy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભાવસ્થાને નિવારવા માટેની અસરકારકતા"
+          }
+        }
+      }
+    },
+    "Effectiveness to prevent pregnancy\t\t\t\n90%\n" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભાવસ્થાને નિવારવાની અસરકારકતા\n90%\n"
+          }
+        }
+      }
+    },
+    "EFV" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EFV"
+          }
+        }
+      }
+    },
+    "Eggs are blocked from meeting sperm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શુક્રાણુઓની સાથે અંડાણુંઓનું મિલન અટકાવવામાં આવે છે."
+          }
+        }
+      }
+    },
     "Eligibility Tool" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પાત્રતાના ટૂલ"
+          }
+        }
+      }
+    },
+    "Emergency Contraception" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇમર્જન્સીમાં લેવાની ગર્ભનિરોધક"
+          }
+        }
+      }
+    },
+    "Emtricitabine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એમિટ્રિસિટાબાઇન"
+          }
+        }
+      }
+    },
+    "Endometriosis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એન્ડોમેટ્રિયોસિસ"
+          }
+        }
+      }
+    },
+    "Epilepsy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાઈ"
+          }
+        }
+      }
+    },
+    "ETR" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ETR"
+          }
+        }
+      }
+    },
+    "Etravirine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એટ્રાવિરાઇન"
+          }
+        }
+      }
+    },
+    "Evidence available for DMPA-IM applies to DMPA-SC and, therefore, DMPA-SC should have the same categories as DMPA-IM." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA-IM માટે ઉપલબ્ધ પુરાવો DMPA-SC માટે પણ લાગુ થાય છે અને આથી જ, DMPA-SC, DMPA-IM જેવી જ કેટેગરીઓ ધરાવે છે."
+          }
+        }
+      }
+    },
+    "f not breastfeeding, LNG-IUD = Cat 1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્તનપાન ના કરતાં હોય તો, LNG-IUD = કેટેગરી 1"
+          }
+        }
+      }
     },
     "Feedback" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રતિભાવ"
+          }
+        }
+      }
+    },
+    "Female condoms" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રીઓ માટેના કન્ડોમ્સ"
+          }
+        }
+      }
+    },
+    "Female condoms: 90% with correct and consistent use, 79% as commonly used" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રીઓ માટેના કન્ડોમ્સઃ યોગ્ય અને સતત ઉપયોગ કરવા પર 90%, કૉમન રીતે ઉપયોગ કરવા પર 79%"
+          }
+        }
+      }
+    },
+    "Female sterilization" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રીઓની નસબંધી"
+          }
+        }
+      }
+    },
+    "Fertility awareness methods" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફર્ટિલિટી પ્રત્યે જાગૃતિ પેદા કરવાની પદ્ધતિઓ."
+          }
+        }
+      }
+    },
+    "Fertility awareness methods: Abstain from sex or use condoms on fertile days. The Standard Days Method or Two Day Method can also be used." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફર્ટિલિટી પ્રત્યે જાગૃતિ પેદા કરવાની પદ્ધતિઓઃ ગર્ભ રહેવાની સંભાવના ધરાવતા દિવસોએ જાતીય સમાગમ કરવાનું ટાળો કે કન્ડોમ્સનો ઉપયોગ કરો. સ્ટાન્ડર્ડ ડેઇઝ મેથડ અથવા ટુ ડે મેથડનો પણ ઉપયોગ કરી શકો છો."
+          }
+        }
+      }
+    },
+    "Fibroid Uterus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફાઇબ્રોઇડ યુટેરસ"
+          }
+        }
+      }
+    },
+    "For a woman using LAM, ALL of the following three criteria must be met to ensure adequate protection from an unplanned pregnancy:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જે સ્ત્રીઓ LAMનો ઉપયોગ કરી રહી છે, તેમણે જો અણધારી ગર્ભાવસ્થા સામે યોગ્ય સુરક્ષાની ખાતરી કરવી હોય તો અહીં નીચે જણાવેલા ત્રણેય માપદંડો પૂરાં કરવાના રહેશેઃ"
+          }
+        }
+      }
+    },
+    "For Lamotrigine, POP and Implants = 1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લેમોટ્રિજાઇન માટે, POP અને ઇમ્પ્લાન્ટ્સ = 1\n"
+          }
+        }
+      }
+    },
+    "For simple non migrainous headache most contraceptives can be safely used" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સાદા માઇગ્રેન સિવાયના માથાના દુઃખાવા માટે મોટાભાગની ગર્ભનિરોધકનો ઉપયોગ સલામતીપૂર્વક કરી શકાય છે"
+          }
+        }
+      }
+    },
+    "Forms a barrier to prevent sperm and egg from meeting" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શુક્રાણુ અને અંડાણુંના મિલનને અટકાવવા માટે એક અવરોધની રચના કરે છે."
+          }
+        }
+      }
+    },
+    "Free from side effects, except for a delay in periods in the first 3 months or scanty periods over time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તેની કોઈ આડઅસરો નથી, સિવાય કે પ્રથમ 3 મહિનામાં માસિક થોડું મોડું આવી શકે છે અથવા તો થોડાં સમય સુધી માસિક ઓછું આવી શકે છે."
+          }
+        }
+      }
+    },
+    "FTC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        }
+      }
+    },
+    "Gestational Trophoblastic Disease" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જેસ્ટેશનલ ટ્રોફોબ્લાસ્ટિક ડીસીઝ"
+          }
+        }
+      }
+    },
+    "Given that sterilization is a surgical procedure that is intended to be permanent, special care must be taken to assure that every client makes a voluntary, informed choice of the method." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નસબંધી એ એક સ્થાયી સર્જિકલ પ્રક્રિયા હોવાનું ધ્યાનમાં રાખતા દરેક ક્લાયેન્ટ સ્વૈચ્છિક અને સૂચિત રીતે આ પદ્ધતિને પસંદ કરે તેની વિશેષ કાળજી લેવી જોઇએ."
+          }
+        }
+      }
+    },
+    "H/O DVT/PE, on anticoagulant, prolonged immobilization" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "H/O DVT/PE, એન્ટિકોએગ્યુલેન્ટ પર, લાંબા સમય સુધી હલનચલન ન થવું"
+          }
+        }
+      }
+    },
+    "Having menstrual cycles" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જે સ્ત્રીઓનું માસિકચક્ર ચાલું છે"
+          }
+        }
+      }
+    },
+    "He should wait 3 months before relying on his vasectomy for contraception." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભનિરોધ માટે પોતાની નસબંધી પર આધાર રાખતા પહેલા તેમણે 3 મહિના સુધી રાહ જોવી જોઇએ."
+          }
+        }
+      }
+    },
+    "HeadacheN" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માથામાં દુઃખાવો<sup><small><small>N</small></small></sup>"
+          }
+        }
+      }
+    },
+    "Health-care provider must insert and remove; can be used for 3–5 years depending on implant; irregular vaginal bleeding common but not harmful." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હેલ્થ-કૅર પ્રોવાઇડરે દાખલ કરવું અને દૂર કરવું જોઇએ; ઇમ્પ્લાન્ટ પર આધાર રાખીને તેને 3-5 વર્ષ માટે ઉપયોગમાં લઈ શકાય છે; યોનિમાંથી અનિયમિતપણે રક્તસ્રાવ થવો એ સર્વસામાન્ય છે પણ હાનિકારક નથી."
+          }
+        }
+      }
+    },
+    "High risk for HIV" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HIVનું ઊંચું જોખમ"
+          }
+        }
+      }
+    },
+    "Highly effective" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અત્યંત અસરકારક"
+          }
+        }
+      }
+    },
+    "History of gestational diabetes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભાવસ્થા દરમિયાન આવેલા ડાયાબિટીસની પૂર્વવિગત"
+          }
+        }
+      }
+    },
+    "History of high blood pressure during pregnancy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભાવસ્થા દરમિયાન આવેલા ઉચ્ચ રક્તચાપની પૂર્વવિગત"
+          }
+        }
+      }
+    },
+    "History of pelvic surgery, including caesarean delivery" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સીઝેરીયન પ્રસૂતિ સહિત પેડુની સર્જરીની પૂર્વવિગત"
+          }
+        }
+      }
+    },
+    "History of severe cardiovascular disease, (ischaemic heart disease, cerebrovascular attack, or other thromboembolic conditions)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગંભીર કાર્ડિયોવાસ્ક્યુલર બીમારીઓ (ઇશ્કેમિક હાર્ટ ડીસીઝ, સેરેબ્રોવાસ્ક્યુલર એટેક અથવા અન્ય થ્રોમ્બોએમ્બોલિક પરિસ્થિતિઓ)ની પૂર્વવિગત"
+          }
+        }
+      }
+    },
+    "HIV asymptomatic or mild clinical disease (WHO Stage 1 or 2)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લક્ષણો વગરનો HIV કે હળવી ક્લિનિકલ બીમારી (WHO સ્ટેજ 1 અથવા 2)"
+          }
+        }
+      }
+    },
+    "HIV/AIDS" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HIV/AIDS"
+          }
+        }
+      }
+    },
+    "How do you use Centchroman (non-hormonal contraceptives)?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમે સેન્ટક્રોમેન (હોર્મોન વગરની ગર્ભનિરોધક)નો ઉપયોગ કેવી રીતે કરી શકો છો?"
+          }
+        }
+      }
+    },
+    "How do you use CHC?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમે CHCનો ઉપયોગ કેવી રીતે કરી શકો?"
+          }
+        }
+      }
+    },
+    "How it works" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How it works"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તે કેવી રીતે કામ કરે છે? "
+          }
+        }
+      }
+    },
+    "How many months should be provided at a time?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક સમયે કેટલા મહિનાનો પુરવઠો પૂરો પાડવો જોઇએ?"
+          }
+        }
+      }
+    },
+    "How to use POPs" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પીઓપીનો ઉપયોગ કેવી રીતે કરવો?"
+          }
+        }
+      }
     },
     "How to Use the Wheel" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વ્હિલનો ઉપયોગ કેવી રીતે કરવો?"
+          }
+        }
+      }
     },
     "howtouse_1" : {
       "extractionState" : "manual",
@@ -117,7 +2074,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>આ વ્હિલનો બહારની કિનારી પર દર્શાવવામાં આવેલી કેટલીક ચોક્કસ તબીબી સ્થિતિઓની સાથે અંદરની ડિસ્ક પર દર્શાવવામાં આવેલી ગર્ભનિરોધકની પદ્ધતિઓની સાથે મેળ ખાય છે. વ્યૂઇંગ સ્લોટમાં દર્શાવવામાં આવેલી સંખ્યાઓ તમને એ અંગે માર્ગદર્શન આપે છે કે જે સ્ત્રી આ પ્રકારની જ્ઞાત તબીબી સ્થિતિ ધરાવતી હોય તેમણે ગર્ભનિરોધક પદ્ધતિનો ઉપયોગ શરૂ કરવો જોઇએ કે નહીં:</p>\n</div>"
           }
         },
         "hi" : {
@@ -188,7 +2145,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Use the method in any circumstance"
+            "value" : "કોઈ પણ સંજોગોમાં પદ્ધતિનો ઉપયોગ કરો"
           }
         },
         "hi" : {
@@ -259,7 +2216,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generally use the method"
+            "value" : "સામાન્ય રીતે આ પદ્ધતિનો ઉપયોગ કરો"
           }
         },
         "hi" : {
@@ -330,7 +2287,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+            "value" : "જ્યાં સુધી અન્ય વધુ યોગ્ય પદ્ધતિઓ ઉપલબ્ધ ના થાય કે સ્વીકાર્ય ના હોય ત્યાં સુધી સામાન્ય રીતે આ પદ્ધતિનો ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી"
           }
         },
         "hi" : {
@@ -401,7 +2358,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Method NOT to be used"
+            "value" : "આ પદ્ધતિનો ઉપયોગ કરશો નહીં"
           }
         },
         "hi" : {
@@ -472,7 +2429,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu.<br><br>"
+            "value" : "<br><br>કેટેગરી 1 અને 4 એ સ્પષ્ટપણે વ્યાખ્યાયિત કરવામાં આવેલી ભલામણો છે. કેટેગરી 2 અને 3 માટે વધુ સારા તબીબી અંદાજની જરૂર પડશે અને કાળજીપૂર્વક લેવામાં આવતાં ફોલો-અપની પણ જરૂર પડી શકે છે. જો તબીબી અંદાજ મર્યાદિત હોય તો કેટેગરી 1 અને 2 બંનેનો અર્થ એ છે કે આ પદ્ધતિનો ઉપયોગ કરી શકાય છે અને કેટેગરી 3 કે 4 બંનેનો અર્થ  છે કે, આ પદ્ધતિનો ઉપયોગ કરવો જોઇએ નહીં.<br><br>કેટલીક પરિસ્થિતિઓ માટે કોઈ પ્રતિબંધો નથીઃ એવી ઘણી તબીબી સ્થિતિઓ છે, જેમાં તમામ પદ્ધતિઓનો ઉપયોગ કરી શકાય છે (જેનો અર્થ એ છે કે, તમામ પદ્ધતિઓ કેટેગરી 1 કે 2ની છે). આ પરિસ્થિતિઓ કન્ડિશન્સના મેનૂમાં સૂચિબદ્ધ કરવામાં આવેલી છે.<b>Conditions</b> menu.<br><br>એકવાર ગર્ભનિરોધક પદ્ધતિ માટેની પાત્રતા સ્થાપિત થઈ જાય તે પછી અન્ય વિચારણાના સંબંધમાં વધારાની માહિતીની સ્ક્રીનની સમીક્ષા કરવામાં આવી શકે છે. પદ્ધતિઓ (કેટલીક એવી પદ્ધતિઓ કે જેને આ એપમાં સ્પષ્ટપણે સમાવવામાં આવી નથી, તેના સહિત)ની વિવિધ રેન્જ માટેના ચોક્કસ ઉપયોગની સરખામણી કરતાં ગર્ભનિરોધકની અસરકારકતાના ચાર્ટને આ મેનૂમાં સમાવવામાં આવ્યો છે.<br><br>"
           }
         },
         "hi" : {
@@ -519,8 +2476,619 @@
         }
       }
     },
+    "Hypertension" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હાઇપરટેન્શન (ઉચ્ચ રક્તચાપ)"
+          }
+        }
+      }
+    },
+    "If at increased risk of STI or HIV, advise condom use in addition to any other method" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો STI કે HIVનું જોખમ વધારે હોય તો, અન્ય કોઈ પણ પદ્ધતિનો ઉપયોગ કરવાની સાથે કન્ડોમનો ઉપયોગ કરવાની સલાહ આપો"
+          }
+        }
+      }
+    },
+    "If diabetes complicated or for more than 20 years: COCs, CICs, DMP and NET-EN = 3-4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો ડાયાબિટીસ જટિલ હોય કે 20 વર્ષથી વધારે સમયથી હોય તોઃ COCs, CICs, DMP અને NET-EN = 3-4"
+          }
+        }
+      }
+    },
+    "If established on anticoagulant therapy = 2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો એન્ટિકોગ્યુલેન્ટ થેરાપી પર સ્થાપિત થયેલા હોય તો = 2"
+          }
+        }
+      }
+    },
+    "If her menstrual cycles have not returned and she is 21 or more days postpartum, she can start CHC immediately, if it is reasonably certain that she is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીનું માસિકચક્ર ફરી શરૂ થયું ના હોય અને તેમને પ્રસૂતિ થયાં પછી 21 કે તેનાથી વધુ દિવસો થઈ ગયાં હોય તો, તેઓ તરત જ CHCને શરૂ કરી શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "If her menstrual cycles have returned, she can have the first injection as advised for other women having menstrual cycles." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીનું માસિકચક્ર ફરીથી શરૂ થઈ ગયું હોય તો, તે માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ પ્રથમ ઇન્જેક્શન લઈ શકે છે."
+          }
+        }
+      }
+    },
+    "If her menstrual cycles have returned, she can start Centchroman as advised for other women having menstrual cycles." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો તેમનું માસિકચક્ર હજુ સુધી શરૂ થયું ના હોય તો, તેઓ માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ સેન્ટક્રોમેનને શરૂ કરી શકે છે."
+          }
+        }
+      }
+    },
+    "If her menstrual cycles have returned, she can start CHC as advised for other women having menstrual cycles." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીનું માસિકચક્ર ફરીથી શરૂ થઈ ગયું હોય તો, તે માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ CHCને શરૂ કરી શકે છે."
+          }
+        }
+      }
+    },
+    "If her menstrual cycles have returned, she can start implants as advised for other women having menstrual cycles." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીનું માસિકચક્ર ફરીથી શરૂ થઈ ગયું હોય તો, તેઓ માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ ઇમ્પ્લાન્ટ્સનો ઉપયોગ શરૂ કરી શકે છે."
+          }
+        }
+      }
+    },
+    "If her menstrual cycles have returned, she can start POPs as advised for other women having menstrual cycles." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીનું માસિકચક્ર ફરીથી શરૂ થઈ ગયું હોય તો, તે માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ POPsને શરૂ કરી શકે છે."
+          }
+        }
+      }
+    },
+    "If LNG-IUD is inserted more than seven days after first or second trimester abortion, a back up method will be required for 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રથમ કે બીજા ત્રિમાસિકગાળાના ગર્ભપાત બાદ સાત દિવસથી વધારે સમય પછી LNG-IUDને દાખલ કરવામાં આવી હોય તો, આ 7 દિવસ માટે બેકઅપ મેથડની જરૂર પડશે."
+          }
+        }
+      }
+    },
+    "If not receiving ARV treatment and not clinically well, Cu IUCDand LNG-IUD = 3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો ARV સારવાર મેળવી રહ્યાં ના હોય અને જો ચિકિત્સકીય રીતે તબિયત સારી ના હોય તો, Cu IUCD અને LNG-IUD = 3"
+          }
+        }
+      }
+    },
+    "If on ARV Therapy = 2, except ritonavir - boosted ARVs = 3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો ARV થેરાપી પર હોય તો = 2, રિટોનાવિર - બૂસ્ટેડ ARVs સિવાય = 3"
+          }
+        }
+      }
+    },
+    "If pelvic TB, Cu IUCD and LNG-IUD = 4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પેલ્વિક TB, IUCD અને LNG-IUD = 4"
+          }
+        }
+      }
+    },
+    "If ß hCG is persistently high or local malignant disease Cu IUCD and LNG-IUD = 4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો ß hCG સતત ઊંચું રહેતું હોય કે લૉકલ મેલિગ્નેન્ટ ડીસીઝ હોય તો, Cu IUCD અને LNG-IUD = 4"
+          }
+        }
+      }
+    },
+    "If she is 4 or more weeks postpartum and amenorrhoeic, she can have an IUD inserted, if it is reasonably certain that she is not pregnant. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો કોઈ સ્ત્રીને પ્રસૂતિ પછી કે માસિક બંધ થયાં પછી 4 કે તેનાથી વધારે અઠવાડિયા વીતી ગયાં હોય તો, તે IUD દાખલ કરાવી શકે છે પણ તેઓ ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોવી જોઇએ. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        }
+      }
+    },
+    "If she is 4 or more weeks postpartum and amenorrhoeic, she can have an IUD inserted, if it is reasonably certain that she is not pregnant. she will need a back up method for first 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો કોઈ સ્ત્રીને પ્રસૂતિ પછી કે માસિક બંધ થયાં પછી 4 કે તેનાથી વધારે અઠવાડિયા વીતી ગયાં હોય તો, તે IUD દાખલ કરાવી શકે છે પણ તેઓ ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોવી જોઇએ. તેમને પ્રથમ 7 દિવસ માટે બેક અપ મેથડની જરૂર પડશે."
+          }
+        }
+      }
+    },
+    "If she is 4 or more weeks postpartum and her menstrual cycles have returned, she can have an IUD inserted as advised for other women having menstrual cycles." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીને પ્રસૂતિ પછી અને તેનું માસિકચક્ર ફરીથી શરૂ થયાંનાં 4 અઠવાડિયાથી વધારે સમય વિતી ગયો હોય તો, તેઓ માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ IUD દાખલ કરાવી શકે છે."
+          }
+        }
+      }
+    },
+    "If she is 21 or more days postpartum and her menstrual cycles have not returned, she can have the first injection at any time, if it is reasonably certain that she is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પ્રસૂતિ પછી 21 કે તેનાથી વધારે દિવસો થઈ ગયાં હોય અને તેનું માસિકચક્ર હજુ સુધી ફરી શરૂ થયું ના હોય તો, તે કોઈ પણ સમયે પ્રથમ ઇન્જેક્શન લઈ શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "If she is 21 or more days postpartum and her menstrual cycles have not returned, she can start Centchroman at any time, if it is reasonably certain that she is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 2 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પ્રસૂતિ પછી 21 કે તેનાથી વધારે દિવસો થઈ ગયાં હોય અને તેનું માસિકચક્ર હજુ સુધી ફરી શરૂ થયું ના હોય તો, કોઈ પણ સમયે સેન્ટક્રોમેનને શરૂ કરી શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "If she is 21 or more days postpartum and her menstrual cycles have not returned, she can start implants at any time, if it is reasonably certain that she is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 2 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પ્રસૂતિ પછી 21 કે તેનાથી વધારે દિવસો થઈ ગયાં હોય અને તેનું માસિકચક્ર હજુ સુધી ફરી શરૂ થયું ના હોય તો, તેઓ કોઈ પણ સમયે ઇમ્પ્લાન્ટ્સનો ઉપયોગ શરૂ કરી શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "If she is 21 or more days postpartum and her menstrual cycles have not returned, she can start POPs at any time, if it is reasonably certain that she is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 2 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પ્રસૂતિ પછી 21 કે તેનાથી વધારે દિવસો થઈ ગયાં હોય અને તેમનું માસિકચક્ર હજુ સુધી ફરી શરૂ થયું ના હોય તો, તેઓ કોઈ પણ સમયે POPsને શરૂ કરી શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "If she is between 6 weeks and 6 months postpartum and amenorrhoeic, she can have the first injection at any time. If she is fully or nearly fully breastfeeding, no additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રી પ્રસૂતિ પછી અને માસિક બંધ થયાંનાં 6 અઠવાડિયાથી 6 મહિના વચ્ચેના સમયગાળામાં હોય તો, તે કોઈ પણ સમયે પ્રથમ ઇન્જેક્શન લઈ શકે છે. જો તે સંપૂર્ણપણે અથવા તો લગભગ સંપૂર્ણપણે સ્તનપાન કરાવી રહી હોય તો, કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર રહેતી નથી."
+          }
+        }
+      }
+    },
+    "If she is less than 6 months postpartum, CHC are generally not advised (category 3 or 4)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીને પ્રસૂતિ પછી 6 મહિનાથી ઓછો સમય થયો હોય તો, સામાન્ય રીતે CHCની સલાહ આપવામાં આવતી નથી (કેટેગરી 3 કે 4)."
+          }
+        }
+      }
+    },
+    "If she is less than 21 days postpartum, she can have the first injection at any time. No additional contraceptive protection is needed.*" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પ્રસૂતિના 21થી ઓછા દિવસો થયાં હોય તો, તે કોઈ પણ સમયે પ્રથમ ઇન્જેક્શન લઈ શકે છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી.*"
+          }
+        }
+      }
+    },
+    "If she is less than 21 days postpartum, she can start Centchroman at any time. No additional contraceptive protection is needed.*" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પ્રસૂતિના 21થી ઓછા દિવસો થયાં હોય તો, તે કોઈ પણ સમયે સેન્ટક્રોમેનને શરૂ કરી શકે છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી.*"
+          }
+        }
+      }
+    },
+    "If she is less than 21 days postpartum, she can start implants at any time. No additional contraceptive protection is needed.*" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પ્રસૂતિના 21થી ઓછા દિવસો થયાં હોય તો, તે કોઈ પણ સમયે ઇમ્પ્લાન્ટનો ઉપયોગ શરૂ કરી શકે છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી.*"
+          }
+        }
+      }
+    },
+    "If she is less than 21 days postpartum, she can start POPs at any time. No additional contraceptive protection is needed.*" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો પ્રસૂતિના 21થી ઓછા દિવસો થયાં હોય તો, તે કોઈ પણ સમયે POPsને શરૂ કરી શકે છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી.*"
+          }
+        }
+      }
+    },
+    "If she is less than 48 hours postpartum, she can generally have an IUD inserted." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો કોઈ સ્ત્રીને પ્રસૂતિ પછી 48 કલાકથી પણ ઓછો સમય વીત્યો હોય તો તે સામાન્ય રીતે IUD દાખલ કરાવી શકે છે."
+          }
+        }
+      }
+    },
+    "If she is more than 6 months postpartum, follow advice for non-postpartum women." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીને પ્રસૂતિ પછી 6 મહિનાથી વધારે સમય થઈ ગયો હોય તો, જેમની પ્રસૂતિ થઈ નથી તેવી સ્ત્રીઓ માટે આપવામાં આવેલી સલાહનું પાલન કરો."
+          }
+        }
+      }
+    },
+    "If she is more than 6 weeks postpartum and her menstrual cycles have returned, she can have the first injection as advised for other women having menstrual cycles." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્ત્રીને પ્રસૂતિ પછી અને તેનું માસિકચક્ર ફરીથી શરૂ થયાંનાં 6 અઠવાડિયાથી વધારે સમય વિતી ગયો હોય તો, તે માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ પ્રથમ ઇન્જેક્શન લઈ શકે છે."
+          }
+        }
+      }
+    },
+    "If there is a risk of STI/HIV, the correct and consistent use of condoms is recommended. When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Female condoms are effective and safe, but are not used as widely by national programmes as male condoms." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો STI/HIVનું જોખમ રહેલું હોય તો, કન્ડોમ્સનો યોગ્ય અને નિરંતર ઉપયોગ કરવાની ભલામણ કરવામાં આવે છે. જ્યારે કન્ડોમ્સને યોગ્ય અને નિરંતપણે ઉપયોગમાં લેવામાં આવે છે, ત્યારે તે HIV સહિત STIsની સામે સુરક્ષાની સૌથી અસરકારક પદ્ધતિ બની જાય છે. મહિલાઓ માટેના કન્ડોમ્સ અસરકારક અને સલામત છે પરંતુ રાષ્ટ્રીય કાર્યક્રમો દ્વારા પુરુષો માટેના કન્ડોમ્સ જેટલા વ્યાપકપણે ઉપયોગમાં લેવાતા નથી."
+          }
+        }
+      }
+    },
+    "If uterine cavity is distorted/enlarged, cannot use Cu IUCD or LNG-IUD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો ગર્ભાશયનો પોલાણવાળો હિસ્સો વિકૃત થઈ ગયો હોય/મોટો થઈ ગયો હોય તો, Cu IUCD કે LNG-IUDનો ઉપયોગ થઈ શકતો નથી."
+          }
+        }
+      }
+    },
+    "Impl." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impl."
+          }
+        }
+      }
+    },
+    "Implants" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇમ્પ્લાન્ટ્સ"
+          }
+        }
+      }
+    },
+    "Implants, IUD, female sterilization:\\nAfter procedure, little or nothing to do or remember." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇમ્પ્લાન્ટ્સ, IUD, મહિલા નસબંધીઃ પ્રક્રિયા બાદ થોડું અથવા કંઈ પણ કરવાનું રહેતું નથી કે યાદ રાખવાનું રહેતું નથી."
+          }
+        }
+      }
+    },
+    "In mild cirrhosis, LNG-IUD = Cat 2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હળવા સિરોસિસમાં, LNG-IUD = કેટેગરી 2"
+          }
+        }
+      }
+    },
+    "In severe anemia, Cu IUCD = Cat 2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તીવ્ર એનીમિયા (પાંડુરોગ)માં, Cu IUCD = કેટેગરી 2"
+          }
+        }
+      }
+    },
     "India-adapted MEC Wheel 2022" : {
       "extractionState" : "manual"
+    },
+    "India-adapted MEC Wheel 2022 " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇન્ડિયા-એડેપ્ટેડ એમઇસી વ્હિલ 2022"
+          }
+        }
+      }
+    },
+    "Injectables" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇન્જેક્ટેબલ્સ"
+          }
+        }
+      }
+    },
+    "Injectables:\\nGet repeat injections on time." : {
+      "extractionState" : "manual"
+    },
+    "Injected into the muscle or under the skin every 2 or 3 months, depending on the product" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઉત્પાદન પર આધાર રાખીને દર 2 કે 3 મહિને સ્નાયુમાં અથવા તો ચામડીની નીચે દાખલ કરવામાં આવે છે."
+          }
+        }
+      }
+    },
+    "Integrase Inhibitors" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇન્ટેગ્રેઝ ઇન્હિબિટર્સ"
+          }
+        }
+      }
+    },
+    "Iron-deficiency anaemia,sickle-cell disease and thalassaemia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આયર્નની ઊણપ એનીમિયા, સિકલ-સેલ ડીસીઝ અને થેલેસેમિયા"
+          }
+        }
+      }
+    },
+    "Irregular vaginal bleeding common, but not harmful. Delayed return to fertility (may take several months to become pregnant) after stopping its use." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "યોનિમાંથી અનિયમિતપણે રક્તસ્રાવ થવો એ સર્વસામાન્ય છે પણ હાનિકારક નથી. તેનો ઉપયોગ કરવાનું બંધ કર્યા પછી પ્રજનનક્ષમતા પાછી આવવામાં મોડું થઈ શકે છે (ગર્ભવતી બનવામાં ઘણાં મહિનાઓ લાગી શકે છે)."
+          }
+        }
+      }
+    },
+    "It can be initiated within 7 days of completion of abortion without a need for any backup method" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ પણ પ્રકારની બૅકઅપ મેથડની જરૂરિયાત વગર ગર્ભપાતની પ્રક્રિયા પૂરી થઈ ગયાંનાં 7 દિવસની અંદર તેને લેવાનું શરૂ કરી શકાય છે."
+          }
+        }
+      }
+    },
+    "It is a non-steroidal, non-hormonal once-a-week oral contraceptive pill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તે સ્ટીરોઇડ અને હોર્મોન વગરની અઠવાડિયે એક વખત મોં વાટે લેવાની ગર્ભનિરોધક ગોળી છે."
+          }
+        }
+      }
+    },
+    "It is safe for breastfeeding mothers." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તે સ્તનપાન કરાવતી માતાઓ માટે સલામત છે."
+          }
+        }
+      }
+    },
+    "IUDs do not protect against sexually transmitted infections (STIs), including HIV. If there is a risk of STI/HIV, the correct and consistent use of condoms is recommended. When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Female condoms are effective and safe, but are not used as widely by national programmes as male condoms." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IUDs HIV સહિતના જાતીય રીતે પ્રસારિત થતાં ચેપો (STIs) સામે રક્ષણ આપતું નથી. જો STI/HIVનું જોખમ રહેલું હોય તો, કન્ડોમ્સનો યોગ્ય અને નિરંતર ઉપયોગ કરવાની ભલામણ કરવામાં આવે છે. જ્યારે કન્ડોમ્સને યોગ્ય અને નિરંતપણે ઉપયોગમાં લેવામાં આવે છે ત્યારે તે HIV સહિત STIsની સામે સુરક્ષાની સૌથી અસરકારક પદ્ધતિ બની જાય છે. મહિલાઓ માટેના કન્ડોમ્સ અસરકારક અને સલામત છે પરંતુ રાષ્ટ્રીય કાર્યક્રમો દ્વારા પુરુષો માટેના કન્ડોમ્સ જેટલા વ્યાપકપણે ઉપયોગમાં લેવાતા નથી. "
+          }
+        }
+      }
+    },
+    "Keeps sperm out of ejaculated semen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શુક્રાણુને સ્ખલિત થયેલા વીર્યમાંથી બહાર રાખે છે."
+          }
+        }
+      }
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "Lactational amenorrhea method" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લેક્ટેશનલ એમેનોર્હીયા મેથડ"
+          }
+        }
+      }
+    },
+    "Lactational amenorrhea method, LAM (for 6 months): The baby is fully or near fully breastfed.\\n\\nTo maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breast-feeds is reduced, bottle feeds are introduced or the baby reaches 6 months of age." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લેક્ટેશનલ એમેનોર્હીયા મેથડ, LAM (6 મહિના માટે): શિશુએ સંપૂર્ણપણે અથવા તો લગભગ સંપૂર્ણપણે સ્તનપાન કરી લીધું છે.\nગર્ભાવસ્થા સામે અસરકારકતા જાળવી રાખવા માટે માસિક આવવાનું ફરી શરૂ થવાની સાથે જ, સ્તનપાનની ફ્રીક્વન્સી કે સમયગાળો ઘટી જતાં, બોટલથી દૂધ પીવડાવનું શરૂ કરતાં અથવા તો શિશુ 6 મહિનાનું થઈ જતાં ગર્ભનિરોધનની અન્ય પદ્ધતિનો ઉપયોગ કરવાનું શરૂ કરવું જોઇએ."
+          }
+        }
+      }
+    },
+    "Lactational amenorrhoea method" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લેક્ટેશનલ એમેનોર્હીયા મેથડ"
+          }
+        }
+      }
+    },
+    "LAM" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM"
+          }
+        }
+      }
+    },
+    "Lamivudine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લેમિવુડાઇન"
+          }
+        }
+      }
+    },
+    "Late for an injection" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "મોડું ઇન્જેક્શન આપવું"
+          }
+        }
+      }
     },
     "Launch" : {
       "extractionState" : "manual",
@@ -593,6 +3161,105 @@
         }
       }
     },
+    "Levonorgestrel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લીવોનોરજેસ્ટ્રેલ"
+          }
+        }
+      }
+    },
+    "Levonorgestrel (LNG):" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " લીવોનોરજેસ્ટ્રેલ (LNG):"
+          }
+        }
+      }
+    },
+    "Levonorgestrel IUD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લીવોનોરજેસ્ટ્રેલ આઇયુડી"
+          }
+        }
+      }
+    },
+    "Liver Disease" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લિવરની બીમારી"
+          }
+        }
+      }
+    },
+    "LNG" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
+        }
+      }
+    },
+    "LNG-IUD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        }
+      }
+    },
+    "LNG-IUD = levonorgestrel-releasing IUD (20 µg/24 hours)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD = લીવોનોરજેસ્ટ્રેલ-મુક્ત કરનાર IUD (20 µg/24 કલાક)"
+          }
+        }
+      }
+    },
+    "Long lasting" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લાંબા સમય સુધી ટકે છે"
+          }
+        }
+      }
+    },
+    "Longer and heavier periods during first months of use are common but not harmful; can also be used as emergency contraception." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તેના ઉપયોગના પ્રથમ મહિનાઓ દરમિયાન લાંબા સમય માટે અને વધારે માસિક આવવું એ સામાન્ય છે અને તે હાનિકારક નથી, આ ઉપરાંત, તેને ઇમર્જન્સીમાં ગર્ભનિરોધક તરીકે પણ ઉપયોગમાં લઈ શકાય છે."
+          }
+        }
+      }
+    },
     "lower_wheel_en" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -658,8 +3325,1693 @@
         }
       }
     },
+    "LPV/r" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
+        }
+      }
+    },
+    "Malaria" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "મેલેરિયા"
+          }
+        }
+      }
+    },
+    "Male condoms" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પુરુષો માટેના કન્ડોમ્સ"
+          }
+        }
+      }
+    },
+    "Male condoms: 98% with correct and consistent use, 85% as commonly used" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પુરુષો માટેના કન્ડોમ્સઃ યોગ્ય અને સતત ઉપયોગ કરવા પર 98%, કૉમન રીતે ઉપયોગ કરવા પર 85%"
+          }
+        }
+      }
+    },
+    "Male sterilization (vasectomy)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પુરુષોની નસબંધી (વેસ્કેટોમી)"
+          }
+        }
+      }
+    },
+    "Medical" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તબીબી"
+          }
+        }
+      }
+    },
+    "Medical Conditions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તબીબી સ્થિતિઓઃ"
+          }
+        }
+      }
+    },
     "Medical Eligibility Criteria for Contraceptive Use" : {
       "extractionState" : "manual"
+    },
+    "Medical Eligibility Criteria for Contraceptive Use " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભનિરોધકના ઉપયોગ માટેની તબીબી પાત્રતાના માપદંડો "
+          }
+        }
+      }
+    },
+    "Medical Eligibility Criteria for Contraceptive Use (India-adapted WHO MEC Wheel 2022) " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભનિરોધકના ઉપયોગ માટેની તબીબી પાત્રતાના માપદંડો (ઇન્ડિયા-એડેપ્ટેડ ડબ્લ્યુએચઓ એમઇસી વ્હિલ 2022) "
+          }
+        }
+      }
+    },
+    "Menarche to <18 years" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સૌપ્રથમ વખત રજોદર્શન શરૂ થવાથી માંડીને <18 વર્ષ સુધી"
+          }
+        }
+      }
+    },
+    "Menarche to <18 years\n40 years and above\n" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સૌપ્રથમ વખત રજોદર્શન શરૂ થવાથી માંડીને <18 વર્ષ સુધી\n40 વર્ષ અને તેનાથી મોટી વય\n"
+          }
+        }
+      }
+    },
+    "Method NOT to be used" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ પદ્ધતિનો ઉપયોગ કરશો નહીં"
+          }
+        }
+      }
+    },
+    "Migraine" : {
+      "extractionState" : "manual"
+    },
+    "Migraine with aura°" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઑરાની સાથે માઇગ્રેન°"
+          }
+        }
+      }
+    },
+    "Migraine without aura and <35 yrs, COCs and CICs = 2; Migraine without aura and ≥35 yrs, COC and CIC = 3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઑરા વગર માઇગ્રેન અને <35 વર્ષ, COCs અને CICs = 2; ઑરા વગર માઇગ્રેન અને ≥35 વર્ષ, COC અને CIC = 3"
+          }
+        }
+      }
+    },
+    "Migraine without aura°" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઑરા વગર માઇગ્રેન°"
+          }
+        }
+      }
+    },
+    "Mild cirrhosis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હળવો સિરોસિસ"
+          }
+        }
+      }
+    },
+    "More than 5 days since the start of menstrual bleeding: POPs can be initiated if it is reasonably certain that the women is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 2 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 5 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ POPs શરૂ થઈ શકે છે. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "More than 5 days since the start of menstrual bleeding: Start CHC if it is reasonably certain that the women is not pregnant. Abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 5 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ CHC શરૂ કરો. આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
+          }
+        }
+      }
+    },
+    "More than 7 days (LNG IUD) since the start of menstrual bleeding. Back up method not required" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 7 દિવસ (LNG IUD)થી વધારે. બેક અપ મેથડની કોઈ જરૂરિયાત નથી."
+          }
+        }
+      }
+    },
+    "More than 7 days since the start of menstrual bleeding: The first POI injection can be given if it is reasonably certain that the woman is not pregnant. Abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 7 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ પ્રથમ POI ઇન્જેક્શનને આપી શકાય છે. આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
+          }
+        }
+      }
+    },
+    "More than 7 days since the start of menstrual bleeding: The implant can be inserted if itis reasonably certain that the woman is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 7 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "More than 12 days since the start of menstrual bleeding. An IUD can be inserted at the woman’s convenience if it is reasonably certain that she is not pregnant. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 12 દિવસથી વધારે સમય વીતી ગયો હોય ત્યારે. સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને સ્ત્રીની અનુકૂળતાએ દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        }
+      }
+    },
+    "Multiple risk factors include: old age, smoking, hypertension, diabetes, obesity and known dyslipidemia. If stroke/IHD develops, while on POP, Implants, LNG-IUD (only IHD), change to non-hormonal method" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એકથી વધારે જોખમકારક પરિબળોમાં સમાવિષ્ટ છેઃ વૃદ્ધાવસ્થા, ધૂમ્રપાન, હાઇપરટેન્શન (ઉચ્ચ રક્તચાપ), ડાયાબિટીસ, મેદસ્વીતા અને જ્ઞાત ડીસ્લિપિડેમિયા. દર્દી જો POP, ઇમ્પ્લાન્ટ, LNG-IUD (ફક્ત IHD) પર હોય ત્યારે સ્ટ્રોક/ IHD વિકસે તો દર્દીને નોન-હોર્મોનલ પદ્ધતિ પર લઈ લો."
+          }
+        }
+      }
+    },
+    "NET-EN = 200 mg of NET-EN given intramuscularly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NET-EN = 200 મિગ્રા NET-ENને સ્નાયુમાં આપવામાં આવે છે"
+          }
+        }
+      }
+    },
+    "Nevirapine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નેવિરાપાઇન"
+          }
+        }
+      }
+    },
+    "No hormone\t" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ હોર્મોન નહીં"
+          }
+        }
+      }
+    },
+    "No hormones" : {
+      "extractionState" : "manual"
+    },
+    "Non-hormonal contraceptives (Centchroman)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નોન-હોર્મોનલ કૉન્ટ્રાસેપ્ટિવ્સ\n(સેન્ટક્રોમેન)\n"
+          }
+        }
+      }
+    },
+    "Non-nucleosides reverse transcriptase inhibitors (NNRTIs)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નોન-ન્યુક્લીયોસાઇડ રીવર્સ ટ્રાન્સસ્ક્રિપ્ટેઝ ઇન્હિબિટર્સ (NNRTIs)"
+          }
+        }
+      }
+    },
+    "Non-purulent discharge & individual with high risk" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પરુ વગરનો સ્રાવ થવો અને ઊંચું જોખમ ધરાવતી વ્યક્તિ"
+          }
+        }
+      }
+    },
+    "Notes to the Conditions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વિવિધ પરિસ્થિતિઓ માટેની નોંધોઃ"
+          }
+        }
+      }
+    },
+    "Nucleoside reverse transcriptase inhibitors (NRTIs)" : {
+      "extractionState" : "manual"
+    },
+    "Nulliparous" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નલિપેરસ"
+          }
+        }
+      }
+    },
+    "NVP" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
+        }
+      }
+    },
+    "Obesity* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "મેદસ્વીતા* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>)."
+          }
+        }
+      }
+    },
+    "On anticonvulsants\n" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એન્ટિકોન્વુલસેન્ટ્સ પર"
+          }
+        }
+      }
+    },
+    "On initiation, the first pill is to be taken on the first day of period (as indicated by the first day of bleeding) and the second pill 3 days later. This pattern of days is repeated through the first 3 months." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શરૂઆતમાં પહેલી ગોળી માસિકના પ્રથમ દિવસે લેવાની રહેશે (માસિક રક્તસ્રાવ શરૂ થયાંના પ્રથમ દિવસે) અને ત્યારબાદ બીજી ગોળી 3 દિવસ પછી લેવાની રહેશે. પ્રથમ 3 મહિના માટે દિવસોની આ પેટર્નનું પુનરાવર્તન કરવાનું રહે છે."
+          }
+        }
+      }
+    },
+    "On rifampicin rifabutin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રિફામપિસિન રિફાબ્યુટિન પર"
+          }
+        }
+      }
+    },
+    "Others" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અન્યઃ"
+          }
+        }
+      }
+    },
+    "Particular attention must be given in the case of young people, men who have not yet been fathers and clients with mental health problems, including depressive conditions. All clients should be carefully counselled about the intended permanence of sterilization and the availability of alternative, long-term, highly effective methods. This is of extra concern for young people. The national laws and existing norms for the delivery of sterilization procedures must be considered in the decision process." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "યુવાનો, હજુ સુધી પિતા નહીં બનેલા પુરુષો અને હતાશામાંથી પસાર થઈ રહેલા લોકો સહિત માનસિક બીમારીઓ ધરાવતા ક્લાયેન્ટ્સના કિસ્સામાં સવિશેષ ધ્યાન આપવું જરૂરી બની જાય છે. તમામ ક્લાયેન્ટ્સને નસબંધીની હેતુપૂર્વકની કાયમી સ્થિતિ અંગે તથા તેના ઉપલબ્ધ વિકલ્પો, અત્યંત અસરકારક પદ્ધતિઓ અંગે કાળજીપૂર્વક સલાહ આપવી જોઇએ. યુવાનો માટે આ એક સવિશેષ ચિંતાનો વિષય છે. આ અંગેનો નિર્ણય લેવાની પ્રક્રિયામાં નસબંધીની પ્રક્રિયાઓ હાથ ધરવા માટે રાષ્ટ્રીય કાયદાઓ અને વર્તમાન નિયમોને ધ્યાનમાં લેવા જોઇએ."
+          }
+        }
+      }
+    },
+    "Particular attention must be given in the case of young people, nulliparous women, men who have not yet been fathers and clients with mental health problems, including depressive conditions. All clients should be carefully counselled about the intended permanence of sterilization and the availability of alternative, long-term, highly effective methods. This is of extra concern for young people. The national laws and existing norms for the delivery of sterilization procedures must be considered in the decision process." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "યુવાનો, વંધ્યા સ્ત્રીઓ, હજુ સુધી પિતા નહીં બનેલા પુરુષો અને હતાશામાંથી પસાર થઈ રહેલા લોકો સહિત માનસિક બીમારીઓ ધરાવતા ક્લાયેન્ટ્સના કિસ્સામાં સવિશેષ ધ્યાન આપવું જરૂરી બની જાય છે. તમામ ક્લાયેન્ટ્સને નસબંધીની હેતુપૂર્વકની કાયમી સ્થિતિ અંગે તથા તેના ઉપલબ્ધ વિકલ્પો, અત્યંત અસરકારક પદ્ધતિઓ અંગે કાળજીપૂર્વક સલાહ આપવી જોઇએ. યુવાનો માટે આ એક સવિશેષ ચિંતાનો વિષય છે. આ અંગેનો નિર્ણય લેવાની પ્રક્રિયામાં નસબંધીની પ્રક્રિયાઓ હાથ ધરવા માટે રાષ્ટ્રીય કાયદાઓ અને વર્તમાન નિયમોને ધ્યાનમાં લેવા જોઇએ."
+          }
+        }
+      }
+    },
+    "Past ectopic pregnancy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભૂતકાળમાં વિકસેલી એક્ટોપિક ગર્ભાવસ્થા"
+          }
+        }
+      }
+    },
+    "Past pelvic inflammatory disease" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભૂતકાળમાં પેલ્વિક ઇન્ફ્લેમેટરી ડીસીઝ થયેલો હોવો"
+          }
+        }
+      }
+    },
+    "Patch & Vaginal ring" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પેચ અને વજાઇનલ રિંગ"
+          }
+        }
+      }
+    },
+    "Patch, ring: Keep in place, change on time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પેચ, રિંગઃ નિશ્ચિત જગ્યાએ મૂકો, સમયસર બદલો"
+          }
+        }
+      }
+    },
+    "PCOD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCOD"
+          }
+        }
+      }
+    },
+    "Pelvic Inflammatory Disease" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પેલ્વિક ઇન્ફ્લેમેટરી ડીસીઝ"
+          }
+        }
+      }
+    },
+    "Permanent contraception to block or cut the fallopian tubes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કાયમી ગર્ભનિરોધક, જેમાં ફેલોપિયન ટ્યુબ્સને બંધ કરી દેવામાં આવે છે કે કાપી નાંખવામાં આવે છે"
+          }
+        }
+      }
+    },
+    "Permanent contraception to block or cut the vas deferens tubes that carry sperm from the testicles" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અંડકોષોમાંથી શુક્રાણુઓનું વહન કરનારી શુક્રવાહિકાઓને બંધ કરી દેનાર કે કાપી નાંખનાર ગર્ભનિરોધક."
+          }
+        }
+      }
+    },
+    "Pills" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગોળીઓ"
+          }
+        }
+      }
+    },
+    "Pills: Take a hormonal pill daily and non-hormonal pills weekly (as scheduled)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગોળીઓઃ હોર્મોનની ગોળી દરરોજ લો અને નોન-હોર્મોનલ ગોળી દર અઠવાડિયે લો (શિડ્યૂલ મુજબ)."
+          }
+        }
+      }
+    },
+    "POIs include depot medroxyprogesterone acetate (DMPA) norethisterone enanthate (NET-EN). There are three formulations considered here:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POIsમાં ડીપો મેડ્રોક્સીપ્રોજેસ્ટેરોન એસીટેટ (DMPA) નોરેથિસ્ટેરોન એનેન્થેટ (NET-EN)નો સમાવેશ થાય છે. અહીં ત્રણ સૂત્રીકરણો પર વિચારણા કરવામાં આવી છેઃ"
+          }
+        }
+      }
+    },
+    "POP" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POP"
+          }
+        }
+      }
+    },
+    "POPs can be initiated at any time if it is reasonably certain that the women is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 2 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો POPs કોઈ પણ સમયે શરૂ કરી શકાય છે. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "POPs can be initiated immediately or within 7 days of completion of abortion. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પીઓપીને તાત્કાલિક શરૂ કરી શકાય છે અથવા તો ગર્ભપાતની પ્રક્રિયા પૂરી થયાંનાં 7 દિવસની અંદર પણ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+          }
+        }
+      }
+    },
+    "Post Abortal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભપાત પછી"
+          }
+        }
+      }
+    },
+    "Post-abortion" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભપાત પછી"
+          }
+        }
+      }
+    },
+    "Post-abortion (no sepsis)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભપાત બાદ (સેપ્સિસ નહીં)"
+          }
+        }
+      }
+    },
+    "Postpartum" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી"
+          }
+        }
+      }
+    },
+    "Postpartum (breastfeeding and non-breastfeeding)*" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી (સ્તનપાન કરાવતી અને સ્તનપાન નહીં કરાવતી માતાઓ માટે)*"
+          }
+        }
+      }
+    },
+    "Postpartum (breastfeeding or non-breastfeeding)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી (સ્તનપાન કરાવનાર અથવા સ્તનપાન નહીં કરાવનાર)*"
+          }
+        }
+      }
+    },
+    "Postpartum (breastfeeding)*" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી (સ્તનપાન)*"
+          }
+        }
+      }
+    },
+    "Postpartum (non-breastfeeding)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી (સ્તનપાન નહીં કરાવનાર)"
+          }
+        }
+      }
+    },
+    "Postpartum (non-breastfeeding)*" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી (સ્તનપાન નહીં કરાવનાર)*"
+          }
+        }
+      }
+    },
+    "Postpartum ≥  6 months" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી ≥ 6 મહિના"
+          }
+        }
+      }
+    },
+    "Postpartum Breastfeeding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postpartum Breastfeeding"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ પછી સ્તનપાન કરાવવું"
+          }
+        }
+      }
+    },
+    "Preferences" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રાથમિકતાઓ"
+          }
+        }
+      }
+    },
+    "Pregnancy - NA" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભાવસ્થા - NA (લાગુ થતું નથી)"
+          }
+        }
+      }
+    },
+    "Prevents implantation of blastocyst in endometrium by creating asynchrony between fertilized ovum and endometrial bed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તે ફલિત થયેલા અંડાણું અને એન્ડોમેટ્રિયલ બેડની વચ્ચે બેમેળ પેદા કરીને એન્ડોમેટ્રિયમમાં બ્લાસ્ટોસીસ્ટના પ્રત્યારોપણને નિવારે છે. "
+          }
+        }
+      }
+    },
+    "Prevents the release of eggs from the ovaries (ovulation)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તે અંડાશયમાંથી અંડાણુંઓને મુક્ત થતાં (અંડોત્સર્ગ) અટકાવે છે."
+          }
+        }
+      }
+    },
+    "Prevents the release of eggs from the ovaries (ovulation)\n" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અંડાશયમાંથી અંડાણુઓને ઉત્સર્જિત (અંડોત્સર્ગ) થતાં અટકાવે છે."
+          }
+        }
+      }
+    },
+    "Previous LSCS" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અગાઉના LSCS"
+          }
+        }
+      }
+    },
+    "Privacy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગુપ્તતા"
+          }
+        }
+      }
+    },
+    "PROGESTOGEN-ONLY IMPLANTS" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પ્લાન્ટ્સ"
+          }
+        }
+      }
+    },
+    "Progestogen-only implants are a type of long-acting, reversible contraception. The various types of implants that are considered here are the following:" : {
+      "extractionState" : "manual"
+    },
+    "Progestogen-only injectables" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સ"
+          }
+        }
+      }
+    },
+    "PROGESTOGEN-ONLY INJECTABLES (POIs)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સ (POIs)"
+          }
+        }
+      }
+    },
+    "Progestogen-only pills" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રોજેસ્ટોજેન-ઓન્લી પિલ્સ"
+          }
+        }
+      }
+    },
+    "Prophylactic antibiotics to be provided for Cu IUCD and LNG-IUD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu IUCD અને LNG-IUD માટે પ્રોફીલેક્ટિક એન્ટિબાયોટિક્સ પૂરાં પાડવા જોઇએ"
+          }
+        }
+      }
+    },
+    "Protease inhibitors (PIs)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રોટીએઝ ઇન્હિબિટર્સ (PIs)"
+          }
+        }
+      }
+    },
+    "Puerperal/postabortal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રસૂતિ સંબંધિત / ગર્ભપાત પછી"
+          }
+        }
+      }
+    },
+    "Purulent discharge" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્રાવમાં પરુ નીકળવું"
+          }
+        }
+      }
+    },
+    "RAL" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
+          }
+        }
+      }
+    },
+    "Raltegravir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રાલ્ટેગ્રાવિર"
+          }
+        }
+      }
+    },
+    "Rape" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બળાત્કાર"
+          }
+        }
+      }
+    },
+    "Rape (high risk of STI)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બળાત્કાર (STIનું ઊંચું જોખમ)"
+          }
+        }
+      }
+    },
+    "Rape (low risk of STI)" : {
+      "extractionState" : "manual"
+    },
+    "Recommendation\n" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભલામણ"
+          }
+        }
+      }
+    },
+    "Reduces risk of endometrial and ovarian cancer." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એન્ડોમેટ્રિયલ અને અંડાશયના કેન્સરના જોખમને ઘટાડે છે."
+          }
+        }
+      }
+    },
+    "Regular bleeding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ નિયમિતપણે થવો"
+          }
+        }
+      }
+    },
+    "Reinjection interval" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બે ઇન્જેક્શનની વચ્ચેનો અંતરાલ"
+          }
+        }
+      }
+    },
+    "Repeat DMPA injections should be provided every three months." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "દર ત્રણ મહિને DMPA ઇન્જેક્શન્સને ફરીથી આપવું જોઇએ."
+          }
+        }
+      }
+    },
+    "Repeat NET-EN injections should be provided every two months." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "દર બે મહિને NET-EN ઇન્જેક્શન્સને ફરીથી આપવું જોઇએ."
+          }
+        }
+      }
+    },
+    "Repeated emergency contraceptive pill use" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભનિરોધક ગોળીઓનો ઇમર્જન્સીમાં વારંવાર ઉપયોગ કરવો"
+          }
+        }
+      }
+    },
+    "Reproductive Conditions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રજોત્પત્તિ સંબંધિત પરિસ્થિતિઓઃ"
+          }
+        }
+      }
+    },
+    "Rilpirivine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રિલપિરિવાઇન"
+          }
+        }
+      }
+    },
+    "Ritonavir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રિટોનાવિર"
+          }
+        }
+      }
+    },
+    "Ritonavir-boosted atazanavir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રિટોનાવિર-બૂસ્ટેડ એટાઝાનાવિર"
+          }
+        }
+      }
+    },
+    "Ritonavir-boosted darunavir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રિટોનાવિર-બૂસ્ટેડ ડારુનાવિર"
+          }
+        }
+      }
+    },
+    "Ritonavir-boosted lopinavir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રિટોનાવિર-બૂસ્ટેડ લોપિનાવિર"
+          }
+        }
+      }
+    },
+    "RPV" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
+        }
+      }
+    },
+    "RTV" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RTV"
+          }
+        }
+      }
+    },
+    "SEE RECOMMENDATIONS" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભલામણો જુઓ"
+          }
+        }
+      }
+    },
+    "Select the medical condition or history that apply. More than one condition can be identified.\"" : {
+      "extractionState" : "manual"
+    },
+    "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 મહિનાના રાહ જોવાના સમયગાળા બાદ શુક્રાણુનું વિશ્લેષણ (જ્યાં પણ ઉપલબ્ધ હોય) ગર્ભનિરોધકની અસરકારકતાની પુષ્ટી કરી શકે છે."
+          }
+        }
+      }
+    },
+    "Sepsis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સેપ્સિસ (ઘામાં સડો થવો)"
+          }
+        }
+      }
+    },
+    "Severe liver disease (including jaundice)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લિવરની ગંભીર બીમારી (કમળા સહિત)"
+          }
+        }
+      }
+    },
+    "SKIP" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "છોડી દો"
+          }
+        }
+      }
+    },
+    "SLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SLE"
+          }
+        }
+      }
+    },
+    "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તે કૉપરની સ્લીવ્સ કે વાયર ધરાવતું એક નાનકડું પ્લાસ્ટિકનું ઉપકરણ છે, જેને ગર્ભાશયમાં દાખલ કરવામાં આવે છે."
+          }
+        }
+      }
+    },
+    "Small, flexible rods or capsules placed under the skin of the upper arm; contains progestogen hormone only" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હાથના ઉપરના ભાગે ચામડીની નીચે નાનો, સ્થિતિસ્થાપક રોડ કે કેપ્સુલ મૂકવામાં આવે છે; જે ફક્ત પ્રોજેસ્ટોજેન હોર્મોન ધરાવે છે."
+          }
+        }
+      }
+    },
+    "Smoking" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ધૂમ્રપાન"
+          }
+        }
+      }
+    },
+    "Spermicide" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્પર્મિસાઇડ"
+          }
+        }
+      }
+    },
+    "Spermicide (alone): 82% with correct and consistent use, 72% as commonly used" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્પર્મિસાઇડ (એકલું): યોગ્ય અને સતત ઉપયોગ કરવા પર 82%, કૉમન રીતે ઉપયોગ કરવા પર 72%"
+          }
+        }
+      }
+    },
+    "Spermicides" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્પર્મિસાઇડ્સ"
+          }
+        }
+      }
+    },
+    "START" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શરૂ કરો"
+          }
+        }
+      }
+    },
+    "Start CHC if it is reasonably certain that the women is not pregnant. Abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ CHC શરૂ કરો. આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
+          }
+        }
+      }
+    },
+    "Start if it is reasonably certain that the woman is not pregnant. Abstain from sex or use additional contraceptive protection for the next 2 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો જ તેની શરૂઆત કરો. આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
+          }
+        }
+      }
+    },
+    "Starting from fourth month, the pill is to be taken once a week on the first pill day and should be continued on the weekly schedule regardless of her menstrual cycle." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તો ચોથા મહિનાથી શરૂ કરીને આ ગોળીને ગોળી લેવાના પ્રથમ દિવસે અઠવાડિયામાં એકવાર લેવાની રહે છે અને સ્ત્રીના માસિકચક્રને અનુલક્ષ્યાં વગર અઠવાડિક શિડ્યૂલને ચાલું રાખવું જોઇએ."
+          }
+        }
+      }
+    },
+    "Stavudine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ટાવુડાઇન"
+          }
+        }
+      }
+    },
+    "Sterilization does not protect against sexually transmitted infections (STIs), including HIV. If there is a risk of STI/HIV, the correct and consistent use of condoms is recommended. When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Female condoms are effective and safe, but are not used as widely by national programmes as male condoms." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નસબંધી HIV સહિતના જાતીય રીતે પ્રસારિત થતાં ચેપો (STIs) સામે સુરક્ષા પૂરી પાડતી નથી. જો STI/HIVનું જોખમ રહેલું હોય તો, કન્ડોમ્સનો યોગ્ય અને નિરંતર ઉપયોગ કરવાની ભલામણ  કરવામાં આવે છે. જ્યારે કન્ડોમ્સને યોગ્ય અને નિરંતપણે ઉપયોગમાં લેવામાં આવે છે ત્યારે તે HIV સહિત STIsની સામે સુરક્ષાની સૌથી અસરકારક પદ્ધતિ બની જાય છે. મહિલાઓ માટેના કન્ડોમ્સ અસરકારક અને સલામત છે પરંતુ રાષ્ટ્રીય કાર્યક્રમો દ્વારા પુરુષો માટેના કન્ડોમ્સ જેટલા વ્યાપકપણે ઉપયોગમાં લેવાતા નથી."
+          }
+        }
+      }
+    },
+    "Sterilization procedures should only be performed by well-trained providers in appropriate clinical settings using proper equipment and supplies. Appropriate service-delivery guidelines, including infection-prevention protocols, should be followed to maximize client safety." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નસબંધીની પ્રક્રિયા યોગ્ય ઉપકરણો અને પુરવઠાનો ઉપયોગ કરીને યોગ્ય ક્લિનિકલ માહોલમાં સારી રીતે તાલીમ પ્રાપ્ત કરેલા નિષ્ણાતો દ્વારા જ હાથ ધરવામાં આવવી જોઇએ. ક્લાયેન્ટની પૂરેપૂરી સલામતીની ખાતરી કરવા ચેપને નિવારવાના પ્રોટોકોલ સહિત સેવા પૂરી પાડવા સંબંધિત યોગ્ય માર્ગદર્શિકાનું પાલન કરવું જોઇએ."
+          }
+        }
+      }
+    },
+    "STI prevention" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STIને નિવારે છે"
+          }
+        }
+      }
+    },
+    "STIs/RTIsF" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STIs/RTIs<sup><small><small>F</small></small></sup>"
+          }
+        }
+      }
+    },
+    "Stroke, IHD, multiple risk factors°" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ટ્રોક, IHD, એકથી વધારે જોખમકારક પરિબળો°"
+          }
+        }
+      }
+    },
+    "Superficial venous disorders, including varicose veins" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સુપરફિશિયલ વીનસ ડિસઑર્ડર્સ, વેરિકોસ વેઇન્સ સહિત"
+          }
+        }
+      }
+    },
+    "Surgery without prolonged immobilization" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લાંબા સમય સુધી હલનચલન કર્યા વગર સર્જરી"
+          }
+        }
+      }
+    },
+    "Surgical" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સર્જિકલ"
+          }
+        }
+      }
+    },
+    "Taking antibiotics (excluding rifampicin/rifabutin)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એન્ટિબાયોટિક્સ લઈ રહ્યાં હો (રિફામપિસિન/રિફાબ્યુટિન સિવાય)"
+          }
+        }
+      }
+    },
+    "TB" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TB"
+          }
+        }
+      }
+    },
+    "TDF" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
+          }
+        }
+      }
+    },
+    "Temporary contraception for new mothers whose monthly bleeding has not returned; requires exclusive or full breastfeeding day and night of an infant less than 6 months old" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નવીસવી માતા બનેલી સ્ત્રીઓ કે જેમનો માસિક રક્તસ્રાવ હજુ સુધી ચાલું થયો નથી, તેમના માટેની કામચલાઉ ગર્ભનિરોધક છે; તેઓ 6 મહિનાથી નાના શિશુને દિવસે અને રાત્રે ફક્તને ફક્ત સ્તપાન કરાવતી હોય કે સંપૂર્ણ સ્તનપાન કરાવતી હોય તે જરૂરી છે."
+          }
+        }
+      }
+    },
+    "Tenofovir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેનોફોવિર"
+          }
+        }
+      }
+    },
+    "The eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જનરલ Cu-IUDને દાખલ કરવા માટેના પાત્રતાના માપદંડો ઇમર્જન્સીમાં ઉપયોગમાં લેવાની ગર્ભનિરોધક તરીકે Cu-IUDsને દાખલ કરવા માટે પણ લાગુ થાય છે."
+          }
+        }
+      }
+    },
+    "The first injection can be given at any time if it is reasonably certain that the woman is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો પ્રથમ ઇન્જેક્શનને કોઈ પણ સમયે આપી શકાય છે. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "The first injection can be given immediately post-abortion or within 7 days of completion of abortion. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રથમ ઇન્જેક્શન ગર્ભપાત પછી તરત આપી શકાય છે અથવા તો ગર્ભપાતની પ્રક્રિયા પૂરી થયાંનાં 7 દિવસની અંદર પણ આપી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+          }
+        }
+      }
+    },
+    "The implant can be inserted at any time if it is reasonably certain that the woman is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો ઇમ્પ્લાન્ટને કોઈ પણ સમયે દાખલ કરી શકાય છે. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        }
+      }
+    },
+    "The implant can be inserted immediately post-abortion. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભપાત પછી તરત જ ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+          }
+        }
+      }
+    },
+    "The recommendations reflect the eligibility  for  contraceptive methods based on the condition(s) identified" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અહીં કરવામાં આવેલી ભલામણો ઓળખી કાઢવામાં આવેલી સ્થિતિ(ઓ) પર આધાર રાખીને ગર્ભનિરોધક પદ્ધતિ માટેની પાત્રતાઓને દર્શાવે છે"
+          }
+        }
+      }
+    },
+    "The recommendations reflect the eligibility for contraceptive methods based on the condition(s) identified." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અહીં કરવામાં આવેલી ભલામણો ઓળખી કાઢવામાં આવેલી સ્થિતિ(ઓ) પર આધાર રાખીને ગર્ભનિરોધક પદ્ધતિ માટેની પાત્રતાઓને દર્શાવે છે  "
+          }
+        }
+      }
+    },
+    "The repeat DMPA injection can be given up to 4 weeks late without requiring additional contraceptive protection. The repeat NET- EN injection can be given up to 2 weeks late without requiring additional contraceptive protection." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA ઇન્જેક્શનને ફરી વખત કોઈ પણ પ્રકારની વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત વગર 4 અઠવાડિયા મોડાં આપી શકાય છે. જ્યારે NET- EN ઇન્જેક્શનને ફરી વખત કોઈ પણ પ્રકારની વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત વગર 2 અઠવાડિયા મોડાં આપી શકાય છે."
+          }
+        }
+      }
+    },
+    "The repeat injection of DMPA and NET-EN can be given up to 2 weeks early." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA અને NET-ENના ઇન્જેક્શન્સને ફરી વખત 2 અઠવાડિયા સુધી વહેલા આપી શકાય છે."
+          }
+        }
+      }
+    },
+    "There is no medical condition that would absolutely restrict a person’s eligibility for sterilization, although some conditions and circumstances will require that certain precautions are taken, including those where the recommendation is assigned as Category C (caution), D (delay) or S (special). For some of these conditions and circumstances, the theoretical or proven risks may outweigh the advantages of undergoing sterilization, particularly female sterilization. Where the risks of sterilization outweigh the benefits, long-term, highly effective contraceptive methods are a preferable alternative. Decisions in this regard will have to be made on an individual basis, considering the risks and benefits of sterilization versus the risks of pregnancy, and the availability and acceptability of highly effective, alternative methods." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એવી કોઈ તબીબી સ્થિતિ નથી, જે નસબંધી માટેની વ્યક્તિની ક્ષમતાને સંપૂર્ણપણે પ્રતિબંધિત કરી શકતી હોય, તેમ છતાં એવી કેટલીક સ્થિતિઓ અને પરિસ્થિતિઓ છે, જેમાં કેટલીક સાવચેતીઓ લેવી જરૂરી બની જાય છે, એવી પરિસ્થિતિઓ સહિત કે જેમાં કેટેગરી C (સાવચેતી), D (વિલંબ) કે S (વિશેષ) તરીકે ભલામણો કરવામાં આવી હોય. આવી કેટલીક સ્થિતિઓ અને પરિસ્થિતિઓમાં નસબંધી કરાવવાના ફાયદાઓ કરતાં સૈદ્ધાંતિક કે સાબિત થયેલા જોખમોનો પ્રભાવ વધી જતો હોય છે, ખાસ કરીને સ્ત્રીઓની નસબંધીમાં. જે પરિસ્થિતિઓમાં નસબંધીના ફાયદાઓ કરતાં જોખમો વધી જતાં હોય ત્યારે લાંબાગાળાની, અત્યંત અસરકારક ગર્ભનિરોધક પદ્ધતિઓ પસંદગીનો વિકલ્પ બની જાય છે. આ સંબંધમાં નિર્ણય નસબંધીના જોખમો અને ફાયદા વિરુદ્ધ ગર્ભાવસ્થાના જોખમ અંગે તથા અત્યંત અસરકારક, વૈકલ્પિક પદ્ધતિઓની ઉપલબ્ધતા અને સ્વીકાર્યતા અંગે વિચારણા કરી વ્યક્તિગત ધોરણે લેવો જોઇએ."
+          }
+        }
+      }
+    },
+    "Thickens cervical mucous to block sperm and egg from meeting" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શુક્રાણુ અને અંડાણુંનું મિલન થતું અટકાવવા સર્વાઇકલ મ્યુકસને જાડું કરી દે છે."
+          }
+        }
+      }
+    },
+    "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શુક્રાણુ અને અંડાણુંનું મિલન થતું અટકાવવા સર્વાઇકલ મ્યુકસને જાડું કરી દે છે અને અંડોત્સર્ગને રોકે છે."
+          }
+        }
+      }
+    },
+    "This chart demonstrates the comparative efficacy with typical use of commonly used contraceptive methods   " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ ચાર્ટ સર્વસામાન્ય રીતે ઉપયોગમાં લેવાતી ગર્ભનિરોધ પદ્ધતિઓના ચોક્કસ ઉપયોગની તુલનાત્મક અસરકારકતાને દર્શાવે છે  "
+          }
+        }
+      }
+    },
+    "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation. The eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ પદ્ધતિ ગર્ભાવસ્થાને નિવારવા માટે અત્યંત અસરકારક છે. ઇમર્જન્સીમાં ઉપયોગમાં લેવાની ગર્ભનિરોધક તરીકે તેનો ઉપયોગ અસુરક્ષિત સમાગમ કર્યાના 5 દિવસની અંદર કરવાનો હોય છે. જોકે, જ્યારે અંડોત્સર્ગનો અંદાજ લગાવી શકાય છે, ત્યારે જો જરૂર જણાય તો જાતીય સમાગમના 5 દિવસ પછી પણ Cu-IUDને દાખલ કરી શકાય છે, જોકે, Cu-IUDને અંડોત્સર્ગના 5 દિવસ પછી દાખલ કરેલું હોવું જોઇએ નહીં. જનરલ Cu-IUDને દાખલ કરવા માટેના પાત્રતાના માપદંડો ઇમર્જન્સીમાં ઉપયોગમાં લેવાની ગર્ભનિરોધક તરીકે Cu-IUDsને દાખલ કરવા માટે પણ લાગુ થાય છે."
+          }
+        }
+      }
+    },
+    "Thyroid disorders" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "થાઇરોડનો વિકાર"
+          }
+        }
+      }
+    },
+    "Timing for repeat injections" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફરીથી ઇન્જેક્શન મૂકવાનો સમય"
+          }
+        }
+      }
+    },
+    "To check if migraine has aura, ask “Do you see a bright spot in your vision before bad headaches?” If condition developed while on POP DMPA, NET-EN, Implants, LNG-IUD, switch to non-hormonal method" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માઇગ્રેન ઑરા ધરાવે છે કે નહીં તે ચકાસવા માટે પૂછો કે, ‘શું તમને માથામાં ભારે દુઃખાવો શરૂ થાય તે પહેલાં તમારી દ્રષ્ટિમાં ચમકતો ધબ્બો દેખાય છે?’ જો POP DMPA, NET-EN, ઇમ્પાલન્ટ્સ, LNG-IUD પર હો ત્યારે આ પરિસ્થિતિ વિકસે તો નોન-હોર્મોનલ પદ્ધતિ પર ફેરવાઈ જાઓ."
+          }
+        }
+      }
+    },
+    "Transcervical methods of female sterilization are not addressed in these recommendations." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રીઓની નસબંધીની ટ્રાન્સસર્વાઇકલ પદ્ધતિઓને અહીં કરવામાં આવેલી ભલામણોમાં ધ્યાન પર લેવામાં આવી નથી."
+          }
+        }
+      }
+    },
+    "Tuberculosis (non-pelvic)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટ્યુબરક્યુલોસિસ (નોન-પેલ્વિક)"
+          }
+        }
+      }
+    },
+    "Ulipristal acetate" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "યુલિપ્રિસ્ટાલ એસીટેટ"
+          }
+        }
+      }
+    },
+    "Uncomplicated valvular heart disease" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જટિલ ના હોય તેવો વાલ્વુલર હાર્ટ ડીસીઝ"
+          }
+        }
+      }
+    },
+    "Unexplained Vaginal Bleeding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "યોનિમાંથી અસ્પષ્ટ રીતે રક્તસ્રાવ થવો"
+          }
+        }
+      }
+    },
+    "UPA" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UPA"
+          }
+        }
+      }
     },
     "upper_wheel_en" : {
       "extractionState" : "manual",
@@ -722,6 +5074,292 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "upper_wheel_te"
+          }
+        }
+      }
+    },
+    "Use of the method not usually" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જ્યાં સુધી અન્ય વધુ યોગ્ય પદ્ધતિઓ ઉપલબ્ધ ના થાય કે સ્વીકાર્ય ના હોય ત્યાં સુધી સામાન્ય રીતે આ પદ્ધતિનો ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી"
+          }
+        }
+      }
+    },
+    "Valvular heart disease (complicated)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાલ્વુલર હાર્ટ ડીસીઝ (જટિલ)"
+          }
+        }
+      }
+    },
+    "Vasectomy:\\nUse another method for first 3 months." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પુરુષ નસબંધીઃ પ્રથમ 3 મહિના માટે અન્ય કોઈ પદ્ધતિનો ઉપયોગ કરો."
+          }
+        }
+      }
+    },
+    "Venous thromboembolism (VTE) family history" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વીનસ થ્રોમ્બોએમ્બોલિઝમ (VTE)ની કૌટુંબિક પૂર્વવિગત"
+          }
+        }
+      }
+    },
+    "Viral hepatitis (carrier or chronic)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાઇરલ હીપેટાઇટિસ (કૅરિયર અથવા ક્રોનિક)"
+          }
+        }
+      }
+    },
+    "Voluntary and informed choice is essential." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ માટે સ્વૈચ્છિક અને સૂચિત પસંદગી હોવી જરૂરી છે."
+          }
+        }
+      }
+    },
+    "Weekly pill free from hormone and contains Ormeloxifene" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હોર્મોન વગરની અઠવાડિક ગોળી અને તે ઓર્મેલોક્સિફેન ધરાવે છે."
+          }
+        }
+      }
+    },
+    "When can a man rely on his vasectomy for contraception?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પુરુષો ગર્ભનિરોધ માટે તેમની નસબંધી પર ક્યારે આધાર રાખી શકે છે?"
+          }
+        }
+      }
+    },
+    "When can a woman have a copper-bearing IUD inserted?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક સ્ત્રી કૉપર ધરાવતી IUD ક્યારે દાખલ કરાવી શકે છે?"
+          }
+        }
+      }
+    },
+    "When can a woman have a Levonorgestrel IUD inserted?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક સ્ત્રીએ ક્યારે લીવોનોરજેસ્ટ્રેલ IUD મૂકાવી જોઇએ?"
+          }
+        }
+      }
+    },
+    "When can a woman start Centchroman?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક સ્ત્રી સેન્ટક્રોમેનને ક્યારે શરૂ કરી શકે છે?"
+          }
+        }
+      }
+    },
+    "When can a woman start CHC?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક સ્ત્રી CHCને ક્યારે શરૂ કરી શકે છે?"
+          }
+        }
+      }
+    },
+    "When can a woman start progestogen-only implants?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક સ્ત્રી પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પ્લાન્ટ્સ ક્યારે શરૂ કરી શકે છે?"
+          }
+        }
+      }
+    },
+    "When can a woman start progestogen-only injectables?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક સ્ત્રી પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સને ક્યારે શરૂ કરી શકે છે?"
+          }
+        }
+      }
+    },
+    "When can a women start progestogen-only pills?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રીઓ પ્રોજેસ્ટોજેન-ઓન્લી પિલ્સ ક્યારે લેવાનું શરૂ કરી શકે છે?"
+          }
+        }
+      }
+    },
+    "Withdrawal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વિડ્રોઅલ"
+          }
+        }
+      }
+    },
+    "Withdrawal, spermicides: \\nUse correctly every time you have sex.\\n\\nNumbers in parentheses indicate % of women experiencing an unintended pregnancy during the first year of typical use of contraception. Source: Trussell J., 2011.\\n\\nNumbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વિડ્રોઅલ, સ્પર્મિસાઇડ્સઃ તમે જ્યારે પણ જાતીય સમાગમ કરો ત્યારે દર વખતે તેનો યોગ્ય રીતે ઉપયોગ કરો.\nકોષ્ટકમાં દર્શાવવામાં આવેલી સંખ્યાઓ ગર્ભાવસ્થાનો ચોક્કસ રીતે ઉપયોગ કર્યાના પ્રથમ વર્ષ દરમિયાન અનિચ્છિત ગર્ભાવસ્થાનો સામનો કરી રહેલી સ્ત્રીઓની ટકાવારીને સૂચવે છે. સ્રોતઃ ટ્રસેલ જે., 2011\nઅહીં દર્શાવવામાં આવેલી સંખ્યાઓ કોઈ ચોક્કસ પદ્ધતિનો વિશિષ્ટ રીતે ઉપયોગ કરવાના પ્રથમ વર્ષ દરમિયાન અનિચ્છિત ગર્ભાવસ્થાનો સામનો કરી રહેલી સ્ત્રીઓની ટકાવારીને દર્શાવે છે\n\n"
+          }
+        }
+      }
+    },
+    "Within 5 days after the start of menstrual bleeding: POPs can be initiated. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 5 દિવસની અંદરઃ POPsને શરૂ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        }
+      }
+    },
+    "Within 5 days after the start of menstrual bleeding: Start CHC. No additional contraceptive protection in needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 5 દિવસની અંદરઃ CHC શરૂ કરો. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        }
+      }
+    },
+    "Within 7 days (LNG IUD) after the start of menstrual bleeding. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસ (LNG IUD)ની અંદર. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        }
+      }
+    },
+    "Within 7 days after the start of menstrual bleeding: The first POI injection can be given. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસની અંદરઃ પ્રથમ POI ઇન્જેક્શનને આપી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        }
+      }
+    },
+    "Within 7 days after the start of menstrual bleeding: The implant can be inserted. No additional contraceptive protection is needed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસની અંદરઃ ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+          }
+        }
+      }
+    },
+    "Within 12 days after the start of menstrual bleeding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 12 દિવસની અંદર"
+          }
+        }
+      }
+    },
+    "Women who have puerperal sepsis should not have an IUD inserted. For women 48 hours to less than 4 weeks postpartum, use of IUDs is not usually recommended unless other more appropriate methods are not available or not acceptable." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જે સ્ત્રીને પ્યુરેપરેલ સેપ્સિસ હોય તે IUD દાખલ કરાવી શકતી નથી. જે સ્ત્રીને પ્રસૂતિ પછી 48 કલાકથી 4 અઠવાડિયાથી ઓછો સમય વીત્યો હોય તેમને સામાન્ય રીતે IUDsનો ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી, સિવાય કે અન્ય કોઈ વધારે યોગ્ય પદ્ધતિઓ ઉપલબ્ધ ના હોય કે સ્વીકાર્ય ના હોય."
+          }
+        }
+      }
+    },
+    "Women with conditions that make pregnancy an unacceptable risk should be advised that barrier methods for pregnancy prevention may not be appropriate for those who cannot use them consistently and correctly because of their relatively higher typical-use failure rates." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભાવસ્થા અસ્વીકાર્ય જોખમ બની જાય તેવી સ્થિતિ ધરાવતી સ્ત્રીઓને સલાહ આપવામાં આવે છે કે, જે સ્ત્રીઓ ગર્ભાવસ્થાને નિવારવા માટે બેરિયર (અવરોધક) પદ્ધતિનો સતત અને યોગ્ય રીતે ઉપયોગ કરી શકે તેમ નથી તેમના માટે તે યોગ્ય નથી, કારણ કે, તેમાં તેનો નિષ્ફળ જવાનો સામાન્ય કરતાં વધારે ઊંચો દર ધરાવે છે."
+          }
+        }
+      }
+    },
+    "Zidovudine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઝિડોવુડાઇન"
           }
         }
       }

@@ -46,7 +46,7 @@ class ProgressViewTableViewCell: UITableViewCell {
             titleLabel.sizeToFit()
         }
         if subTitleLabel != nil {
-            subTitleLabel.text = cellData.progressTitle
+            subTitleLabel.text = cellData.subTitle
             subTitleLabel.sizeToFit()
         }
         if descriptionLabel != nil {
