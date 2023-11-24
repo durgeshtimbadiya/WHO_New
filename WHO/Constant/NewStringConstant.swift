@@ -1087,3 +1087,18 @@ struct Recommendation {
     static let backToCondition = "BACK TO CONDITIONS"
     static let warningMessage = "No Contraceptive Choices found"
 }
+
+struct NewString {
+    static let Current = "Current".localizeString()
+    static let Onanticonvulsants = "On anticonvulsants".localizeString()
+    static let Puerperalpostabortal = "Puerperal/postabortal".localizeString()
+    static let Onrifampicinrifabutin = "On rifampicin rifabutin".localizeString()
+    static let Preferences = "Preferences".localizeString()
+    static let PregnancyNA = "Pregnancy - NA".localizeString()
+    static let Implantsper = "0.05% Implants - 0.8% IUD".localizeString()
+    static let Femalesterilization = "0.5% Female sterilization - 0.15% Vasectomy".localizeString()
+    static let less48yrs = "Additional Info on how to use the methods safely and effectively".localizeString()
+    static let Medical = "Medical Eligibility Criteria for Contraceptive Use (India-adapted WHO MEC Wheel 2022)".localizeString()
+    static let SKIP = "SKIP".localizeString()
+    static let START = "START".localizeString()
+}

@@ -23,39 +23,6 @@
         }
       }
     },
-    "* For women who are less than 6 weeks postpartum and primarily breastfeeding, use of POIs is not usually recommended unless other more appropriate methods are not available or not acceptable." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "* જે સ્ત્રીઓને પ્રસૂતિ પછી 6 અઠવાડિયાથી પણ ઓછો સમય થયો હોય અને પ્રાથમિક રીતે સ્તનપાન કરાવી રહી હોય, તેમને સામાન્ય રીતે POIsનો ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી, સિવાય કે અન્ય કોઈ વધારે યોગ્ય પદ્ધતિઓ ઉપલબ્ધ ના હોય કે સ્વીકાર્ય ના હોય."
-          }
-        }
-      }
-    },
-    "* However, for programmatic reasons, some contraceptive methods may be provided during this period." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "* જોકે, કાર્યક્રમ સંબંધિત કેટલાક કારણોસર આ સમયગાળા દરમિયાન કેટલીક ગર્ભનિરોધક પદ્ધતિઓને પૂરી પાડવામાં આવી શકે છે."
-          }
-        }
-      }
-    },
-    "* It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "*પ્રસૂતિ પછીના પ્રથમ 21 દિવસો દરમિયાન સ્ત્રી અંડોત્સર્ગ કરવા લાગે અને ગર્ભાવસ્થા રહી જવાનું જોખમ હોય તેની શક્યતા ખૂબ ઓછી છે. જોકે, કાર્યક્રમ સંબંધિત કેટલાક કારણોસર આ સમયગાળા દરમિયાન કેટલીક ચોક્કસ ગર્ભનિરોધક પદ્ધતિઓને જ પૂરી પાડવામાં આવી શકે છે."
-          }
-        }
-      }
-    },
     "<48 hrs" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -64,6 +31,12 @@
             "state" : "translated",
             "value" : "<48 hrs"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<48 घंटे"
+          }
         }
       }
     },
@@ -71,6 +44,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "<160/100"
@@ -86,6 +65,12 @@
             "state" : "translated",
             "value" : ">35years"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">35 वर्ष"
+          }
         }
       }
     },
@@ -96,17 +81,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : ">45 વર્ષ = 2"
-          }
-        }
-      }
-    },
-    ">99" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : ">99"
           }
         }
       }
@@ -141,6 +115,12 @@
             "state" : "translated",
             "value" : "1-રોડ ઇમ્પ્લાન્ટ, જે 68 મિગ્રા એટોનોજેસ્ટ્રેલ (બેરિયમ ઇમ્પ્રેગ્નેટેડ) ધરાવે છે "
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-रॉड इम्प्लांट, जिसमें 68 मि.ग्रा. इटोनोगेस्ट्रेल (बेरियम इंप्रेग्नेटेड) हो।"
+          }
         }
       }
     },
@@ -151,6 +131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પર્ફેક્ટ રીતે ઉપયોગ કરવા પર દર 100 સ્ત્રીઓ દીઠ 1-2 ગર્ભાવસ્થા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ही उपयोग पर प्रति 100 महिलाओं में 1-2 गर्भधारण"
           }
         }
       }
@@ -174,6 +160,12 @@
             "state" : "translated",
             "value" : "1. માસિક રક્તસ્રાવ બંધ થઈ ગયેલો હોવો જોઇએ."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. रजोरोध (एमेनोरिया)"
+          }
         }
       }
     },
@@ -184,6 +176,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "2-રોડનો ઇમ્પ્લાન્ટ, પ્રત્યેક રોડ 75 મિગ્રા LNG ધરાવે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2-छड़ इम्प्लांट, प्रत्येक छड़ में 75 मिलीग्राम LNG होता है।"
           }
         }
       }
@@ -196,6 +194,12 @@
             "state" : "translated",
             "value" : "2. સંપૂર્ણ અથવા લગભગ સંપૂર્ણ સ્તપાન કરાવવું જોઇએ."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. पूर्ण या लगभग पूर्ण स्तनपान"
+          }
         }
       }
     },
@@ -207,6 +211,12 @@
             "state" : "translated",
             "value" : "જ્યારે સંગ્રહિત થયેલા શુક્રાણુ હજુ પણ હાજર હોય તો અસર થવામાં 3 મહિનાનો વિલંબ થાય છે; તેનાથી પુરુષોના જાતીય કાર્યદેખાવ પર કોઈ અસર થતી નથી; સ્વૈચ્છિક અને સૂચિત રીતે પસંદગી કરવી જરૂરી બની જાય છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रभावी होने में 3 महीने की देरी होती है जिससे संग्रहीत शुक्राणु अभी भी मौजूद हैं; पुरुष यौन प्रदर्शन को प्रभावित नहीं करता; स्वैच्छिक और सूचित विकल्प आवश्यक है।"
+          }
         }
       }
     },
@@ -217,6 +227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3. પ્રસૂતિ પછી છ મહિનાથી ઓછો સમય થયો હોવો જોઇએ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. प्रसवोत्तर छह महीने से कम।"
           }
         }
       }
@@ -240,6 +256,12 @@
             "state" : "translated",
             "value" : "6 અઠવાડિયા - 6 મહિના"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6 सप्ताह-6 महीने"
+          }
         }
       }
     },
@@ -250,6 +272,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "6-રોડનો ઇમ્પ્લાન્ટ, પ્રત્યેક રોડ 36 મિગ્રા LNG (હવે તેનું ઉત્પાદન થતું નથી) ધરાવે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6-छड़ इम्प्लांट, प्रत्येक छड़ में 36 मिलीग्राम LNG होता है (अब उत्पादन में नहीं हैं)।"
           }
         }
       }
@@ -262,6 +290,12 @@
             "state" : "translated",
             "value" : "40 વર્ષ અને તેનાથી મોટી વય"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "40 वर्ष और उससे अधिक"
+          }
         }
       }
     },
@@ -272,6 +306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "48 કલાક - 6 અઠવાડિયા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "48 घंटे-6 सप्ताह"
           }
         }
       }
@@ -284,6 +324,23 @@
             "state" : "translated",
             "value" : "85"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "85"
+          }
+        }
+      }
+    },
+    "90" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90"
+          }
         }
       }
     },
@@ -294,6 +351,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "92"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "92"
+          }
+        }
+      }
+    },
+    "99" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "99"
           }
         }
       }
@@ -306,6 +386,12 @@
             "state" : "translated",
             "value" : "યોગ્ય અને નિરંતર ઉપયોગ કરવા પર 99%\nકૉમન રીતે ઉપયોગ કરવા પર 98%"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सही और लगातार उपयोग के साथ 99%\nजैसा आमतौर पर उपयोग किया जाता है 98%"
+          }
         }
       }
     },
@@ -316,6 +402,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ત્રી ગર્ભવતી નથી તે જો નક્કી કરી શકાય તેમ હોય તો Cu-IUDને કોઈ પણ સમયે દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "किसी भी समय Cu-IUD लगाया जा सकता है यदि यह निर्धारित किया जा सके कि महिला गर्भवती नहीं है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की जरूरत नहीं है।"
           }
         }
       }
@@ -328,6 +420,12 @@
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જેને ક્લાયેન્ટ મેડિકલ પ્રોવાઇડરની મદદ વગર ચાલું કે બંધ કરી શકે છે"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक ऐसी विधि जिसे ग्राहक चिकित्सा प्रदाता से मिले बिना बंद या शुरू कर सकता है"
+          }
         }
       }
     },
@@ -338,6 +436,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એવી પદ્ધતિ જે વર્ષો વર્ષ સુધી ટકી શકે છે"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक ऐसी विधि जो कई वर्षों तक चल सकती है"
           }
         }
       }
@@ -350,6 +454,12 @@
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જે કોઈ હોર્મોન ધરાવતી નથી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऐसी विधि जिसमें कोई भी हार्मोन नहीं होता है"
+          }
         }
       }
     },
@@ -360,6 +470,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જેનો ચોક્કસ રીતે ઉપયોગ કરવાથી ગર્ભાવસ્થાને નિવારવામાં 99% કરતાં વધારે અસરકારક સાબિત થાય"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक विधि जो विशिष्ट उपयोग में गर्भावस्था की रोकथाम में 99%  से अधिक प्रभावी है"
           }
         }
       }
@@ -372,6 +488,12 @@
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જેનો ઉપયોગ કરતી વખતે તમારા જીવનસાથી કે અન્ય લોકોને ખબર પડે નહીં"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऐसी विधि जिसे उपयोग करने पर किसी साथी या अन्य लोगों द्वारा पता नहीं किया जा सकता है"
+          }
         }
       }
     },
@@ -382,6 +504,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એવી પદ્ધતિ કે જે ગર્ભાવસ્થાને નિવારવાની સાથે-સાથે જાતીય સમાગમથી પ્રસારિત થતાં ચેપને પણ અટકાવે છે"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक विधि जो गर्भधारण की रोकथाम के साथ-साथ यौन संचारित संक्रमणों की भी रोकथाम करती है"
           }
         }
       }
@@ -394,6 +522,12 @@
             "state" : "translated",
             "value" : "એવી પદ્ધતિ જેના પરિણામસ્વરૂપ માસિક રક્તસ્રાવ નિયમિતપણે આવતો થઈ જવો, પીરિયડની જેમ જ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक विधि जिसके फलस्वरूप मासिक धर्म के समान नियमित रूप से निर्धारित मासिक रक्तस्राव होता है"
+          }
         }
       }
     },
@@ -405,6 +539,12 @@
             "state" : "translated",
             "value" : "ગર્ભાશયમાં T-આકારના પ્લાસ્ટિકના ઉપકરણને દાખલ કરવામાં આવે છે, જે દરરોજ સ્થિરપણે લીવોનોરજેસ્ટ્રેલની થોડી-થોડી માત્રાને મુક્ત કરે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भाशय में एक टी-आकार का प्लास्टिक उपकरण लगाया जाता है जो प्रत्येक दिन थोड़ी मात्रा में लेवोनोर्गेस्ट्रेल निरंतर निकालता है"
+          }
         }
       }
     },
@@ -415,6 +555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રજનનક્ષમતા પર સ્તનપાનની કુદરતી અસર પર આધારિત કામચલાઉ કુટુંબ નિયોજનની પદ્ધતિ છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक अस्थायी परिवार नियोजन विधि जो प्रजनन क्षमता पर स्तनपान के प्राकृतिक प्रभाव पर आधारित है।"
           }
         }
       }
@@ -449,6 +595,12 @@
             "state" : "translated",
             "value" : "વ્હિલ વિશે"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "व्हील के बारे में"
+          }
         }
       }
     },
@@ -481,8 +633,8 @@
         },
         "hi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of contraceptives :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the <strong><i>Medical Eligibility Criteria for Contraceptive Use</i></strong> guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+            "state" : "translated",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>यह व्हील गर्भनिरोधक तरीकों का उपयोग प्रारंभ करने के लिए चिकित्सा पात्रता मानदंड सम्मिलित करता है। गर्भनिरोधक उपयोग (2022 अपडेट) के लिए इसे  WHO MEC व्हील से अनुकूलित किया है और यह गर्भनिरोधक उपयोग, चौथे और पांचवे संस्करण (2008 और 2022) के लिए चिकित्सा पात्रता मानदंड पर आधारित है। यह परिवार नियोजन प्रदाताओं को मार्गदर्शन प्रदान करता है जो प्रदाताओं द्वारा चिकित्सा स्थितियों या चिकित्सकीय रूप से संबंधित लक्षणों वाली महिलाओं के लिए सुरक्षित और प्रभावी गर्भनिरोधक तरीकों के सुझाव देने के लिए होता है।<br />सात सामान्य प्रकार के गर्भ निरोधकों का उपयोग प्रारंभ करने की सिफारिशें व्हील में सम्मिलित हैं:</p>\n  <ol>\n    <li>कंबाइंड (संयुक्त) गोलियाँ (कम खुराक वाली कंबाइंड मौखिक गर्भनिरोधक, < 35 Ug एथिनिल एस्ट्राडियोल के साथ) और कंबाइंड इंजेक्शन योग्य गर्भनिरोधक</li>\n    <li>सेंटक्रोमन गोलियाँ</li>\n    <li>प्रोजेस्टोजेन-केवल गोलियाँ</li>\n    <li> प्रोजेस्टोजेन-केवल इंजेक्शन। DMPA (a 3-मासिक इंजेक्शन) और NET-EN (a 2-मासिक इंजेक्शन)</li>\n    <li> प्रोजेस्टोजन-केवल इम्प्लांट</li>\n    <li>कॉपर युक्त IUCD</li>\n    <li>लेवोनोर्गेस्ट्रेल इंट्रा यूटरिन डिवाइस (LNG-IUD)</li>\n  </ol>\n  <p><br />व्हील में दिया गया मार्गदर्शन गर्भनिरोधक विधियों के प्रारंभ पर लागू होता है। विधि का उपयोग करते समय जब किसी महिला में कोई चिकित्सीय स्थिति विकसित हो जाती है, तो विधि के उपयोग को जारी रखने की अनुशंसाएं गर्भनिरोधक उपयोग के लिए चिकित्सा पात्रता मानदंड दिशानिर्देशों में पाई जा सकती हैं।</p>\n  <p>यह स्वास्थ्य और परिवार कल्याण मंत्रालय द्वारा भारत के लिए अनुकूलित किए गए WHO MEC व्हील का ई-संस्करण है। Wheel by MoHFW</p>\n</div>"
           }
         },
         "kn-IN" : {
@@ -531,6 +683,12 @@
             "state" : "translated",
             "value" : "તીવ્ર DVT"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "तीव्र DVT"
+          }
         }
       }
     },
@@ -541,6 +699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તીવ્ર વાઇરલ હીપેટાઇટિસ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "तीव्र वायरल हेपेटाइटिस"
           }
         }
       }
@@ -597,6 +761,12 @@
             "state" : "translated",
             "value" : "વય"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आयु"
+          }
         }
       }
     },
@@ -607,6 +777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એમેનોર્હોઇક"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रजोरोधक (एमेनोरिहोइक)"
           }
         }
       }
@@ -619,6 +795,12 @@
             "state" : "translated",
             "value" : "એમેનોર્હોઇક (પ્રસૂતિ થયાં પહેલાં)  "
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रजोरोधक (एमेनोरिया) (गैर-प्रसवोत्तर)"
+          }
         }
       }
     },
@@ -629,6 +811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને સ્ત્રીની અનુકૂળતાએ દાખલ કરી શકાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिला की सुविधानुसार IUD अंतर्वेशित किया जा सकता है यदि यह सुनिश्चित हो कि वह गर्भवती नहीं है।"
           }
         }
       }
@@ -641,6 +829,12 @@
             "state" : "translated",
             "value" : "ગર્ભપાતના પ્રથમ ત્રિમાસિકગાળા બાદ તરત જ IUDને દાખલ કરી શકાય છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पहली तिमाही के गर्भपात के तुरंत बाद एक IUD लगाया जा सकता है।"
+          }
         }
       }
     },
@@ -651,6 +845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સામાન્ય રીતે બીજા ત્રિમાસિકગાળાના ગર્ભપાત બાદ તરત જ IUDને દાખલ કરી શકાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आमतौर पर दूसरी तिमाही के गर्भपात के तुरंत बाद IUD डाला जा सकता है।"
           }
         }
       }
@@ -663,6 +863,12 @@
             "state" : "translated",
             "value" : "સેપ્સિસ ગર્ભપાત (MEC કેટેગરી 4) બાદ તરત IUD દાખલ કરવી જોઇએ નહીં."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सेप्टिक गर्भपात (MEC श्रेणी 4) के तुरंत बाद IUD नहीं लगाया जाना चाहिए।"
+          }
         }
       }
     },
@@ -674,6 +880,12 @@
             "state" : "translated",
             "value" : "એનીમિયા (પાંડુરોગ)"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रक्ताल्पता"
+          }
         }
       }
     },
@@ -684,6 +896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને કોઈ પણ સમયે દાખલ કરી શકાય છે. તેને દાખલ કર્યા પછી પ્રથમ 7 દિવસ માટે તેમને બેક અપ મેથડની જરૂર પડશે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक IUD को किसी भी समय महिला में अंतर्वेशित किया जा सकता है यदि यह निर्धारित किया जा सके कि महिला गर्भवती नहीं है। उसे अंतर्वेशन के बाद पहले 7 दिनों के लिए बैकअप विधि की आवश्यकता होगी।"
           }
         }
       }
@@ -706,6 +924,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એક વખતમાં ઓછામાં ઓછા 2-3 મહિના આપવામાં આવી શકે છે અને તે દેશની પ્રોગ્રામ સંબંધિત માર્ગદર્શિકા મુજબ વધારે પણ હોઈ શકે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कम से कम 2-3 माह। एक बार में दिया जा सकता है और देश में लागू प्रोग्रामेटिक दिशानिर्देश के अनुसार यह ज्यादा भी हो सकता है।"
           }
         }
       }
@@ -740,6 +964,12 @@
             "state" : "translated",
             "value" : "પરિસ્થિતિઓ પર પરત"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्थितियों (CONDITIONS) पर वापस जाएं"
+          }
         }
       }
     },
@@ -751,6 +981,12 @@
             "state" : "translated",
             "value" : "બેરિયર મેથડ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बाधा विधियाँ"
+          }
         }
       }
     },
@@ -761,6 +997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કેટલીક પસંદગીની તબીબી સ્થિતિ(ઓ) પર આધાર રાખીને અહીં ગર્ભનિરોધક પદ્ધતિઓ માટેના સલામતીના રેટિંગ્સ આપવામાં આવ્યાં છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चयनित चिकित्सीय स्थिति/स्थितियों के आधार पर, गर्भनिरोधक विधियों के लिए ये सुरक्षा रेटिंग हैं।"
           }
         }
       }
@@ -806,6 +1048,12 @@
             "state" : "translated",
             "value" : "સ્તનનું કેન્સર"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्तन कैंसर"
+          }
         }
       }
     },
@@ -839,6 +1087,12 @@
             "state" : "translated",
             "value" : "સ્ત્રી સ્તનપાન કરાવતી હોય તે દરમિયાન પણ લઈ શકાય છે; તેને દરરોજ એક જ સમયે લઈ શકાય છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इनका उपयोग स्तनपान के दौरान किया जा सकता है; इन्हें प्रत्येक दिन समान समय पर लेना चाहिए।"
+          }
         }
       }
     },
@@ -861,6 +1115,12 @@
             "state" : "translated",
             "value" : "કેન્સર"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कैंसर"
+          }
         }
       }
     },
@@ -872,6 +1132,12 @@
             "state" : "translated",
             "value" : "કાર્ડિયોવાસ્ક્યુલર બીમારીઓ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हृदय रोग (कार्डियोवैस्कुलर रोग)"
+          }
         }
       }
     },
@@ -879,6 +1145,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cent."
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cent."
@@ -894,6 +1166,12 @@
             "state" : "translated",
             "value" : "સ્ત્રી દ્વારા સેન્ટક્રોમેનને ગર્ભપાત, કસુવાવડ કે એક્ટોપિક ગર્ભાવસ્થા પછી તરત સલામતીપૂર્વક લઈ શકાય છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिलाएं गर्भपात, गर्भस्त्राव या अस्थानिक गर्भावस्था के तुरंत बाद सेंटक्रोमन को सुरक्षित रूप से ले सकती हैं"
+          }
         }
       }
     },
@@ -904,6 +1182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સેન્ટક્રોમેનને પ્રથમ 3 મહિના માટે અઠવાડિયામાં બે વખત અને ચોથા મહિનાથી અઠવાડિયે એક વખત લેવાની રહે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सेंटक्रोमैन को प्रथम 3 महीनों तक सप्ताह में दो बार और चौथे महीने से सप्ताह में एक बार लेना होता है।"
           }
         }
       }
@@ -916,6 +1200,12 @@
             "state" : "translated",
             "value" : "સેન્ટક્રોમેન પિલ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सेंटक्रोमन गोलियाँ"
+          }
         }
       }
     },
@@ -927,6 +1217,12 @@
             "state" : "translated",
             "value" : "ગર્ભાશયના મુખનું કેન્સર"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भाशय ग्रीवा (सर्वाइकल) कैंसर"
+          }
         }
       }
     },
@@ -934,6 +1230,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "CHC"
@@ -949,6 +1251,12 @@
             "state" : "translated",
             "value" : "ગર્ભપાત પછી તરત જ CHCને શરૂ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC को गर्भपात के तुरंत बाद प्रारंभ किया जा सकता है। इसमें किसी भी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
+          }
         }
       }
     },
@@ -959,6 +1267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "CHCsને સામાન્ય રીતે સળંગ 21-24 દિવસ હોર્મોનના ડૉઝની સાથે આપવામાં આવે છે, જેના પછી 4-7 દિવસ હોર્મોન આપવામાં આવતાં નથી. જોકે, ખૂબ જ થોડાં અથવા સહેજ પણ હોર્મોનનો ઉપયોગ કરવામાં ન આવતો હોય તેવા ડૉઝનો પણ ઉપયોગ થાય છે.\n"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आमतौर पर CHCs  में हार्मोन की खुराक लगातार 21-24 दिनों तक दी जाती है और उसके बाद 4-7 दिनों तक हार्मोन-मुक्त खुराक दी जाती है। हालाँकि, ऐसे आहार नियम जिनमें कम या कोई हार्मोन-मुक्त दिन नहीं होते हैं, उनका भी उपयोग किया जाता है।"
           }
         }
       }
@@ -971,6 +1285,12 @@
             "state" : "translated",
             "value" : "સિરોસિસ/લિવરમાં ગાંઠ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिरोसिस/यकृत ट्यूमर"
+          }
         }
       }
     },
@@ -981,6 +1301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ક્લાયેન્ટ દ્વારા નિયંત્રિત"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ग्राहक द्वारा नियंत्रित"
           }
         }
       }
@@ -1026,6 +1352,12 @@
             "state" : "translated",
             "value" : "કમ્બાઇન્ડ હોર્મોનલ કૉન્ટ્રાસેપ્ટિવ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "संयुक्त (कम्बाइंड) हार्मोनल गर्भनिरोधक"
+          }
         }
       }
     },
@@ -1048,6 +1380,12 @@
             "state" : "translated",
             "value" : "કમ્બાઇન્ડ પિલ્સ અને કમ્બાઇન્ડ ઇન્જેક્ટેબલ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "संयुक्त गोलियां और संयुक्त इंजेक्शन"
+          }
         }
       }
     },
@@ -1058,6 +1396,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ટિપ્પણીઓ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "टिप्पणियाँ"
           }
         }
       }
@@ -1081,6 +1425,12 @@
             "state" : "translated",
             "value" : "પરિસ્થિતિઓ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्थितियां"
+          }
         }
       }
     },
@@ -1103,6 +1453,12 @@
             "state" : "translated",
             "value" : "કન્ડોમ્સ = પુરુષો માટેના લેટેક્સ કન્ડોમ્સ, પુરુષો માટેના પૉલીયુરેથેન કન્ડોમ્સ, સ્ત્રીઓ માટેના કન્ડોમ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कंडोम = पुरुष लेटेक्स कंडोम, पुरुष पॉलीयुरेथेन कंडोम, महिला कंडोम"
+          }
         }
       }
     },
@@ -1113,6 +1469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "આ ઉપરાંત, કન્ડોમ્સ HIV સહિત જાતીય રીતે પ્રસારિત થતાં ચેપો સામે સુરક્ષા પૂરી પાડે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कंडोम HIV सहित यौन संचारित संक्रमणों से भी बचाता है"
           }
         }
       }
@@ -1136,6 +1498,12 @@
             "state" : "translated",
             "value" : "ફક્ત પ્રોજેસ્ટોજેન હોર્મોન ધરાવે છે, એસ્ટ્રોજેન નહીં."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह केवल प्रोजेस्टोजन हार्मोन से युक्त होती हैं, एस्ट्रोजन से नहीं"
+          }
         }
       }
     },
@@ -1147,11 +1515,14 @@
             "state" : "translated",
             "value" : "પ્રાથમિકતાઓ ચાલું રાખો"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चयन के लिए जारी रखें"
+          }
         }
       }
-    },
-    "Contraceptive Choices" : {
-      "extractionState" : "manual"
     },
     "Contraceptive Choices\n\n" : {
       "extractionState" : "manual",
@@ -1160,6 +1531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભનિરોધકના વિકલ્પો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भनिरोधक विकल्प"
           }
         }
       }
@@ -1183,6 +1560,12 @@
             "state" : "translated",
             "value" : "તાંબાનું ઘટક શુક્રાણુને નુકસાન પહોંચાડે છે અને અંડાણુ સાથે તેનું મિલન થતું અટકાવે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कॉपर घटक शुक्राणु को नुकसान पहुंचाता है और उसे अंडे से मिलने से रोकता है"
+          }
         }
       }
     },
@@ -1193,6 +1576,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કૉપર ઇન્ટ્રાયુટેરાઇન ડીવાઇઝ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कॉपर अंतर्गर्भाशयी उपकरण"
           }
         }
       }
@@ -1212,6 +1601,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu-IUCD"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cu-IUCD"
@@ -1237,6 +1632,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વર્તમાન"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मौजूदा"
           }
         }
       }
@@ -1282,6 +1683,12 @@
             "state" : "translated",
             "value" : "દરરોજ ગોળી, અઠવાડિક પેચ અથવા માસિક રિંગ, જે બે હોર્મોન્સ (એસ્ટ્રોજેન અને પ્રોજેસ્ટોજેન) ધરાવે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "दैनिक गोली, साप्ताहिक पैच, या मासिक रिंग, जिसमें दो हार्मोन (एस्ट्रोजन और प्रोजेस्टोजन) होते हैं।"
+          }
         }
       }
     },
@@ -1304,6 +1711,12 @@
             "state" : "translated",
             "value" : "સમયાંતરે માસિક દરમિયાન નીકળતા લોહીની માત્રા ઘટાડી દે છે; માસિકચક્ર દરમિયાન વપરાશકર્તાઓના જૂથમાં આંકડી (ક્રેમ્પ્સ) અને એન્ડોમેટ્રિયોસિસના લક્ષણોને ઘટાડી દે છે; એમેનોર્હીયા એટલે માસિક રક્તસ્રાવ થતો નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म के दौरान निकलने वाले रक्त की मात्रा समय के साथ कम हो जाती है; उपयोगकर्ताओं के एक समूह में मासिक धर्म की ऐंठन और एंडोमेट्रियोसिस; एमेनोरिया (मासिक धर्म में रक्तस्राव नहीं होना) के लक्षणों को कम करती है।"
+          }
         }
       }
     },
@@ -1314,6 +1727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ડીપ વેઇન થ્રોમ્બોસિસ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गहरी नस घनास्रता (डीप वेन थ्रोम्बोसिस)"
           }
         }
       }
@@ -1337,6 +1756,12 @@
             "state" : "translated",
             "value" : "વર્ણન"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "विवरण"
+          }
         }
       }
     },
@@ -1347,6 +1772,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ડાયાબિટીસ મેલિટસ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मधुमेह (डायबिटीज मेलिटस)"
           }
         }
       }
@@ -1359,6 +1790,12 @@
             "state" : "translated",
             "value" : "ડાયાફ્રામ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "डायाफ्राम"
+          }
         }
       }
     },
@@ -1370,6 +1807,12 @@
             "state" : "translated",
             "value" : "ડાયાફ્રામ (સ્પર્મિસાઇડની સાથે): યોગ્ય અને સતત ઉપયોગ કરવા પર 94%, કૉમન રીતે ઉપયોગ કરવા પર 88%"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "डायाफ्राम (शुक्राणुनाशक के साथ): सही और लगातार उपयोग के साथ 94%, आमतौर पर उपयोग किए जाने वाले 88%"
+          }
         }
       }
     },
@@ -1380,6 +1823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ડાયાફ્રામ = ડાયાફ્રામ (સ્પર્મિસાઇડની સાથે), સર્વાઇકલ કેપ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "डायाफ्राम = डायाफ्राम (शुक्राणुनाशक के साथ), ग्रीवा टोपी"
           }
         }
       }
@@ -1414,6 +1863,12 @@
             "state" : "translated",
             "value" : "DMPA-IM = 150 મિગ્રા DMPAને સ્નાયુમાં આપવામાં આવે છે"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA का DMPA-IM = 150 मिलीग्राम इंट्रामस्क्युलर रूप से दिया गया"
+          }
         }
       }
     },
@@ -1425,6 +1880,12 @@
             "state" : "translated",
             "value" : "DMPA-SC = 104 મિગ્રા DMPAને ચામડીની નીચે આપવામાં આવે છે"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA का DMPA-SC = 104 मिलीग्राम त्वचा के नीचे दिया गया"
+          }
         }
       }
     },
@@ -1432,6 +1893,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA/NET-EN"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "DMPA/NET-EN"
@@ -1458,6 +1925,12 @@
             "state" : "translated",
             "value" : "આ સમયગાળા દરમિયાન તેમણે જાતીય પ્રવૃત્તિ ફરીથી શરૂ કરવી જોઇએ પણ તેમણે અથવા તેમના સાથીએ વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો જોઇએ."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इस अवधि के दौरान, उसे यौन गतिविधि फिर से शुरू करनी चाहिए, लेकिन उसे या उसके साथी को अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करने की आवश्यकता होगी।"
+          }
         }
       }
     },
@@ -1479,6 +1952,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વહેલું ઇન્જેક્શન આપવું"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक इंजेक्शन के लिए शीघ्रता"
           }
         }
       }
@@ -1535,6 +2014,12 @@
             "state" : "translated",
             "value" : "ગર્ભાવસ્થાને નિવારવા માટેની અસરકારકતા"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भधारण को रोकने की प्रभावशीलता"
+          }
         }
       }
     },
@@ -1568,6 +2053,12 @@
             "state" : "translated",
             "value" : "શુક્રાણુઓની સાથે અંડાણુંઓનું મિલન અટકાવવામાં આવે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अंडे को शुक्राणु से मिलने से रोक दिया जाता है"
+          }
         }
       }
     },
@@ -1578,6 +2069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પાત્રતાના ટૂલ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पात्रता साधन"
           }
         }
       }
@@ -1623,6 +2120,12 @@
             "state" : "translated",
             "value" : "વાઈ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मिर्गी"
+          }
         }
       }
     },
@@ -1655,6 +2158,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DMPA-IM માટે ઉપલબ્ધ પુરાવો DMPA-SC માટે પણ લાગુ થાય છે અને આથી જ, DMPA-SC, DMPA-IM જેવી જ કેટેગરીઓ ધરાવે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA-IM के लिए उपलब्ध साक्ष्य DMPA-SC पर लागू होते हैं और इसलिए, DMPA-SC में DMPA-IM के समान श्रेणियां होनी चाहिए।"
           }
         }
       }
@@ -1689,6 +2198,12 @@
             "state" : "translated",
             "value" : "સ્ત્રીઓ માટેના કન્ડોમ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिला कंडोम"
+          }
         }
       }
     },
@@ -1700,6 +2215,12 @@
             "state" : "translated",
             "value" : "સ્ત્રીઓ માટેના કન્ડોમ્સઃ યોગ્ય અને સતત ઉપયોગ કરવા પર 90%, કૉમન રીતે ઉપયોગ કરવા પર 79%"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिला कंडोम : सही और लगातार उपयोग के साथ 90%,  आमतौर पर उपयोग किए जाने वाले 79%"
+          }
         }
       }
     },
@@ -1710,6 +2231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ત્રીઓની નસબંધી"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिला नसबंदी (स्टेरलाइजेशन)"
           }
         }
       }
@@ -1744,6 +2271,12 @@
             "state" : "translated",
             "value" : "ફાઇબ્રોઇડ યુટેરસ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भाशय फाइब्रॉएड"
+          }
         }
       }
     },
@@ -1754,6 +2287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જે સ્ત્રીઓ LAMનો ઉપયોગ કરી રહી છે, તેમણે જો અણધારી ગર્ભાવસ્થા સામે યોગ્ય સુરક્ષાની ખાતરી કરવી હોય તો અહીં નીચે જણાવેલા ત્રણેય માપદંડો પૂરાં કરવાના રહેશેઃ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM का उपयोग करने वाली महिला के लिए, अनियोजित गर्भावस्था से पर्याप्त सुरक्षा सुनिश्चित करने के लिए निम्नलिखित सभी तीन मानदंडों को पूरा किया जाना चाहिए:"
           }
         }
       }
@@ -1780,6 +2319,23 @@
         }
       }
     },
+    "For women who are less than 6 weeks postpartum and primarily breastfeeding, use of POIs is not usually recommended unless other more appropriate methods are not available or not acceptable." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "* જે સ્ત્રીઓને પ્રસૂતિ પછી 6 અઠવાડિયાથી પણ ઓછો સમય થયો હોય અને પ્રાથમિક રીતે સ્તનપાન કરાવી રહી હોય, તેમને સામાન્ય રીતે POIsનો ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી, સિવાય કે અન્ય કોઈ વધારે યોગ્ય પદ્ધતિઓ ઉપલબ્ધ ના હોય કે સ્વીકાર્ય ના હોય."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उन महिलाओं के लिए जिनको प्रसव के बाद 6 सप्ताह से कम समय हुआ है और मुख्य रूप से स्तनपान करा रही हैं, उनके लिए आमतौर पर POIs के उपयोग की अनुशंसा नहीं की जाती है जब तक कि अन्य अधिक उपयुक्त तरीके उपलब्ध न हों या स्वीकार्य न हों।"
+          }
+        }
+      }
+    },
     "Forms a barrier to prevent sperm and egg from meeting" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1787,6 +2343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "શુક્રાણુ અને અંડાણુંના મિલનને અટકાવવા માટે એક અવરોધની રચના કરે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शुक्राणु और अंडे को मिलने से रोकने के लिए एक अवरोध बनाता है"
           }
         }
       }
@@ -1798,6 +2360,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તેની કોઈ આડઅસરો નથી, સિવાય કે પ્રથમ 3 મહિનામાં માસિક થોડું મોડું આવી શકે છે અથવા તો થોડાં સમય સુધી માસિક ઓછું આવી શકે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "दुष्प्रभावों से मुक्त, सिवाए पहले 3 महीनों में मासिक धर्म में देरी या समय के साथ कम मासिक धर्म को छोड़कर"
           }
         }
       }
@@ -1821,6 +2389,12 @@
             "state" : "translated",
             "value" : "જેસ્ટેશનલ ટ્રોફોબ્લાસ્ટિક ડીસીઝ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भावधि ट्रोफोब्लास्टिक रोग"
+          }
         }
       }
     },
@@ -1831,6 +2405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "નસબંધી એ એક સ્થાયી સર્જિકલ પ્રક્રિયા હોવાનું ધ્યાનમાં રાખતા દરેક ક્લાયેન્ટ સ્વૈચ્છિક અને સૂચિત રીતે આ પદ્ધતિને પસંદ કરે તેની વિશેષ કાળજી લેવી જોઇએ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह देखते हुए कि नसबंदी एक शल्य चिकित्सा प्रक्रिया है जिसका उद्देश्य स्थायी होना है, यह सुनिश्चित करने के लिए विशेष ध्यान रखा जाना चाहिए कि प्रत्येक ग्राहक विधि का स्वैच्छिक, सूचित विकल्प चुने।"
           }
         }
       }
@@ -1843,6 +2423,12 @@
             "state" : "translated",
             "value" : "H/O DVT/PE, એન્ટિકોએગ્યુલેન્ટ પર, લાંબા સમય સુધી હલનચલન ન થવું"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "H/O DVT/PE, थक्कारोधी पर, दीर्घकालीन स्थिरीकरण"
+          }
         }
       }
     },
@@ -1853,6 +2439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જે સ્ત્રીઓનું માસિકચક્ર ચાલું છે"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म चक्र होने पर"
           }
         }
       }
@@ -1865,6 +2457,12 @@
             "state" : "translated",
             "value" : "ગર્ભનિરોધ માટે પોતાની નસબંધી પર આધાર રાખતા પહેલા તેમણે 3 મહિના સુધી રાહ જોવી જોઇએ."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भनिरोधन के लिए पुरुष को (वासेक्टोमी) पर निर्भर रहने से पहले उसे 3 महीने प्रतीक्षा करना चाहिए।"
+          }
         }
       }
     },
@@ -1876,6 +2474,12 @@
             "state" : "translated",
             "value" : "માથામાં દુઃખાવો<sup><small><small>N</small></small></sup>"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिरदर्द"
+          }
         }
       }
     },
@@ -1886,6 +2490,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "હેલ્થ-કૅર પ્રોવાઇડરે દાખલ કરવું અને દૂર કરવું જોઇએ; ઇમ્પ્લાન્ટ પર આધાર રાખીને તેને 3-5 વર્ષ માટે ઉપયોગમાં લઈ શકાય છે; યોનિમાંથી અનિયમિતપણે રક્તસ્રાવ થવો એ સર્વસામાન્ય છે પણ હાનિકારક નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्वास्थ्य देखभाल प्रदाता को अंतर्वेशित करना और हटाना होगा; इम्प्लांट के आधार पर 3-5 वर्षों तक उपयोग किया जा सकता है; योनि से अनियमित रक्तस्राव आम है लेकिन हानिकारक नहीं है।"
           }
         }
       }
@@ -1908,6 +2518,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "અત્યંત અસરકારક"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अत्याधिक असरदायक"
           }
         }
       }
@@ -1975,6 +2591,12 @@
             "state" : "translated",
             "value" : "HIV/AIDS"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HIV /एड्स"
+          }
         }
       }
     },
@@ -1986,6 +2608,12 @@
             "state" : "translated",
             "value" : "તમે સેન્ટક્રોમેન (હોર્મોન વગરની ગર્ભનિરોધક)નો ઉપયોગ કેવી રીતે કરી શકો છો?"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आप सेंटक्रोमन (गैर-हार्मोनल गर्भनिरोधक) का उपयोग कैसे करते हैं?"
+          }
         }
       }
     },
@@ -1996,6 +2624,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તમે CHCનો ઉપયોગ કેવી રીતે કરી શકો?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आप CHC का उपयोग कैसे करते हैं?"
           }
         }
       }
@@ -2014,6 +2648,12 @@
             "state" : "translated",
             "value" : "તે કેવી રીતે કામ કરે છે? "
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह किस प्रकार कार्य करता है"
+          }
         }
       }
     },
@@ -2024,6 +2664,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એક સમયે કેટલા મહિનાનો પુરવઠો પૂરો પાડવો જોઇએ?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कितने महीने एक बार में उपलब्ध किये जाने चाहिए?"
           }
         }
       }
@@ -2036,6 +2682,12 @@
             "state" : "translated",
             "value" : "પીઓપીનો ઉપયોગ કેવી રીતે કરવો?"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पीओपी को कैसे इस्तेमाल करना है"
+          }
         }
       }
     },
@@ -2046,6 +2698,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વ્હિલનો ઉપયોગ કેવી રીતે કરવો?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "व्हील का उपयोग कैसे करें"
+          }
+        }
+      }
+    },
+    "However, for programmatic reasons, some contraceptive methods may be provided during this period." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "* જોકે, કાર્યક્રમ સંબંધિત કેટલાક કારણોસર આ સમયગાળા દરમિયાન કેટલીક ગર્ભનિરોધક પદ્ધતિઓને પૂરી પાડવામાં આવી શકે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हालाँकि, कार्यक्रम संबंधी कारणों से, कुछ गर्भनिरोधक विधियाँ इस अवधि के दौरान प्रदान की जा सकती हैं।"
           }
         }
       }
@@ -2080,7 +2755,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>The wheel matches up the contraceptive methods, shown on the inner disk, with specific medical conditions shown around the outer rim. The numbers shown in the viewing slot guides you whether the woman who has this known condition is able to start using the contraceptive method:</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>आंतरिक डिस्क पर दिखाए गए गर्भनिरोधक तरीकों को बाहरी किनारे के चारों ओर दिखाई गई विशिष्ट चिकित्सा स्थितियों के साथ व्हील मेल कराता है। व्यूइंग स्लॉट में दिखाई गई संख्याएं आपको यह बताती हैं कि जिस महिला को यह ज्ञात स्थिति है, क्या वह गर्भनिरोधक विधि का उपयोग प्रारंभ करने में सक्षम है:</p>\n</div>"
           }
         },
         "kn-IN" : {
@@ -2151,7 +2826,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Use the method in any circumstance"
+            "value" : "विधि का उपयोग किसी भी परिस्थिति में करें"
           }
         },
         "kn-IN" : {
@@ -2222,7 +2897,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generally use the method"
+            "value" : "आमतौर पर विधि का उपयोग करें"
           }
         },
         "kn-IN" : {
@@ -2293,7 +2968,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
+            "value" : "जब तक कि अन्य अधिक उपयुक्त विधियां उपलब्ध या स्वीकार्य न हों विधि का उपयोग सामान्यत: अनुशंसित नहीं किया जाता है"
           }
         },
         "kn-IN" : {
@@ -2330,77 +3005,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Use of the method is not usually recommended unless other more appropriate methods are not available or acceptable"
-          }
-        }
-      }
-    },
-    "howtouse_5" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "as-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "આ પદ્ધતિનો ઉપયોગ કરશો નહીં"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "ta-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
-          }
-        },
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Method NOT to be used"
           }
         }
       }
@@ -2435,7 +3039,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<br><br>Categories 1 and 4 are clearly defined recommendations. For categories 2 or 3, greater clinical judgement will be needed and careful follow-up may be required. If clinical judgement is limited, categories 1 and 2 both mean the method can be used, and categories 3 or 4 both mean the method should not be used.<br><br>No restriction for some conditions: There are many medical conditions when ALL methods can be used (that is, all the methods are either category 1 or 2). These conditions are listed in the <b>Conditions</b> menu.<br><br>Once contraceptive method eligibility has been established, the <strong>Additional Info</strong> screen may be reviewed regarding other considerations. A chart of contraceptive effectiveness, comparing typical use for a diverse range of methods (including some not explicitly covered in this app) is included in this menu.<br><br>"
+            "value" : "<br><br>1 और 4 श्रेणियां स्पष्ट तौर पर परिभाषित अनुशंसाएं हैं। 2 या 3 श्रेणियों के लिए, अधिक नैदानिक निर्णय की आवश्यकता होगी और उसे सावधानीपूर्वक पालन करने की आवश्यकता हो सकती है। यदि नैदानिक निर्णय सीमित है, तो श्रेणी 1 और 2 दोनों का अर्थ है कि विधि का उपयोग किया जा सकता है, और श्रेणी 3 या 4 दोनों का अर्थ है कि विधि का उपयोग नहीं किया जाना चाहिए।<br><br>No कुछ स्थितियों के लिए प्रतिबंध नहीं हैं: ऐसी कई चिकित्सीय स्थितियां हैं जहां सभी विधियों का प्रयोग कर सकते हैं (अर्थात, सभी विधियाँ या तो श्रेणी 1 या 2 हैं)। ये स्थितियां (Conditions) मेनू में सूचीबद्ध हैं।<br><br>गर्भनिरोधक विधि की पात्रता एक बार स्थापित हो जाने के पश्चात, अन्य विचारों के विषय में अतिरिक्त जानकारी स्क्रीन की समीक्षा की जा सकती है। विभिन्न प्रकार के तरीकों ( इसमें कुछ ऐसे भी सम्मिलित हैं जो इस ऐप में स्पष्ट रूप से शामिल नहीं हैं) के विशिष्ट उपयोग की तुलना वाला गर्भनिरोधक प्रभावशीलता का एक चार्ट इस मेनू में सम्मिलित है।<br><br>"
           }
         },
         "kn-IN" : {
@@ -2484,6 +3088,12 @@
             "state" : "translated",
             "value" : "હાઇપરટેન્શન (ઉચ્ચ રક્તચાપ)"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उच्च रक्तचाप"
+          }
         }
       }
     },
@@ -2528,6 +3138,12 @@
             "state" : "translated",
             "value" : "જો સ્ત્રીનું માસિકચક્ર ફરી શરૂ થયું ના હોય અને તેમને પ્રસૂતિ થયાં પછી 21 કે તેનાથી વધુ દિવસો થઈ ગયાં હોય તો, તેઓ તરત જ CHCને શરૂ કરી શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उसका मासिक धर्म चक्र वापस शुरू नहीं हुआ है और उसे प्रसव के बाद 21 दिन या उससे अधिक हो गए हैं, तो वह तुरंत CHC शुरू कर सकती है, यदि वह समुचित तौर पर निश्चित है कि वह गर्भवती नहीं है। उसे अगले 7 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
         }
       }
     },
@@ -2538,6 +3154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો સ્ત્રીનું માસિકચક્ર ફરીથી શરૂ થઈ ગયું હોય તો, તે માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ પ્રથમ ઇન્જેક્શન લઈ શકે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उस महिला का मासिक धर्म चक्र वापस शुरू हो गया है, तो वह पहला इंजेक्शन लगवा सकती है जैसा कि मासिक धर्म चक्र वाली अन्य महिलाओं को सलाह दी जाती है।"
           }
         }
       }
@@ -2550,6 +3172,12 @@
             "state" : "translated",
             "value" : "જો તેમનું માસિકચક્ર હજુ સુધી શરૂ થયું ના હોય તો, તેઓ માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ સેન્ટક્રોમેનને શરૂ કરી શકે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उस महिला का मासिक धर्म चक्र वापस शुरू हो गया है, तो वह सेंटक्रोमन शुरू कर सकती है जैसा कि मासिक धर्म चक्र वाली अन्य महिलाओं को सलाह दी जाती है।"
+          }
         }
       }
     },
@@ -2560,6 +3188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો સ્ત્રીનું માસિકચક્ર ફરીથી શરૂ થઈ ગયું હોય તો, તે માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ CHCને શરૂ કરી શકે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उसका मासिक धर्म चक्र वापस शुरू हो गया है, तो वह मासिक धर्म चक्र वाली अन्य महिलाओं के लिए दी गई सलाह के अनुसार CHC शुरू कर सकती है।"
           }
         }
       }
@@ -2572,6 +3206,12 @@
             "state" : "translated",
             "value" : "જો સ્ત્રીનું માસિકચક્ર ફરીથી શરૂ થઈ ગયું હોય તો, તેઓ માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ ઇમ્પ્લાન્ટ્સનો ઉપયોગ શરૂ કરી શકે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि महिला का मासिक धर्म चक्र वापस शुरू हो गया है, तो वह मासिक धर्म चक्र वाली अन्य महिलाओं को दी सलाह के अनुसार इम्प्लांट्स शुरू कर सकती है।"
+          }
         }
       }
     },
@@ -2583,6 +3223,12 @@
             "state" : "translated",
             "value" : "જો સ્ત્રીનું માસિકચક્ર ફરીથી શરૂ થઈ ગયું હોય તો, તે માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ POPsને શરૂ કરી શકે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उस महिला का मासिक धर्म चक्र वापस शुरू हो गया है, तो वह मासिक धर्म चक्र वाली अन्य महिलाओं को दी सलाह के अनुसार वह पीओपी शुरू कर सकती है।"
+          }
         }
       }
     },
@@ -2593,6 +3239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રથમ કે બીજા ત્રિમાસિકગાળાના ગર્ભપાત બાદ સાત દિવસથી વધારે સમય પછી LNG-IUDને દાખલ કરવામાં આવી હોય તો, આ 7 દિવસ માટે બેકઅપ મેથડની જરૂર પડશે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि पहली या दूसरी तिमाही के गर्भपात के बाद सात दिनों से अधिक समय तक LNG-IUD अंतर्वेशित किया जाता है, तो 7 दिनों के लिए बैकअप विधि की आवश्यकता होगी।"
           }
         }
       }
@@ -2649,6 +3301,12 @@
             "state" : "translated",
             "value" : "જો કોઈ સ્ત્રીને પ્રસૂતિ પછી કે માસિક બંધ થયાં પછી 4 કે તેનાથી વધારે અઠવાડિયા વીતી ગયાં હોય તો, તે IUD દાખલ કરાવી શકે છે પણ તેઓ ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોવી જોઇએ. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि वह 4 या अधिक सप्ताह की प्रसवोत्तर और रजोरोधक है, तो उसे IUD लगाया जा सकता है, यदि यह उचित रूप से निश्चित है कि वह गर्भवती नहीं है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
+          }
         }
       }
     },
@@ -2659,6 +3317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો કોઈ સ્ત્રીને પ્રસૂતિ પછી કે માસિક બંધ થયાં પછી 4 કે તેનાથી વધારે અઠવાડિયા વીતી ગયાં હોય તો, તે IUD દાખલ કરાવી શકે છે પણ તેઓ ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોવી જોઇએ. તેમને પ્રથમ 7 દિવસ માટે બેક અપ મેથડની જરૂર પડશે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि वह 4 या अधिक सप्ताह की प्रसवोत्तर और रजोरोधक है, तो उसे IUD अंतर्वेशित किया जा सकता है, यदि यह उचित रूप से निश्चित है कि वह गर्भवती नहीं है। उसे पहले 7 दिनों के लिए बैकअप विधि की आवश्यकता होगी।"
           }
         }
       }
@@ -2671,6 +3335,12 @@
             "state" : "translated",
             "value" : "જો સ્ત્રીને પ્રસૂતિ પછી અને તેનું માસિકચક્ર ફરીથી શરૂ થયાંનાં 4 અઠવાડિયાથી વધારે સમય વિતી ગયો હોય તો, તેઓ માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ IUD દાખલ કરાવી શકે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उसे प्रसव के 4 या अधिक सप्ताह हो गए हैं और उसका मासिक धर्म चक्र वापस शुरू हो गया है, तो उसे IUD अंतर्वेशित किया जा सकता है, जैसा कि मासिक धर्म चक्र वाली अन्य महिलाओं को सलाह दी जाती है।"
+          }
         }
       }
     },
@@ -2681,6 +3351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો પ્રસૂતિ પછી 21 કે તેનાથી વધારે દિવસો થઈ ગયાં હોય અને તેનું માસિકચક્ર હજુ સુધી ફરી શરૂ થયું ના હોય તો, તે કોઈ પણ સમયે પ્રથમ ઇન્જેક્શન લઈ શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उसे प्रसव के बाद महिला को 21 या अधिक दिन हो गए हैं और उसका मासिक धर्म चक्र वापस नहीं हुआ है, तो वह किसी भी समय पहला इंजेक्शन लगवा सकती है, यदि यह उचित रूप से निश्चित हो कि वह गर्भवती नहीं है। उसे अगले 7 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
           }
         }
       }
@@ -2693,6 +3369,12 @@
             "state" : "translated",
             "value" : "જો પ્રસૂતિ પછી 21 કે તેનાથી વધારે દિવસો થઈ ગયાં હોય અને તેનું માસિકચક્ર હજુ સુધી ફરી શરૂ થયું ના હોય તો, કોઈ પણ સમયે સેન્ટક્રોમેનને શરૂ કરી શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि प्रसव के बाद उस महिला के 21 या अधिक दिन हो गए हैं और उसका मासिक धर्म चक्र वापस शुरू नहीं हुआ है, तो वह किसी भी समय सेंटक्रोमन प्रारंभ कर सकती है, यदि यह उचित रूप से निश्चित है कि वह गर्भवती नहीं है। उसे अगले 2 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
         }
       }
     },
@@ -2703,6 +3385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો પ્રસૂતિ પછી 21 કે તેનાથી વધારે દિવસો થઈ ગયાં હોય અને તેનું માસિકચક્ર હજુ સુધી ફરી શરૂ થયું ના હોય તો, તેઓ કોઈ પણ સમયે ઇમ્પ્લાન્ટ્સનો ઉપયોગ શરૂ કરી શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उसे प्रसव के बाद महिला को 21 या अधिक दिन हो गए हैं और उसका मासिक धर्म चक्र वापस शुरू नहीं हुआ  है, तो वह किसी भी समय इम्प्लांट्स प्रारंभ कर सकती है, यदि यह उचित तौर पर निश्चित है कि वह गर्भवती नहीं है। उसे अगले 2 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
           }
         }
       }
@@ -2715,6 +3403,12 @@
             "state" : "translated",
             "value" : "જો પ્રસૂતિ પછી 21 કે તેનાથી વધારે દિવસો થઈ ગયાં હોય અને તેમનું માસિકચક્ર હજુ સુધી ફરી શરૂ થયું ના હોય તો, તેઓ કોઈ પણ સમયે POPsને શરૂ કરી શકે છે, પણ તેઓ ગર્ભવતી નથી તેની તેમને ચોક્કસ ખાતરી હોય તો. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उसे प्रसव के बाद 21 या अधिक दिन हो गए हैं और उसका मासिक धर्म चक्र वापस शुरू नहीं हुआ है, तो वह किसी भी समय POPs शुरू कर सकती है, यदि यह उचित रूप से निश्चित है कि वह गर्भवती नहीं है। उसे अगले 2 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
         }
       }
     },
@@ -2725,6 +3419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો સ્ત્રી પ્રસૂતિ પછી અને માસિક બંધ થયાંનાં 6 અઠવાડિયાથી 6 મહિના વચ્ચેના સમયગાળામાં હોય તો, તે કોઈ પણ સમયે પ્રથમ ઇન્જેક્શન લઈ શકે છે. જો તે સંપૂર્ણપણે અથવા તો લગભગ સંપૂર્ણપણે સ્તનપાન કરાવી રહી હોય તો, કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર રહેતી નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि वह 6 सप्ताह से 6 महीने के बीच प्रसवोत्तर और रजोरोधक है, तो वह किसी भी समय पहला इंजेक्शन लगवा सकती है। यदि वह पूरी तरह से या लगभग पूरी तरह से स्तनपान करा रही है, तो उसे किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
           }
         }
       }
@@ -2737,6 +3437,12 @@
             "state" : "translated",
             "value" : "જો સ્ત્રીને પ્રસૂતિ પછી 6 મહિનાથી ઓછો સમય થયો હોય તો, સામાન્ય રીતે CHCની સલાહ આપવામાં આવતી નથી (કેટેગરી 3 કે 4)."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उसे प्रसव के उपरांत 6 महीने से कम हुआ है, तो आमतौर पर CHC की सलाह नहीं दी जाती है (श्रेणी 3 या 4)"
+          }
         }
       }
     },
@@ -2747,6 +3453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો પ્રસૂતિના 21થી ઓછા દિવસો થયાં હોય તો, તે કોઈ પણ સમયે પ્રથમ ઇન્જેક્શન લઈ શકે છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી.*"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि प्रसव के बाद महिला को 21 दिन से कम समय हुआ है, तो वह किसी भी समय प्रथम इंजेक्शन लगवा सकती है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
           }
         }
       }
@@ -2759,6 +3471,12 @@
             "state" : "translated",
             "value" : "જો પ્રસૂતિના 21થી ઓછા દિવસો થયાં હોય તો, તે કોઈ પણ સમયે સેન્ટક્રોમેનને શરૂ કરી શકે છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી.*"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि महिला के प्रसव के बाद 21 दिन से कम समय हुआ है, तो वह किसी भी समय सेंटक्रोमन शुरू कर सकती है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
+          }
         }
       }
     },
@@ -2770,16 +3488,28 @@
             "state" : "translated",
             "value" : "જો પ્રસૂતિના 21થી ઓછા દિવસો થયાં હોય તો, તે કોઈ પણ સમયે ઇમ્પ્લાન્ટનો ઉપયોગ શરૂ કરી શકે છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી.*"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि प्रसव के बाद महिला को 21 दिन से कम समय हुआ है, तो वह किसी भी समय इम्प्लांट्स शुरू कर सकती है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की ज़रूरत नहीं है।"
+          }
         }
       }
     },
-    "If she is less than 21 days postpartum, she can start POPs at any time. No additional contraceptive protection is needed.*" : {
+    "If she is less than 21 days postpartum, she can start POPs at any time. No additional contraceptive protection is needed." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો પ્રસૂતિના 21થી ઓછા દિવસો થયાં હોય તો, તે કોઈ પણ સમયે POPsને શરૂ કરી શકે છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી.*"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि महिला का प्रसव के बाद का समय 21 दिन से कम है, तो वह किसी भी समय POPs प्रारंभ कर सकती है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
           }
         }
       }
@@ -2792,6 +3522,12 @@
             "state" : "translated",
             "value" : "જો કોઈ સ્ત્રીને પ્રસૂતિ પછી 48 કલાકથી પણ ઓછો સમય વીત્યો હોય તો તે સામાન્ય રીતે IUD દાખલ કરાવી શકે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि प्रसव के बाद उसे 48 घंटे से कम समय हुआ है, तो उसे आम तौर पर IUD अंतर्वेशित किया जा सकता है।"
+          }
         }
       }
     },
@@ -2802,6 +3538,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો સ્ત્રીને પ્રસૂતિ પછી 6 મહિનાથી વધારે સમય થઈ ગયો હોય તો, જેમની પ્રસૂતિ થઈ નથી તેવી સ્ત્રીઓ માટે આપવામાં આવેલી સલાહનું પાલન કરો."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि प्रसव के उपरांत उसे 6 महीने से अधिक हो गए हैं, तो गैर-प्रसवोत्तर महिलाओं वाली सलाह का अनुसरण करें।"
           }
         }
       }
@@ -2814,6 +3556,12 @@
             "state" : "translated",
             "value" : "જો સ્ત્રીને પ્રસૂતિ પછી અને તેનું માસિકચક્ર ફરીથી શરૂ થયાંનાં 6 અઠવાડિયાથી વધારે સમય વિતી ગયો હોય તો, તે માસિકચક્ર ધરાવતી અન્ય સ્ત્રીઓને આપવામાં આવતી સલાહ મુજબ પ્રથમ ઇન્જેક્શન લઈ શકે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि उसे प्रसव के बाद 6 सप्ताह से अधिक समय हो गया है और उसका मासिक धर्म चक्र वापस हो गया है, तो वह पहला इंजेक्शन लगवा सकती है, जैसा कि मासिक धर्म चक्र वाली अन्य महिलाओं को सलाह दी जाती है।"
+          }
         }
       }
     },
@@ -2824,6 +3572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો STI/HIVનું જોખમ રહેલું હોય તો, કન્ડોમ્સનો યોગ્ય અને નિરંતર ઉપયોગ કરવાની ભલામણ કરવામાં આવે છે. જ્યારે કન્ડોમ્સને યોગ્ય અને નિરંતપણે ઉપયોગમાં લેવામાં આવે છે, ત્યારે તે HIV સહિત STIsની સામે સુરક્ષાની સૌથી અસરકારક પદ્ધતિ બની જાય છે. મહિલાઓ માટેના કન્ડોમ્સ અસરકારક અને સલામત છે પરંતુ રાષ્ટ્રીય કાર્યક્રમો દ્વારા પુરુષો માટેના કન્ડોમ્સ જેટલા વ્યાપકપણે ઉપયોગમાં લેવાતા નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि STI/HIV का खतरा है, तो कंडोम के सही और लगातार उपयोग की अनुशंसा की जाती है। सही ढंग से और लगातार उपयोग किया जाने पर कंडोम HIV सहित STIs से सुरक्षा के सबसे प्रभावी तरीकों में से एक प्रदान करता है। महिला कंडोम प्रभावी और सुरक्षित हैं, लेकिन पुरुष कंडोम के समान राष्ट्रीय कार्यक्रमों द्वारा व्यापक रूप से उपयोग नहीं किए जाते हैं।"
           }
         }
       }
@@ -2847,6 +3601,12 @@
             "state" : "translated",
             "value" : "Impl."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इम्प्ल."
+          }
         }
       }
     },
@@ -2857,6 +3617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઇમ્પ્લાન્ટ્સ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इम्प्लांट्स"
           }
         }
       }
@@ -2895,7 +3661,15 @@
       }
     },
     "India-adapted MEC Wheel 2022" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇન્ડિયા-એડેપ્ટેડ એમઇસી વ્હિલ 2022"
+          }
+        }
+      }
     },
     "India-adapted MEC Wheel 2022 " : {
       "extractionState" : "manual",
@@ -2920,7 +3694,15 @@
       }
     },
     "Injectables:\\nGet repeat injections on time." : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇન્જેક્ટેબલ્સઃ ઇન્જેક્શનને ફરીથી સમયસર લો."
+          }
+        }
+      }
     },
     "Injected into the muscle or under the skin every 2 or 3 months, depending on the product" : {
       "extractionState" : "manual",
@@ -2929,6 +3711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઉત્પાદન પર આધાર રાખીને દર 2 કે 3 મહિને સ્નાયુમાં અથવા તો ચામડીની નીચે દાખલ કરવામાં આવે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उत्पाद के आधार पर, प्रत्येक 2 या 3 महीने में मांसपेशियों में या त्वचा के नीचे इंजेक्शन लगाया जाता है।"
           }
         }
       }
@@ -2963,6 +3751,12 @@
             "state" : "translated",
             "value" : "યોનિમાંથી અનિયમિતપણે રક્તસ્રાવ થવો એ સર્વસામાન્ય છે પણ હાનિકારક નથી. તેનો ઉપયોગ કરવાનું બંધ કર્યા પછી પ્રજનનક્ષમતા પાછી આવવામાં મોડું થઈ શકે છે (ગર્ભવતી બનવામાં ઘણાં મહિનાઓ લાગી શકે છે)."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "योनि रक्तस्राव अनियमित होना आम है, लेकिन हानिकारक नहीं है। इसका उपयोग बंद करने के पश्चात प्रजनन क्षमता विलंब से पुन: प्राप्त हो पाती हे। (गर्भवती होने में कई महीने लग सकते हैं)।"
+          }
         }
       }
     },
@@ -2973,6 +3767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કોઈ પણ પ્રકારની બૅકઅપ મેથડની જરૂરિયાત વગર ગર્ભપાતની પ્રક્રિયા પૂરી થઈ ગયાંનાં 7 દિવસની અંદર તેને લેવાનું શરૂ કરી શકાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "किसी भी बैकअप विधि की ज़रूरत के बिना इसे गर्भपात के पूर्ण होने के 7 दिनों के अंदर प्रारंभ किया जा सकता है"
           }
         }
       }
@@ -2985,6 +3785,29 @@
             "state" : "translated",
             "value" : "તે સ્ટીરોઇડ અને હોર્મોન વગરની અઠવાડિયે એક વખત મોં વાટે લેવાની ગર્ભનિરોધક ગોળી છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह एक गैर-स्टेरायडल, गैर-हार्मोनल साप्ताहिक मौखिक गर्भनिरोधक गोली है"
+          }
+        }
+      }
+    },
+    "It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*પ્રસૂતિ પછીના પ્રથમ 21 દિવસો દરમિયાન સ્ત્રી અંડોત્સર્ગ કરવા લાગે અને ગર્ભાવસ્થા રહી જવાનું જોખમ હોય તેની શક્યતા ખૂબ ઓછી છે. જોકે, કાર્યક્રમ સંબંધિત કેટલાક કારણોસર આ સમયગાળા દરમિયાન કેટલીક ચોક્કસ ગર્ભનિરોધક પદ્ધતિઓને જ પૂરી પાડવામાં આવી શકે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इस बात की संभावना नहीं है कि एक महिला प्रसव के उपरांत प्रथम 21 दिनों के दौरान डिंबोत्सर्जन (ओवुलेट) करेगी और उसे गर्भावस्था का खतरा होगा। हालांकि, कार्यक्रम संबंधी कारणों से, कुछ गर्भनिरोधक विधियाँ इस अवधि के दौरान प्रदान की जा सकती हैं।"
+          }
         }
       }
     },
@@ -2995,6 +3818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તે સ્તનપાન કરાવતી માતાઓ માટે સલામત છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह स्तनपान कराने वाली माताओं के लिए सुरक्षित है।"
           }
         }
       }
@@ -3007,6 +3836,12 @@
             "state" : "translated",
             "value" : "IUDs HIV સહિતના જાતીય રીતે પ્રસારિત થતાં ચેપો (STIs) સામે રક્ષણ આપતું નથી. જો STI/HIVનું જોખમ રહેલું હોય તો, કન્ડોમ્સનો યોગ્ય અને નિરંતર ઉપયોગ કરવાની ભલામણ કરવામાં આવે છે. જ્યારે કન્ડોમ્સને યોગ્ય અને નિરંતપણે ઉપયોગમાં લેવામાં આવે છે ત્યારે તે HIV સહિત STIsની સામે સુરક્ષાની સૌથી અસરકારક પદ્ધતિ બની જાય છે. મહિલાઓ માટેના કન્ડોમ્સ અસરકારક અને સલામત છે પરંતુ રાષ્ટ્રીય કાર્યક્રમો દ્વારા પુરુષો માટેના કન્ડોમ્સ જેટલા વ્યાપકપણે ઉપયોગમાં લેવાતા નથી. "
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IUDs यौन संचारित संक्रमणों (STIs) से रक्षा नहीं करते हैं जिसमें HIV भी शामिल है। यदि STI/HIV का खतरा है, तो कंडोम के सही और लगातार उपयोग की अनुशंसा की जाती है। सही ढंग से और लगातार उपयोग करने पर कंडोम HIV सहित STIs से सुरक्षा के सबसे प्रभावी तरीकों में से एक प्रदान करता है। महिला कंडोम प्रभावी और सुरक्षित हैं, लेकिन पुरुष कंडोम के समान राष्ट्रीय कार्यक्रमों द्वारा व्यापक रूप से उपयोग नहीं किया जाता है।"
+          }
         }
       }
     },
@@ -3018,11 +3853,14 @@
             "state" : "translated",
             "value" : "શુક્રાણુને સ્ખલિત થયેલા વીર્યમાંથી બહાર રાખે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्खलित वीर्य से शुक्राणु को बाहर रखता है"
+          }
         }
       }
-    },
-    "Key" : {
-      "extractionState" : "manual"
     },
     "Lactational amenorrhea method" : {
       "extractionState" : "manual",
@@ -3031,6 +3869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "લેક્ટેશનલ એમેનોર્હીયા મેથડ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लैक्टेशनल एमेनोरिया विधि"
           }
         }
       }
@@ -3053,6 +3897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "લેક્ટેશનલ એમેનોર્હીયા મેથડ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्तनपान अनार्तव (लैक्टेशनल एमेनोरिया) विधि"
           }
         }
       }
@@ -3086,6 +3936,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "મોડું ઇન્જેક્શન આપવું"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इंजेक्शन के लिए देर हो जाना"
           }
         }
       }
@@ -3180,6 +4036,12 @@
             "state" : "translated",
             "value" : " લીવોનોરજેસ્ટ્રેલ (LNG):"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लेवोनोर्गेस्ट्रेल (एलएनजी):"
+          }
         }
       }
     },
@@ -3191,6 +4053,12 @@
             "state" : "translated",
             "value" : "લીવોનોરજેસ્ટ્રેલ આઇયુડી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लेवोनोर्गेस्ट्रेल आईयूडी"
+          }
         }
       }
     },
@@ -3201,6 +4069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "લિવરની બીમારી"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यकृत रोग (लिवर रोग)"
           }
         }
       }
@@ -3224,6 +4098,12 @@
             "state" : "translated",
             "value" : "LNG-IUD"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
         }
       }
     },
@@ -3234,6 +4114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "LNG-IUD = લીવોનોરજેસ્ટ્રેલ-મુક્ત કરનાર IUD (20 µg/24 કલાક)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD = लेवोनोर्गेस्ट्रेल-रिलीजिंग IUD (20 माइक्रोग्राम/24 घंटे)"
           }
         }
       }
@@ -3246,6 +4132,12 @@
             "state" : "translated",
             "value" : "લાંબા સમય સુધી ટકે છે"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चिरस्थायी"
+          }
         }
       }
     },
@@ -3256,6 +4148,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તેના ઉપયોગના પ્રથમ મહિનાઓ દરમિયાન લાંબા સમય માટે અને વધારે માસિક આવવું એ સામાન્ય છે અને તે હાનિકારક નથી, આ ઉપરાંત, તેને ઇમર્જન્સીમાં ગર્ભનિરોધક તરીકે પણ ઉપયોગમાં લઈ શકાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उपयोग के पहले महीनों के दौरान लंबे समय चलने वाले और भारी मासिक धर्म चक्र आम है लेकिन हानिकारक नहीं है; इनका उपयोग आपातकालीन गर्भनिरोधक के रूप में भी किया जा सकता है।"
           }
         }
       }
@@ -3355,6 +4253,12 @@
             "state" : "translated",
             "value" : "પુરુષો માટેના કન્ડોમ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पुरुष कंडोम"
+          }
         }
       }
     },
@@ -3366,6 +4270,12 @@
             "state" : "translated",
             "value" : "પુરુષો માટેના કન્ડોમ્સઃ યોગ્ય અને સતત ઉપયોગ કરવા પર 98%, કૉમન રીતે ઉપયોગ કરવા પર 85%"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पुरुष कंडोम: सही और लगातार उपयोग के साथ 98%, आमतौर पर उपयोग किए जाने वाले 85%"
+          }
         }
       }
     },
@@ -3376,6 +4286,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પુરુષોની નસબંધી (વેસ્કેટોમી)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पुरुष नसबंदी (वासेक्टोमी)"
           }
         }
       }
@@ -3403,7 +4319,15 @@
       }
     },
     "Medical Eligibility Criteria for Contraceptive Use" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગર્ભનિરોધકના ઉપયોગ માટેની તબીબી પાત્રતાના માપદંડો"
+          }
+        }
+      }
     },
     "Medical Eligibility Criteria for Contraceptive Use " : {
       "extractionState" : "manual",
@@ -3435,6 +4359,12 @@
             "state" : "translated",
             "value" : "સૌપ્રથમ વખત રજોદર્શન શરૂ થવાથી માંડીને <18 વર્ષ સુધી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रजोदर्शन से <18 वर्ष"
+          }
         }
       }
     },
@@ -3445,6 +4375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સૌપ્રથમ વખત રજોદર્શન શરૂ થવાથી માંડીને <18 વર્ષ સુધી\n40 વર્ષ અને તેનાથી મોટી વય\n"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रजोदर्शन से <18 वर्ष\n40 वर्ष और उससे अधिक"
           }
         }
       }
@@ -3457,11 +4393,14 @@
             "state" : "translated",
             "value" : "આ પદ્ધતિનો ઉપયોગ કરશો નહીં"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "विधि का उपयोग नहीं किया जाना चाहिए"
+          }
         }
       }
-    },
-    "Migraine" : {
-      "extractionState" : "manual"
     },
     "Migraine with aura°" : {
       "extractionState" : "manual",
@@ -3470,6 +4409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઑરાની સાથે માઇગ્રેન°"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऑरा के साथ आधासीसी (माइग्रेन) °"
           }
         }
       }
@@ -3493,6 +4438,12 @@
             "state" : "translated",
             "value" : "ઑરા વગર માઇગ્રેન°"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऑरा के बिना आधासीसी (माइग्रेन) °"
+          }
         }
       }
     },
@@ -3515,6 +4466,12 @@
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 5 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ POPs શરૂ થઈ શકે છે. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव प्रारंभ होने के 5 दिनों से अधिक के बाद: POPs शुरू किया जा सकता है यदि यह उचित रूप से निश्चित है कि महिला गर्भवती नहीं है। महिला को अगले 2 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
         }
       }
     },
@@ -3525,6 +4482,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 5 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ CHC શરૂ કરો. આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म में रक्तस्राव शुरू हुए 5 दिन से अधिक होने पर: CHC शुरू करें यदि यह निश्चित होता है कि महिला गर्भवती नहीं है। अगले 7 दिनों तक सेक्स से दूर रहें या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करें।"
           }
         }
       }
@@ -3537,6 +4500,12 @@
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 7 દિવસ (LNG IUD)થી વધારે. બેક અપ મેથડની કોઈ જરૂરિયાત નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव प्रारंभ होने के बाद से 7 दिनों से अधिक (LNG IUD) । बैकअप विधि की आवश्यकता नहीं है"
+          }
         }
       }
     },
@@ -3547,6 +4516,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 7 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ પ્રથમ POI ઇન્જેક્શનને આપી શકાય છે. આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव प्रारंभ होने के 7 दिवस से अधिक समय के पश्चात: यदि यह निश्चित हो कि महिला गर्भवती नहीं है तो प्रथम POI इंजेक्शन दिया जा सकता है। अगले 7 दिनों तक सेक्स से दूर रहें या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करें।"
           }
         }
       }
@@ -3559,6 +4534,12 @@
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 7 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म में रक्तस्राव शुरू होने के 7 दिन से अधिक समय के पश्चात: इंम्प्लांट को अंतः स्थापित किया जा सकता है यदि यह निश्चित हो जाए कि महिला गर्भवती नहीं है। उसे अगले 7 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
         }
       }
     },
@@ -3569,6 +4550,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 12 દિવસથી વધારે સમય વીતી ગયો હોય ત્યારે. સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને સ્ત્રીની અનુકૂળતાએ દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव शुरू होने के बाद से 12 दिन से अधिक होने पर। महिला की सुविधानुसार IUD लगाया जा सकता है यदि यह निश्चित हो कि वह गर्भवती नहीं है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की जरूरत नहीं है।"
           }
         }
       }
@@ -3591,6 +4578,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "NET-EN = 200 મિગ્રા NET-ENને સ્નાયુમાં આપવામાં આવે છે"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " NET-EN का NET-EN = 200 मिलीग्राम इंट्रामस्क्युलर रूप से दिया गया"
           }
         }
       }
@@ -3618,7 +4611,21 @@
       }
     },
     "No hormones" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ હોર્મોન્સ નહીં"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कोई हार्मोन नहीं"
+          }
+        }
+      }
     },
     "Non-hormonal contraceptives (Centchroman)" : {
       "extractionState" : "manual",
@@ -3627,6 +4634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "નોન-હોર્મોનલ કૉન્ટ્રાસેપ્ટિવ્સ\n(સેન્ટક્રોમેન)\n"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गैर-हार्मोनल गर्भनिरोधक (सेंटक्रोमन)"
           }
         }
       }
@@ -3650,6 +4663,12 @@
             "state" : "translated",
             "value" : "પરુ વગરનો સ્રાવ થવો અને ઊંચું જોખમ ધરાવતી વ્યક્તિ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गैर-पस आस्राव (नॉन प्यूरुलेंट डिस्चार्ज) और उच्च जोखिम वाले व्यक्ति"
+          }
         }
       }
     },
@@ -3665,7 +4684,15 @@
       }
     },
     "Nucleoside reverse transcriptase inhibitors (NRTIs)" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ન્યુક્લીયોસાઇડ રીવર્સ ટ્રાન્સસ્ક્રિપ્ટેઝ ઇન્હિબિટર્સ (NRTIs)"
+          }
+        }
+      }
     },
     "Nulliparous" : {
       "extractionState" : "manual",
@@ -3674,6 +4701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "નલિપેરસ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अप्रसवा"
           }
         }
       }
@@ -3708,6 +4741,12 @@
             "state" : "translated",
             "value" : "એન્ટિકોન્વુલસેન્ટ્સ પર"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आक्षेपरोधी (एंटीकॉन्वल्सेंट) पर"
+          }
         }
       }
     },
@@ -3719,6 +4758,12 @@
             "state" : "translated",
             "value" : "શરૂઆતમાં પહેલી ગોળી માસિકના પ્રથમ દિવસે લેવાની રહેશે (માસિક રક્તસ્રાવ શરૂ થયાંના પ્રથમ દિવસે) અને ત્યારબાદ બીજી ગોળી 3 દિવસ પછી લેવાની રહેશે. પ્રથમ 3 મહિના માટે દિવસોની આ પેટર્નનું પુનરાવર્તન કરવાનું રહે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रारंभ में, मासिक धर्म के पहले दिन (जैसा कि रक्तस्राव के पहले दिन से संकेत मिलता है) पहली गोली लेनी होती है और दूसरी गोली 3 दिन बाद लेनी होती है। पहले तीन महीनों में दिनों का यह प्रारूप दोहराया जाता है।"
+          }
         }
       }
     },
@@ -3729,6 +4774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "રિફામપિસિન રિફાબ્યુટિન પર"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रिफैम्पिसिन रिफैब्यूटिन पर"
           }
         }
       }
@@ -3752,6 +4803,12 @@
             "state" : "translated",
             "value" : "યુવાનો, હજુ સુધી પિતા નહીં બનેલા પુરુષો અને હતાશામાંથી પસાર થઈ રહેલા લોકો સહિત માનસિક બીમારીઓ ધરાવતા ક્લાયેન્ટ્સના કિસ્સામાં સવિશેષ ધ્યાન આપવું જરૂરી બની જાય છે. તમામ ક્લાયેન્ટ્સને નસબંધીની હેતુપૂર્વકની કાયમી સ્થિતિ અંગે તથા તેના ઉપલબ્ધ વિકલ્પો, અત્યંત અસરકારક પદ્ધતિઓ અંગે કાળજીપૂર્વક સલાહ આપવી જોઇએ. યુવાનો માટે આ એક સવિશેષ ચિંતાનો વિષય છે. આ અંગેનો નિર્ણય લેવાની પ્રક્રિયામાં નસબંધીની પ્રક્રિયાઓ હાથ ધરવા માટે રાષ્ટ્રીય કાયદાઓ અને વર્તમાન નિયમોને ધ્યાનમાં લેવા જોઇએ."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उन ग्राहकों के मामले में विशेष ध्यान दिया जाना चाहिए जो युवा हैं, वे पुरुष जो अभी तक पिता नहीं बने हैं और अवसादग्रस्त स्थितियों सहित मानसिक स्वास्थ्य समस्याओं वाले लोग हैं। सभी ग्राहकों को नसबंदी के इच्छित स्थायित्व और वैकल्पिक, दीर्घकालिक, अत्यधिक प्रभावी तरीकों की उपलब्धता के बारे में सावधानीपूर्वक परामर्श दिया जाना चाहिए। यह युवाओं के लिए अतिरिक्त मतलब का विषय है। नसबंदी प्रक्रियाओं को प्रदान करने के लिए निर्णय प्रक्रिया में राष्ट्रीय कानूनों और मौजूदा मानदंडों पर विचार किया जाना चाहिए।"
+          }
         }
       }
     },
@@ -3762,6 +4819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "યુવાનો, વંધ્યા સ્ત્રીઓ, હજુ સુધી પિતા નહીં બનેલા પુરુષો અને હતાશામાંથી પસાર થઈ રહેલા લોકો સહિત માનસિક બીમારીઓ ધરાવતા ક્લાયેન્ટ્સના કિસ્સામાં સવિશેષ ધ્યાન આપવું જરૂરી બની જાય છે. તમામ ક્લાયેન્ટ્સને નસબંધીની હેતુપૂર્વકની કાયમી સ્થિતિ અંગે તથા તેના ઉપલબ્ધ વિકલ્પો, અત્યંત અસરકારક પદ્ધતિઓ અંગે કાળજીપૂર્વક સલાહ આપવી જોઇએ. યુવાનો માટે આ એક સવિશેષ ચિંતાનો વિષય છે. આ અંગેનો નિર્ણય લેવાની પ્રક્રિયામાં નસબંધીની પ્રક્રિયાઓ હાથ ધરવા માટે રાષ્ટ્રીય કાયદાઓ અને વર્તમાન નિયમોને ધ્યાનમાં લેવા જોઇએ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उन ग्राहकों के मामले में विशेष ध्यान दिया जाना चाहिए जो युवा हैं, अप्रसवा महिलाएं हैं, वे पुरुष जो अभी तक पिता नहीं बने हैं और अवसादग्रस्त स्थितियों सहित मानसिक स्वास्थ्य समस्याओं वाले लोग हैं। सभी ग्राहकों को नसबंदी के इच्छित स्थायित्व और वैकल्पिक, दीर्घकालिक, अत्यधिक प्रभावी तरीकों की उपलब्धता के बारे में सावधानीपूर्वक परामर्श दिया जाना चाहिए। यह युवाओं के लिए अतिरिक्त मतलब का विषय है। नसबंदी प्रक्रियाओं को प्रदान करने के लिए निर्णय प्रक्रिया में राष्ट्रीय कानूनों और मौजूदा मानदंडों पर विचार किया जाना चाहिए।"
           }
         }
       }
@@ -3818,6 +4881,12 @@
             "state" : "translated",
             "value" : "PCOD"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCOD"
+          }
         }
       }
     },
@@ -3828,6 +4897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પેલ્વિક ઇન્ફ્લેમેટરી ડીસીઝ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "श्रोणिशोथज रोग (पेल्विक इंफ्लेमेटरी डिज़ीज)"
           }
         }
       }
@@ -3840,6 +4915,12 @@
             "state" : "translated",
             "value" : "કાયમી ગર્ભનિરોધક, જેમાં ફેલોપિયન ટ્યુબ્સને બંધ કરી દેવામાં આવે છે કે કાપી નાંખવામાં આવે છે"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "फैलोपियन ट्यूब को अवरुद्ध या काटने के लिए स्थायी गर्भनिरोधक"
+          }
         }
       }
     },
@@ -3850,6 +4931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "અંડકોષોમાંથી શુક્રાણુઓનું વહન કરનારી શુક્રવાહિકાઓને બંધ કરી દેનાર કે કાપી નાંખનાર ગર્ભનિરોધક."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्थायी गर्भनिरोधक जो अंडकोष से शुक्राणु ले जाने वाली वास डेफेरेंस नलियों को अवरुद्ध कर सके या काट सके"
           }
         }
       }
@@ -3884,6 +4971,12 @@
             "state" : "translated",
             "value" : "POIsમાં ડીપો મેડ્રોક્સીપ્રોજેસ્ટેરોન એસીટેટ (DMPA) નોરેથિસ્ટેરોન એનેન્થેટ (NET-EN)નો સમાવેશ થાય છે. અહીં ત્રણ સૂત્રીકરણો પર વિચારણા કરવામાં આવી છેઃ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POIs में डिपो मेड्रोक्सीप्रोजेस्टेरोन एसीटेट (DMPA) नोरेथिस्टरोन एनैन्थेट ((NET-EN) सम्मिलित होते हैं। यहां तीन फॉर्मूलेशन पर विचार किया गया है:"
+          }
         }
       }
     },
@@ -3891,6 +4984,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POP"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "POP"
@@ -3906,6 +5005,12 @@
             "state" : "translated",
             "value" : "સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો POPs કોઈ પણ સમયે શરૂ કરી શકાય છે. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POPs किसी भी समय प्रारंभ किया जा सकता है यदि यह यथोचित रूप से निश्चित है कि महिला गर्भवती नहीं है। महिला को अगले 2 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
         }
       }
     },
@@ -3916,6 +5021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પીઓપીને તાત્કાલિક શરૂ કરી શકાય છે અથવા તો ગર્ભપાતની પ્રક્રિયા પૂરી થયાંનાં 7 દિવસની અંદર પણ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पीओपी को गर्भपात पूरा होने के बाद तुरंत या 7 दिनों के भीतर शुरू किया जा सकता है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की ज़रूरत नहीं है।"
           }
         }
       }
@@ -3928,6 +5039,12 @@
             "state" : "translated",
             "value" : "ગર્ભપાત પછી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भपातोत्तर"
+          }
         }
       }
     },
@@ -3938,6 +5055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભપાત પછી"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भपात उपरांत"
           }
         }
       }
@@ -3961,16 +5084,28 @@
             "state" : "translated",
             "value" : "પ્રસૂતિ પછી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर"
+          }
         }
       }
     },
-    "Postpartum (breastfeeding and non-breastfeeding)*" : {
+    "Postpartum (breastfeeding and non-breastfeeding)" : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રસૂતિ પછી (સ્તનપાન કરાવતી અને સ્તનપાન નહીં કરાવતી માતાઓ માટે)*"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर (स्तनपान और गैर-स्तनपान) "
           }
         }
       }
@@ -3983,16 +5118,28 @@
             "state" : "translated",
             "value" : "પ્રસૂતિ પછી (સ્તનપાન કરાવનાર અથવા સ્તનપાન નહીં કરાવનાર)*"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर (स्तनपान या गैर-स्तनपान)"
+          }
         }
       }
     },
-    "Postpartum (breastfeeding)*" : {
+    "Postpartum (breastfeeding)" : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રસૂતિ પછી (સ્તનપાન)*"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर (स्तनपान) "
           }
         }
       }
@@ -4003,18 +5150,13 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "પ્રસૂતિ પછી (સ્તનપાન નહીં કરાવનાર)"
+            "value" : "પ્રસૂતિ પછી (સ્તનપાન નહીં કરાવનાર)*"
           }
-        }
-      }
-    },
-    "Postpartum (non-breastfeeding)*" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "પ્રસૂતિ પછી (સ્તનપાન નહીં કરાવનાર)*"
+            "value" : "प्रसवोत्तर (स्तनपान न कराना) "
           }
         }
       }
@@ -4044,6 +5186,12 @@
             "state" : "translated",
             "value" : "પ્રસૂતિ પછી સ્તનપાન કરાવવું"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर स्तनपान"
+          }
         }
       }
     },
@@ -4054,6 +5202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રાથમિકતાઓ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चयन"
           }
         }
       }
@@ -4077,16 +5231,11 @@
             "state" : "translated",
             "value" : "તે ફલિત થયેલા અંડાણું અને એન્ડોમેટ્રિયલ બેડની વચ્ચે બેમેળ પેદા કરીને એન્ડોમેટ્રિયમમાં બ્લાસ્ટોસીસ્ટના પ્રત્યારોપણને નિવારે છે. "
           }
-        }
-      }
-    },
-    "Prevents the release of eggs from the ovaries (ovulation)" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "તે અંડાશયમાંથી અંડાણુંઓને મુક્ત થતાં (અંડોત્સર્ગ) અટકાવે છે."
+            "value" : "निषेचित डिंब और एंडोमेट्रियल (अंतर्गर्भाशयकला) पर्त के बीच अतुल्यकालिकता बनाकर एंडोमेट्रियम में ब्लास्टोसिस्ट के इम्प्लांटेशन को रोकता है"
           }
         }
       }
@@ -4099,6 +5248,12 @@
             "state" : "translated",
             "value" : "અંડાશયમાંથી અંડાણુઓને ઉત્સર્જિત (અંડોત્સર્ગ) થતાં અટકાવે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अंडाशय से अंडों के निकलने (ओव्यूलेशन) को रोकता है"
+          }
         }
       }
     },
@@ -4109,6 +5264,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "અગાઉના LSCS"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पूर्व एलएससीएस"
           }
         }
       }
@@ -4121,6 +5282,12 @@
             "state" : "translated",
             "value" : "ગુપ્તતા"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गोपनीयता"
+          }
         }
       }
     },
@@ -4132,11 +5299,31 @@
             "state" : "translated",
             "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પ્લાન્ટ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रोजेस्टोजेन-केवल इम्प्लांट्स (प्रत्यारोपण)"
+          }
         }
       }
     },
     "Progestogen-only implants are a type of long-acting, reversible contraception. The various types of implants that are considered here are the following:" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પ્લાન્ટ્સ એ લાંબા સમય સુધી કામ કરતાં, કાઢી શકાતા ગર્ભનિરોધકનો એક પ્રકાર છે. જેના પર વિચારણા કરી શકાય તેવા વિવિધ પ્રકારના ઇમ્પ્લાન્ટ્સ અહીં નીચે મુજબ છેઃ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रोजेस्टोजन-केवल इम्प्लांट्स एक प्रकार का लंबे समय तक चलने वाला, प्रतिवर्ती गर्भनिरोधक है। विभिन्न प्रकार के इम्प्लांट्स जिनका यहां विचार किया गया है वे निम्नलिखित हैं:"
+          }
+        }
+      }
     },
     "Progestogen-only injectables" : {
       "extractionState" : "manual",
@@ -4145,6 +5332,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रोजेस्टोजेन-केवल इंजेक्शन"
           }
         }
       }
@@ -4157,6 +5350,12 @@
             "state" : "translated",
             "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સ (POIs)"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रोजेस्टोजन-केवल इंजेक्शन (POIs)"
+          }
         }
       }
     },
@@ -4167,6 +5366,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રોજેસ્ટોજેન-ઓન્લી પિલ્સ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रोजेस्टोजेन-केवल गोलियाँ"
+          }
+        }
+      }
+    },
+    "Progeston-only pills" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रोजेस्टोजेन-केवल गोलियाँ"
           }
         }
       }
@@ -4201,6 +5417,12 @@
             "state" : "translated",
             "value" : "પ્રસૂતિ સંબંધિત / ગર્ભપાત પછી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रासूतिक/प्रसवोत्तर"
+          }
         }
       }
     },
@@ -4211,6 +5433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્રાવમાં પરુ નીકળવું"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पस आस्राव (पुरुलेंट डिस्चार्ज)"
           }
         }
       }
@@ -4259,9 +5487,6 @@
         }
       }
     },
-    "Rape (low risk of STI)" : {
-      "extractionState" : "manual"
-    },
     "Recommendation\n" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4269,6 +5494,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ભલામણ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिफारिश"
           }
         }
       }
@@ -4281,6 +5512,12 @@
             "state" : "translated",
             "value" : "એન્ડોમેટ્રિયલ અને અંડાશયના કેન્સરના જોખમને ઘટાડે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एंडोमेट्रियल और डिम्बग्रंथि कैंसर के खतरे को कम करता है।"
+          }
         }
       }
     },
@@ -4291,6 +5528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ નિયમિતપણે થવો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नियमित रक्तस्राव"
           }
         }
       }
@@ -4303,6 +5546,12 @@
             "state" : "translated",
             "value" : "બે ઇન્જેક્શનની વચ્ચેનો અંતરાલ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "फिर से इंजेक्शन लगाने का अंतराल"
+          }
         }
       }
     },
@@ -4314,6 +5563,12 @@
             "state" : "translated",
             "value" : "દર ત્રણ મહિને DMPA ઇન્જેક્શન્સને ફરીથી આપવું જોઇએ."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रत्येक तीन महीने में दोबारा DMPA इंजेक्शन लगाए जाने चाहिए।"
+          }
         }
       }
     },
@@ -4324,6 +5579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "દર બે મહિને NET-EN ઇન્જેક્શન્સને ફરીથી આપવું જોઇએ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रत्येक दो महीने में दोबारा NET-EN इंजेक्शन लगाए जाने चाहिए।"
           }
         }
       }
@@ -4435,11 +5696,25 @@
             "state" : "translated",
             "value" : "ભલામણો જુઓ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिफारिशें देखें"
+          }
         }
       }
     },
     "Select the medical condition or history that apply. More than one condition can be identified.\"" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લાગુ થતી હોય તે તબીબી સ્થિતિ કે પૂર્વવિગતને પસંદ કરો. એકથી વધુ સ્થિતિને ઓળખી શકાય છે."
+          }
+        }
+      }
     },
     "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period." : {
       "extractionState" : "manual",
@@ -4448,6 +5723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3 મહિનાના રાહ જોવાના સમયગાળા બાદ શુક્રાણુનું વિશ્લેષણ (જ્યાં પણ ઉપલબ્ધ હોય) ગર્ભનિરોધકની અસરકારકતાની પુષ્ટી કરી શકે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 महीने की प्रतीक्षा अवधि के बाद वीर्य विश्लेषण, जहां उपलब्ध हो, गर्भनिरोधक प्रभावशीलता की पुष्टि कर सकता है।"
           }
         }
       }
@@ -4459,6 +5740,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સેપ્સિસ (ઘામાં સડો થવો)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पूति"
           }
         }
       }
@@ -4493,6 +5780,12 @@
             "state" : "translated",
             "value" : "SLE"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SLE"
+          }
         }
       }
     },
@@ -4503,6 +5796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તે કૉપરની સ્લીવ્સ કે વાયર ધરાવતું એક નાનકડું પ્લાસ્ટિકનું ઉપકરણ છે, જેને ગર્ભાશયમાં દાખલ કરવામાં આવે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "तांबे की स्लीव या तार वाला छोटा लचीला प्लास्टिक उपकरण जिसे गर्भाशय में लगाया जाता है"
           }
         }
       }
@@ -4515,6 +5814,12 @@
             "state" : "translated",
             "value" : "હાથના ઉપરના ભાગે ચામડીની નીચે નાનો, સ્થિતિસ્થાપક રોડ કે કેપ્સુલ મૂકવામાં આવે છે; જે ફક્ત પ્રોજેસ્ટોજેન હોર્મોન ધરાવે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "छोटी, लचीली छड़ें या कैप्सूल जो ऊपरी बांह की त्वचा के नीचे रखे जाते हैं; इसमें केवल प्रोजेस्टोजन हार्मोन होता है"
+          }
         }
       }
     },
@@ -4525,6 +5830,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ધૂમ્રપાન"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "धूम्रपान"
           }
         }
       }
@@ -4548,6 +5859,12 @@
             "state" : "translated",
             "value" : "સ્પર્મિસાઇડ (એકલું): યોગ્ય અને સતત ઉપયોગ કરવા પર 82%, કૉમન રીતે ઉપયોગ કરવા પર 72%"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शुक्राणुनाशक (अकेले): सही और लगातार उपयोग के साथ 82%,  आमतौर पर उपयोग किए जाने वाले 72%"
+          }
         }
       }
     },
@@ -4558,6 +5875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્પર્મિસાઇડ્સ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शुक्राणुनाशक"
           }
         }
       }
@@ -4581,6 +5904,12 @@
             "state" : "translated",
             "value" : "સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ CHC શરૂ કરો. આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि यह पूरी तरह निश्चित हो जाए कि महिला गर्भवती नहीं है तो CHC शुरू करें। अगले 7 दिनों तक सेक्स से दूर रहें या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करें।"
+          }
         }
       }
     },
@@ -4592,6 +5921,12 @@
             "state" : "translated",
             "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો જ તેની શરૂઆત કરો. આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इसे प्रारंभ करें यदि यह उचित रूप से निश्चित है कि महिला गर्भवती नहीं है।  अगले 2 दिनों तक सेक्स से दूर रहें या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करें।"
+          }
         }
       }
     },
@@ -4602,6 +5937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તો ચોથા મહિનાથી શરૂ કરીને આ ગોળીને ગોળી લેવાના પ્રથમ દિવસે અઠવાડિયામાં એકવાર લેવાની રહે છે અને સ્ત્રીના માસિકચક્રને અનુલક્ષ્યાં વગર અઠવાડિક શિડ્યૂલને ચાલું રાખવું જોઇએ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चौथे महीने से प्रारंभ करके, गोली साप्ताहिक लेनी होती है जो पहली गोली वाले दिन लेते हैं और मासिक धर्म चक्र की परवाह किए बिना साप्ताहिक सूची अनुसार इसे जारी रखना चाहिए।"
           }
         }
       }
@@ -4625,6 +5966,12 @@
             "state" : "translated",
             "value" : "નસબંધી HIV સહિતના જાતીય રીતે પ્રસારિત થતાં ચેપો (STIs) સામે સુરક્ષા પૂરી પાડતી નથી. જો STI/HIVનું જોખમ રહેલું હોય તો, કન્ડોમ્સનો યોગ્ય અને નિરંતર ઉપયોગ કરવાની ભલામણ  કરવામાં આવે છે. જ્યારે કન્ડોમ્સને યોગ્ય અને નિરંતપણે ઉપયોગમાં લેવામાં આવે છે ત્યારે તે HIV સહિત STIsની સામે સુરક્ષાની સૌથી અસરકારક પદ્ધતિ બની જાય છે. મહિલાઓ માટેના કન્ડોમ્સ અસરકારક અને સલામત છે પરંતુ રાષ્ટ્રીય કાર્યક્રમો દ્વારા પુરુષો માટેના કન્ડોમ્સ જેટલા વ્યાપકપણે ઉપયોગમાં લેવાતા નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HIV सहित यौन संचारित संक्रमणों (STIs) से नसबंदी रक्षा नहीं करती है। STI/HIV का खतरा होने पर कंडोम के सही और लगातार उपयोग की सिफारिश की जाती है। सही ढंग से और लगातार उपयोग किए जाने पर कंडोम HIV सहित STIs से सुरक्षा के सबसे प्रभावी तरीकों में से एक प्रदान करता है। महिला कंडोम प्रभावी और सुरक्षित हैं, लेकिन पुरुष कंडोम के समान राष्ट्रीय कार्यक्रमों द्वारा व्यापक रूप से उपयोग नहीं किए जाते हैं।"
+          }
         }
       }
     },
@@ -4635,6 +5982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "નસબંધીની પ્રક્રિયા યોગ્ય ઉપકરણો અને પુરવઠાનો ઉપયોગ કરીને યોગ્ય ક્લિનિકલ માહોલમાં સારી રીતે તાલીમ પ્રાપ્ત કરેલા નિષ્ણાતો દ્વારા જ હાથ ધરવામાં આવવી જોઇએ. ક્લાયેન્ટની પૂરેપૂરી સલામતીની ખાતરી કરવા ચેપને નિવારવાના પ્રોટોકોલ સહિત સેવા પૂરી પાડવા સંબંધિત યોગ્ય માર્ગદર્શિકાનું પાલન કરવું જોઇએ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नसबंदी प्रक्रियाएं उचित नैदानिक ​​​​सेटिंग्स में केवल उचित उपकरण और आपूर्ति का उपयोग करके अच्छी तरह से प्रशिक्षित प्रदाताओं द्वारा ही की जानी चाहिए।  संक्रमण-रोकथाम प्रोटोकॉल सहित उचित सेवा-वितरण दिशानिर्देशों का पालन किया जाना चाहिए जिससे ग्राहक सुरक्षा को अधिकतम किया जा सके।"
           }
         }
       }
@@ -4647,6 +6000,12 @@
             "state" : "translated",
             "value" : "STIને નિવારે છે"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STI रोकथाम"
+          }
         }
       }
     },
@@ -4658,6 +6017,12 @@
             "state" : "translated",
             "value" : "STIs/RTIs<sup><small><small>F</small></small></sup>"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STIs/RTIsF"
+          }
         }
       }
     },
@@ -4668,6 +6033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ટ્રોક, IHD, એકથી વધારે જોખમકારક પરિબળો°"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्ट्रोक, आईएचडी, अनेक जोखिम कारक°"
           }
         }
       }
@@ -4702,6 +6073,12 @@
             "state" : "translated",
             "value" : "સર્જિકલ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शल्य चिकित्सा"
+          }
         }
       }
     },
@@ -4724,6 +6101,12 @@
             "state" : "translated",
             "value" : "TB"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "टीबी"
+          }
         }
       }
     },
@@ -4745,6 +6128,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "નવીસવી માતા બનેલી સ્ત્રીઓ કે જેમનો માસિક રક્તસ્રાવ હજુ સુધી ચાલું થયો નથી, તેમના માટેની કામચલાઉ ગર્ભનિરોધક છે; તેઓ 6 મહિનાથી નાના શિશુને દિવસે અને રાત્રે ફક્તને ફક્ત સ્તપાન કરાવતી હોય કે સંપૂર્ણ સ્તનપાન કરાવતી હોય તે જરૂરી છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उन नई माताओं के लिए अस्थायी गर्भनिरोधक जिनका मासिक रक्तस्राव वापस शुरू नहीं हुआ है; जिन्हें 6 महीने से कम उम्र के शिशु को दिन और रात में विशिष्ट या पूर्ण स्तनपान की आवश्यकता होती है"
           }
         }
       }
@@ -4779,6 +6168,12 @@
             "state" : "translated",
             "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો પ્રથમ ઇન્જેક્શનને કોઈ પણ સમયે આપી શકાય છે. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि यह निश्चित हो कि महिला गर्भवती नहीं है तो किसी भी समय पहला इंजेक्शन दिया जा सकता है। महिला को अगले 7 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
         }
       }
     },
@@ -4801,6 +6196,12 @@
             "state" : "translated",
             "value" : "સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો ઇમ્પ્લાન્ટને કોઈ પણ સમયે દાખલ કરી શકાય છે. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इम्प्लांट किसी भी समय अंतःस्थापित किया जा सकता है यदि यह निश्चित हो कि महिला गर्भवती नहीं है। महिला को अगले 7 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
         }
       }
     },
@@ -4811,6 +6212,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભપાત પછી તરત જ ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भपात के तुरंत बाद इम्प्लांट लगाया जा सकता है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
           }
         }
       }
@@ -4845,6 +6252,12 @@
             "state" : "translated",
             "value" : "DMPA ઇન્જેક્શનને ફરી વખત કોઈ પણ પ્રકારની વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત વગર 4 અઠવાડિયા મોડાં આપી શકાય છે. જ્યારે NET- EN ઇન્જેક્શનને ફરી વખત કોઈ પણ પ્રકારની વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત વગર 2 અઠવાડિયા મોડાં આપી શકાય છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "दोबारा DMPA इंजेक्शन 4 सप्ताह की देरी से दिया जा सकता है और इसमें अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है। अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता के बिना दोबारा NET- EN इंजेक्शन 2 सप्ताह की देरी से दिया जा सकता है।"
+          }
         }
       }
     },
@@ -4855,6 +6268,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DMPA અને NET-ENના ઇન્જેક્શન્સને ફરી વખત 2 અઠવાડિયા સુધી વહેલા આપી શકાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA और NET-EN का पुन: इंजेक्शन 2 सप्ताह पूर्व तक दिया जा सकता है।"
           }
         }
       }
@@ -4867,6 +6286,12 @@
             "state" : "translated",
             "value" : "એવી કોઈ તબીબી સ્થિતિ નથી, જે નસબંધી માટેની વ્યક્તિની ક્ષમતાને સંપૂર્ણપણે પ્રતિબંધિત કરી શકતી હોય, તેમ છતાં એવી કેટલીક સ્થિતિઓ અને પરિસ્થિતિઓ છે, જેમાં કેટલીક સાવચેતીઓ લેવી જરૂરી બની જાય છે, એવી પરિસ્થિતિઓ સહિત કે જેમાં કેટેગરી C (સાવચેતી), D (વિલંબ) કે S (વિશેષ) તરીકે ભલામણો કરવામાં આવી હોય. આવી કેટલીક સ્થિતિઓ અને પરિસ્થિતિઓમાં નસબંધી કરાવવાના ફાયદાઓ કરતાં સૈદ્ધાંતિક કે સાબિત થયેલા જોખમોનો પ્રભાવ વધી જતો હોય છે, ખાસ કરીને સ્ત્રીઓની નસબંધીમાં. જે પરિસ્થિતિઓમાં નસબંધીના ફાયદાઓ કરતાં જોખમો વધી જતાં હોય ત્યારે લાંબાગાળાની, અત્યંત અસરકારક ગર્ભનિરોધક પદ્ધતિઓ પસંદગીનો વિકલ્પ બની જાય છે. આ સંબંધમાં નિર્ણય નસબંધીના જોખમો અને ફાયદા વિરુદ્ધ ગર્ભાવસ્થાના જોખમ અંગે તથા અત્યંત અસરકારક, વૈકલ્પિક પદ્ધતિઓની ઉપલબ્ધતા અને સ્વીકાર્યતા અંગે વિચારણા કરી વ્યક્તિગત ધોરણે લેવો જોઇએ."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "किसी भी व्यक्ति को नसबंदी की पात्रता से पूरी तरह से प्रतिबंधित कर दे, ऐसी कोई चिकित्सीय स्थिति नहीं है। हालांकि कुछ स्थितियों और परिस्थितियों के लिए कुछ सावधानियां बरतनी आवश्यक होंगी। इनमें वे भी शामिल हैं जहां सिफारिश को श्रेणी C (सावधानी), D (विलंब) या S(विशेष) के रूप में सौंपा गया है। इनमें से कुछ स्थितियों और परिस्थितियों के लिए, सैद्धांतिक या सिद्ध जोखिम, नसबंदी विशेष रूप से महिला नसबंदी कराने के लाभों से अधिक हो सकते हैं। जहां नसबंदी के जोखिम लाभ से अधिक हैं, दीर्घकालिक, अत्यधिक प्रभावी गर्भनिरोधक तरीके एक बेहतर विकल्प हैं। इस संबंध में निर्णय व्यक्तिगत आधार पर करना होगा, जिसमें नसबंदी के जोखिमों और लाभों बनाम गर्भावस्था के जोखिमों और अत्यधिक प्रभावी, वैकल्पिक तरीकों की उपलब्धता और स्वीकार्यता पर विचार करना होगा।"
+          }
         }
       }
     },
@@ -4878,6 +6303,12 @@
             "state" : "translated",
             "value" : "શુક્રાણુ અને અંડાણુંનું મિલન થતું અટકાવવા સર્વાઇકલ મ્યુકસને જાડું કરી દે છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शुक्राणु और अंडे को मिलने से रोकने के लिए गर्भाशय ग्रीवा के श्लेष्म (सर्वाइकल म्यूकस) को गाढ़ा करती है"
+          }
         }
       }
     },
@@ -4888,6 +6319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "શુક્રાણુ અને અંડાણુંનું મિલન થતું અટકાવવા સર્વાઇકલ મ્યુકસને જાડું કરી દે છે અને અંડોત્સર્ગને રોકે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शुक्राणु और अंडे को मिलने से रोकने के लिए ग्रीवा श्लेष्म (सर्वाइकल म्यूकस) को गाढ़ा करती हैं और स्त्रीबीजजनन  (ओव्यूलेशन) को रोकती हैं"
           }
         }
       }
@@ -4933,6 +6370,12 @@
             "state" : "translated",
             "value" : "ફરીથી ઇન્જેક્શન મૂકવાનો સમય"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इंजेक्शन को दुबारा लगाने का समय"
+          }
         }
       }
     },
@@ -4954,6 +6397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ત્રીઓની નસબંધીની ટ્રાન્સસર્વાઇકલ પદ્ધતિઓને અહીં કરવામાં આવેલી ભલામણોમાં ધ્યાન પર લેવામાં આવી નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिला नसबंदी की ट्रांससर्विकल विधियों पर इन सिफारिशों में ध्यान नहीं दिया गया है।"
           }
         }
       }
@@ -4998,6 +6447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "યોનિમાંથી અસ્પષ્ટ રીતે રક્તસ્રાવ થવો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अस्पष्टीकृत योनि से रक्तस्राव"
           }
         }
       }
@@ -5097,6 +6552,12 @@
             "state" : "translated",
             "value" : "વાલ્વુલર હાર્ટ ડીસીઝ (જટિલ)"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वाल्वुलर हृदय रोग (जटिल)"
+          }
         }
       }
     },
@@ -5141,6 +6602,12 @@
             "state" : "translated",
             "value" : "આ માટે સ્વૈચ્છિક અને સૂચિત પસંદગી હોવી જરૂરી છે."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्वैच्छिक और सूचित विकल्प आवश्यक है।"
+          }
         }
       }
     },
@@ -5151,6 +6618,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "હોર્મોન વગરની અઠવાડિક ગોળી અને તે ઓર્મેલોક્સિફેન ધરાવે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सप्ताह में एक बार लेने वाली गोली हार्मोन से मुक्त है और इसमें ऑरमेलॉक्सिफेन होता है"
           }
         }
       }
@@ -5163,6 +6636,12 @@
             "state" : "translated",
             "value" : "પુરુષો ગર્ભનિરોધ માટે તેમની નસબંધી પર ક્યારે આધાર રાખી શકે છે?"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कोई पुरुष गर्भनिरोधन के लिए अपनी नसबंदी (वासेक्टोमी) पर कब विश्वास कर सकता है?"
+          }
         }
       }
     },
@@ -5173,6 +6652,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એક સ્ત્રી કૉપર ધરાવતી IUD ક્યારે દાખલ કરાવી શકે છે?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक महिला कॉपर युक्त IUD कब लगवा सकती है?"
           }
         }
       }
@@ -5185,6 +6670,12 @@
             "state" : "translated",
             "value" : "એક સ્ત્રીએ ક્યારે લીવોનોરજેસ્ટ્રેલ IUD મૂકાવી જોઇએ?"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक महिला को लेवोनोर्गेस्ट्रेल IUD कब लग सकता है?"
+          }
         }
       }
     },
@@ -5195,6 +6686,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એક સ્ત્રી સેન્ટક્રોમેનને ક્યારે શરૂ કરી શકે છે?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक महिला सेंटक्रोमन को कब शुरू कर सकती है?"
           }
         }
       }
@@ -5207,6 +6704,12 @@
             "state" : "translated",
             "value" : "એક સ્ત્રી CHCને ક્યારે શરૂ કરી શકે છે?"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक महिला सीएचसी कब शुरू कर सकती है?"
+          }
         }
       }
     },
@@ -5217,6 +6720,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એક સ્ત્રી પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પ્લાન્ટ્સ ક્યારે શરૂ કરી શકે છે?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक महिला केवल प्रोजेस्टोजन इम्प्लांट्स कब शुरू कर सकती है?"
           }
         }
       }
@@ -5229,6 +6738,12 @@
             "state" : "translated",
             "value" : "એક સ્ત્રી પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સને ક્યારે શરૂ કરી શકે છે?"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक महिला प्रोजेस्टोजन-केवल इंजेक्शन कब प्रारंभ कर सकती है?"
+          }
         }
       }
     },
@@ -5239,6 +6754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ત્રીઓ પ્રોજેસ્ટોજેન-ઓન્લી પિલ્સ ક્યારે લેવાનું શરૂ કરી શકે છે?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिलाएं प्रोजेस्टोजन-केवल गोलियाँ कब प्रारंभ कर सकती हैं?"
           }
         }
       }
@@ -5273,6 +6794,12 @@
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 5 દિવસની અંદરઃ POPsને શરૂ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव प्रारंभ होने के 5 दिनों के अंदर: POPs प्रारंभ कर सकते हैं। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
+          }
         }
       }
     },
@@ -5283,6 +6810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 5 દિવસની અંદરઃ CHC શરૂ કરો. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म में रक्तस्राव शुरू होने के 5 दिनों के भीतर: CHC शुरू करें। किसी भी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
           }
         }
       }
@@ -5295,6 +6828,12 @@
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસ (LNG IUD)ની અંદર. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव प्रारंभ होने के 7 दिनों के अंदर (LNG IUD)। इसमें किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
+          }
         }
       }
     },
@@ -5305,6 +6844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસની અંદરઃ પ્રથમ POI ઇન્જેક્શનને આપી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव प्रारंभ होने के 7 दिवस के अंदर: प्रथम POI इंजेक्शन दिया जा सकता है। किसी भी अतिरिक्त गर्भनिरोधक सुरक्षा की जरूरत नहीं है।"
           }
         }
       }
@@ -5317,6 +6862,12 @@
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસની અંદરઃ ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव शुरू होने के 7 दिनों के अंदर: इंम्प्लांट को अंतः स्थापित किया जा सकता है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
+          }
         }
       }
     },
@@ -5327,6 +6878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 12 દિવસની અંદર"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म रक्तस्राव प्रारंभ होने के 12 दिनों के अंदर"
           }
         }
       }
@@ -5339,6 +6896,12 @@
             "state" : "translated",
             "value" : "જે સ્ત્રીને પ્યુરેપરેલ સેપ્સિસ હોય તે IUD દાખલ કરાવી શકતી નથી. જે સ્ત્રીને પ્રસૂતિ પછી 48 કલાકથી 4 અઠવાડિયાથી ઓછો સમય વીત્યો હોય તેમને સામાન્ય રીતે IUDsનો ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી, સિવાય કે અન્ય કોઈ વધારે યોગ્ય પદ્ધતિઓ ઉપલબ્ધ ના હોય કે સ્વીકાર્ય ના હોય."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जिन महिलाओं को जच्चा पूति (प्यूपरल सेप्सिस) है, उन्हें IUD  नहीं लगवाना चाहिए। वे मलिाएं जिन्हें 48 घंटे से लेकर 4 सप्ताह से कम तक प्रसव उपरांत समय हुआ है उन्हें आमतौर पर IUD के उपयोग की अनुशंसा नहीं की जाती है जब तक कि अन्य अधिक उपयुक्त तरीके उपलब्ध न हों या स्वीकार्य न हों।"
+          }
         }
       }
     },
@@ -5349,6 +6912,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભાવસ્થા અસ્વીકાર્ય જોખમ બની જાય તેવી સ્થિતિ ધરાવતી સ્ત્રીઓને સલાહ આપવામાં આવે છે કે, જે સ્ત્રીઓ ગર્ભાવસ્થાને નિવારવા માટે બેરિયર (અવરોધક) પદ્ધતિનો સતત અને યોગ્ય રીતે ઉપયોગ કરી શકે તેમ નથી તેમના માટે તે યોગ્ય નથી, કારણ કે, તેમાં તેનો નિષ્ફળ જવાનો સામાન્ય કરતાં વધારે ઊંચો દર ધરાવે છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऐसी स्थितियों वाली महिलाएँ जो गर्भावस्था को अस्वीकार्य जोखिम बनाती हैं उन्हें सलाह दी जानी चाहिए कि गर्भावस्था की रोकथाम के लिए बाधा विधियां उन लोगों के लिए उपयुक्त नहीं हो सकती हैं जो उनका लगातार और सही तरीके से इसलिए उपयोग नहीं कर सकते हैं क्योंकि उनकी अपेक्षाकृत उच्च विशिष्ट-उपयोग विफलता दरें हैं।"
           }
         }
       }
