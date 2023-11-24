@@ -86,12 +86,12 @@ class EligibilityToolsViewController: UIViewController {
     private func addContainers() {
         var viewsArray = [UIViewController]()
         if let conditionView = Storyboard.details.instantiateViewController(withIdentifier: EConditionViewController().className) as? EConditionViewController {
-            conditionView.title = "Conditions"
+            conditionView.title = StringConstant.Conditions
             self.eConditionVC = conditionView
             viewsArray.append(conditionView)
         }
         if let prefeView = Storyboard.details.instantiateViewController(withIdentifier: EPreferencesViewController().className) as? EPreferencesViewController {
-            prefeView.title = "Preferences"
+            prefeView.title = StringConstant.Preferences
             viewsArray.append(prefeView)
         }
         containerVC = ContainerViewController(controllers: viewsArray as NSArray, topBarHeight: 0.0, parentViewController: self)

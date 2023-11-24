@@ -20,7 +20,7 @@ class ContentManager : NSObject {
 
         var CombinedHarmonalList = [ContraceptualContentModel]()
         
-        CombinedHarmonalList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: CombinedHarmonal.content_1 ,bulletValue: ""))
+        CombinedHarmonalList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: CombinedHarmonal.content_1 + "\n" ,bulletValue: ""))
         CombinedHarmonalList.append(ContraceptualContentModel(bullet: false ,title: CombinedHarmonal.title_2 ,content: "" ,bulletValue: ""))
         CombinedHarmonalList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: CombinedHarmonal.content_3 ,bulletValue: ""))
         CombinedHarmonalList.append(ContraceptualContentModel(bullet: false ,title: CombinedHarmonal.title_4 ,content: "" ,bulletValue: ""))
@@ -38,7 +38,7 @@ class ContentManager : NSObject {
         CombinedHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: CombinedHarmonal.content_16 ,bulletValue: ""))
         CombinedHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: CombinedHarmonal.content_17 ,bulletValue: ""))
         CombinedHarmonalList.append(ContraceptualContentModel(bullet: false ,title: CombinedHarmonal.title_18 ,content: "" ,bulletValue: ""))
-        CombinedHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: CombinedHarmonal.content_19 ,bulletValue: ""))
+        CombinedHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: CombinedHarmonal.content_19 + "\n\n\n" ,bulletValue: ""))
         
         var NonHarmonalList = [ContraceptualContentModel]()
         
@@ -60,7 +60,7 @@ class ContentManager : NSObject {
         NonHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: NonHarmonal.content_16 ,bulletValue: ""))
         NonHarmonalList.append(ContraceptualContentModel(bullet: false ,title: NonHarmonal.title_17 ,content: "" ,bulletValue: ""))
         NonHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: NonHarmonal.content_18 ,bulletValue: ""))
-        NonHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: NonHarmonal.content_19 ,bulletValue: ""))
+        NonHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: NonHarmonal.content_19 + "\n\n" ,bulletValue: ""))
         
         
         var ProgestonOnlyPillsList = [ContraceptualContentModel]()
@@ -79,7 +79,7 @@ class ContentManager : NSObject {
         ProgestonOnlyPillsList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: ProgestonOnlyPills.content_12 ,bulletValue: ""))
         ProgestonOnlyPillsList.append(ContraceptualContentModel(bullet: false ,title: ProgestonOnlyPills.title_13 ,content: "" ,bulletValue: ""))
         ProgestonOnlyPillsList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: ProgestonOnlyPills.content_14 ,bulletValue: ""))
-        ProgestonOnlyPillsList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: ProgestonOnlyPills.content_15 ,bulletValue: ""))
+        ProgestonOnlyPillsList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: ProgestonOnlyPills.content_15 + "\n\n" ,bulletValue: ""))
         
         var ProgestogenOnlyInjectablesList = [ContraceptualContentModel]()
         
@@ -114,7 +114,7 @@ class ContentManager : NSObject {
         ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: ProgestogenOnlyInjectables.content_29 ,bulletValue: ""))
         ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: false ,title: ProgestogenOnlyInjectables.title_30 ,content: "" ,bulletValue: ""))
         ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: ProgestogenOnlyInjectables.content_31 ,bulletValue: ""))
-        ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: ProgestogenOnlyInjectables.content_32 ,bulletValue: ""))
+        ProgestogenOnlyInjectablesList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: ProgestogenOnlyInjectables.content_32 + "\n\n" ,bulletValue: ""))
         
         
         var ImplantsList = [ContraceptualContentModel]()
@@ -138,7 +138,7 @@ class ContentManager : NSObject {
         ImplantsList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: Implants.content_17 ,bulletValue: ""))
         ImplantsList.append(ContraceptualContentModel(bullet: false ,title: Implants.title_18 ,content: "" ,bulletValue: ""))
         ImplantsList.append(ContraceptualContentModel(bullet: true ,title: "",content: Implants.content_19 ,bulletValue: ""))
-        ImplantsList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: Implants.content_20 ,bulletValue: ""))
+        ImplantsList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: Implants.content_20 + "\n\n" ,bulletValue: ""))
         
         
         var LevonorgestrelIUDList = [ContraceptualContentModel]()
@@ -162,7 +162,7 @@ class ContentManager : NSObject {
         LevonorgestrelIUDList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  LevonorgestrelIUD.content_17 ,bulletValue: ""))
         LevonorgestrelIUDList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  LevonorgestrelIUD.content_18 ,bulletValue: ""))
         LevonorgestrelIUDList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  LevonorgestrelIUD.content_19 ,bulletValue: ""))
-        LevonorgestrelIUDList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  LevonorgestrelIUD.content_20 ,bulletValue: ""))
+        LevonorgestrelIUDList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  LevonorgestrelIUD.content_20 + "\n\n",bulletValue: ""))
         
         
         
@@ -185,7 +185,7 @@ class ContentManager : NSObject {
         CopperIntrauterineDeviceList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  CopperIntrauterineDevice.content_15 ,bulletValue: ""))
         CopperIntrauterineDeviceList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  CopperIntrauterineDevice.content_16 ,bulletValue: ""))
         CopperIntrauterineDeviceList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  CopperIntrauterineDevice.content_17 ,bulletValue: ""))
-        CopperIntrauterineDeviceList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  CopperIntrauterineDevice.content_18 ,bulletValue: ""))
+        CopperIntrauterineDeviceList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  CopperIntrauterineDevice.content_18 + "\n\n",bulletValue: ""))
         
         
         var BarrierMethodsList = [ContraceptualContentModel]()
@@ -199,7 +199,7 @@ class ContentManager : NSObject {
         BarrierMethodsList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  BarrierMethods.content_7 ,bulletValue: ""))
         BarrierMethodsList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  BarrierMethods.content_8 ,bulletValue: ""))
         BarrierMethodsList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  BarrierMethods.content_9 ,bulletValue: ""))
-        BarrierMethodsList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  BarrierMethods.content_10 ,bulletValue: ""))
+        BarrierMethodsList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  BarrierMethods.content_10 + "\n\n" ,bulletValue: ""))
         
         
         var LactationalAmenorrheaMethodList = [ContraceptualContentModel]()
@@ -212,7 +212,7 @@ class ContentManager : NSObject {
         LactationalAmenorrheaMethodList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  LactationalAmenorrheaMethod.content_6 ,bulletValue: ""))
         LactationalAmenorrheaMethodList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  LactationalAmenorrheaMethod.content_7 ,bulletValue: ""))
         LactationalAmenorrheaMethodList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  LactationalAmenorrheaMethod.content_8 ,bulletValue: ""))
-        LactationalAmenorrheaMethodList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  LactationalAmenorrheaMethod.content_9 ,bulletValue: ""))
+        LactationalAmenorrheaMethodList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  LactationalAmenorrheaMethod.content_9 + "\n\n" ,bulletValue: ""))
         
         
         
@@ -224,12 +224,12 @@ class ContentManager : NSObject {
         FemaleSterializationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  FemaleSterialization.content_4 ,bulletValue: ""))
         FemaleSterializationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  FemaleSterialization.content_5 ,bulletValue: ""))
         FemaleSterializationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  FemaleSterialization.content_6 ,bulletValue: ""))
-        FemaleSterializationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  FemaleSterialization.content_7 ,bulletValue: ""))
+        FemaleSterializationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  FemaleSterialization.content_7 + "\n\n" ,bulletValue: ""))
         
         
         var MaleSterilizationList = [ContraceptualContentModel]()
         
-        MaleSterilizationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  MaleSterilization.content_1 ,bulletValue: ""))
+        MaleSterilizationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  "\n" + MaleSterilization.content_1 ,bulletValue: ""))
         MaleSterilizationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  MaleSterilization.content_2 ,bulletValue: ""))
         MaleSterilizationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  MaleSterilization.content_3 ,bulletValue: ""))
         MaleSterilizationList.append(ContraceptualContentModel(bullet: false ,title: "" , content:  MaleSterilization.content_4 ,bulletValue: ""))
@@ -238,7 +238,7 @@ class ContentManager : NSObject {
         MaleSterilizationList.append(ContraceptualContentModel(bullet: false ,title: MaleSterilization.title_7 ,content: "" ,bulletValue: ""))
         MaleSterilizationList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  MaleSterilization.content_8 ,bulletValue: ""))
         MaleSterilizationList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  MaleSterilization.content_9 ,bulletValue: ""))
-        MaleSterilizationList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  MaleSterilization.content_10 ,bulletValue: ""))
+        MaleSterilizationList.append(ContraceptualContentModel(bullet: true ,title: "" , content:  MaleSterilization.content_10 + "\n\n" ,bulletValue: ""))
         
         var AboutTheWheelList = [ContraceptualContentModel]()
         
@@ -269,7 +269,7 @@ class ContentManager : NSObject {
         
         contraceptiveList.append(ContraceptualChoicesModel(image: "ic_copper" ,title: ContraceptiveList.title7 ,issueName1:ContraceptiveList.IssueName7 ,issueImg1: "ic_highly_effective" ,issueName2: ContraceptiveList.IssueName07 ,issueImg2: "ic_no_harmones" ,issueName3: ContraceptiveList.IssueName007 ,issueImg3: "ic_bleeding" ,progressTitle: ContraceptiveList.ProgressTitle7 ,progressPercent: 99 ,desc: ContraceptiveList.Desc7 ,howItWorks: ContraceptiveList.HowItWork7 ,list: CopperIntrauterineDeviceList ,detailIcon: "ic_copper_intrauterne_details" ,layoutParams: 9 ,progressVal: ContraceptiveList.ProgressVal7 ,progresscontent: false))
         
-        contraceptiveList.append(ContraceptualChoicesModel(image: "ic_barrier" ,title: ContraceptiveList.title8 ,issueName1:ContraceptiveList.IssueName8 ,issueImg1: "ic_sti_prevention" ,issueName2: ContraceptiveList.IssueName08 ,issueImg2: "ic_no_harmones" ,issueName3: "" ,issueImg3: "" ,progressTitle: ContraceptiveList.ProgressTitle8 ,progressPercent: 85 ,desc: ContraceptiveList.Desc8 ,howItWorks: ContraceptiveList.HowItWork8 ,list: BarrierMethodsList ,detailIcon: "ic_barrier_details" ,layoutParams: 6 ,progressVal: ContraceptiveList.ProgressVal8 ,progresscontent: false))
+        contraceptiveList.append(ContraceptualChoicesModel(image: "ic_barrier" ,title: ContraceptiveList.title8 ,issueName1:ContraceptiveList.IssueName8 ,issueImg1: "ic_sti_prevention" ,issueName2: ContraceptiveList.IssueName08 ,issueImg2: "ic_no_harmones" ,issueName3: "" ,issueImg3: "" ,progressTitle: ContraceptiveList.ProgressTitle8 ,progressPercent: 85 ,desc: "\(ContraceptiveList.Desc8_1)\n\(ContraceptiveList.Desc8_2)\n\(ContraceptiveList.Desc8_3)\n\(ContraceptiveList.Desc8_4)\n" ,howItWorks: ContraceptiveList.HowItWork8 ,list: BarrierMethodsList ,detailIcon: "ic_barrier_details" ,layoutParams: 6 ,progressVal: ContraceptiveList.ProgressVal8 ,progresscontent: false))
         
         contraceptiveList.append(ContraceptualChoicesModel(image: "ic_amenorrhea" ,title: ContraceptiveList.title9 ,issueName1:ContraceptiveList.IssueName9 ,issueImg1: "ic_no_harmones" ,issueName2: "" ,issueImg2: "" ,issueName3: "" ,issueImg3: "" ,progressTitle: ContraceptiveList.ProgressTitle9 ,progressPercent: 98 ,desc: ContraceptiveList.Desc9 ,howItWorks: ContraceptiveList.HowItWork9 ,list: LactationalAmenorrheaMethodList ,detailIcon: "ic_lactational_amenorrhea_details" ,layoutParams: 3 ,progressVal: ContraceptiveList.ProgressVal9 ,progresscontent: false))
         
@@ -931,7 +931,7 @@ class ContentManager : NSObject {
         noteModelList.append(SubPointListCond(points:ConditionList.Points10))
         noteModelList.append(SubPointListCond(points:ConditionList.Points11))
         
-        additionalSubPointCond.append(AdditionalSubPointCond(img: "ic_reproductive_conditions" ,additionSubPoint: ConditionList.additionSubPoint13,points: ConditionList.Points12 ,subPointCond:noteModelList))
+        additionalSubPointCond.append(AdditionalSubPointCond(img: "ic_reproductive_conditions" ,additionSubPoint: ConditionList.additionSubPoint13 ,subPointCond:noteModelList))
         
         
         
@@ -949,7 +949,7 @@ class ContentManager : NSObject {
         medicalConditionSubList.append(SubPointListCond(points:ConditionList.Points23))
         medicalConditionSubList.append(SubPointListCond(points:ConditionList.Points24))
         
-        additionalSubPointCond.append(AdditionalSubPointCond(img: "ic_medical_condition" ,additionSubPoint: ConditionList.additionSubPoint26,points: ConditionList.medicalCondition25 ,subPointCond:medicalConditionSubList))
+        additionalSubPointCond.append(AdditionalSubPointCond(img: "ic_medical_condition" ,additionSubPoint: ConditionList.additionSubPoint26 ,subPointCond:medicalConditionSubList))
         
         
         
@@ -963,14 +963,14 @@ class ContentManager : NSObject {
         othersSubList.append(SubPointListCond(points:ConditionList.Points31))
         othersSubList.append(SubPointListCond(points:ConditionList.Points32))
         
-        additionalSubPointCond.append(AdditionalSubPointCond(img: "ic_others" ,additionSubPoint: ConditionList.additionalSubPoint34,points: ConditionList.others33 ,subPointCond:othersSubList))
+        additionalSubPointCond.append(AdditionalSubPointCond(img: "ic_others" ,additionSubPoint: ConditionList.additionalSubPoint34 ,subPointCond:othersSubList))
         
         
         var ecpillList = [SubPointListCond]()
         
         ecpillList.append(SubPointListCond(points:ConditionList.Points35))
         
-        additionalSubPointCond.append(AdditionalSubPointCond(img: "ic_ecpill" ,additionSubPoint: ConditionList.additionSubPoint37,points: ConditionList.ecpill36 ,subPointCond:ecpillList))
+        additionalSubPointCond.append(AdditionalSubPointCond(img: "ic_ecpill" ,additionSubPoint: ConditionList.additionSubPoint37,points: "\n"+ConditionList.ecpill36 ,subPointCond:ecpillList))
         
         
         

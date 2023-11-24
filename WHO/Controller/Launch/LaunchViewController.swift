@@ -26,7 +26,6 @@ class LaunchViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        descLabel.text = StringConstant.launchTagLine
         
         //en, as-IN, bn-IN, gu-IN, hi-IN, kn-IN, ml-IN, or-IN, pa-IN, ta-IN, te-IN,
 
@@ -44,7 +43,8 @@ class LaunchViewController: UIViewController {
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        
+        descLabel.text = StringConstant.launchTagLine
+        self.AGskipButton.setTitle(StringConstant.SKIP, for: .normal)
         DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
             if UserDefaults.standard.value(forKey: "SelectedLanguege") == nil {
                 if let myobject = Storyboard.dashboard.instantiateViewController(withIdentifier: "LanguageViewController") as? LanguageViewController {

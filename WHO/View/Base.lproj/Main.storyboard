@@ -110,6 +110,7 @@
                     <connections>
                         <outlet property="descLabel" destination="TCP-r7-I3k" id="K3B-Xm-Dwo"/>
                         <outlet property="lowerWheelImg" destination="nLt-8H-ZPe" id="Tcm-sE-j2l"/>
+                        <outlet property="startButton" destination="yJu-6P-HEx" id="t9m-Tq-GGL"/>
                         <outlet property="upperWheelImg" destination="M3F-Nx-fVa" id="FXH-yB-yRq"/>
                     </connections>
                 </viewController>
@@ -795,10 +796,10 @@
         <image name="ic_back_arrow" width="18" height="30"/>
         <image name="lang_icon" width="40" height="35"/>
         <image name="language" width="24" height="22"/>
-        <image name="lower_wheel_en" width="1807.5" height="1807.5"/>
+        <image name="lower_wheel_en" width="3615" height="3615"/>
         <image name="option" width="35" height="35"/>
         <image name="search_green" width="18" height="18"/>
-        <image name="upper_wheel_en" width="1807.5" height="1807.5"/>
+        <image name="upper_wheel_en" width="3615" height="3615"/>
         <systemColor name="systemRedColor">
             <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>

@@ -12,7 +12,8 @@ class DashboardViewController: UIViewController {
     @IBOutlet weak var lowerWheelImg: UIImageView!
     @IBOutlet weak var upperWheelImg: UIImageView!
     @IBOutlet weak var descLabel: UILabel!
-    
+    @IBOutlet weak var startButton: UIButton!
+
     var _startTransform = CGAffineTransform()
     var _prevPoint = CGPointZero
     var _deltaAngle = Float()
@@ -26,8 +27,13 @@ class DashboardViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         descLabel.text = StringConstant.launchTagLine
+        startButton.setTitle(StringConstant.START, for: .normal)
         self.lowerWheelImg.image = UIImage(named: StringConstant.lower_wheel)
         self.upperWheelImg.image = UIImage(named: StringConstant.upper_wheel)
+
+        self._startTransform = CGAffineTransform(a: -0.7622027791151481, b: 0.6473383377408948, c: -0.6473383377408948, d: -0.7622027791151481, tx: 0.0, ty: 0.0)
+        self._deltaAngle = 3.7546463
+        self.lowerWheelImg.transform = CGAffineTransformRotate(_startTransform, CGFloat(_deltaAngle))
 
         let _panGesture = UIPanGestureRecognizer(target: self, action: #selector(rotateItem(_:)))
         _panGesture.delegate = self
@@ -57,6 +63,8 @@ class DashboardViewController: UIViewController {
             let ang = atan2f(Float(currPoint.y - center.y), Float(currPoint.x - center.x)) - atan2f(Float(_prevPoint.y - center.y), Float(_prevPoint.x - center.x))
             _prevPoint = recognizer.location(in: self.view)
             _deltaAngle += ang
+            print(_startTransform)
+            print(_deltaAngle)
             self.lowerWheelImg.transform = CGAffineTransformRotate(_startTransform, CGFloat(_deltaAngle))
         }
     }
