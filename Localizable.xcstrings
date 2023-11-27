@@ -9,16 +9,28 @@
             "state" : "translated",
             "value" : "NA = લાગુ થતું નથી\n*< 25 kg/m2 BMI ધરાવતી સ્ત્રીઓની સરખામણીએ BMI ≥ 30 kg/m2 ધરાવતી સ્ત્રીઓમાં ઇમર્જન્સીમાં લેવાની ગર્ભનિરોધક ગોળીઓ ઓછી અસરકારક સાબિત થઈ શકે છે.\nતેમ છતાં તેમાં સુરક્ષા સંબંધિત કોઈ ચિંતાનું કારણ નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = लागू नहीं\n*आपातकालीन गर्भनिरोधक गोलियां BMI ≥30 किग्रा/मी2 वाली महिलाओं में 25 किग्रा/मी2 से कम वाली महिलाओं की तुलना में कम प्रभावी हो सकती हैं।\nइसके बावजूद सुरक्षा संबंधी कोई चिंता नहीं है।"
+          }
         }
       }
     },
-    "(Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method)" : {
+    "(Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "(અહીં દર્શાવવામાં આવેલી સંખ્યાઓ કોઈ ચોક્કસ પદ્ધતિનો વિશિષ્ટ રીતે ઉપયોગ કરવાના પ્રથમ વર્ષ દરમિયાન અનિચ્છિત ગર્ભાવસ્થાનો સામનો કરી રહેલી સ્ત્રીઓની ટકાવારીને દર્શાવે છે)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(विधि के विशिष्ट उपयोग के पहले वर्ष के दौरान अनपेक्षित गर्भावस्था का अनुभव करने वाली महिलाओं का % संख्याएं बताती हैं)"
           }
         }
       }
@@ -55,6 +67,12 @@
             "value" : "<160/100"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80,10 +98,16 @@
         }
       }
     },
-    ">45 yrs = 2" : {
+    ">45 yrs = 2." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">45 વર્ષ = 2"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ">45 વર્ષ = 2"
@@ -99,6 +123,12 @@
             "state" : "translated",
             "value" : "0.5% મહિલા નસબંધી - 0.15% પુરુષ નસબંધી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0.5% महिला नसबंदी (स्टेरलाइजेशन) \t0.15%  पुरुष नसबंदी (वासेक्टोमी)"
+          }
         }
       }
     },
@@ -109,6 +139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "0.05% ઇમ્પ્લાન્ટ્સ - 0.8% IUD"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0.05% इम्प्लांट 0.8% IUD"
           }
         }
       }
@@ -154,6 +190,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1.   લીવોનોરજેસ્ટ્રેલ (LNG):"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. लेवोनोर्गेस्ट्रेल (LNG):"
           }
         }
       }
@@ -247,6 +289,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "3TC"
@@ -639,6 +687,12 @@
             "state" : "translated",
             "value" : "એબાકાવિર"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अबाकावीर"
+          }
         }
       }
     },
@@ -646,6 +700,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ABC"
@@ -795,12 +855,24 @@
             "state" : "translated",
             "value" : "વધારાની માહિતી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अतिरिक्त जानकारी"
+          }
         }
       }
     },
     "Additional Info explains how to use the methods safely and effectively." : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इन विधियों का सुरक्षित और प्रभावी तरीके से उपयोग कैसे करें, इसके बारे में अतिरिक्त जानकारी "
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -818,6 +890,12 @@
             "value" : "આ પદ્ધતિનો ઉપયોગ સલામત અને અસરકારક રીતે કેવી રીતે કરવો તે અંગેની વધારાની માહિતી  "
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इन विधियों का सुरक्षित और प्रभावी तरीके से उपयोग कैसे करें, इसके बारे में अतिरिक्त जानकारी "
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -826,7 +904,7 @@
         }
       }
     },
-    "Adolescents" : {
+    "Adolescents." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -834,16 +912,28 @@
             "state" : "translated",
             "value" : "કિશોરો"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "किशोर"
+          }
         }
       }
     },
-    "After 2nd trimester abortion, Cu IUCD and LNG-IUD = Cat 2.The provider should be skilled in PPIUCD technique" : {
+    "After 2nd trimester abortion, Cu IUCD and LNG-IUD = Cat 2. The provider should be skilled in PPIUCD technique." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "બીજા ત્રિમાસિકગાળામાં થયેલા ગર્ભપાત બાદ Cu IUCD અને LNG-IUD = કેટેગરી 2. પ્રોવાઇડર PPIUCD ટેકનિકમાં કુશળ હોવા જોઇએ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "दूसरी तिमाही के गर्भपात के बाद, Cu IUCD और LNG-IUD = Cat 2. प्रदाता को PPIUCD तकनीक में कुशल होना चाहिए।"
           }
         }
       }
@@ -1021,6 +1111,12 @@
             "state" : "translated",
             "value" : "એન્ટિરીટ્રોવાઇરલ દવાઓ અને સંક્ષિપ્ત રૂપો"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एंटीरेट्रोवायरल दवाएं और संकेताक्षर"
+          }
         }
       }
     },
@@ -1055,6 +1151,12 @@
             "state" : "translated",
             "value" : "ATV/r"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ATV/r"
+          }
         }
       }
     },
@@ -1062,6 +1164,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AZT"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "AZT"
@@ -1146,10 +1254,16 @@
             "state" : "translated",
             "value" : "કેટલીક પસંદગીની તબીબી સ્થિતિ(ઓ) પર આધાર રાખીને અહીં ગર્ભનિરોધક પદ્ધતિઓ માટેના સલામતીના રેટિંગ્સ આપવામાં આવ્યાં છે. દરેક પરિસ્થિતિ માટેના સલામતીના રેટિંગ્સની અલગથી સમીક્ષા કરવા માટે એરો પર ક્લિક કરો."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वे चिकित्सीय स्थितियां जो चयनित हैं उनके आधार पर, गर्भनिरोधक विधियों के लिए ये सुरक्षा रेटिंग हैं। अकेली प्रत्येक स्थिति की सुरक्षा रेटिंग की समीक्षा करने के लिए तीर पर क्लिक करें।"
+          }
         }
       }
     },
-    "Benign breast disease or undiagnosed mass" : {
+    "Benign breast disease or undiagnosed mass." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -1157,16 +1271,28 @@
             "state" : "translated",
             "value" : "બેનાઇન બ્રેસ્ટ ડીસીઝ અથવા નિદાન નહીં થયેલું દ્રવ્યમાન"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सौम्य (बिनाइन) स्तन रोग या अनिदानिएअ द्रव्यमान"
+          }
         }
       }
     },
-    "Benign ovarian tumours, including cysts" : {
+    "Benign ovarian tumours, including cysts." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "બેનાઇન ઓવેરિયન ટ્યુમર્સ, સીસ્ટ સહિત"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गाँठ सहित सौम्य अंडाशय (ओवेरयिन) ट्यूमर"
           }
         }
       }
@@ -1194,7 +1320,7 @@
         }
       }
     },
-    "Breast cancer family history" : {
+    "Breast cancer family history." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -1202,16 +1328,28 @@
             "state" : "translated",
             "value" : "સ્તનના કેન્સરની કૌટુંબિક પૂર્વવિગત"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्तन कैंसर का पारिवारिक इतिहास"
+          }
         }
       }
     },
-    "Breastfeeding" : {
+    "Breastfeeding." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્તનપાન"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्तनपान."
           }
         }
       }
@@ -1233,13 +1371,19 @@
         }
       }
     },
-    "Can insert Cu IUCD and LNG-IUD <48 hours after delivery andduring LSCS or≥6 weeks after delivery" : {
+    "Can insert Cu IUCD and LNG-IUD <48 hours after delivery and during LSCS or ≥6 weeks after delivery." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રસૂતિ પછી <48 કલાકે અને LSCS દરમિયાન કે પ્રસૂતિ પછી ≥6 અઠવાડિયે Cu IUCD અને LNG-IUDને દાખલ કરી શકાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसव के 48 घंटे बाद और LSCS के दौरान या प्रसव के 6 सप्ताह बाद Cu IUCD और LNG-IUD  अन्तर्स्थापित कर सकते हैं"
           }
         }
       }
@@ -1270,6 +1414,12 @@
     "Cancer (Breast Cancer)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कैंसर (स्तन कैंसर)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1281,6 +1431,12 @@
     "Cancer (Cervical cancer)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भाशय ग्रीवा (सर्वाइकल) कैंसर"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1315,6 +1471,12 @@
     "Cardiovascular Diseases (Stroke, IHD, multiple risk factors°)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हृदय रोग (कार्डियोवैस्कुलर रोग)\nस्ट्रोक, आईएचडी, अनेक जोखिम कारक°"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1326,6 +1488,12 @@
     "Cardiovascular Diseases (Valvular heart disease (complicated))" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हृदय रोग (कार्डियोवैस्कुलर रोग)\nस्ट्रोक, आईएचडी, अनेक जोखिम कारक°"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1446,6 +1614,12 @@
             "value" : "CHC"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1548,10 +1722,16 @@
             "state" : "translated",
             "value" : "COC"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
+          }
         }
       }
     },
-    "COCs = 3; CICs = 2" : {
+    "COCs = 3; CICs = 2." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -1559,16 +1739,28 @@
             "state" : "translated",
             "value" : "COCs = 3; CICs = 2"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COCs = 3; CICs = 2"
+          }
         }
       }
     },
-    "COCs and heavy smoking = 4; COCs and heavy smokers, <35 = 2;CICs and light smoking = 2" : {
+    "COCs and heavy smoking = 4; COCs and heavy smokers, <35 = 2; CICs and light smoking = 2." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "COCs અને ભારે ધૂમ્રપાન = 4; COCs અને ભારે ધૂમ્રપાન કરનારા લોકો, <35 = 2; CICs અને હળવું ધૂમ્રપાન = 2"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COCs और अत्याधिक धूम्रपान = 4; COCs और अत्याधिक धूम्रपान करने वाले, <35 = 2; CICs और हल्का धूम्रपान = 2"
           }
         }
       }
@@ -1603,6 +1795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કમ્બાઇન્ડ ઓરલ કૉન્ટ્રાસેપ્ટિવ્સ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "संयुक्त (कंबाइंड) मौखिक गर्भनिरोधक"
           }
         }
       }
@@ -1647,13 +1845,19 @@
         }
       }
     },
-    "Comparing Effectiveness of Family Planning Method" : {
+    "Comparing Effectiveness of\\nFamily Planning Method " : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "કુટુંબ નિયોજનની પદ્ધતિની અસરકારકતાની સરખામણી"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "परिवार नियोजन विधि की प्रभावशीलता की तुलना करना"
           }
         }
       }
@@ -1685,6 +1889,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પરિસ્થિતિઓ કે જે તમામ પદ્ધતિઓ માટે કેટેગરી 1 અથવા 2 છે (ઉપયોગમાં લઈ શકાય તેવી પદ્ધતિ)"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "પરિસ્થિતિઓ કે જે તમામ પદ્ધતિઓ માટે કેટેગરી 1 અથવા 2 છે (ઉપયોગમાં લઈ શકાય તેવી પદ્ધતિ)"
@@ -1733,6 +1943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કન્ડોમ્સ, ડાયાફ્રામઃ તમે જ્યારે પણ જાતીય સમાગમ કરો ત્યારે દર વખતે યોગ્ય રીતે ઉપયોગમાં લો."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कंडोम, डायाफ्रामः हर बार सेक्स करते समय सही ढंग से उपयोग करें।"
           }
         }
       }
@@ -1800,13 +2016,19 @@
         }
       }
     },
-    "Contraceptives like COCs & CICs, Centchroman, POPs, DMPA & NET-EN, Implantscan be initiated on the day Misoprostol is given" : {
+    "Contraceptives like COCs & CICs, Centchroman, POPs, DMPA & NET-EN, Implants can be initiated on the day Misoprostol is given." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "જે દિવસે મિસોપ્રોસ્ટોલ આપ્યું હોય તે જ દિવસથી COCs અને CICs, સેન્ટક્રોમેન, POPs, DMPA અને NET-EN, ઇમ્પ્લાન્ટ જેવી ગર્ભનિરોધકોની શરૂઆત કરી શકાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भनिरोधकों जैसे COCs और CICs, सेंटक्रोमैन, POPs, DMPA और NET-EN,  इम्प्लांट को मिसोप्रोस्टोल दिए जाने वाले दिन से शुरू किया जा सकता है।"
           }
         }
       }
@@ -1851,13 +2073,19 @@
         }
       }
     },
-    "Cu IUCD and LNG-IUD to be inserted after ensuring the abortion is complete" : {
+    "Cu IUCD and LNG-IUD to be inserted after ensuring the abortion is complete." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભપાતની સમગ્ર પ્રક્રિયા સમાપ્ત થઈ ગઈ છે, તેની ખાતરી થયાં બાદ Cu IUCD અને LNG-IUDને દાખલ કરી શકાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu IUCD और LNG-IUD को पूर्ण गर्भपात सुनिश्चित होने के बाद डाला जाना चाहिए"
           }
         }
       }
@@ -1866,6 +2094,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu-IUCD"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cu-IUCD"
@@ -1883,6 +2117,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu-IUD"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cu-IUD"
@@ -1913,7 +2153,7 @@
         }
       }
     },
-    "Current PID and Current STI (Purulent discharge): Cu IUCD andLNG-IUD = 4; if she develops these conditions while usingCu IUCD and LNG-IUD, give treatment and continue with the device" : {
+    "Current PID and Current STI (Purulent discharge): Cu IUCD and LNG-IUD = 4; if she develops these conditions while using Cu IUCD and LNG-IUD, give treatment and continue with the device." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -1921,16 +2161,28 @@
             "state" : "translated",
             "value" : "વર્તમાન PID અને વર્તમાન STI (પરુનો સ્રાવ): Cu IUCD અને LNG-IUD = 4; જો તેમનામાં Cu IUCD અને LNG-IUDનો ઉપયોગ કરતી વખતે આ પરિસ્થિતિ વિકસે તો તેમની સારવાર કરો અને ડીવાઇઝનો ઉપયોગ ચાલું રાખો."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मौजूदा PID और मौजूदा STI (प्यूरुलेंट डिस्चार्ज): Cu IUCD और LNG-IUD = 4; यदि Cu IUCD और LNG-IUD का उपयोग करते समय उसमें ये स्थितियाँ उत्पन्न होती हैं, तो उपचार दें और उपकरण का उपयोग जारी रखें"
+          }
         }
       }
     },
-    "CYP3A4 inducers (e.g. rifampicin, phenytoin, phenobarbital, carbamazepine, efavirenz, fosphenytoin, nevirapine, oxcarbazepine, primidone, rifabutin, St John’s wort/ hypericum perforatum) " : {
+    "CYP3A4 inducers (e.g. rifampicin, phenytoin, phenobarbital, carbamazepine, efavirenz, fosphenytoin, nevirapine, oxcarbazepine, primidone, rifabutin, St John’s wort/ hypericum perforatum)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "CYP3A4 ઉત્પ્રેરકો (જેમ કે, રિફામપિસિન, ફેનિટોઇન, ફેનોબારબિટલ, કાર્બામાઝેપાઇન, ઇફાવિરેન્ઝ, ફોસફેનીટોઇન, નેવિરાપાઇન, ઓક્સારબેઝેપાઇન, પેરિમિડોન, રિફાબ્યુટિન, સેંટ જૉન્સ વૉર્ટ/ હાઇપરિક્યુમ પર્ફોરેટમ)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CYP3A4 इंड्यूसर (उदाहरण के लिए रिफैम्पिसिन, फिनाइटोइन, फेनोबार्बिटल, कार्बामाजेपाइन, एफविरेंज, फॉस्फेनीटोइन, नेविरापाइन, ऑक्सकार्बजेपिन, प्राइमिडोन, रिफब्यूटिन, सेंट जॉन्स वॉर्ट /हाइपेरिकम परफोरेटम)"
           }
         }
       }
@@ -1939,6 +2191,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "D4T"
@@ -1973,6 +2231,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DDI"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "DDI"
@@ -2023,6 +2287,12 @@
     "Deep Vein Thrombosis (Acute DVT)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गहरी नस घनास्रता (डीप वेन थ्रोम्बोसिस)\nतीव्र DVT"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2034,6 +2304,12 @@
     "Deep Vein Thrombosis (H/O DVT/PE, on anticoagulant, prolonged immobilization)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गहरी नस घनास्रता (डीप वेन थ्रोम्बोसिस)\nH/O DVT/PE, थक्कारोधी पर, दीर्घकालीन स्थिरीकरण"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2042,13 +2318,19 @@
         }
       }
     },
-    "Depression" : {
+    "Depression." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "હતાશા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अवसाद"
           }
         }
       }
@@ -2102,6 +2384,12 @@
     "Diabetes Mellitus (Current)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मधुमेह (डायबिटीज मेलिटस)\nमौजूदा"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2169,16 +2457,28 @@
             "state" : "translated",
             "value" : "ડિડાનોસાઇન"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "डिडानोसिन"
+          }
         }
       }
     },
-    "DMPA = 1; NET-EN = 2" : {
+    "DMPA = 1; NET-EN = 2." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "DMPA = 1; NET-EN = 2"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA = 1; NET-EN = 2."
           }
         }
       }
@@ -2226,6 +2526,12 @@
             "value" : "DMPA/NET-EN"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DMPA/NET-EN"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2238,6 +2544,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DRV/r"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "DRV/r"
@@ -2262,13 +2574,19 @@
         }
       }
     },
-    "Dysmenorrhoea" : {
+    "Dysmenorrhoea." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ડીસમેનોરીયા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कष्टार्तव ( डिसमेनोरिया)"
           }
         }
       }
@@ -2290,6 +2608,23 @@
         }
       }
     },
+    "EC Pill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC પિલ્સ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ईसी गोली"
+          }
+        }
+      }
+    },
     "EC pill is Category 1 for all physiological and medical conditions and Category 2 for women with h/o severe cardiovascular disease, migraine and severe liver disease." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2298,16 +2633,11 @@
             "state" : "translated",
             "value" : "EC પિલ્સ એ તમામ પ્રકારની શારીરિક અને તબીબી પરિસ્થિતિઓ માટેની કેટેગરી 1 છે અને h/o ગંભીર કાર્ડિયોવાસ્ક્યુલર બીમારી, માઇગ્રેન અને લિવરની ગંભીર બીમારી ધરાવતી મહિલાઓ માટે કેટેગરી 2 છે."
           }
-        }
-      }
-    },
-    "ECpill" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "EC પિલ્સ"
+            "value" : "सभी शारीरिक और चिकित्सीय स्थितियों के लिए ईसी गोली श्रेणी 1 है और वे महिलाएं जिन्हें गंभीर हृदय रोग, माइग्रेन और गंभीर यकृत रोग हैं उनके लिए श्रेणी 2 है।"
           }
         }
       }
@@ -2320,6 +2650,12 @@
             "state" : "translated",
             "value" : "એફાવિરેન્ઝ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एफाविरेंज"
+          }
         }
       }
     },
@@ -2330,6 +2666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પદ્ધતિઓની અસરકારકતા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "विधियों की प्रभावशीलता"
           }
         }
       }
@@ -2357,21 +2699,16 @@
         }
       }
     },
-    "Effectiveness to prevent pregnancy\t\t\t\n90%\n" : {
+    "EFV" : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ગર્ભાવસ્થાને નિવારવાની અસરકારકતા\n90%\n"
+            "value" : "EFV"
           }
-        }
-      }
-    },
-    "EFV" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "EFV"
@@ -2421,6 +2758,12 @@
             "state" : "translated",
             "value" : "ઇમર્જન્સીમાં લેવાની ગર્ભનિરોધક"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आपातकालीन गर्भनिरोधक"
+          }
         }
       }
     },
@@ -2432,10 +2775,16 @@
             "state" : "translated",
             "value" : "એમિટ્રિસિટાબાઇન"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एमट्रिसिटाबाइन"
+          }
         }
       }
     },
-    "Endometriosis" : {
+    "Endometriosis." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -2443,10 +2792,33 @@
             "state" : "translated",
             "value" : "એન્ડોમેટ્રિયોસિસ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अंतर्गर्भाशय अस्थानता (एंडोमेट्रियोसिस)"
+          }
         }
       }
     },
-    "Epilepsy" : {
+    "Epilepsy (On anticonvulsants)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मिर्गी\nआक्षेपरोधी (एंटीकॉन्वल्सेंट) पर"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మూర్ఛరోగము (యాంటీ కన్వల్సెంట్లపై)"
+          }
+        }
+      }
+    },
+    "Epilepsy." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -2469,21 +2841,16 @@
         }
       }
     },
-    "Epilepsy (On anticonvulsants)" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "మూర్ఛరోగము (యాంటీ కన్వల్సెంట్లపై)"
-          }
-        }
-      }
-    },
     "ETR" : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ETR"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ETR"
@@ -2498,6 +2865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "એટ્રાવિરાઇન"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एट्राविरिन"
           }
         }
       }
@@ -2519,17 +2892,6 @@
         }
       }
     },
-    "f not breastfeeding, LNG-IUD = Cat 1" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "જો સ્તનપાન ના કરતાં હોય તો, LNG-IUD = કેટેગરી 1"
-          }
-        }
-      }
-    },
     "Feedback" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2537,6 +2899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રતિભાવ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रतिक्रिया"
           }
         }
       }
@@ -2606,6 +2974,12 @@
             "state" : "translated",
             "value" : "ફર્ટિલિટી પ્રત્યે જાગૃતિ પેદા કરવાની પદ્ધતિઓ."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रजनन जागरूकता की विधियां"
+          }
         }
       }
     },
@@ -2616,6 +2990,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ફર્ટિલિટી પ્રત્યે જાગૃતિ પેદા કરવાની પદ્ધતિઓઃ ગર્ભ રહેવાની સંભાવના ધરાવતા દિવસોએ જાતીય સમાગમ કરવાનું ટાળો કે કન્ડોમ્સનો ઉપયોગ કરો. સ્ટાન્ડર્ડ ડેઇઝ મેથડ અથવા ટુ ડે મેથડનો પણ ઉપયોગ કરી શકો છો."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रजनन जागरूकता विधियां: जननक्षम (फर्टाइल) दिनों में सेक्स से दूर रहें या कंडोम का उपयोग करें। मानक दिवस विधि या दो दिवसीय विधि का भी उपयोग किया जा सकता है।"
           }
         }
       }
@@ -2660,7 +3040,7 @@
         }
       }
     },
-    "For Lamotrigine, POP and Implants = 1" : {
+    "For Lamotrigine, POP and Implants = 1." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -2668,16 +3048,28 @@
             "state" : "translated",
             "value" : "લેમોટ્રિજાઇન માટે, POP અને ઇમ્પ્લાન્ટ્સ = 1\n"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लैमोट्रिगिन, POP और इम्प्लांट के लिए  = 1"
+          }
         }
       }
     },
-    "For simple non migrainous headache most contraceptives can be safely used" : {
+    "For simple non migrainous headache most contraceptives can be safely used." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "સાદા માઇગ્રેન સિવાયના માથાના દુઃખાવા માટે મોટાભાગની ગર્ભનિરોધકનો ઉપયોગ સલામતીપૂર્વક કરી શકાય છે"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "साधारण गैर-आधासीसी (माइग्रेन) सिरदर्द के लिए अधिकांश गर्भ निरोधकों का सुरक्षित रूप से उपयोग किया जा सकता है"
           }
         }
       }
@@ -2737,6 +3129,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "FTC"
@@ -2844,6 +3242,12 @@
     "Headache<sup><small><small>N</small></small></sup>" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिरदर्दHeadache<sup><small><small>N</small></small></sup>"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2855,6 +3259,12 @@
     "Headache<sup><small><small>N</small></small></sup> (Migraine with aura°)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिरदर्दHeadache<sup><small><small>N</small></small></sup>(ऑरा के साथ आधासीसी (माइग्रेन) °)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2866,6 +3276,12 @@
     "Headache<sup><small><small>N</small></small></sup> (Migraine without aura°)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिरदर्दHeadache<sup><small><small>N</small></small></sup>(ऑरा के बिना आधासीसी (माइग्रेन) °)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2914,13 +3330,19 @@
         }
       }
     },
-    "High risk for HIV" : {
+    "High risk for HIV." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "HIVનું ઊંચું જોખમ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HIV के लिए उच्च जोखिम"
           }
         }
       }
@@ -2948,7 +3370,7 @@
         }
       }
     },
-    "History of gestational diabetes" : {
+    "History of gestational diabetes." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -2956,10 +3378,16 @@
             "state" : "translated",
             "value" : "ગર્ભાવસ્થા દરમિયાન આવેલા ડાયાબિટીસની પૂર્વવિગત"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भकालीन मधुमेह का इतिहास"
+          }
         }
       }
     },
-    "History of high blood pressure during pregnancy" : {
+    "History of high blood pressure during pregnancy." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -2967,16 +3395,28 @@
             "state" : "translated",
             "value" : "ગર્ભાવસ્થા દરમિયાન આવેલા ઉચ્ચ રક્તચાપની પૂર્વવિગત"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भावस्था के दौरान उच्च रक्तचाप का इतिहास"
+          }
         }
       }
     },
-    "History of pelvic surgery, including caesarean delivery" : {
+    "History of pelvic surgery, including caesarean delivery." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "સીઝેરીયન પ્રસૂતિ સહિત પેડુની સર્જરીની પૂર્વવિગત"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिजेरियन डिलीवरी सहित पेल्विक सर्जरी का इतिहास"
           }
         }
       }
@@ -2989,16 +3429,28 @@
             "state" : "translated",
             "value" : "ગંભીર કાર્ડિયોવાસ્ક્યુલર બીમારીઓ (ઇશ્કેમિક હાર્ટ ડીસીઝ, સેરેબ્રોવાસ્ક્યુલર એટેક અથવા અન્ય થ્રોમ્બોએમ્બોલિક પરિસ્થિતિઓ)ની પૂર્વવિગત"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गंभीर हृदय रोग (कार्डियोवैस्कुलर रोग) का इतिहास, (इस्केमिक हृदय रोग, मस्तिष्कवाहिकीय (सेरेब्रोवास्कुलर) दौरा, या अन्य घनास्र (थ्रोम्बोम्बोलिक) स्थितियां)"
+          }
         }
       }
     },
-    "HIV asymptomatic or mild clinical disease (WHO Stage 1 or 2)" : {
+    "HIV asymptomatic or mild clinical disease (WHO Stage 1 or 2)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "લક્ષણો વગરનો HIV કે હળવી ક્લિનિકલ બીમારી (WHO સ્ટેજ 1 અથવા 2)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HIV स्पर्शोन्मुख या हल्के नैदानिक रोग (WHO चरण 1 या 2)"
           }
         }
       }
@@ -3263,7 +3715,7 @@
         },
         "gu-IN" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "કોઈ પણ સંજોગોમાં પદ્ધતિનો ઉપયોગ કરો"
           }
         },
@@ -3621,6 +4073,12 @@
     "Hypertension (<160/100)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उच्च रक्तचाप\n<160/100"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3632,6 +4090,12 @@
     "Hypertension (>160/100)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "उच्च रक्तचाप\n<160/100"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3640,7 +4104,7 @@
         }
       }
     },
-    "If at increased risk of STI or HIV, advise condom use in addition to any other method" : {
+    "If at increased risk of STI or HIV, advise condom use in addition to any other method." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -3648,10 +4112,16 @@
             "state" : "translated",
             "value" : "જો STI કે HIVનું જોખમ વધારે હોય તો, અન્ય કોઈ પણ પદ્ધતિનો ઉપયોગ કરવાની સાથે કન્ડોમનો ઉપયોગ કરવાની સલાહ આપો"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि STI या HIV का खतरा बढ़ गया है, तो किसी अन्य विधि के अलावा कंडोम के उपयोग की सलाह दें"
+          }
         }
       }
     },
-    "If diabetes complicated or for more than 20 years: COCs, CICs, DMP and NET-EN = 3-4" : {
+    "If diabetes complicated or for more than 20 years: COCs, CICs, DMP and NET-EN = 3-4." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -3659,16 +4129,28 @@
             "state" : "translated",
             "value" : "જો ડાયાબિટીસ જટિલ હોય કે 20 વર્ષથી વધારે સમયથી હોય તોઃ COCs, CICs, DMP અને NET-EN = 3-4"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि मधुमेह जटिलता से पूर्ण है या 20 वर्षों से अधिक समय से है: COCs, CICs, DMP और NET-EN = 3-4"
+          }
         }
       }
     },
-    "If established on anticoagulant therapy = 2" : {
+    "If established on anticoagulant therapy = 2." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો એન્ટિકોગ્યુલેન્ટ થેરાપી પર સ્થાપિત થયેલા હોય તો = 2"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि थक्कारोधी चिकित्सा पर स्थापित किया गया है = 2"
           }
         }
       }
@@ -3792,7 +4274,24 @@
         }
       }
     },
-    "If not receiving ARV treatment and not clinically well, Cu IUCDand LNG-IUD = 3" : {
+    "If not breastfeeding, LNG-IUD = Cat 1." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્તનપાન ના કરતાં હોય તો, LNG-IUD = કેટેગરી 1"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि स्तनपान नहीं हो रहा है, तो , LNG-IUD = Cat 1"
+          }
+        }
+      }
+    },
+    "If not receiving ARV treatment and not clinically well, Cu IUCD and LNG-IUD = 3." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -3800,10 +4299,16 @@
             "state" : "translated",
             "value" : "જો ARV સારવાર મેળવી રહ્યાં ના હોય અને જો ચિકિત્સકીય રીતે તબિયત સારી ના હોય તો, Cu IUCD અને LNG-IUD = 3"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि ARV उपचार नहीं मिल रहा है और चिकित्सकीय रूप से ठीक नहीं है, तो Cu IUCD और LNG-IUD = 3"
+          }
         }
       }
     },
-    "If on ARV Therapy = 2, except ritonavir - boosted ARVs = 3" : {
+    "If on ARV Therapy = 2, except ritonavir - boosted ARVs = 3." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -3811,16 +4316,28 @@
             "state" : "translated",
             "value" : "જો ARV થેરાપી પર હોય તો = 2, રિટોનાવિર - બૂસ્ટેડ ARVs સિવાય = 3"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि ARV थेरेपी पर = 2, रीतोनाविर को छोड़कर - वर्धित ARVs = 3"
+          }
         }
       }
     },
-    "If pelvic TB, Cu IUCD and LNG-IUD = 4" : {
+    "If pelvic TB, Cu IUCD and LNG-IUD = 4." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો પેલ્વિક TB, IUCD અને LNG-IUD = 4"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि पेल्विक टीबी, तो Cu IUCD और LNG-IUD = 4"
           }
         }
       }
@@ -3832,6 +4349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો ß hCG સતત ઊંચું રહેતું હોય કે લૉકલ મેલિગ્નેન્ટ ડીસીઝ હોય તો, Cu IUCD અને LNG-IUD = 4"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि ß एचसीजी लगातार उच्च है या स्थानीय मैलिग्नेंट रोग है तो Cu IUCD और LNG-IUD = 4"
           }
         }
       }
@@ -4125,13 +4648,19 @@
         }
       }
     },
-    "If uterine cavity is distorted/enlarged, cannot use Cu IUCD or LNG-IUD" : {
+    "If uterine cavity is distorted/enlarged, cannot use Cu IUCD or LNG-IUD." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો ગર્ભાશયનો પોલાણવાળો હિસ્સો વિકૃત થઈ ગયો હોય/મોટો થઈ ગયો હોય તો, Cu IUCD કે LNG-IUDનો ઉપયોગ થઈ શકતો નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यदि गर्भाशय गुहा विकृत/वर्धित है, तो Cu IUCD या LNG-IUD का उपयोग नहीं कर सकते"
           }
         }
       }
@@ -4190,10 +4719,16 @@
             "state" : "translated",
             "value" : "ઇમ્પ્લાન્ટ્સ, IUD, મહિલા નસબંધીઃ પ્રક્રિયા બાદ થોડું અથવા કંઈ પણ કરવાનું રહેતું નથી કે યાદ રાખવાનું રહેતું નથી."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इम्प्लांट, आईयूडी, महिला नसबंदी (स्टेरलाइजेशन) : प्रक्रिया के बाद, करने या याद रखने के लिए बहुत कम या कुछ भी नहीं।"
+          }
         }
       }
     },
-    "In mild cirrhosis, LNG-IUD = Cat 2" : {
+    "In mild cirrhosis, LNG-IUD = Cat 2." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -4201,16 +4736,28 @@
             "state" : "translated",
             "value" : "હળવા સિરોસિસમાં, LNG-IUD = કેટેગરી 2"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हल्के सिरोसिस में, LNG-IUD = Cat 2"
+          }
         }
       }
     },
-    "In severe anemia, Cu IUCD = Cat 2" : {
+    "In severe anemia, Cu IUCD = Cat 2." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "તીવ્ર એનીમિયા (પાંડુરોગ)માં, Cu IUCD = કેટેગરી 2"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गंभीर रक्ताल्पता में, Cu IUCD = Cat 2"
           }
         }
       }
@@ -4222,6 +4769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઇન્ડિયા-એડેપ્ટેડ એમઇસી વ્હિલ 2022"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "भारत के लिए अनुकूलित WHO MEC व्हील 2022"
           }
         },
         "te-IN" : {
@@ -4240,6 +4793,12 @@
             "state" : "translated",
             "value" : "ઇન્જેક્ટેબલ્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इंजेक्टेबल्स"
+          }
         }
       }
     },
@@ -4250,6 +4809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઇન્જેક્ટેબલ્સઃ ઇન્જેક્શનને ફરીથી સમયસર લો."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इंजेक्टेबल्स: समय पर दोबारा इंजेक्शन लगवाएं।"
           }
         }
       }
@@ -4279,16 +4844,28 @@
             "state" : "translated",
             "value" : "ઇન્ટેગ્રેઝ ઇન્હિબિટર્સ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इंटीग्रेज इंहिबिटर्स (अवरोधक)"
+          }
         }
       }
     },
-    "Iron-deficiency anaemia,sickle-cell disease and thalassaemia" : {
+    "Iron-deficiency anaemia, sickle-cell disease and thalassaemia." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "આયર્નની ઊણપ એનીમિયા, સિકલ-સેલ ડીસીઝ અને થેલેસેમિયા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आयरन की कमी से होने वाले रक्ताल्पता, सिकल सेल रोग और थैलेसीमिया"
           }
         }
       }
@@ -4412,15 +4989,6 @@
         }
       }
     },
-    "Key" : {
-      "extractionState" : "manual"
-    },
-    "Key 1" : {
-      "extractionState" : "manual"
-    },
-    "Key 2" : {
-      "extractionState" : "manual"
-    },
     "Lactational amenorrhea method" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4445,6 +5013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "લેક્ટેશનલ એમેનોર્હીયા મેથડ, LAM (6 મહિના માટે): શિશુએ સંપૂર્ણપણે અથવા તો લગભગ સંપૂર્ણપણે સ્તનપાન કરી લીધું છે.\nગર્ભાવસ્થા સામે અસરકારકતા જાળવી રાખવા માટે માસિક આવવાનું ફરી શરૂ થવાની સાથે જ, સ્તનપાનની ફ્રીક્વન્સી કે સમયગાળો ઘટી જતાં, બોટલથી દૂધ પીવડાવનું શરૂ કરતાં અથવા તો શિશુ 6 મહિનાનું થઈ જતાં ગર્ભનિરોધનની અન્ય પદ્ધતિનો ઉપયોગ કરવાનું શરૂ કરવું જોઇએ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लैक्टेशनल एमेनोरिया विधि, LAM (6 महीने के लिए): बच्चा पूरी तरह से या लगभग पूरी तरह से स्तनपान कर रहा है।\nगर्भावस्था के विरूद्ध प्रभावी सुरक्षा बनाए रखने के लिए, जैसे ही मासिक धर्म फिर से शुरू होता हो, स्तनपान बार-बार कराना कम हो या उसकी अवधि कम हो जाती हो, बोतल से दूध पिलाना शुरू कर दिया जाता हो, या बच्चा 6 महीने का हो जाता हो तो गर्भनिरोधक की एक अन्य विधि का उपयोग किया जाना चाहिए।"
           }
         }
       }
@@ -4480,6 +5054,12 @@
             "state" : "translated",
             "value" : "LAM"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM"
+          }
         }
       }
     },
@@ -4490,6 +5070,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "લેમિવુડાઇન"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लैमिवुडिन"
           }
         }
       }
@@ -4590,6 +5176,12 @@
             "state" : "translated",
             "value" : "લીવોનોરજેસ્ટ્રેલ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लेवोनोर्गेस्ट्रेल"
+          }
         }
       }
     },
@@ -4659,6 +5251,12 @@
     "Liver Disease (Acute viral hepatitis)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यकृत रोग (लिवर रोग)\nतीव्र वायरल हेपेटाइटिस"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4670,6 +5268,12 @@
     "Liver Disease (Cirrhosis/ liver tumor)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यकृत रोग (लिवर रोग)\n(सिरोसिस/यकृत ट्यूमर)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4686,6 +5290,12 @@
             "state" : "translated",
             "value" : "LNG"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
         }
       }
     },
@@ -4693,6 +5303,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "LNG-IUD"
@@ -4836,6 +5452,12 @@
             "state" : "translated",
             "value" : "LPV/r"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
         }
       }
     },
@@ -4846,6 +5468,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "મેલેરિયા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मलेरिया"
           }
         }
       }
@@ -4916,6 +5544,12 @@
             "value" : "તબીબી"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चिकित्सा"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4932,6 +5566,12 @@
             "state" : "translated",
             "value" : "તબીબી સ્થિતિઓઃ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चिकित्सा स्थितियाँ "
+          }
         }
       }
     },
@@ -4942,6 +5582,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભનિરોધકના ઉપયોગ માટેની તબીબી પાત્રતાના માપદંડો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भनिरोधक उपयोग के लिए चिकित्सा पात्रता मानदंड "
           }
         },
         "te-IN" : {
@@ -4961,6 +5607,12 @@
             "value" : "ગર્ભનિરોધકના ઉપયોગ માટેની તબીબી પાત્રતાના માપદંડો "
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भनिरोधक के उपयोग के लिए चिकित्सकीय पात्रता मापदंड"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4976,6 +5628,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભનિરોધકના ઉપયોગ માટેની તબીબી પાત્રતાના માપદંડો (ઇન્ડિયા-એડેપ્ટેડ ડબ્લ્યુએચઓ એમઇસી વ્હિલ 2022) "
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भनिरोधक के उपयोग के लिए चिकित्सकीय पात्रता मापदंड (भारत के लिए अनुकूलित WHO MEC व्हील 2022) "
           }
         },
         "te-IN" : {
@@ -5078,13 +5736,19 @@
         }
       }
     },
-    "Migraine without aura and <35 yrs, COCs and CICs = 2; Migraine without aura and ≥35 yrs, COC and CIC = 3" : {
+    "Migraine without aura and <35 yrs, COCs and CICs = 2; Migraine without aura and ≥35 yrs, COC and CIC = 3." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઑરા વગર માઇગ્રેન અને <35 વર્ષ, COCs અને CICs = 2; ઑરા વગર માઇગ્રેન અને ≥35 વર્ષ, COC અને CIC = 3"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बिना ऑरा वाला माइग्रेन और <35  वर्ष, COCs और CICs = 2;\nबिना ऑरा वाला माइग्रेन और  ≥35  वर्ष, COC और CIC = 3"
           }
         }
       }
@@ -5112,10 +5776,27 @@
         }
       }
     },
-    "Mild cirrhosis" : {
+    "Migraine." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "माइग्रेन"
+          }
+        }
+      }
+    },
+    "Mild cirrhosis." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હળવો સિરોસિસ"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "હળવો સિરોસિસ"
@@ -5225,13 +5906,19 @@
         }
       }
     },
-    "Multiple risk factors include: old age, smoking, hypertension, diabetes, obesity and known dyslipidemia. If stroke/IHD develops, while on POP, Implants, LNG-IUD (only IHD), change to non-hormonal method" : {
+    "Multiple risk factors include: old age, smoking, hypertension, diabetes, obesity and known dyslipidemia. If stroke/IHD develops, while on POP, Implants, LNG-IUD (only IHD), change to non-hormonal method." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "એકથી વધારે જોખમકારક પરિબળોમાં સમાવિષ્ટ છેઃ વૃદ્ધાવસ્થા, ધૂમ્રપાન, હાઇપરટેન્શન (ઉચ્ચ રક્તચાપ), ડાયાબિટીસ, મેદસ્વીતા અને જ્ઞાત ડીસ્લિપિડેમિયા. દર્દી જો POP, ઇમ્પ્લાન્ટ, LNG-IUD (ફક્ત IHD) પર હોય ત્યારે સ્ટ્રોક/ IHD વિકસે તો દર્દીને નોન-હોર્મોનલ પદ્ધતિ પર લઈ લો."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कई जोखिम कारकों में शामिल हैं: बुढ़ापा, धूम्रपान, उच्च रक्तचाप, मधुमेह, मोटापा और ज्ञात डिस्लिपिडेमिया। यदि POP, इम्प्लांट्स, LNG-IUD (केवल IHD) के दौरान स्ट्रोक/ IHD विकसित होते हैं, तो गैर-हार्मोनल विधि पर आ जाएं।"
           }
         }
       }
@@ -5261,12 +5948,24 @@
             "state" : "translated",
             "value" : "નેવિરાપાઇન"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नेविरापीन"
+          }
         }
       }
     },
     "No" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नहीं"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5282,6 +5981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કોઈ હોર્મોન નહીં"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कोई हार्मोन नहीं"
           }
         }
       }
@@ -5340,6 +6045,12 @@
             "state" : "translated",
             "value" : "નોન-ન્યુક્લીયોસાઇડ રીવર્સ ટ્રાન્સસ્ક્રિપ્ટેઝ ઇન્હિબિટર્સ (NNRTIs)"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गैर - न्यूक्लियोसाइड्स रिवर्स ट्रांसक्रिपटेस इंहिबिटर्स (अवरोधक)  (NNRTIs)"
+          }
         }
       }
     },
@@ -5373,6 +6084,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વિવિધ પરિસ્થિતિઓ માટેની નોંધોઃ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्थितियों पर नोट्स"
           }
         }
       }
@@ -5419,6 +6136,12 @@
             "state" : "translated",
             "value" : "NVP"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
         }
       }
     },
@@ -5429,6 +6152,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "મેદસ્વીતા* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>)."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मोटापा*  (BMI ≥ 30 किग्रा/मी<sup><small><small>2</small></small></sup>)"
           }
         }
       }
@@ -5504,6 +6233,12 @@
             "state" : "translated",
             "value" : "અન્યઃ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अन्य"
+          }
         }
       }
     },
@@ -5541,7 +6276,7 @@
         }
       }
     },
-    "Past ectopic pregnancy" : {
+    "Past ectopic pregnancy." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -5549,16 +6284,28 @@
             "state" : "translated",
             "value" : "ભૂતકાળમાં વિકસેલી એક્ટોપિક ગર્ભાવસ્થા"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "विगत अस्थानिक गर्भावस्था"
+          }
         }
       }
     },
-    "Past pelvic inflammatory disease" : {
+    "Past pelvic inflammatory disease." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ભૂતકાળમાં પેલ્વિક ઇન્ફ્લેમેટરી ડીસીઝ થયેલો હોવો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "विगत श्रोणि सूजन (पेल्विकइन्फ्लेमेटरी) रोग"
           }
         }
       }
@@ -5571,16 +6318,28 @@
             "state" : "translated",
             "value" : "પેચ અને વજાઇનલ રિંગ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पैच और योनि वलय (वेजाइनल रिंग)"
+          }
         }
       }
     },
-    "Patch, ring: Keep in place, change on time" : {
+    "Patch, ring: Keep in place, change on time." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "પેચ, રિંગઃ નિશ્ચિત જગ્યાએ મૂકો, સમયસર બદલો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पैच, रिंग: स्थान पर रखें, समय पर बदलें"
           }
         }
       }
@@ -5589,6 +6348,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCOD"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "PCOD"
@@ -5628,6 +6393,12 @@
     "Pelvic Inflammatory Disease (Current)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "श्रोणिशोथज रोग (पेल्विक इंफ्लेमेटरी डिज़ीज) मौजूदा"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5678,6 +6449,12 @@
             "state" : "translated",
             "value" : "ગોળીઓ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गोलियाँ"
+          }
         }
       }
     },
@@ -5688,6 +6465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગોળીઓઃ હોર્મોનની ગોળી દરરોજ લો અને નોન-હોર્મોનલ ગોળી દર અઠવાડિયે લો (શિડ્યૂલ મુજબ)."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गोलियाँ: एक हार्मोनल गोली प्रतिदिन लें और गैर-हार्मोनल गोली साप्ताहिक रूप से लें (निर्धारित अनुसार)।"
           }
         }
       }
@@ -5713,6 +6496,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POP"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "POP"
@@ -5786,6 +6575,12 @@
     "Post Abortal (Medical)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भपातोत्तर\nचिकित्सा"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5797,6 +6592,12 @@
     "Post Abortal (Surgical)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भपातोत्तर (शल्य चिकित्सा)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5822,13 +6623,19 @@
         }
       }
     },
-    "Post-abortion (no sepsis)" : {
+    "Post-abortion (no sepsis)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભપાત બાદ (સેપ્સિસ નહીં)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भपात उपरांत (कोई सेप्सिस नहीं)"
           }
         }
       }
@@ -5918,13 +6725,19 @@
         }
       }
     },
-    "Postpartum ≥  6 months" : {
+    "Postpartum ≥ 6 months." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રસૂતિ પછી ≥ 6 મહિના"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर ≥ 6 महीने"
           }
         }
       }
@@ -5961,6 +6774,12 @@
     "Postpartum Breastfeeding (<48 hrs)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर स्तनपान\n(<48 घंटे)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5972,6 +6791,12 @@
     "Postpartum Breastfeeding (6 weeks–6 months)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर स्तनपान\n6 सप्ताह-6 महीने"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5983,6 +6808,12 @@
     "Postpartum Breastfeeding (48 hrs–6 weeks)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रसवोत्तर स्तनपान\n48 घंटे-6 सप्ताह"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6021,6 +6852,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભાવસ્થા - NA (લાગુ થતું નથી)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भावस्था लागू नहीं"
           }
         }
       }
@@ -6202,13 +7039,19 @@
         }
       }
     },
-    "Prophylactic antibiotics to be provided for Cu IUCD and LNG-IUD" : {
+    "Prophylactic antibiotics to be provided for Cu IUCD and LNG-IUD." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cu IUCD અને LNG-IUD માટે પ્રોફીલેક્ટિક એન્ટિબાયોટિક્સ પૂરાં પાડવા જોઇએ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cu IUCD और LNG-IUD के लिए प्रोफाइलेक्टिक (रोगनिरोधी) एंटीबायोटिक्स प्रदान की जाएंगी"
           }
         }
       }
@@ -6220,6 +7063,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રોટીએઝ ઇન્હિબિટર્સ (PIs)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रोटीज इंहिबिटर्स (अवरोधक) (PIs)"
           }
         }
       }
@@ -6278,6 +7127,12 @@
             "state" : "translated",
             "value" : "RAL"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
+          }
         }
       }
     },
@@ -6289,16 +7144,11 @@
             "state" : "translated",
             "value" : "રાલ્ટેગ્રાવિર"
           }
-        }
-      }
-    },
-    "Rape" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "gu-IN" : {
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "બળાત્કાર"
+            "value" : "राल्टेग्रेविर"
           }
         }
       }
@@ -6310,6 +7160,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "બળાત્કાર (STIનું ઊંચું જોખમ)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बलात्कार (STI का उच्च जोखिम) "
+          }
+        }
+      }
+    },
+    "Rape." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બળાત્કાર"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बलात्कार"
           }
         }
       }
@@ -6434,13 +7307,19 @@
         }
       }
     },
-    "Repeated emergency contraceptive pill use" : {
+    "Repeated emergency contraceptive pill use." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભનિરોધક ગોળીઓનો ઇમર્જન્સીમાં વારંવાર ઉપયોગ કરવો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आपातकालीन गर्भनिरोधक गोली का बार-बार उपयोग"
           }
         }
       }
@@ -6453,6 +7332,12 @@
             "state" : "translated",
             "value" : "પ્રજોત્પત્તિ સંબંધિત પરિસ્થિતિઓઃ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रजनन स्थितियाँ"
+          }
         }
       }
     },
@@ -6463,6 +7348,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "રિલપિરિવાઇન"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रिलपिरिविन"
           }
         }
       }
@@ -6475,6 +7366,12 @@
             "state" : "translated",
             "value" : "રિટોનાવિર"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रिटोनावीर"
+          }
         }
       }
     },
@@ -6485,6 +7382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "રિટોનાવિર-બૂસ્ટેડ એટાઝાનાવિર"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रिटोनवीर-वर्धित एटाजे़नावीर"
           }
         }
       }
@@ -6497,6 +7400,12 @@
             "state" : "translated",
             "value" : "રિટોનાવિર-બૂસ્ટેડ ડારુનાવિર"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रिटोनाविर-बूस्टेड दारुनवीर"
+          }
         }
       }
     },
@@ -6507,6 +7416,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "રિટોનાવિર-બૂસ્ટેડ લોપિનાવિર"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रिटोनाविर-वर्धित लोपिनवी"
           }
         }
       }
@@ -6519,6 +7434,12 @@
             "state" : "translated",
             "value" : "RPV"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
         }
       }
     },
@@ -6526,6 +7447,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RTV"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "RTV"
@@ -6565,6 +7492,12 @@
             "value" : "લાગુ થતી હોય તે તબીબી સ્થિતિ કે પૂર્વવિગતને પસંદ કરો. એકથી વધુ સ્થિતિને ઓળખી શકાય છે."
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जो चिकित्सकीय स्थिति या इतिहास लागू हो, उसका चयन करें। एक से अधिक स्थितियों की पहचान की जा सकती है"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6573,7 +7506,7 @@
         }
       }
     },
-    "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period." : {
+    "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period.\\n\\n" : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -6616,6 +7549,12 @@
     "Sepsis (Puerperal/postabortal)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पूति\nप्(रासूतिक/प्रसवोत्तर)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6624,13 +7563,19 @@
         }
       }
     },
-    "Severe liver disease (including jaundice)" : {
+    "Severe liver disease (including jaundice)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "લિવરની ગંભીર બીમારી (કમળા સહિત)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गंभीर यकृत रोग (पीलिया सहित)"
           }
         }
       }
@@ -6642,6 +7587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "છોડી દો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "छोड़कर आगे बढ़ें"
           }
         },
         "te-IN" : {
@@ -6656,6 +7607,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SLE"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SLE"
@@ -6729,6 +7686,12 @@
     "Smoking (>35 years)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "धूम्रपान\n>35 वर्ष"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6789,6 +7752,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "શરૂ કરો"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आरंभ करें"
           }
         },
         "te-IN" : {
@@ -6857,6 +7826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્ટાવુડાઇન"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्टावुडिन"
           }
         }
       }
@@ -6944,6 +7919,12 @@
     "STIs/RTIs<sup><small><small>F</small></small></sup> (Non-purulent discharge & individual with high risk)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STIs/RTIs<sup><small><small>F</small></small></sup> (गैर-पस आस्राव (नॉन प्यूरुलेंट डिस्चार्ज) और उच्च जोखिम वाले व्यक्ति)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6955,6 +7936,12 @@
     "STIs/RTIs<sup><small><small>F</small></small></sup> (Purulent discharge)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STIs/RTIs<sup><small><small>F</small></small></sup> (पस आस्राव (पुरुलेंट डिस्चार्ज))"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6986,7 +7973,7 @@
         }
       }
     },
-    "Superficial venous disorders, including varicose veins" : {
+    "Superficial venous disorders, including varicose veins." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -6994,16 +7981,28 @@
             "state" : "translated",
             "value" : "સુપરફિશિયલ વીનસ ડિસઑર્ડર્સ, વેરિકોસ વેઇન્સ સહિત"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वैरिकोज वेन्स (नसें) सहित, सतही शिरापरक विकार"
+          }
         }
       }
     },
-    "Surgery without prolonged immobilization" : {
+    "Surgery without prolonged immobilization." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "લાંબા સમય સુધી હલનચલન કર્યા વગર સર્જરી"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बिना दीर्घकालीन स्थिरीकरण के शल्यचिकित्सा"
           }
         }
       }
@@ -7031,13 +8030,19 @@
         }
       }
     },
-    "Taking antibiotics (excluding rifampicin/rifabutin)" : {
+    "Taking antibiotics (excluding rifampicin/rifabutin)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "એન્ટિબાયોટિક્સ લઈ રહ્યાં હો (રિફામપિસિન/રિફાબ્યુટિન સિવાય)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एंटीबायोटिक्स लेना (रिफैम्पिसिन/रिफैब्यूटिन को छोड़कर)"
           }
         }
       }
@@ -7068,6 +8073,12 @@
     "TB (On rifampicin rifabutin)" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "टीबी (रिफैम्पिसिन रिफैब्यूटिन पर)"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7080,6 +8091,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "TDF"
@@ -7111,6 +8128,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ટેનોફોવિર"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "टेनोफोविर"
           }
         }
       }
@@ -7150,6 +8173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રથમ ઇન્જેક્શન ગર્ભપાત પછી તરત આપી શકાય છે અથવા તો ગર્ભપાતની પ્રક્રિયા પૂરી થયાંનાં 7 દિવસની અંદર પણ આપી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पहला इन्जेक्शन गर्भपात पूरा होने के बाद तुरंत या 7 दिनों के भीतर दिया जा सकता है। किसी भी अतिरिक्त गर्भनिरोधक सुरक्षा की आवश्यकता नहीं है।"
           }
         }
       }
@@ -7197,6 +8226,12 @@
             "value" : "અહીં કરવામાં આવેલી ભલામણો ઓળખી કાઢવામાં આવેલી સ્થિતિ(ઓ) પર આધાર રાખીને ગર્ભનિરોધક પદ્ધતિ માટેની પાત્રતાઓને દર્શાવે છે"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अनुशंसाएँ पहचानी गई स्थितियों के आधार पर गर्भनिरोधक विधियों की पात्रता को दर्शाती हैं "
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7212,6 +8247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "અહીં કરવામાં આવેલી ભલામણો ઓળખી કાઢવામાં આવેલી સ્થિતિ(ઓ) પર આધાર રાખીને ગર્ભનિરોધક પદ્ધતિ માટેની પાત્રતાઓને દર્શાવે છે  "
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अनुशंसाएँ पहचानी गई स्थितियों के आधार पर गर्भनिरोधक विधियों की पात्रता को दर्शाती हैं "
           }
         }
       }
@@ -7310,6 +8351,12 @@
             "value" : "આ ચાર્ટ સર્વસામાન્ય રીતે ઉપયોગમાં લેવાતી ગર્ભનિરોધ પદ્ધતિઓના ચોક્કસ ઉપયોગની તુલનાત્મક અસરકારકતાને દર્શાવે છે  "
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह चार्ट आमतौर पर उपयोग में लाए जाने वाली गर्भनिरोधक विधियों के सामान्य उपयोग की तुलनात्मक प्रभाविता को दर्शाता है"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7318,13 +8365,19 @@
         }
       }
     },
-    "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation. The eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception." : {
+    "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation.\\n\\nThe eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "આ પદ્ધતિ ગર્ભાવસ્થાને નિવારવા માટે અત્યંત અસરકારક છે. ઇમર્જન્સીમાં ઉપયોગમાં લેવાની ગર્ભનિરોધક તરીકે તેનો ઉપયોગ અસુરક્ષિત સમાગમ કર્યાના 5 દિવસની અંદર કરવાનો હોય છે. જોકે, જ્યારે અંડોત્સર્ગનો અંદાજ લગાવી શકાય છે, ત્યારે જો જરૂર જણાય તો જાતીય સમાગમના 5 દિવસ પછી પણ Cu-IUDને દાખલ કરી શકાય છે, જોકે, Cu-IUDને અંડોત્સર્ગના 5 દિવસ પછી દાખલ કરેલું હોવું જોઇએ નહીં. જનરલ Cu-IUDને દાખલ કરવા માટેના પાત્રતાના માપદંડો ઇમર્જન્સીમાં ઉપયોગમાં લેવાની ગર્ભનિરોધક તરીકે Cu-IUDsને દાખલ કરવા માટે પણ લાગુ થાય છે."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गर्भावस्था को रोकने के लिए यह विधि अत्यधिक प्रभावी है। इसे असुरक्षित संभोग के 5 दिनों के अंदर आपातकालीन गर्भनिरोधक के रूप में उपयोग किया जा सकता है। हालाँकि, जब स्त्रीबीजजनन (ओव्यूलेशन) के समय का अनुमान लगाया जा सकता है, तो Cu-IUD को संभोग के 5 दिनों के बाद अन्तर्निविष्ट किया जा सकता है, यदि आवश्यक हो, जबकि अंतर्वेशन ओव्यूलेशन के 5 दिनों से अधिक बाद न हो।सामान्य Cu-IUD के अंतर्वेशन के लिए पात्रता मानदंड जो आपातकालीन गर्भनिरोधक के रूप में Cu-IUD के अंतर्वेशन के लिए भी लागू होते हैं।"
           }
         }
       }
@@ -7336,6 +8389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "થાઇરોડનો વિકાર"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "थायराइड विकार"
           }
         }
       }
@@ -7357,13 +8416,19 @@
         }
       }
     },
-    "To check if migraine has aura, ask “Do you see a bright spot in your vision before bad headaches?” If condition developed while on POP DMPA, NET-EN, Implants, LNG-IUD, switch to non-hormonal method" : {
+    "To check if migraine has aura, ask “Do you see a bright spot in your vision before bad headaches?” If condition developed while on POP DMPA, NET-EN, Implants, LNG-IUD, switch to non-hormonal method." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "માઇગ્રેન ઑરા ધરાવે છે કે નહીં તે ચકાસવા માટે પૂછો કે, ‘શું તમને માથામાં ભારે દુઃખાવો શરૂ થાય તે પહેલાં તમારી દ્રષ્ટિમાં ચમકતો ધબ્બો દેખાય છે?’ જો POP DMPA, NET-EN, ઇમ્પાલન્ટ્સ, LNG-IUD પર હો ત્યારે આ પરિસ્થિતિ વિકસે તો નોન-હોર્મોનલ પદ્ધતિ પર ફેરવાઈ જાઓ."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह जांचने के लिए कि क्या आधासीसी आभा (माइग्रेन  ऑरा) है, पूछें ‘‘क्या आपको गंभीर सिरदर्द से पहले अपनी दृष्टि में कोई चमकीला धब्बा दिखाई देता है?’’ यदि स्थिति POP DMPA, NET-EN,  इम्प्लांट्स, LNG-IUD,  के दौरान विकसित होती है, तो गैर-हार्मोनल विधि अपनाएं।"
           }
         }
       }
@@ -7385,13 +8450,19 @@
         }
       }
     },
-    "Tuberculosis (non-pelvic)" : {
+    "Tuberculosis (non-pelvic)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ટ્યુબરક્યુલોસિસ (નોન-પેલ્વિક)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "क्षय रोग (गैर-श्रोणि)"
           }
         }
       }
@@ -7404,16 +8475,28 @@
             "state" : "translated",
             "value" : "યુલિપ્રિસ્ટાલ એસીટેટ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यूलिप्रिस्टल एसीटेट"
+          }
         }
       }
     },
-    "Uncomplicated valvular heart disease" : {
+    "Uncomplicated valvular heart disease." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "જટિલ ના હોય તેવો વાલ્વુલર હાર્ટ ડીસીઝ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जटिलतारहित वाल्वुलर हृदय रोग"
           }
         }
       }
@@ -7445,6 +8528,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UPA"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UPA"
@@ -7525,12 +8614,24 @@
             "state" : "translated",
             "value" : "જ્યાં સુધી અન્ય વધુ યોગ્ય પદ્ધતિઓ ઉપલબ્ધ ના થાય કે સ્વીકાર્ય ના હોય ત્યાં સુધી સામાન્ય રીતે આ પદ્ધતિનો ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आमतौर पर विधि का उपयोग अनुशंसित नहीं किया जाता है "
+          }
         }
       }
     },
     "Use of the method not usually recommended unless other, more and appropriate methods are not available or acceptable" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जब तक कि अन्य, अधिक और उपयुक्त विधियां उपलब्ध या स्वीकार्य नहीं हों आमतौर पर विधि का उपयोग अनुशंसित नहीं किया जाता है "
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7570,10 +8671,16 @@
             "state" : "translated",
             "value" : "પુરુષ નસબંધીઃ પ્રથમ 3 મહિના માટે અન્ય કોઈ પદ્ધતિનો ઉપયોગ કરો."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पुरुष नसबंदी (वासेक्टोमी) : पहले 3 महीनों के लिए दूसरी विधि का उपयोग करें।"
+          }
         }
       }
     },
-    "Venous thromboembolism (VTE) family history" : {
+    "Venous thromboembolism (VTE) family history." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
@@ -7581,16 +8688,28 @@
             "state" : "translated",
             "value" : "વીનસ થ્રોમ્બોએમ્બોલિઝમ (VTE)ની કૌટુંબિક પૂર્વવિગત"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शिरापरक घनास्र-अंत:शल्यता (वेनोज थ्रोम्बोएम्बोलिज्म) (VTE)  पारिवारिक इतिहास"
+          }
         }
       }
     },
-    "Viral hepatitis (carrier or chronic)" : {
+    "Viral hepatitis (carrier or chronic)." : {
       "extractionState" : "manual",
       "localizations" : {
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "વાઇરલ હીપેટાઇટિસ (કૅરિયર અથવા ક્રોનિક)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वायरल हेपेटाइटिस (वाहक या दीर्घकालिक)"
           }
         }
       }
@@ -7773,6 +8892,12 @@
             "state" : "translated",
             "value" : "વિડ્રોઅલ"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "निकालना"
+          }
         }
       }
     },
@@ -7783,6 +8908,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "વિડ્રોઅલ, સ્પર્મિસાઇડ્સઃ તમે જ્યારે પણ જાતીય સમાગમ કરો ત્યારે દર વખતે તેનો યોગ્ય રીતે ઉપયોગ કરો.\nકોષ્ટકમાં દર્શાવવામાં આવેલી સંખ્યાઓ ગર્ભાવસ્થાનો ચોક્કસ રીતે ઉપયોગ કર્યાના પ્રથમ વર્ષ દરમિયાન અનિચ્છિત ગર્ભાવસ્થાનો સામનો કરી રહેલી સ્ત્રીઓની ટકાવારીને સૂચવે છે. સ્રોતઃ ટ્રસેલ જે., 2011\nઅહીં દર્શાવવામાં આવેલી સંખ્યાઓ કોઈ ચોક્કસ પદ્ધતિનો વિશિષ્ટ રીતે ઉપયોગ કરવાના પ્રથમ વર્ષ દરમિયાન અનિચ્છિત ગર્ભાવસ્થાનો સામનો કરી રહેલી સ્ત્રીઓની ટકાવારીને દર્શાવે છે\n\n"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "22% निकालना 28%  शुक्राणुनाशक (स्पर्मिसाइड) \nनिकालना, शुक्राणुनाशक: हर बार यौन संबंध बनाते समय सही ढंग से उपयोग करें। कोष्ठक में संख्याएं गर्भनिरोधक के विशिष्ट उपयोग के प्रथम वर्ष के दौरान अनपेक्षित गर्भावस्था का अनुभव करने वाली महिलाओं के % को दर्शाती हैं। स्रोत : ट्रसेल जे., 2011 विधि के विशिष्ट उपयोग के प्रथम वर्ष के दौरान अनपेक्षित गर्भावस्था का अनुभव करने वाली महिलाओं का % संख्याएं दर्शाती हैं।"
           }
         }
       }
@@ -7926,6 +9057,12 @@
     "Yes" : {
       "extractionState" : "manual",
       "localizations" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हाँ"
+          }
+        },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7941,6 +9078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઝિડોવુડાઇન"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जिडोवुडिन"
           }
         }
       }
