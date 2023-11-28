@@ -11,7 +11,7 @@ import Foundation
 
 struct CombinedHarmonal {
     
-    static let content_1 = "Reduces risk of endometrial and ovarian cancer.\n".localizeString()
+    static let content_1 = "Reduces risk of endometrial and ovarian cancer.".localizeString()
     
     static let title_2 = "How do you use CHC?".localizeString()
     
@@ -47,8 +47,7 @@ struct CombinedHarmonal {
     
     static let title_18 = "Post-abortion".localizeString()
     
-    static let content_19 = "CHC can be initiated immediately post-abortion. No additional contraceptive protection is needed.\n\n\n".localizeString()
-  
+    static let content_19 = "CHC can be initiated immediately post-abortion. No additional contraceptive protection is needed.".localizeString()
 }
 
 
@@ -90,9 +89,9 @@ struct NonHarmonal{
     
     static let content_18 = "Centchroman can be safely taken by women just after abortion, miscarriage or ectopic pregnancy.".localizeString()
     
-    static let content_19 = "It can be initiated within 7 days of completion of abortion without a need for any backup method.\n\n".localizeString()
-
-    }
+    static let content_19 = "It can be initiated within 7 days of completion of abortion without a need for any backup method.".localizeString()
+    
+}
 
 struct ProgestonOnlyPills{
     
@@ -108,7 +107,7 @@ struct ProgestonOnlyPills{
     
     static let content_6 = "More than 5 days since the start of menstrual bleeding: POPs can be initiated if it is reasonably certain that the women is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 2 days.".localizeString()
     
-   static let title_7 = "Amenorrhoeic".localizeString()
+    static let title_7 = "Amenorrhoeic".localizeString()
     
     static let content_8 = "POPs can be initiated at any time if it is reasonably certain that the women is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 2 days.".localizeString()
     
@@ -124,8 +123,8 @@ struct ProgestonOnlyPills{
     
     static let content_14 = "POPs can be initiated immediately or within 7 days of completion of abortion. No additional contraceptive protection is needed.".localizeString()
     
-    static let content_15 = "* It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period.\n\n".localizeString()
-
+    static let content_15 = "* It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period.".localizeString()
+    
     
 }
 
@@ -162,9 +161,9 @@ struct ProgestogenOnlyInjectables{
     static let content_29 = "If her menstrual cycles have returned, she can have the first injection as advised for other women having menstrual cycles.".localizeString()
     static let title_30 = "Post-abortion".localizeString()
     static let content_31 = "The first injection can be given immediately post-abortion or within 7 days of completion of abortion. No additional contraceptive protection is needed.".localizeString()
-    static let content_32 = "* However, for programmatic reasons, some contraceptive methods may be provided during this period.\n\n".localizeString()
-
-            
+    static let content_32 = "* However, for programmatic reasons, some contraceptive methods may be provided during this period.".localizeString()
+    
+    
 }
 
 struct Implants{
@@ -209,12 +208,12 @@ struct Implants{
     
     static let content_19 = "The implant can be inserted immediately post-abortion. No additional contraceptive protection is needed.".localizeString()
     
-    static let content_20 = "* It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period.\n\n".localizeString()
-
+    static let content_20 = "* It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period.".localizeString()
+    
 }
 
 struct LevonorgestrelIUD{
-   
+    
     static let content_1 = "Decreases amount of blood lost with menstruation over time; Reduces menstrual cramps and symptoms of endometriosis; amenorrhea (no menstrual bleeding) in a group of users.".localizeString()
     
     static let content_2 = "IUDs do not protect against sexually transmitted infections (STIs), including HIV. If there is a risk of STI/HIV, the correct and consistent use of condoms is recommended. When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Female condoms are effective and safe, but are not used as widely by national programmes as male condoms.".localizeString()
@@ -253,8 +252,8 @@ struct LevonorgestrelIUD{
     
     static let content_19 = "If LNG-IUD is inserted more than seven days after first or second trimester abortion, a back up method will be required for 7 days.".localizeString()
     
-    static let content_20 = "An IUD should not be inserted immediately following septic abortion (MEC category 4).\n\n".localizeString()
-
+    static let content_20 = "An IUD should not be inserted immediately following septic abortion (MEC category 4).".localizeString()
+    
 }
 
 struct CopperIntrauterineDevice{
@@ -293,7 +292,7 @@ struct CopperIntrauterineDevice{
     
     static let content_17 = "An IUD can be inserted at the woman’s convenience if it is reasonably certain that she is not pregnant. No additional contraceptive protection is needed.".localizeString()
     
-    static let content_18 = "An IUD should not be inserted immediately following septic abortion (MEC category 4).\n\n".localizeString()
+    static let content_18 = "An IUD should not be inserted immediately following septic abortion (MEC category 4).".localizeString()
     
 }
 
@@ -317,11 +316,11 @@ struct BarrierMethods {
     
     static let content_9 = "Women with conditions that make pregnancy an unacceptable risk should be advised that barrier methods for pregnancy prevention may not be appropriate for those who cannot use them consistently and correctly because of their relatively higher typical-use failure rates.".localizeString()
     
-    static let content_10 = "If there is a risk of STI/HIV, the correct and consistent use of condoms is recommended. When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Female condoms are effective and safe, but are not used as widely by national programmes as male condoms.\n\n".localizeString()
+    static let content_10 = "If there is a risk of STI/HIV, the correct and consistent use of condoms is recommended. When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Female condoms are effective and safe, but are not used as widely by national programmes as male condoms.".localizeString()
 }
 
 struct LactationalAmenorrheaMethod {
-       
+    
     static let title_1 = "Effectiveness to prevent pregnancy".localizeString()
     
     static let content_2 = "99% with correct and consistent use.".localizeString()
@@ -338,9 +337,9 @@ struct LactationalAmenorrheaMethod {
     
     static let content_8 = "2. Fully or nearly fully breastfeeding.".localizeString()
     
-    static let content_9 = "3. Less than six months postpartum.\n\n".localizeString()
-
-   }
+    static let content_9 = "3. Less than six months postpartum.".localizeString()
+    
+}
 
 
 
@@ -358,14 +357,14 @@ struct FemaleSterialization {
     
     static let content_6 = "Sterilization procedures should only be performed by well-trained providers in appropriate clinical settings using proper equipment and supplies. Appropriate service-delivery guidelines, including infection-prevention protocols, should be followed to maximize client safety.".localizeString()
     
-    static let content_7 = "Sterilization does not protect against sexually transmitted infections (STIs), including HIV. If there is a risk of STI/HIV, the correct and consistent use of condoms is recommended. When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Female condoms are effective and safe, but are not used as widely by national programmes as male condoms.\n\n".localizeString()
+    static let content_7 = "Sterilization does not protect against sexually transmitted infections (STIs), including HIV. If there is a risk of STI/HIV, the correct and consistent use of condoms is recommended. When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Female condoms are effective and safe, but are not used as widely by national programmes as male condoms.".localizeString()
     
-   }
+}
 
 
 struct MaleSterilization {
-      
-    static let content_1 = "\n 3 months delay in taking effect while stored sperm is still present; does not affect male sexual performance; voluntary and informed choice is essential.".localizeString()
+    
+    static let content_1 = "3 months delay in taking effect while stored sperm is still present; does not affect male sexual performance; voluntary and informed choice is essential.".localizeString()
     
     static let content_2 = "Given that sterilization is a surgical procedure that is intended to be permanent, special care must be taken to assure that every client makes a voluntary, informed choice of the method.".localizeString()
     
@@ -383,12 +382,12 @@ struct MaleSterilization {
     
     static let content_9 = "During this period, he should resume sexual activity, but he or his partner will need to use additional contraceptive protection.".localizeString()
     
-    static let content_10 = "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period.\n\n".localizeString()
-
-   }
+    static let content_10 = "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period.".localizeString()
+    
+}
 
 struct AboutTheWheel {
-
+    
     static let content_1 = "This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.".localizeString()
     
     static let content_2 = "The wheel includes recommendations on initiating use of seven common types of contraceptives :".localizeString()
@@ -408,11 +407,11 @@ struct AboutTheWheel {
     static let content_9 = "Levonorgestrel Intra Uterine Device (LNG-IUD).".localizeString()
     
     static let content_10 = "The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the <i><strong> Medical Eligibility Criteria for Contraceptive Use</strong></i> guidelines.".localizeString()
-
+    
 }
 
 struct NavigationList {
-
+    
     static let SubListTitle1 = "About the Wheel".localizeString()
     
     static let SubListTitle2 = "How to Use the Wheel".localizeString()
@@ -429,7 +428,7 @@ struct NavigationList {
     
     static let Title8 = "Feedback".localizeString()
     
-       }
+}
 
 
 struct InformationList {
@@ -473,7 +472,7 @@ struct InformationList {
     static let Points10 = "Rape.".localizeString()
     
     static let Value10 = "1".localizeString()
-
+    
     static let additionSubPoint11 = "COC".localizeString()
     
     static let AdditionSubPointName11 = "Combined oral contraceptives".localizeString()
@@ -481,7 +480,7 @@ struct InformationList {
     static let additionSubPoint12 = "LNG".localizeString()
     
     static let AdditionSubPointName12 = "Levonorgestrel".localizeString()
-
+    
     static let Points13 = "Pregnancy.".localizeString()
     
     static let Value13 = "NA".localizeString()
@@ -521,13 +520,13 @@ struct InformationList {
     static let Points22 = "Rape.".localizeString()
     
     static let Value22 = "1".localizeString()
-
+    
     static let additionSubPoint23 = "UPA".localizeString()
     
     static let AdditionSubPointName23 = "Ulipristal acetate".localizeString()
-
-
-    static let Points24 = "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation.\n\n The eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception.".localizeString()
+    
+    
+    static let Points24 = "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation.<br><br>The eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception.".localizeString()
     
     static let Value24 = "NA".localizeString()
     
@@ -542,21 +541,21 @@ struct InformationList {
     static let Points27 = "Rape (low risk of STI).".localizeString()
     
     static let Value27 = "1".localizeString()
-
+    
     static let additionSubPoint28 = "Cu-IUD".localizeString()
     
     static let AdditionSubPointName28 = "Copper intrauterine device".localizeString()
-
+    
     static let additionContent29 = "Based on the selected medical condition(s), these are the safety ratings for contraceptive methods. Click on the arrow to review safety ratings for each condition alone.".localizeString()
-
+    
     static let AdditionalTitle30 = "<strong>Emergency Contraception</strong>".localizeString()
-
-
-
+    
+    
+    
     static let str31 = "Based on the selected medical condition(s), these are the safety ratings for contraceptive methods. Click on the arrow to review safety ratings for each condition alone.".localizeString()
     
     static let AdditionalTitle32 = "<strong>Effectiveness of methods</strong>".localizeString()
-
+    
     static let Points33 = "ABC".localizeString()
     
     static let Value33 = "Abacavir".localizeString()
@@ -574,9 +573,9 @@ struct InformationList {
     static let Value38 = "Emtricitabine".localizeString()
     static let Points39 = "D4T".localizeString()
     static let Value39 = "Stavudine".localizeString()
-
+    
     static let additionSubPoint40 = "Nucleoside reverse transcriptase inhibitors (NRTIs)".localizeString()
-
+    
     static let Points41 = "EFV".localizeString()
     
     static let Value41 = "Efavirenz".localizeString()
@@ -592,10 +591,10 @@ struct InformationList {
     static let Points44 = "RPV".localizeString()
     
     static let Value44 = "Rilpirivine".localizeString()
-
+    
     static let additionSubPoint45 = "Non-nucleosides reverse transcriptase inhibitors (NNRTIs)".localizeString()
     
-
+    
     static let Points46 = "ATV/r".localizeString()
     static let Value46 = "Ritonavir-boosted atazanavir".localizeString()
     static let Points47 = "LPV/r".localizeString()
@@ -604,23 +603,23 @@ struct InformationList {
     static let Value48 = "Ritonavir-boosted darunavir".localizeString()
     static let Points49 = "RTV".localizeString()
     static let Value49 = "Ritonavir".localizeString()
-
+    
     static let additionSubPoint50 = "Protease inhibitors (PIs)".localizeString()
-
+    
     static let Points51 = "RAL".localizeString()
     static let Value51 = "Raltegravir".localizeString()
-
+    
     static let additionSubPoint52 = "Integrase inhibitors".localizeString()
-
+    
     static let additionalContent53 = "Based on the selected medical condition(s), these are the safety ratings for contraceptive methods. Click on the arrow to review safety ratings for each condition alone.".localizeString()
     static let additionalTitle53 = "<Strong>Antiretroviral medications and abbreviations</Strong>".localizeString()
-
-   }
+    
+}
 
 
 
 struct ConditionList{
-
+    
     static let Points1 = "Benign breast disease or undiagnosed mass.".localizeString()
     static let Points2 = "Benign ovarian tumours, including cysts.".localizeString()
     static let Points3 = "Dysmenorrhoea.".localizeString()
@@ -632,10 +631,9 @@ struct ConditionList{
     static let Points9 = "Past pelvic inflammatory disease.".localizeString()
     static let Points10 = "Post-abortion (no sepsis).".localizeString()
     static let Points11 = "Postpartum ≥ 6 months.".localizeString()
-    static let Points12 = "\n"+"● Benign breast disease or undiagnosed mass.\n\n ● Benign ovarian tumours, including cysts.\n\n ● Dysmenorrhoea.\n\n ● Endometriosis.\n\n ● History of gestational diabetes.\n\n ● History of high blood pressure during pregnancy.\n\n ● History of pelvic surgery, including caesarean delivery.\n\n ● Past ectopic pregnancy.\n\n ● Past pelvic inflammatory disease.\n\n ● Post-abortion (no sepsis).\n\n ● Postpartum ≥ 6 months.\n\n".localizeString()
-    
-    static let additionSubPoint13 = "Reproductive Conditions".localizeString()
 
+    static let additionSubPoint13 = "Reproductive Conditions".localizeString()
+    
     static let Points14 = "Depression.".localizeString()
     static let Points15 = "Epilepsy.".localizeString()
     static let Points16 = "HIV asymptomatic or mild clinical disease (WHO Stage 1 or 2).".localizeString()
@@ -648,11 +646,9 @@ struct ConditionList{
     static let Points23 = "Uncomplicated valvular heart disease.".localizeString()
     static let Points24 = "Viral hepatitis (carrier or chronic).".localizeString()
 
-    static let medicalCondition25 = "\n ● Depression.\n\n ● Epilepsy.\n\n ● HIV asymptomatic or mild clinical disease (WHO Stage 1 or 2).\n\n ● Iron-deficiency anaemia, sickle-cell disease and thalassaemia.\n\n ● Malaria.\n\n ● Mild cirrhosis.\n\n ● Superficial venous disorders, including varicose veins.\n\n ● Thyroid disorders.\n\n ● Tuberculosis (non-pelvic).\n\n ● Uncomplicated valvular heart disease.\n\n● Viral hepatitis (carrier or chronic).".localizeString()
-    
     static let additionSubPoint26 = "Medical Conditions".localizeString()
-
-
+    
+    
     static let Points27 = "Adolescents.".localizeString()
     static let Points28 = "Breast cancer family history.".localizeString()
     static let Points29 = "Venous thromboembolism (VTE) family history.".localizeString()
@@ -660,22 +656,20 @@ struct ConditionList{
     static let Points31 = "Surgery without prolonged immobilization.".localizeString()
     static let Points32 = "Taking antibiotics (excluding rifampicin/rifabutin).".localizeString()
     
-    static let others33 = "\n ● Adolescents.\n\n ● Breast cancer family history.\n\n ● Venous thromboembolism (VTE) family history.\n\n ● High risk for HIV.\n\n ● Surgery without prolonged immobilization.\n\n ● Taking antibiotics (excluding rifampicin/rifabutin).".localizeString()
-    
     static let additionalSubPoint34 = "Others".localizeString()
-
+    
     static let Points35 = "EC pill is Category 1 for all physiological and medical conditions and Category 2 for women with h/o severe cardiovascular disease, migraine and severe liver disease.".localizeString()
-    static let ecpill36 = "\n"+"EC pill is Category 1 for all physiological and medical conditions and Category 2 for women with h/o severe cardiovascular disease, migraine and severe liver disease.".localizeString()
+    static let ecpill36 = "EC pill is Category 1 for all physiological and medical conditions and Category 2 for women with h/o severe cardiovascular disease, migraine and severe liver disease.".localizeString()
     static let additionSubPoint37 = "EC Pill".localizeString()
-
+    
     static let additionalContent38 = "Conditions that are Category 1 or 2 for All Methods (Method can be Used)".localizeString()
     static let additionalContent39 = "Notes to the Conditions".localizeString()
-    static let warningECondMessage = "Can not select more than 3 items"
+    static let warningECondMessage = "Can not select more than 3 items".localizeString()
     
-    static let continuePrefBtn = "CONTINUE TO PREFERENCES"
-    static let seeRecomButton = "SEE RECOMMENDATIONS"
-
-    }
+    static let continuePrefBtn = "CONTINUE TO PREFERENCES".localizeString()
+    static let seeRecomButton = "SEE RECOMMENDATIONS".localizeString()
+    
+}
 
 
 struct ContraceptiveList{
@@ -698,7 +692,7 @@ struct ContraceptiveList{
     static let Desc1 = "Daily pill, weekly patch, or monthly ring, containing two hormones (estrogen and progestogen).".localizeString()
     static let HowItWork1 = "Prevents the release of eggs from the ovaries (ovulation).".localizeString()
     static let ProgressVal1 = "92".localizeString()
-
+    
     static let title2 = "Non-hormonal Contraceptives (Centchroman)".localizeString()
     static let IssueName2 = "Weekly pill free from hormone and contains Ormeloxifene".localizeString()
     static let IssueName02 = "Client controlled".localizeString()
@@ -706,23 +700,23 @@ struct ContraceptiveList{
     static let Desc2 = "It is a non-steroidal, non-hormonal once-a-week oral contraceptive pill.".localizeString()
     static let HowItWork2 = "Prevents implantation of blastocyst in endometrium by creating asynchrony between fertilized ovum and endometrial bed.".localizeString()
     static let ProgressVal2 = "<strong>1–2 pregnancy</strong> per 100 women with perfect use".localizeString()
-
-
+    
+    
     static let title3 = "Progestogen-only pills".localizeString()
     static let IssueName3 = "Client controlled".localizeString()
     static let ProgressTitle3 = "Effectiveness to prevent pregnancy".localizeString()
     static let Desc3 = "Contains only progestogen hormone, not estrogen.".localizeString()
     static let HowItWork3 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation.".localizeString()
     static let ProgressVal3 = "90".localizeString()
-
+    
     static let title4 = "Progestogen-only injectables".localizeString()
     static let IssueName4 = "Privacy".localizeString()
     static let ProgressTitle4 = "Effectiveness to prevent pregnancy".localizeString()
     static let Desc4 = "Injected into the muscle or under the skin every 2 or 3 months, depending on the product.".localizeString()
     static let HowItWork4 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation.".localizeString()
     static let ProgressVal4 = "97".localizeString()
-
-
+    
+    
     static let title5 = "Implants".localizeString()
     static let IssueName5 = "Highly effective".localizeString()
     static let IssueName05 = "Long Lasting".localizeString()
@@ -730,8 +724,8 @@ struct ContraceptiveList{
     static let Desc5 = "Small, flexible rods or capsules placed under the skin of the upper arm; contains progestogen hormone only.".localizeString()
     static let HowItWork5 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation.".localizeString()
     static let ProgressVal5 = ">99".localizeString()
-
-
+    
+    
     static let title6 = "Levonorgestrel IUD".localizeString()
     static let IssueName6 = "Highly effective".localizeString()
     static let IssueName06 = "Privacy".localizeString()
@@ -740,8 +734,8 @@ struct ContraceptiveList{
     static let Desc6 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day.".localizeString()
     static let HowItWork6 = "Thickens cervical mucous to block sperm and egg from meeting.".localizeString()
     static let ProgressVal6 = ">99".localizeString()
-
-
+    
+    
     static let title7 =  "Copper intrauterine device".localizeString()
     static let IssueName7 = "Highly effective".localizeString()
     static let IssueName07 = "No hormone".localizeString()
@@ -750,25 +744,28 @@ struct ContraceptiveList{
     static let Desc7 =  "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus.".localizeString()
     static let HowItWork7 =  "Copper component damages sperm and prevents it from meeting the egg.".localizeString()
     static let ProgressVal7 =  ">99".localizeString()
-
-
+    
+    
     static let title8 = "Barrier methods".localizeString()
     static let IssueName8 = "STI prevention".localizeString()
     static let IssueName08 = "No hormone".localizeString()
     static let ProgressTitle8 = "Effectiveness to prevent pregnancy".localizeString()
-    static let Desc8 = "Male condoms\nFemale condoms\nDiaphragm\nSpermicide\n".localizeString()
+    static let Desc8_1 = "Male condoms".localizeString()
+    static let Desc8_2 = "Female condoms".localizeString()
+    static let Desc8_3 = "Diaphragm".localizeString()
+    static let Desc8_4 = "Spermicide".localizeString()
     static let HowItWork8 = "Forms a barrier to prevent sperm and egg from meeting.".localizeString()
     static let ProgressVal8 = "85".localizeString()
-
-
+    
+    
     static let title9 =  "Lactational amenorrhea method".localizeString()
     static let IssueName9 = "No hormone".localizeString()
     static let ProgressTitle9 = "Effectiveness to prevent pregnancy".localizeString()
     static let Desc9 = "Temporary contraception for new mothers whose monthly bleeding has not returned; requires exclusive or full breastfeeding day and night of an infant less than 6 months old.".localizeString()
     static let HowItWork9 = "Prevents the release of eggs from the ovaries (ovulation).".localizeString()
     static let ProgressVal9 =  "98".localizeString()
-
-
+    
+    
     static let title10 = "Female sterilization".localizeString()
     static let IssueName10 = "Highly effective".localizeString()
     static let IssueName010 = "No hormone".localizeString()
@@ -777,9 +774,9 @@ struct ContraceptiveList{
     static let Desc10 = "Permanent contraception to block or cut the fallopian tubes.".localizeString()
     static let HowItWork10 = "Eggs are blocked from meeting sperm.".localizeString()
     static let ProgressVal10 = ">99".localizeString()
-
-
-    static let title11 = "Male sterilization\n(vasectomy)".localizeString()
+    
+    
+    static let title11 = "Male sterilization (vasectomy)".localizeString()
     static let IssueName11 = "Highly effective".localizeString()
     static let IssueName011 = "No hormone".localizeString()
     static let IssueName0011 = "Long lasting".localizeString()
@@ -787,46 +784,46 @@ struct ContraceptiveList{
     static let Desc11 = "Permanent contraception to block or cut the vas deferens tubes that carry sperm from the testicles.".localizeString()
     static let HowItWork11 = "Keeps sperm out of ejaculated semen.".localizeString()
     static let ProgressVal11 = "99".localizeString()
-
-    }
+    
+}
 
 
 struct PreferencesList{
     
-    static let icon1 = "ic_highly_effective"
-    static let title1 = "Highly effective"
-    static let content1 = "A method that is more than 99% effective at preventing pregnancy in typical use."
-    static let icon2 = "ic_sti_prevention"
-    static let title2 = "STI prevention"
-    static let content2 = "A method that prevent sexually transmitted infections along with preventing pregnancy."
-    static let icon3 = "ic_no_harmones"
-    static let title3 = "No hormones"
-    static let content3 = "A method that does not contain any hormones."
-    static let icon4 = "ic_bleeding"
-    static let title4 = "Regular bleeding"
-    static let content4 = "A method that results in regularly scheduled monthly bleeding, similar to a period."
-    static let icon5 = "ic_privacy"
-    static let title5 = "Privacy"
-    static let content5 = "A method that is not able to detected by a partner or other people when in use."
-    static let icon6 = "ic_client_control"
-    static let title6 = "Client controlled"
-    static let content6 = "A method that a client can stop or start without seeing a medical provider."
-    static let icon7 = "ic_long_lasting"
-    static let title7 = "Long lasting"
-    static let content7 = "A method that can last a number of years."
+    static let icon1 = "ic_highly_effective".localizeString()
+    static let title1 = "Highly effective".localizeString()
+    static let content1 = "A method that is more than 99% effective at preventing pregnancy in typical use.".localizeString()
+    static let icon2 = "ic_sti_prevention".localizeString()
+    static let title2 = "STI prevention".localizeString()
+    static let content2 = "A method that prevent sexually transmitted infections along with preventing pregnancy.".localizeString()
+    static let icon3 = "ic_no_harmones".localizeString()
+    static let title3 = "No hormones".localizeString()
+    static let content3 = "A method that does not contain any hormones.".localizeString()
+    static let icon4 = "ic_bleeding".localizeString()
+    static let title4 = "Regular bleeding".localizeString()
+    static let content4 = "A method that results in regularly scheduled monthly bleeding, similar to a period.".localizeString()
+    static let icon5 = "ic_privacy".localizeString()
+    static let title5 = "Privacy".localizeString()
+    static let content5 = "A method that is not able to detected by a partner or other people when in use.".localizeString()
+    static let icon6 = "ic_client_control".localizeString()
+    static let title6 = "Client controlled".localizeString()
+    static let content6 = "A method that a client can stop or start without seeing a medical provider.".localizeString()
+    static let icon7 = "ic_long_lasting".localizeString()
+    static let title7 = "Long lasting".localizeString()
+    static let content7 = "A method that can last a number of years.".localizeString()
     
-    static let warningEPreMessage = "A maximum of 3 characteristics must be selected"
+    static let warningEPreMessage = "A maximum of 3 characteristics must be selected".localizeString()
 }
 
 struct InformationProgressList {
-    static let text1 = "Use the method in any circumstance"
-    static let text2 = "Generally use the method"
-    static let text3 = "Use of the method not usually recommended unless other, more and appropriate methods are not available or acceptable"
-    static let text4 = "Method NOT to be used"
+    static let text1 = "Use the method in any circumstance".localizeString()
+    static let text2 = "Generally use the method".localizeString()
+    static let text3 = "Use of the method not usually recommended unless other, more and appropriate methods are not available or acceptable".localizeString()
+    static let text4 = "Method NOT to be used".localizeString()
 }
 
 //struct effectiveNessOfMethod{
-//    
+//
 //    static let content1 = "<Strong>Implants, IUD, female sterilization:</Strong><br> After procedure, little or nothing to do or remember.<br><br>" + "<Strong>Vasectomy:</Strong> Use another method for first 3 months.".localizeString()
 //    static let imagePerc1_1 = "0.05%".localizeString()
 //    static let imageTitle1_1 = "Implants".localizeString()
@@ -836,7 +833,7 @@ struct InformationProgressList {
 //    static let imageTitle3_1 = "IUD".localizeString()
 //    static let imagePerc4_1 = "0.15%".localizeString()
 //    static let imageTitle4_1 = "Vasectomy".localizeString()
-//    
+//
 //    static let content1 = "<strong>Injectables:</strong> <br>Get repeat injections on time
 //    <br><br><strong>Lactational amenorrhea method, LAM (for 6 months):</strong> The baby is fully or near fullybreastfed
 //    <br><br>To maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breast-feeds is reduced, bottle feeds are introduced or the baby reaches 6 months of age.<br><br><strong>Pills:</strong> Take a hormonal pill daily and non-hormonal pills weekly (as scheduled).<br><br><strong>Patch, ring:</strong> Keep in place, change on time.".localizeString()
@@ -848,7 +845,7 @@ struct InformationProgressList {
 //    static let imageTitle3_2 = "LAM".localizeString()
 //    static let imagePerc4_2 = "9%".localizeString()
 //    static let imageTitle4_2 = "Pills".localizeString()
-//    
+//
 //    static let content1 = "<strong>Condoms, diaphragm:</strong><br>Use correctly every time you have sex.<br><br><strong>Fertility awareness methods:</strong> Abstain from sex or use condoms on fertile days. The Standard Days Method or Two Day Method can also be used.".localizeString()
 //    static let imagePerc1_3 = "18%".localizeString()
 //    static let imageTitle1_3 = "Male condoms".localizeString()
@@ -858,15 +855,15 @@ struct InformationProgressList {
 //    static let imageTitle3_3 = "Diaphragm".localizeString()
 //    static let imagePerc4_3 = "24%".localizeString()
 //    static let imageTitle4_3 = "Fertility awareness methods".localizeString()
-//    
+//
 //    static let content1 = "<strong>Withdrawal, spermicides:</strong> <br>Use correctly every time you have sex.<br><br> Numbers in parentheses indicate % of women experiencing an unintended pregnancy during the first year of typical use of contraception. Source: Trussell J., 2011.<br><br> Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method.".localizeString()
 //
 //    static let imagePerc1_4 = "22%".localizeString()
 //    static let imageTitle1_4 = "28%".localizeString()
 //    static let imagePerc2_4 = "Withdrawal".localizeString()
 //    static let imageTitle2_4 = "Spermicides".localizeString()
-// 
-//    
+//
+//
 //
 //}
 
@@ -991,10 +988,10 @@ struct EligibilityList {
 }
 
 struct Recommendation {
-    static let title = "Recommendation"
-    static let subTitle = "Based on the selected medical condition(s), these are the safety ratings for contraceptive methods."
-    static let backToCondition = "BACK TO CONDITIONS"
-    static let warningMessage = "No Contraceptive Choices found"
+    static let title = "Recommendation".localizeString()
+    static let subTitle = "Based on the selected medical condition(s), these are the safety ratings for contraceptive methods.".localizeString()
+    static let backToCondition = "BACK TO CONDITIONS".localizeString()
+    static let warningMessage = "No Contraceptive Choices found".localizeString()
 }
 
 struct NewString {

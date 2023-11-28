@@ -44,7 +44,7 @@ class DocumentTableViewCell: UITableViewCell {
             titleLabel.isHidden = cellData.title.isEmpty
         }
         if subTitleLabel != nil {
-            subTitleLabel.text = cellData.content
+            subTitleLabel.text = cellData.content.localizeString()
             subTitleLabel.sizeToFit()
             subTitleLabel.isHidden = cellData.content.isEmpty
         }

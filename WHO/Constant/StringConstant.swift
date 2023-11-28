@@ -9,8 +9,9 @@ import Foundation
 
 struct StringConstant {
     //en, as-IN, bn-IN, gu-IN, hi-IN, kn-IN, ml-IN, or-IN, pa-IN, ta-IN, te-IN,
-
     static let selectedLanguage = UserDefaults.standard.value(forKey: "SelectedLanguege") as? String ?? "en"
+    static let START = "START".localizeString()
+    static let SKIP = "SKIP".localizeString()
     static let launchTagLine = "Launch".localizeString()
     static let lower_wheel = "lower_wheel_en".localizeString()
     static let upper_wheel = "upper_wheel_en".localizeString()
@@ -21,6 +22,7 @@ struct StringConstant {
     static let EligibilityTool = "Eligibility Tool".localizeString()
     static let ContraceptiveChoices = "Contraceptive Choices".localizeString()
     static let Conditions = "Conditions".localizeString()
+    static let Preferences = "Preferences".localizeString()
     static let AdditionalInfo = "Additional Info".localizeString()
     static let Feedback = "Feedback".localizeString()
     static let SelectLanguage = "Select Language".localizeString()
@@ -42,99 +44,97 @@ struct StringConstant {
     
     static let combinedHarmonalText = "combinedHarmonalText".localizeString()
     
-    static let description = "Description"
-    static let howItsWork = "How it works"
+    static let description = "Description".localizeString()
+    static let howItsWork = "How it works".localizeString()
 }
 
 struct ConditionProgressString {
-    static let chc = "CHC"
-    static let combinepill = "Combined pills and combined injectables"
-    static let ageLess18 = "Age (Menarche to <18 Years)"
+    static let chc = "CHC".localizeString()
+    static let combinepill = "Combined pills and combined injectables".localizeString()
+    static let ageLess18 = "Age (Menarche to <18 Years)".localizeString()
 }
 
 struct ContraceptualChoicesString {
-    static let title_1 = "Combined hormonal contraceptives"
-    static let issueName1_1_Regularbleeding = "Regular bleeding"
-    static let issueName2_1 = "Client controlled"
-    static let progressTitle_1 = "Effectiveness to prevent pregnancy"
-    static let desc_1 = "Daily pill, weekly patch, or monthly ring, containing two hormones (estrogen and progestogen)."
-    static let howItswork_1 = "Prevents the release of eggs from the ovaries (ovulation)."
+    static let title_1 = "Combined hormonal contraceptives".localizeString()
+    static let issueName1_1_Regularbleeding = "Regular bleeding".localizeString()
+    static let issueName2_1 = "Client controlled".localizeString()
+    static let progressTitle_1 = "Effectiveness to prevent pregnancy".localizeString()
+    static let desc_1 = "Daily pill, weekly patch, or monthly ring, containing two hormones (estrogen and progestogen).".localizeString()
+    static let howItswork_1 = "Prevents the release of eggs from the ovaries (ovulation).".localizeString()
    
-    static let title_2 = "Non-hormonal Contraceptives (Centchroman)"
-    static let issueName1_2 = "Weekly pill free from hormone and contains Ormeloxifene"
-    static let desc_2 = "It is a non-steroidal, non-hormonal once-a-week oral contraceptive pill."
-    static let howItswork_2 = "Prevents implantation of blastocyst in endometrium by creating asynchrony between fertilized ovum and endometrial bed."
-    static let progressValue_2 = "<strong>1–2 pregnancy</strong> per 100 women with perfect use"
+    static let title_2 = "Non-hormonal Contraceptives (Centchroman)".localizeString()
+    static let issueName1_2 = "Weekly pill free from hormone and contains Ormeloxifene".localizeString()
+    static let desc_2 = "It is a non-steroidal, non-hormonal once-a-week oral contraceptive pill.".localizeString()
+    static let howItswork_2 = "Prevents implantation of blastocyst in endometrium by creating asynchrony between fertilized ovum and endometrial bed.".localizeString()
+    static let progressValue_2 = "<strong>1–2 pregnancy</strong> per 100 women with perfect use".localizeString()
     
-    static let title_3 = "Progestogen-only pills"
-    static let desc_3 = "Contains only progestogen hormone, not estrogen."
-    static let howItswork_3 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
+    static let title_3 = "Progestogen-only pills".localizeString()
+    static let desc_3 = "Contains only progestogen hormone, not estrogen.".localizeString()
+    static let howItswork_3 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation.".localizeString()
     
-    static let title_4 = "Progestogen-only injectables"
-    static let issueName1_4_Privacy = "Privacy"
-    static let desc_4 = "Injected into the muscle or under the skin every 2 or 3 months, depending on the product."
-    static let howItswork_4 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
+    static let title_4 = "Progestogen-only injectables".localizeString()
+    static let issueName1_4_Privacy = "Privacy".localizeString()
+    static let desc_4 = "Injected into the muscle or under the skin every 2 or 3 months, depending on the product.".localizeString()
+    static let howItswork_4 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation.".localizeString()
     
-    static let title_5 = "Implants"
-    static let issueName1_5_HighlyEffective = "Highly effective"
-    static let issueName2_5_LongLasting = "Long Lasting"
-    static let desc_5 = "Small, flexible rods or capsules placed under the skin of the upper arm; contains progestogen hormone only."
-    static let howItswork_5 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation."
-    static let progressValue_5_G99 = ">99"
+    static let title_5 = "Implants".localizeString()
+    static let issueName1_5_HighlyEffective = "Highly effective".localizeString()
+    static let issueName2_5_LongLasting = "Long Lasting".localizeString()
+    static let desc_5 = "Small, flexible rods or capsules placed under the skin of the upper arm; contains progestogen hormone only.".localizeString()
+    static let howItswork_5 = "Thickens cervical mucous to block sperm and egg from meeting and prevents ovulation.".localizeString()
+    static let progressValue_5_G99 = ">99".localizeString()
     
-    static let title_6 = "Levonorgestrel IUD"
-    static let desc_6 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day."
-    static let howItswork_6 = "Thickens cervical mucous to block sperm and egg from meeting."
+    static let title_6 = "Levonorgestrel IUD".localizeString()
+    static let desc_6 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day.".localizeString()
+    static let howItswork_6 = "Thickens cervical mucous to block sperm and egg from meeting.".localizeString()
     
-    static let title_7 = "Levonorgestrel IUD"
-    static let desc_7 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day."
-    static let howItswork_7 = "Thickens cervical mucous to block sperm and egg from meeting."
+    static let title_7 = "Levonorgestrel IUD".localizeString()
+    static let desc_7 = "A T-shaped plastic device inserted into the uterus that steadily releases small amounts of levonorgestrel each day.".localizeString()
+    static let howItswork_7 = "Thickens cervical mucous to block sperm and egg from meeting.".localizeString()
     
-    static let title_8 = "Copper intrauterine device"
-    static let issueName1_8_NoHormone = "No hormone"
-    static let desc_8 = "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus."
-    static let howItswork_8 = "Copper component damages sperm and prevents it from meeting the egg."
+    static let title_8 = "Copper intrauterine device".localizeString()
+    static let issueName1_8_NoHormone = "No hormone".localizeString()
+    static let desc_8 = "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus.".localizeString()
+    static let howItswork_8 = "Copper component damages sperm and prevents it from meeting the egg.".localizeString()
     
-    static let title_9 = "Barrier methods"
-    static let issueName1_9_STIprevention = "STI prevention"
-    static let desc_9 = "Male condoms\nFemale condoms\nDiaphragm\nSpermicide\n"
-    static let howItswork_9 = "Forms a barrier to prevent sperm and egg from meeting."
+    static let title_9 = "Barrier methods".localizeString()
+    static let issueName1_9_STIprevention = "STI prevention".localizeString()
+    static let howItswork_9 = "Forms a barrier to prevent sperm and egg from meeting.".localizeString()
     
-    static let title_10 = "Lactational amenorrhea method"
-    static let dec_10 = "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus."
-    static let howItswork_10 = "Copper component damages sperm and prevents it from meeting the egg."
+    static let title_10 = "Lactational amenorrhea method".localizeString()
+    static let dec_10 = "Small flexible plastic device containing copper sleeves or wire that is inserted into the uterus.".localizeString()
+    static let howItswork_10 = "Copper component damages sperm and prevents it from meeting the egg.".localizeString()
     
-    static let title_11 = "Female sterilization"
-    static let dec_11 = "Permanent contraception to block or cut the fallopian tubes."
-    static let howItswork_11 = "Eggs are blocked from meeting sperm."
+    static let title_11 = "Female sterilization".localizeString()
+    static let dec_11 = "Permanent contraception to block or cut the fallopian tubes.".localizeString()
+    static let howItswork_11 = "Eggs are blocked from meeting sperm.".localizeString()
     
-    static let title_12 = "Male sterilization\n(vasectomy)"
-    static let dec_12 = "Permanent contraception to block or cut the vas deferens tubes that carry sperm from the testicles."
-    static let howItswork_12 = "Keeps sperm out of ejaculated semen."
+    static let dec_12 = "Permanent contraception to block or cut the vas deferens tubes that carry sperm from the testicles.".localizeString()
+    static let howItswork_12 = "Keeps sperm out of ejaculated semen.".localizeString()
     
-    static let ic_progestongen_detail = "ic_progestongen_detail"
-    static let ic_contraceptual_harmonal = "ic_contraceptual_harmonal"
-    static let ic_non_harmonal_contra = "ic_non_harmonal_contra"
-    static  let ic_progestogen_only = "ic_progestogen_only"
-    static let ic_bleeding = "ic_bleeding"
-    static let ic_client_control = "ic_client_control"
-    static let ic_combined_harmonal_detail = "ic_combined_harmonal_detail"
-    static let ic_no_harmones = "ic_no_harmones"
-    static let ic_implants = "ic_implants"
-    static let ic_highly_effective = "ic_highly_effective"
-    static let ic_long_lasting = "ic_long_lasting"
-    static let ic_uid = "ic_uid"
-    static let ic_privacy = "ic_privacy"
-    static let ic_copper = "ic_copper"
-    static let ic_copper_intrauterne_details = "ic_copper_intrauterne_details"
-    static let ic_barrier = "ic_barrier"
-    static let ic_sti_prevention = "ic_sti_prevention"
-    static let ic_amenorrhea = "ic_amenorrhea"
-    static let ic_lactational_amenorrhea_details = "ic_lactational_amenorrhea_details"
-    static let ic_female_sterialization = "ic_female_sterialization"
-    static let ic_female_sterialization_details = "ic_female_sterialization_details"
-    static let ic_male_steriallization = "ic_male_steriallization"
-    static let ic_male_sterialization_details = "ic_male_sterialization_details"
+    static let ic_progestongen_detail = "ic_progestongen_detail".localizeString()
+    static let ic_contraceptual_harmonal = "ic_contraceptual_harmonal".localizeString()
+    static let ic_non_harmonal_contra = "ic_non_harmonal_contra".localizeString()
+    static  let ic_progestogen_only = "ic_progestogen_only".localizeString()
+    static let ic_bleeding = "ic_bleeding".localizeString()
+    static let ic_client_control = "ic_client_control".localizeString()
+    static let ic_combined_harmonal_detail = "ic_combined_harmonal_detail".localizeString()
+    static let ic_no_harmones = "ic_no_harmones".localizeString()
+    static let ic_implants = "ic_implants".localizeString()
+    static let ic_highly_effective = "ic_highly_effective".localizeString()
+    static let ic_long_lasting = "ic_long_lasting".localizeString()
+    static let ic_uid = "ic_uid".localizeString()
+    static let ic_privacy = "ic_privacy".localizeString()
+    static let ic_copper = "ic_copper".localizeString()
+    static let ic_copper_intrauterne_details = "ic_copper_intrauterne_details".localizeString()
+    static let ic_barrier = "ic_barrier".localizeString()
+    static let ic_sti_prevention = "ic_sti_prevention".localizeString()
+    static let ic_amenorrhea = "ic_amenorrhea".localizeString()
+    static let ic_lactational_amenorrhea_details = "ic_lactational_amenorrhea_details".localizeString()
+    static let ic_female_sterialization = "ic_female_sterialization".localizeString()
+    static let ic_female_sterialization_details = "ic_female_sterialization_details".localizeString()
+    static let ic_male_steriallization = "ic_male_steriallization".localizeString()
+    static let ic_male_sterialization_details = "ic_male_sterialization_details".localizeString()
 }
 
 struct ConditionsListString {
@@ -157,7 +157,6 @@ struct ConditionsListString {
     static let detailDesc1_9 = "Past pelvic inflammatory disease.".localizeString()
     static let detailDesc1_10 = "Post-abortion (no sepsis).".localizeString()
     static let detailDesc1_11 = "Postpartum ≥ 6 months.".localizeString()
-    static let beforeDescrip = "\n\n● "
     static let beforeDescrip1 = ""
 
     static let detailDesc2_1 = "Depression.".localizeString()
@@ -257,7 +256,8 @@ struct AdditionalInfoString {
     
     static let detailDesVal3_2 = "2".localizeString()
     
-    static let detailDesPoint4_1 = "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation.\n\nThe eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception.".localizeString()
+    static let detailDesPoint4_1_1 = "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation.".localizeString()
+    static let detailDesPoint4_1_2 = "The eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception.".localizeString()
     static let detailDesPoint4_2 = "Pregnancy.".localizeString()
     static let detailDesPoint4_3 = "Rape (high risk of STI).".localizeString()
     static let detailDesPoint4_4 = "Rape (low risk of STI).".localizeString()
@@ -265,8 +265,12 @@ struct AdditionalInfoString {
     static let detailDesVal4_2 = "4".localizeString()
     static let detailDesVal4_3 = "3".localizeString()
     static let detailDesVal4_4 = "1".localizeString()
-
-    static let mainContent = "NA = not applicable<br><br>*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbspthan among women with < 25 kg/m<sup><small><small>2</small></small></sup>.<br><br>Despite this, there are no safety concerns."
+//
+//    static let mainContent = "NA = not applicable<br><br>*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbspthan among women with < 25 kg/m<sup><small><small>2</small></small></sup>.<br><br>Despite this, there are no safety concerns.".localizeString()
+//    
+    static let mainContent_1 = "NA = not applicable".localizeString()
+    static let mainContent_2 = "*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbspthan among women with < 25 kg/m<sup><small><small>2</small></small></sup>.".localizeString()
+    static let mainContent_3 = "Despite this, there are no safety concerns.".localizeString()
 }
 
 struct Alphabet {
@@ -299,8 +303,9 @@ struct Alphabet {
 }
 
 struct EffectivenessString {
-    static let title = "Comparing Effectiveness of\nFamily Planning Method "
-    static let description = "(Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method)."
+    static let title_1 = "Comparing Effectiveness of Family Planning Method".localizeString()
+    static let title_2 = "Family Planning Method".localizeString()
+    static let description = "(Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method).".localizeString()
     
     static let image1_1 = "ic_implants_1".localizeString()
     static let image1_2 = "ic_female_sterialization_1".localizeString()
@@ -310,9 +315,11 @@ struct EffectivenessString {
     static let imageTitle1_2 = "Female sterilization".localizeString()
     static let imageTitle1_3 = "IUD".localizeString()
     static let imageTitle1_4 = "Vasectomy".localizeString()
-    static let content1_1 = "Implants, IUD, female sterilization:\nAfter procedure, little or nothing to do or remember.".localizeString()
-    static let content1_2 = "Vasectomy:\nUse another method for first 3 months.".localizeString()
-    
+    static let content1_1_1 = "Implants, IUD, female sterilization".localizeString()
+    static let content1_1_2 = "After procedure, little or nothing to do or remember.".localizeString()
+    static let content1_2_1 = "Vasectomy".localizeString()
+    static let content1_2_2 = "Use another method for first 3 months.".localizeString()
+
     static let image2_1 = "ic_injection_1".localizeString()
     static let image2_2 = "ic_patch_ring".localizeString()
     static let image2_3 = "ic_lam".localizeString()
@@ -322,8 +329,10 @@ struct EffectivenessString {
     static let imageTitle2_3 = "LAM".localizeString()
     static let imageTitle2_4 = "Pills".localizeString()
     
-    static let content2_1 = "Injectables:\nGet repeat injections on time.".localizeString()
-    static let content2_2 = "Lactational amenorrhea method, LAM (for 6 months): The baby is fully or near fully breastfed.\n\nTo maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breast-feeds is reduced, bottle feeds are introduced or the baby reaches 6 months of age.".localizeString()
+    static let content2_1_1 = "Injectables".localizeString()
+    static let content2_1_2 = "Get repeat injections on time.".localizeString()
+    static let content2_2_1 = "Lactational amenorrhea method, LAM (for 6 months): The baby is fully or near fully breastfed.".localizeString()
+    static let content2_2_2 = "To maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breast-feeds is reduced, bottle feeds are introduced or the baby reaches 6 months of age.".localizeString()
     static let content2_3 = "Pills: Take a hormonal pill daily and non-hormonal pills weekly (as scheduled).".localizeString()
     static let content2_4 = "Patch, ring: Keep in place, change on time.".localizeString()
     
@@ -342,7 +351,11 @@ struct EffectivenessString {
     static let image4_2 = "ic_spermicide".localizeString()
     static let imageTitle4_1 = "Withdrawal".localizeString()
     static let imageTitle4_2 = "Spermicides".localizeString()
-    static let content4_1 = "Withdrawal, spermicides: \nUse correctly every time you have sex.\n\nNumbers in parentheses indicate % of women experiencing an unintended pregnancy during the first year of typical use of contraception. Source: Trussell J., 2011.\n\nNumbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method.".localizeString()
+
+    static let content4_1_1 = "Withdrawal, spermicides:".localizeString()
+    static let content4_1_2 = "Use correctly every time you have sex.".localizeString()
+    static let content4_1_3 = "Numbers in parentheses indicate % of women experiencing an unintended pregnancy during the first year of typical use of contraception. Source: Trussell J., 2011.".localizeString()
+    static let content4_1_4 = "Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method.".localizeString()
 }
 
 struct AntiretroviralString {

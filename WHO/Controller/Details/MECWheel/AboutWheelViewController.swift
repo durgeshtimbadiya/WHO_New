@@ -23,7 +23,10 @@ class AboutWheelViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        
+        self._startTransform = CGAffineTransform(a: -0.7622027791151481, b: 0.6473383377408948, c: -0.6473383377408948, d: -0.7622027791151481, tx: 0.0, ty: 0.0)
+        self._deltaAngle = 3.7546463
+        self.lowerWheelImg.transform = CGAffineTransformRotate(_startTransform, CGFloat(_deltaAngle))
+
         let _panGesture = UIPanGestureRecognizer(target: self, action: #selector(rotateItem(_:)))
         _panGesture.delegate = self
         self.view.addGestureRecognizer(_panGesture)

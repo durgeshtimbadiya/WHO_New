@@ -10,10 +10,7 @@ import UIKit
 
 extension String {
     func localizeString() -> String { //en, as-IN, bn-IN, gu-IN, hi-IN, kn-IN, ml-IN, or-IN, pa-IN, ta-IN, te-IN,
-        if let path = Bundle.main.path(forResource: UserDefaults.standard.value(forKey: "SelectedLanguege") as? String ?? "en", ofType: "lproj"), let bundle = Bundle(path: path) {
-            return NSLocalizedString(self, tableName: nil, bundle: bundle, value: "", comment: "")
-        }
-        return self
+        return NSLocalizedString(self, tableName: nil, bundle: Bundle.localizedBundle(), value: "", comment: "")
     }
     
     func htmlToAttributedString(_ font: UIFont) -> NSAttributedString? {
@@ -34,5 +31,25 @@ extension String {
     }
     var htmlToString: String {
         return htmlToAttributedString?.string ?? ""
+    }
+}
+
+extension Bundle {
+    private static var bundle: Bundle!
+    
+    public static func localizedBundle() -> Bundle! {
+        if bundle == nil {
+            let appLang = UserDefaults.standard.value(forKey: "SelectedLanguege") as? String ?? "en"
+            let path = Bundle.main.path(forResource: appLang, ofType: "lproj")
+            bundle = Bundle(path: path!)
+        }
+        
+        return bundle;
+    }
+    
+    public static func setLanguage(lang: String) {
+        UserDefaults.standard.setValue(lang, forKey: "SelectedLanguege")
+        let path = Bundle.main.path(forResource: lang, ofType: "lproj")
+        bundle = Bundle(path: path!)
     }
 }
