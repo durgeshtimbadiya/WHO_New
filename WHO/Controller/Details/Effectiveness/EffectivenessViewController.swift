@@ -24,7 +24,7 @@ class EffectivenessViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         setCellData()
-        self.titleLabel.text = EffectivenessString.title_1 + "\n" + EffectivenessString.title_2
+        self.titleLabel.text = EffectivenessString.title_1
         self.subTitleLabel.text = EffectivenessString.description
     }
     

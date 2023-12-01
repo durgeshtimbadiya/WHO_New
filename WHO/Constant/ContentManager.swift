@@ -849,7 +849,7 @@ class ContentManager : NSObject {
         var informationsubPointList1 = [SubPointList]()
         
         
-        informationsubPointList1.append(SubPointList(points: InformationList.Points24 ,value: InformationList.Value24))
+        informationsubPointList1.append(SubPointList(points: AdditionalInfoString.detailDesPoint4_1_1 + "\n\n" + AdditionalInfoString.detailDesPoint4_1_2,value: InformationList.Value24))
         informationsubPointList1.append(SubPointList(points: InformationList.Points25 ,value: InformationList.Value25))
         informationsubPointList1.append(SubPointList(points: InformationList.Points26 ,value: InformationList.Value26))
         informationsubPointList1.append(SubPointList(points: InformationList.Points27 ,value: InformationList.Value27))
