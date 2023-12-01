@@ -48,6 +48,7 @@ extension Bundle {
     
     public static func setLanguage(lang: String) {
         UserDefaults.standard.setValue(lang, forKey: "SelectedLanguege")
+        UserDefaults.standard.synchronize()
         let path = Bundle.main.path(forResource: lang, ofType: "lproj")
         bundle = Bundle(path: path!)
     }

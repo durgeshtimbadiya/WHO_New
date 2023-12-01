@@ -111,11 +111,11 @@ extension LanguageViewController: UITableViewDelegate {
         Bundle.setLanguage(lang: self.languageList[indexPath.row].code)
 //        UserDefaults.standard.setValue(self.languageList[indexPath.row].code, forKey: "SelectedLanguege")
         
-//        let alertV = UIAlertController(title: "", message: "Please reopen application to change language", preferredStyle: .alert)
-//        alertV.addAction(UIAlertAction(title: "Ok", style: .default, handler: { action in
-//            exit(0)
-//        }))
-//        self.present(alertV, animated: true)
+        let alertV = UIAlertController(title: "", message: "Please reopen application to change language", preferredStyle: .alert)
+        alertV.addAction(UIAlertAction(title: "Ok", style: .default, handler: { action in
+            exit(0)
+        }))
+        self.present(alertV, animated: true)
         
         if isFromLaunch {
             self.navigationController?.popViewController(animated: true)

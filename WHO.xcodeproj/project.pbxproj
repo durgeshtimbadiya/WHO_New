@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1809179B2AE920B6006062E8 /* EffectivenessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809179A2AE920B6006062E8 /* EffectivenessViewController.swift */; };
-		180D02802B15CD4300EC1F53 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 180D027F2B15CD4300EC1F53 /* Localizable.xcstrings */; };
+		180CB35A2B1A08F700756493 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 180CB3592B1A08F700756493 /* Localizable.xcstrings */; };
 		1811E6B12AF68C1000CD17BE /* NSAttributedString+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1811E6B02AF68C1000CD17BE /* NSAttributedString+Extension.swift */; };
 		1825CA622ADE81AC002D3498 /* Details.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1825CA612ADE81AC002D3498 /* Details.storyboard */; };
 		1825CA662ADE8277002D3498 /* AboutWheelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1825CA652ADE8277002D3498 /* AboutWheelViewController.swift */; };
@@ -105,7 +105,7 @@
 
 /* Begin PBXFileReference section */
 		1809179A2AE920B6006062E8 /* EffectivenessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectivenessViewController.swift; sourceTree = "<group>"; };
-		180D027F2B15CD4300EC1F53 /* Localizable.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		180CB3592B1A08F700756493 /* Localizable.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		1811E6B02AF68C1000CD17BE /* NSAttributedString+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSAttributedString+Extension.swift"; sourceTree = "<group>"; };
 		1825CA612ADE81AC002D3498 /* Details.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Details.storyboard; sourceTree = "<group>"; };
 		1825CA652ADE8277002D3498 /* AboutWheelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutWheelViewController.swift; sourceTree = "<group>"; };
@@ -433,7 +433,7 @@
 		18D1D6212AD8F98800F7E304 = {
 			isa = PBXGroup;
 			children = (
-				180D027F2B15CD4300EC1F53 /* Localizable.xcstrings */,
+				180CB3592B1A08F700756493 /* Localizable.xcstrings */,
 				18D1D62C2AD8F98800F7E304 /* WHO */,
 				18D1D6432AD8F98900F7E304 /* WHOTests */,
 				18D1D64D2AD8F98900F7E304 /* WHOUITests */,
@@ -711,6 +711,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				180CB35A2B1A08F700756493 /* Localizable.xcstrings in Resources */,
 				18D1D6A82AD90AF300F7E304 /* Roboto-Medium.ttf in Resources */,
 				18D1D63A2AD8F98900F7E304 /* LaunchScreen.storyboard in Resources */,
 				18D1D6A62AD90AF300F7E304 /* Roboto-Italic.ttf in Resources */,
@@ -727,7 +728,6 @@
 				18D1D6732AD8FE4700F7E304 /* Media.xcassets in Resources */,
 				1825CA622ADE81AC002D3498 /* Details.storyboard in Resources */,
 				18D1D6A12AD90AF300F7E304 /* Roboto-CondensedItalic.ttf in Resources */,
-				180D02802B15CD4300EC1F53 /* Localizable.xcstrings in Resources */,
 				18D1D69B2AD90AF300F7E304 /* Roboto-BoldItalic.ttf in Resources */,
 				18D1D69E2AD90AF300F7E304 /* Roboto-BlackItalic.ttf in Resources */,
 				18D1D6352AD8F98800F7E304 /* Main.storyboard in Resources */,
