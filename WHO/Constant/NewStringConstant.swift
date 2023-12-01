@@ -525,9 +525,7 @@ struct InformationList {
     
     static let AdditionSubPointName23 = "Ulipristal acetate".localizeString()
     
-    
-    static let Points24 = "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation.<br><br>The eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception.".localizeString()
-    
+        
     static let Value24 = "NA".localizeString()
     
     static let Points25 = "Pregnancy.".localizeString()

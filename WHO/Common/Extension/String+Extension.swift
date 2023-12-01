@@ -43,7 +43,6 @@ extension Bundle {
             let path = Bundle.main.path(forResource: appLang, ofType: "lproj")
             bundle = Bundle(path: path!)
         }
-        
         return bundle;
     }
     
