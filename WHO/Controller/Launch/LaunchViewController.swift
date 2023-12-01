@@ -99,6 +99,7 @@ class LaunchViewController: UIViewController {
     
     @IBAction func tapOnSkip(_ sender: UIButton) {
         UserDefaults.standard.setValue(true, forKey: "GuideCompleted")
+        UserDefaults.standard.synchronize()
         if let myobject = Storyboard.dashboard.instantiateViewController(withIdentifier: "DashboardViewController") as? DashboardViewController {
             self.navigationController?.pushViewController(myobject, animated: true)
         }
