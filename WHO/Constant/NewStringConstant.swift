@@ -180,10 +180,8 @@ struct Implants{
     
     static let content_6 = "2-rod implant, each rod containing 75 mg of LNG.".localizeString()
     
-    static let content_7 = "1-rod implant, containing 68 mg of etonogestrel (Barium Impregnated).".localizeString()
-    
-    static let bulletValue_7 = "2.".localizeString()
-    
+    static let content_7 = "2. 1-rod implant, containing 68 mg of etonogestrel (Barium Impregnated).".localizeString()
+        
     static let title_8 = "When can a woman start progestogen-only implants?".localizeString()
     
     static let title_9 = "Having menstrual cycles".localizeString()
@@ -872,8 +870,8 @@ struct EligibilityList {
     //common
     static let chc = "CHC".localizeString()
     static let combinedPill = "Combined pills and combined injectables".localizeString()
-    static let ageLess18 = "Age (Menarche to <18 Years)".localizeString()
-    static let ageLess40 = "Age (≤40 Years)".localizeString()
+    static let ageLess18 = "Menarche to <18 Years".localizeString()
+    static let ageLess40 = "(≤40 Years)".localizeString()
     static let num0 = "0".localizeString()
     static let num1 = "1".localizeString()
     static let num2 = "2".localizeString()

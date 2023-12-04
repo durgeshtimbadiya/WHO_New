@@ -1,78 +1,13 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "(≤40 Years)" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "as-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(40 বছৰ বা ততোধিক)"
-          }
-        },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(40 বছৰ বা তার ঊর্ধ্বে)"
-          }
-        },
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(≤40 વર્ષ)"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(≤40 वर्ष)"
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(40 ವರ್ಷ)"
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(40 വർഷം)"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(≤40 ବର୍ଷ)"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(≤40 ਸਾਲ)"
-          }
-        },
-        "ta-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(40 வருடங்கள்)"
-          }
-        },
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(≤40 ఏళ్ళు)"
-          }
-        }
-      }
-    },
     "(Numbers indicate % of women experiencing an unintended pregnancy during the first year of typical use of the method)." : {
       "extractionState" : "manual",
       "localizations" : {
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "(সংখ্যাবোৰে পদ্ধতিটোৰ সাধাৰণ ব্যৱহাৰৰ প্ৰথম বছৰত অনিচ্ছাকৃত গৰ্ভধাৰণৰ অভিজ্ঞতা লাভ কৰা মহিলাৰ % সূচায়।)."
+            "value" : "(సంఖ్యలు పద్ధతి యొక్క సాధారణ ఉపయోగం యొక్క మొదటి సంవత్సరంలో అనాలోచిత గర్భాన్ని ఎదుర్కొంటున్న % మంది స్త్రీలను సూచిస్తాయి)."
           }
         },
         "bn-IN" : {
@@ -332,43 +267,31 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "*BMI <25 কিগ্ৰা/মি<sup><small><small>2</small></small></sup> থকা মহিলাৰ তুলনাত BMI ≥ 30 কিগ্ৰা/মি<sup><small><small>2</small></small></sup> থকা মহিলাৰ ক্ষেত্ৰত জৰুৰীকালীন গৰ্ভনিৰোধক বড়ি কম কাৰ্যকৰী হ'ব পাৰে।"
+            "value" : " *BMI <25 কিগ্ৰা/মি2 থকা মহিলাৰ তুলনাত BMI ≥ 30 কিগ্ৰা/মি2 থকা মহিলাৰ ক্ষেত্ৰত জৰুৰীকালীন গৰ্ভনিৰোধক বড়ি কম কাৰ্যকৰী হ'ব পাৰে।"
           }
         },
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " *যেসব মহিলার BMI ≥30 kg/m<sup><small><small>2</small></small></sup>, তাঁদের ক্ষেত্রে, <25 kg/m<sup><small><small>2</small></small></sup> মহিলাদের তুলনায় জরুরী অবস্থায় গর্ভনিরোধক কম কার্যকর হতে পারে।"
+            "value" : " *যেসব মহিলার BMI ≥30 kg/m2, তাঁদের ক্ষেত্রে, <25 kg/m2 মহিলাদের তুলনায় জরুরী অবস্থায় গর্ভনিরোধক কম কার্যকর হতে পারে।"
           }
         },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "*< 25 kg/m<sup><small><small>2</small></small></sup> BMI ધરાવતી સ્ત્રીઓની સરખામણીએ BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> ધરાવતી સ્ત્રીઓમાં ઇમર્જન્સીમાં લેવાની ગર્ભનિરોધક ગોળીઓ ઓછી અસરકારક સાબિત થઈ શકે છે."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "*आपातकालीन गर्भनिरोधक गोलियां BMI ≥30 किग्रा/मी<sup><small><small>2</small></small></sup> वाली महिलाओं में 25 किग्रा/मी<sup><small><small>2</small></small></sup> से कम वाली महिलाओं की तुलना में कम प्रभावी हो सकती हैं।"
+            "value" : "*< 25 kg/m2 BMI ધરાવતી સ્ત્રીઓની સરખામણીએ BMI ≥ 30 kg/m2 ધરાવતી સ્ત્રીઓમાં ઇમર્જન્સીમાં લેવાની ગર્ભનિરોધક ગોળીઓ ઓછી અસરકારક સાબિત થઈ શકે છે."
           }
         },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "* ತುರ್ತು ಗರ್ಭನಿರೋಧಕ ಮಾತ್ರೆಗಳು BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> ಹೊಂದಿರುವ ಮಹಿಳೆಯರಲ್ಲಿ 25 kg/m<sup><small><small>2</small></small></sup> < ಮಹಿಳೆಯರಿಗಿಂತ ಕಡಿಮೆ ಪರಿಣಾಮಕಾರಿಯಾಗಿರಬಹುದು."
+            "value" : "* ತುರ್ತು ಗರ್ಭನಿರೋಧಕ ಮಾತ್ರೆಗಳು BMI ≥ 30 kg/m2 ಹೊಂದಿರುವ ಮಹಿಳೆಯರಲ್ಲಿ 25 kg/m2 < ಮಹಿಳೆಯರಿಗಿಂತ ಕಡಿಮೆ ಪರಿಣಾಮಕಾರಿಯಾಗಿರಬಹುದು."
           }
         },
         "ml-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "*അടിയന്തര ഗർഭനിരോധന ഗുളികകൾ BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> ഉള്ള സ്ത്രീകളിൽ <25 kg/m<sup><small><small>2</small></small></sup> ഉള്ള സ്ത്രീകളെ അപേക്ഷിച്ച് വളരെ കുറഞ്ഞ ഫലപ്രാപ്തി ഉള്ളതായിരിക്കാം."
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "*< 25 kg/m<sup><small><small>2</small></small></sup>  ସହିତ ମହିଳାମାନଙ୍କ ତୁଳନାରେ BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> ସହିତ ମହିଳାମାନଙ୍କଠାରେ ଜରୁରୀକାଳୀନ ଗର୍ଭନିରୋଧକ ବଟିକା କମ ପ୍ରଭାବଶାଳୀ ଅଟେ।"
+            "value" : "*അടിയന്തര ഗർഭനിരോധന ഗുളികകൾ BMI ≥ 30 kg/m2 ഉള്ള സ്ത്രീകളിൽ <25 kg/m2 ഉള്ള സ്ത്രീകളെ അപേക്ഷിച്ച് വളരെ കുറഞ്ഞ ഫലപ്രാപ്തി ഉള്ളതായിരിക്കാം."
           }
         },
         "pa-IN" : {
@@ -380,13 +303,7 @@
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "*அவசரகால கருத்தடை மாத்திரைகள் BMI ≥30 கிலோ/மீ<sup><small><small>2</small></small></sup> உள்ள பெண்களை விட <25 கிகி/மீ<sup><small><small>2</small></small></sup> உள்ள பெண்களை விட குறைவான செயல்திறன் கொண்டதாக இருக்கலாம். இருந்தபோதிலும், பாதுகாப்பு கவலைகள் இல்லை."
-          }
-        },
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "*అత్యవసర గర్భనిరోధక మాత్రలు BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> ఉన్న మహిళల్లో <25 kg/m<sup><small><small>2</small></small></sup> ఉన్న మహిళల కంటే తక్కువ ప్రభావవంతంగా ఉండవచ్చు."
+            "value" : "*அவசரகால கருத்தடை மாத்திரைகள் BMI ≥30 கிலோ/மீ2 உள்ள பெண்களை விட <25 கிகி/மீ2 உள்ள பெண்களை விட குறைவான செயல்திறன் கொண்டதாக இருக்கலாம். இருந்தபோதிலும், பாதுகாப்பு கவலைகள் இல்லை."
           }
         }
       }
@@ -430,18 +347,6 @@
             "value" : "<48 മണിക്കൂർ"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "<48 ଘଣ୍ଟା"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "<48 ਘੰਟੇ"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -452,6 +357,53 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<48 గంటలు"
+          }
+        }
+      }
+    },
+    "<160/100" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<160/100"
           }
         }
       }
@@ -493,18 +445,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ശരിയായി ഉപയോഗിക്കുമ്പോൾ 100 സ്ത്രീകളിൽ<strong>1-2 ഗർഭം</strong>"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ସଠିକ୍ ବ୍ୟବହାର ସହିତ 100 ମହିଳାଙ୍କ ମଧ୍ୟରେ <strong>1-2 ଗର୍ଭଧାରଣ</strong>"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਸੰਪੂਰਨ ਵਰਤੋਂ ਵਾਲੀਆਂ ਪ੍ਰਤੀ 100 ਔਰਤਾਂ ਵਿੱਚ <strong>1-2 ਗਰਭ ਅਵਸਥਾ</strong>"
           }
         },
         "ta-IN" : {
@@ -560,28 +500,10 @@
             "value" : ">35 വർഷം"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : ">35 ବର୍ଷ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : ">35 ਸਾਲ"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ">35 வருடங்கள்"
-          }
-        },
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : ">35ఏళ్ళు"
           }
         }
       }
@@ -605,12 +527,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : ">45 વર્ષ = 2."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : ">45 वर्ष = 2."
           }
         },
         "kn-IN" : {
@@ -641,6 +557,65 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : ">45 வயது = 2."
+          }
+        }
+      }
+    },
+    ">99" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">45 વર્ષ = 2"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">99"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ">45 సంవత్సరాలు = 2"
           }
         }
       }
@@ -771,6 +746,71 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "0.05% ఇంప్లాంట్లు                                       0.8% IUD\n"
+          }
+        }
+      }
+    },
+    "1-rod implant, containing 68 mg of etonogestrel (Barium Impregnated)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-ৰড ইমপ্লেণ্টত, 68 mg এট’নোজেষ্ট্ৰেল (বেরিয়াম সংপৃক্ত) থাকে।"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-রড ইমপ্ল্যান্ট এ, 68 mg এটোনোজেস্ট্রেল (ব্যারিয়াম সম্পৃক্ত) থাকে।"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-રોડ ઇમ્પ્લાન્ટ, જે 68 મિગ્રા એટોનોજેસ્ટ્રેલ (બેરિયમ ઇમ્પ્રેગ્નેટેડ) ધરાવે છે "
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-रॉड इम्प्लांट, जिसमें 68 मि.ग्रा. इटोनोगेस्ट्रेल (बेरियम इंप्रेग्नेटेड) हो।"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-ರಾಡ್ ಸೇರಿಸುವಿಕೆ, 68 ಮಿಗ್ರಾಂ ಎಟೊನೊಜೆಸ್ಟ್ರೆಲ್ (ಬೇರಿಯಮ್ ಇಂಪ್ರೆಗ್ನೇಟೆಡ್) ಅನ್ನು ಒಳಗೊಂಡಿದೆ."
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "മില്ലിഗ്രാം ഈറ്റോണോജെസ്ട്രൽ അടങ്ങിയ 1-റോഡ് ഇംപ്ലാന്റ് (ബേരിയം ഇംപ്രെഗ്നേറ്റഡ്)."
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-ରଡ୍ ପ୍ରତିରୋପଣ, ଯେଉଁଥିରେ ଅଛି ଏଟୋନୋଜେଷ୍ଟ୍ରେଲ୍ (ବେରିୟମ୍ ଇମ୍ପ୍ରେଗନେଟେଡ୍)ର 68 mg।"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1-ਰਾਡ ਇਮਪਲਾਂਟ ਵਿੱਚ 68 mg ਈਟੋਨੋਜੈਸਟਰਲ (ਬੇਰੀਅਮ ਇੰਪ੍ਰੈਗਨੇਟਿਡ) ਹੁੰਦਾ ਹੈ।"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "68 மில்லிகிராம் எடோனோஜெஸ்ட்ரல் (பேரியம் செறிவூட்டப்பட்டது) கொண்ட  1-ராடு (தடி) உள்வைப்பு.  "
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1- రాడ్ పెట్టడం, 68 మి.గ్రా ఎటెనో జెస్టెల్ (బేరియం ఇంప్రెగ్నేటెడ్) "
           }
         }
       }
@@ -982,13 +1022,13 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. DMPA-IM = 150 મિગ્રા DMPAને સ્નાયુમાં આપવામાં આવે છે"
+            "value" : "DMPA-IM = 150 મિગ્રા DMPAને સ્નાયુમાં આપવામાં આવે છે"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. DMPA का DMPA-IM = 150 मिलीग्राम इंट्रामस्क्युलर रूप से दिया गया"
+            "value" : "DMPA का DMPA-IM = 150 मिलीग्राम इंट्रामस्क्युलर रूप से दिया गया"
           }
         },
         "kn-IN" : {
@@ -1006,13 +1046,13 @@
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. DMPA-IM = DMPA ର 150 mg ଅନ୍ତଃପେଶୀ ଭାବେ ଦିଆଯାଏ"
+            "value" : "DMPA-IM = DMPA ର 150 mg ଅନ୍ତଃପେଶୀ ଭାବେ ଦିଆଯାଏ"
           }
         },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. DMPA-IM = 150 mg DMPA ਇੰਟਰਾਮਸਕੁਲਰਲੀ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ"
+            "value" : "DMPA-IM = 150 mg DMPA ਇੰਟਰਾਮਸਕੁਲਰਲੀ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ"
           }
         },
         "ta-IN" : {
@@ -1024,7 +1064,7 @@
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. DMPA-IM = 150 mg DMPA కండరంలోగా ఇవ్వబడింది"
+            "value" : "DMPA-IM = 150 mg DMPA కండరంలోగా ఇవ్వబడింది"
           }
         }
       }
@@ -1094,71 +1134,6 @@
         }
       }
     },
-    "2. 1-rod implant, containing 68 mg of etonogestrel (Barium Impregnated)." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "as-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 1-ৰড ইমপ্লেণ্টত, 68 mg এট’নোজেষ্ট্ৰেল (বেরিয়াম সংপৃক্ত) থাকে।"
-          }
-        },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 1-রড ইমপ্ল্যান্ট এ, 68 mg এটোনোজেস্ট্রেল (ব্যারিয়াম সম্পৃক্ত) থাকে।"
-          }
-        },
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 1-રોડ ઇમ્પ્લાન્ટ, જે 68 મિગ્રા એટોનોજેસ્ટ્રેલ (બેરિયમ ઇમ્પ્રેગ્નેટેડ) ધરાવે છે "
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 1-रॉड इम्प्लांट, जिसमें 68 मि.ग्रा. इटोनोगेस्ट्रेल (बेरियम इंप्रेग्नेटेड) हो।"
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 1-ರಾಡ್ ಸೇರಿಸುವಿಕೆ, 68 ಮಿಗ್ರಾಂ ಎಟೊನೊಜೆಸ್ಟ್ರೆಲ್ (ಬೇರಿಯಮ್ ಇಂಪ್ರೆಗ್ನೇಟೆಡ್) ಅನ್ನು ಒಳಗೊಂಡಿದೆ."
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. മില്ലിഗ്രാം ഈറ്റോണോജെസ്ട്രൽ അടങ്ങിയ 1-റോഡ് ഇംപ്ലാന്റ് (ബേരിയം ഇംപ്രെഗ്നേറ്റഡ്)."
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 1-ରଡ୍ ପ୍ରତିରୋପଣ, ଯେଉଁଥିରେ ଅଛି ଏଟୋନୋଜେଷ୍ଟ୍ରେଲ୍ (ବେରିୟମ୍ ଇମ୍ପ୍ରେଗନେଟେଡ୍)ର 68 mg।"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 1-ਰਾਡ ਇਮਪਲਾਂਟ ਵਿੱਚ 68 mg ਈਟੋਨੋਜੈਸਟਰਲ (ਬੇਰੀਅਮ ਇੰਪ੍ਰੈਗਨੇਟਿਡ) ਹੁੰਦਾ ਹੈ।"
-          }
-        },
-        "ta-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 68 மில்லிகிராம் எடோனோஜெஸ்ட்ரல் (பேரியம் செறிவூட்டப்பட்டது) கொண்ட  1-ராடு (தடி) உள்வைப்பு.  "
-          }
-        },
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "2. 1- రాడ్ పెట్టడం, 68 మి.గ్రా ఎటెనో జెస్టెల్ (బేరియం ఇంప్రెగ్నేటెడ్) "
-          }
-        }
-      }
-    },
     "2. DMPA-SC = 104 mg of DMPA given subcutaneously." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1178,12 +1153,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "2. DMPA-SC = 104 મિગ્રા DMPAને ચામડીની નીચે આપવામાં આવે છે."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DMPA का DMPA-SC = 104 मिलीग्राम त्वचा के नीचे दिया गया"
           }
         },
         "kn-IN" : {
@@ -1440,12 +1409,6 @@
             "value" : "3. NET-EN = 200 મિગ્રા NET-ENને સ્નાયુમાં આપવામાં આવે છે."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "NET-EN का NET-EN = 200 मिलीग्राम इंट्रामस्क्युलर रूप से दिया गया"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1480,6 +1443,53 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3. NET-EN = 200 mg NET-EN కండరంలో ఇవ్వబడింది."
+          }
+        }
+      }
+    },
+    "3TC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3TC"
           }
         }
       }
@@ -1521,18 +1531,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "6 മണിക്കൂർ – 6 ആഴ്ച"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "6 ସପ୍ତାହ-6 ମାସ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "6 ਹਫ਼ਤੇ–6 ਮਹੀਨੇ"
           }
         },
         "ta-IN" : {
@@ -1718,18 +1716,6 @@
             "value" : "48 മണിക്കൂർ  – 6 ആഴ്ച"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "48 ଘଣ୍ଟା - 6 ସପ୍ତାହ |"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "48 ਘੰਟੇ–6 ਹਫ਼ਤੇ"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1740,6 +1726,135 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "48 గంటలు - 6 వారాలు"
+          }
+        }
+      }
+    },
+    "85" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "85"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "85"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "85"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "85"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "85"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "85"
+          }
+        }
+      }
+    },
+    "90" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90"
+          }
+        }
+      }
+    },
+    "92" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "92"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "92"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "92"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "92"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "92"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "92"
           }
         }
       }
@@ -1763,12 +1878,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કૉમન રીતે ઉપયોગ કરવા પર 98%."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "जैसा आमतौर पर उपयोग किया जाता है 98%"
           }
         },
         "kn-IN" : {
@@ -2577,6 +2686,53 @@
         }
       }
     },
+    "ABC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABC"
+          }
+        }
+      }
+    },
     "About the Wheel" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2642,67 +2798,67 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>এই চকৰিটোত গৰ্ভনিৰোধক পদ্ধতিৰ ব্যৱহাৰ আৰম্ভ কৰাৰ বাবে চিকিৎসাজনিত যোগ্যতাৰ চৰ্ত থাকে। এইটো গর্ভনিৰোধক ব্যবহাৰৰ বাবে WHO MEC হুইলৰ (2022-এ আপডেট) পৰা গৃহীত হৈছে আৰু গর্ভনিৰোধক ব্যবহাৰৰ বাবে চিকিৎসাজনিত যোগ্যতাৰ নির্ণায়ক, 4র্থ আৰু 5ম সংস্কৰণৰ (2008 আৰু 2022) আধাৰত কৰা হৈছে। ই পৰিয়াল পৰিকল্পনা প্ৰদানকাৰীসকলক চিকিৎসাজনিত স্থিতি বা চিকিৎসাজনিতভাবে প্ৰাসঙ্গিক বৈশিষ্ট্য থকা মহিলাসকলৰ বাবে সুৰক্ষিত আৰু কাৰ্যকৰী গৰ্ভনিৰোধক পদ্ধতিৰ পৰামৰ্শ দিয়াত নিৰ্দেশনা দিয়ে। <br /><br />চকৰিটোত সাতটা সাধাৰণ প্ৰকাৰৰ গৰ্ভনিৰোধকৰ ব্যৱহাৰ আৰম্ভ কৰাৰ পৰামৰ্শ অন্তৰ্ভুক্ত থাকে: </p>\n  <ol>\n    <li>একত্ৰিত বড়ি (কম পালিৰ সৈতে মিশ্ৰিত মৌখিক গৰ্ভনিৰোধক,  &lt; 35 Ug এথিনিলেষ্ট্ৰেডিঅ'ল) আৰু একত্ৰিত বেজীৰ গৰ্ভনিৰোধক । </li>\n    <li>চেনক্ৰোমেন বড়ি ।</li>\n    <li>প্ৰজেষ্টোজেন- কেৱল পিল।</li>\n    <li>প্ৰজেষ্টোজেন- কেৱল ইঞ্জেকচন। DMPA (এটা 3-মাহত ল'ব লগা ইঞ্জেকচন) আৰু NET-EN (এটা 2-মাহত ল'ব লগা ইঞ্জেকচন)।</li>\n    <li>প্ৰজেষ্টোজেন- কেৱল ইমপ্লেণ্ট।</li>\n    <li>তাম ধাৰণকাৰী IUCD।</li>\n    <li>লেভোনৰ্গেষ্ট্ৰেল ইণ্ট্ৰা ইউটেৰিন ডিভাইচ (LNG-IUD)।</li>\n  </ol>\n  <p><br />চকৰিটোত থকা নিৰ্দেশনা গৰ্ভনিৰোধক পদ্ধতি আৰম্ভ কৰাৰ ক্ষেত্ৰত প্ৰযোজ্য হয়। যেতিয়া এগৰাকী মহিলাৰ পদ্ধতিটো ব্যৱহাৰ কৰি থাকোতে চিকিৎসাজনিত সমস্যা বিকাশ হয়, সেইক্ষেত্ৰত পদ্ধতিটোৰ ব্যৱহাৰ অব্যাহত ৰখাৰ বাবে পৰামৰ্শ, <strong>গৰ্ভনিৰোধক ব্যৱহাৰৰ নিৰ্দেশনাৱলীৰ বাবে চিকিৎসা যোগ্যতাৰ চৰ্তত</strong> পোৱা যাব।</p>\n  <p>ই হৈছে MoHFW দ্বাৰা প্ৰৱৰ্তিত ভাৰত-অভিযোজিত WHO MEC Wheel-ৰ এটা ইলেক্ট্ৰনিক সংস্কৰণ।</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>এই চকৰিটোত গৰ্ভনিৰোধক পদ্ধতিৰ ব্যৱহাৰ আৰম্ভ কৰাৰ বাবে চিকিৎসাজনিত যোগ্যতাৰ চৰ্ত থাকে। এইটো গর্ভনিৰোধক ব্যবহাৰৰ বাবে WHO MEC হুইলৰ (2022-এ আপডেট) পৰা গৃহীত হৈছে আৰু গর্ভনিৰোধক ব্যবহাৰৰ বাবে চিকিৎসাজনিত যোগ্যতাৰ নির্ণায়ক, 4র্থ আৰু 5ম সংস্কৰণৰ (2008 আৰু 2022) আধাৰত কৰা হৈছে। ই পৰিয়াল পৰিকল্পনা প্ৰদানকাৰীসকলক চিকিৎসাজনিত স্থিতি বা চিকিৎসাজনিতভাবে প্ৰাসঙ্গিক বৈশিষ্ট্য থকা মহিলাসকলৰ বাবে সুৰক্ষিত আৰু কাৰ্যকৰী গৰ্ভনিৰোধক পদ্ধতিৰ পৰামৰ্শ দিয়াত নিৰ্দেশনা দিয়ে। <br />চকৰিটোত সাতটা সাধাৰণ প্ৰকাৰৰ গৰ্ভনিৰোধকৰ ব্যৱহাৰ আৰম্ভ কৰাৰ পৰামৰ্শ অন্তৰ্ভুক্ত থাকে: </p>\n  <ol>\n    <li>একত্ৰিত বড়ি (কম পালিৰ সৈতে মিশ্ৰিত মৌখিক গৰ্ভনিৰোধক,  &lt; 35 Ug এথিনিলেষ্ট্ৰেডিঅ'ল) আৰু একত্ৰিত বেজীৰ গৰ্ভনিৰোধক । </li>\n    <li>চেনক্ৰোমেন বড়ি ।</li>\n    <li>প্ৰজেষ্টোজেন- কেৱল পিল।</li>\n    <li>প্ৰজেষ্টোজেন- কেৱল ইঞ্জেকচন। DMPA (এটা 3-মাহত ল'ব লগা ইঞ্জেকচন) আৰু NET-EN (এটা 2-মাহত ল'ব লগা ইঞ্জেকচন)।</li>\n    <li>প্ৰজেষ্টোজেন- কেৱল ইমপ্লেণ্ট।</li>\n    <li>তাম ধাৰণকাৰী IUCD।</li>\n    <li>লেভোনৰ্গেষ্ট্ৰেল ইণ্ট্ৰা ইউটেৰিন ডিভাইচ (LNG-IUD)।</li>\n  </ol>\n  <p><br />চকৰিটোত থকা নিৰ্দেশনা গৰ্ভনিৰোধক পদ্ধতি আৰম্ভ কৰাৰ ক্ষেত্ৰত প্ৰযোজ্য হয়। যেতিয়া এগৰাকী মহিলাৰ পদ্ধতিটো ব্যৱহাৰ কৰি থাকোতে চিকিৎসাজনিত সমস্যা বিকাশ হয়, সেইক্ষেত্ৰত পদ্ধতিটোৰ ব্যৱহাৰ অব্যাহত ৰখাৰ বাবে পৰামৰ্শ, <strong><i>গৰ্ভনিৰোধক ব্যৱহাৰৰ নিৰ্দেশনাৱলীৰ বাবে চিকিৎসা যোগ্যতাৰ চৰ্তত</i></strong> পোৱা যাব।</p>\n  <p>ই হৈছে MoHFW দ্বাৰা প্ৰৱৰ্তিত ভাৰত-অভিযোজিত WHO MEC Wheel-ৰ এটা ইলেক্ট্ৰনিক সংস্কৰণ।</p>\n</div>"
           }
         },
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>এই হুইলে গর্ভনিরোধক পদ্ধতির ব্যবহার শুরু করার চিকিৎসাগত যোগ্যতার নির্ণায়ক বর্ণিত হয়েছে। এটি গর্ভনিরোধক ব্যবহারের জন্য WHO MEC হুইল (2022-এ আপডেট) থেকে গৃহীত হয়েছে এবং গর্ভনিরোধক ব্যবহারের জন্য চিকিৎসাগত যোগ্যতার নির্ণায়ক, 4র্থ ও 5ম সংস্করণের (2008 ও 2022) ভিত্তিতে করা হয়েছে। এটি চিকিৎসাগত সমস্যায় আক্রান্ত বা চিকিৎসাগতভাবে প্রাসঙ্গিক বৈশিষ্ট্য যুক্ত মহিলাদের সুরক্ষিত ও কার্যকর গর্ভনিরোধক পদ্ধতি সুপারিশ করতে পরিবার পরিকল্পনা প্রদানকারীদের পরামর্শ দেয়। <br /><br />হুইলে গর্ভনিরোধকের সর্বপ্রধান সাত প্রকারের ব্যবহার শুরু করা সম্বন্ধে সুপারিশগুলি অন্তর্ভুক্ত হয়েছে:</p>\n  <ol>\n    <li>সম্মিলিত পিল (কম মাত্রায় সম্মিলিত খাওয়ার গর্ভনিরোধক,  &lt; 35 Ug এথিনাইলেস্ট্রাডিওল যুক্ত) ও সম্মিলিত ইনজেকশন-যোগ্য গর্ভনিরোধক। </li>\n    <li>সেন্টক্রোমান পিল ।</li>\n    <li>শুধুমাত্র প্রোজেস্টোজেন পিল।</li>\n    <li>শুধুমাত্র প্রোজেস্টোজেন ইনজেকশন-যোগ্য। DMPA (3-মাসে ইনজেকশন-যোগ্য) ও NET-EN (2-মাসে ইনজেকশন-যোগ্য)।</li>\n    <li>শুধুমাত্র প্রোজেস্টোজেন ইমপ্ল্যান্ট।</li>\n    <l>কপার-সমন্বিত IUCD।</li>\n    <li>লেভোনোরজেস্ট্রেল ইন্ট্রা ইউটেরিন ডিভাইস (LNG-IUD)।</li>\n  </ol>\n  <p><br />গর্ভনিরোধক পদ্ধতি শুরু করতে হুইলের পরামর্শ প্রযোজ্য হবে। পদ্ধতির ব্যবহার চলাকালীন কোনও মহিলা চিকিৎসাগত সমস্যায় আক্রান্ত হলে, পদ্ধতির ব্যবহার অব্যাহত রাখার সুপারিশ <strong>গর্ভনিরোধক ব্যবহারের জন্য চিকিৎসাগত যোগ্যতার নির্ণায়ক</strong>নির্দেশনায় পাওয়া যাবে।</p>\n  <p>এটি MoHFW কর্তৃক ভারত-গৃহিত WHO MEC Wheel-এর একটি ইলেকট্রনিক সংস্করণ।</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>এই হুইলে গর্ভনিরোধক পদ্ধতির ব্যবহার শুরু করার চিকিৎসাগত যোগ্যতার নির্ণায়ক বর্ণিত হয়েছে। এটি গর্ভনিরোধক ব্যবহারের জন্য WHO MEC হুইল (2022-এ আপডেট) থেকে গৃহীত হয়েছে এবং গর্ভনিরোধক ব্যবহারের জন্য চিকিৎসাগত যোগ্যতার নির্ণায়ক, 4র্থ ও 5ম সংস্করণের (2008 ও 2022) ভিত্তিতে করা হয়েছে। এটি চিকিৎসাগত সমস্যায় আক্রান্ত বা চিকিৎসাগতভাবে প্রাসঙ্গিক বৈশিষ্ট্য যুক্ত মহিলাদের সুরক্ষিত ও কার্যকর গর্ভনিরোধক পদ্ধতি সুপারিশ করতে পরিবার পরিকল্পনা প্রদানকারীদের পরামর্শ দেয়। <br />হুইলে গর্ভনিরোধকের সর্বপ্রধান সাত প্রকারের ব্যবহার শুরু করা সম্বন্ধে সুপারিশগুলি অন্তর্ভুক্ত হয়েছে:</p>\n  <ol>\n    <li>সম্মিলিত পিল (কম মাত্রায় সম্মিলিত খাওয়ার গর্ভনিরোধক,  &lt; 35 Ug এথিনাইলেস্ট্রাডিওল যুক্ত) ও সম্মিলিত ইনজেকশন-যোগ্য গর্ভনিরোধক। </li>\n    <li>সেন্টক্রোমান পিল ।</li>\n    <li>শুধুমাত্র প্রোজেস্টোজেন পিল।</li>\n    <li>শুধুমাত্র প্রোজেস্টোজেন ইনজেকশন-যোগ্য। DMPA (3-মাসে ইনজেকশন-যোগ্য) ও NET-EN (2-মাসে ইনজেকশন-যোগ্য)।</li>\n    <li>শুধুমাত্র প্রোজেস্টোজেন ইমপ্ল্যান্ট।</li>\n    <l>কপার-সমন্বিত IUCD।</li>\n    <li>লেভোনোরজেস্ট্রেল ইন্ট্রা ইউটেরিন ডিভাইস (LNG-IUD)।</li>\n  </ol>\n  <p><br />গর্ভনিরোধক পদ্ধতি শুরু করতে হুইলের পরামর্শ প্রযোজ্য হবে। পদ্ধতির ব্যবহার চলাকালীন কোনও মহিলা চিকিৎসাগত সমস্যায় আক্রান্ত হলে, পদ্ধতির ব্যবহার অব্যাহত রাখার সুপারিশ <strong><i>গর্ভনিরোধক ব্যবহারের জন্য চিকিৎসাগত যোগ্যতার নির্ণায়ক</i></strong>নির্দেশনায় পাওয়া যাবে।</p>\n  <p>এটি MoHFW কর্তৃক ভারত-গৃহিত WHO MEC Wheel-এর একটি ইলেকট্রনিক সংস্করণ।</p>\n</div>"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br /><br />The wheel includes recommendations on initiating use of seven common types of contraceptives :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the <strong>Medical Eligibility Criteria for Contraceptive Use</strong> guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>This wheel contains the medical eligibility criteria for starting use of contraceptive methods. It has been adapted from WHO MEC Wheel for contraceptive use (2022 update) and is based on Medical Eligibility Criteria for Contraceptive Use, 4th and 5th edition (2008 and 2022). It guides family planning providers in recommending safe and effective contraceptive methods for women with medical conditions or medically-relevant characteristics.<br />The wheel includes recommendations on initiating use of seven common types of contraceptives :</p>\n  <ol>\n    <li>Combined pills (low dose combined oral contraceptives, with &lt; 35 Ug ethinylestradiol) and combined injectable contraceptives</li>\n    <li>Centchroman pills</li>\n    <li>Progestogen-only pills</li>\n    <li>Progestogen-only injectables. DMPA (a 3-monthly injectable) and NET-EN (a 2-monthly injectable)</li>\n    <li>Progestogen-only implants</li>\n    <li>Copper-bearing IUCD</li>\n    <li>Levonorgestrel Intra Uterine Device (LNG-IUD)</li>\n  </ol>\n  <p><br />The guidance in the wheel applies to initiation of contraceptive methods. Recommendations for continuation of method use, when a woman develops a medical condition while using the method, can be found in the <strong>Medical Eligibility Criteria for Contraceptive Use</strong> guidelines.</p>\n  <p>This is an e-version of India-adapted WHO MEC Wheel by MoHFW</p>\n</div>"
           }
         },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>આ વ્હિલ ગર્ભનિરોધકની પદ્ધતિઓનો ઉપયોગ શરૂ કરવા માટેના તબીબી પાત્રતાના માપદંડો ધરાવે છે. તેને ગર્ભનિરોધકના ઉપયોગ માટે WHO MEC વ્હિલમાંથી લેવામાં આવ્યાં છે (વર્ષ 2022નું અપડેટ) અને તે મેડિકલ એલિજિબિલિટી ક્રાઇટેરિયા ફોર કૉન્ટ્રાસેપ્ટિવ યુઝ, ચોથી અને પાંચમી આવૃત્તિ (અનુક્રમે વર્ષ 2008 અને વર્ષ 2022) પર આધારિત છે. તે કોઈ ચોક્કસ તબીબી સ્થિતિ કે તબીબી રીતે સંબંધિત લાક્ષણિકતાઓ ધરાવતી મહિલાઓ માટે ગર્ભનિરોધકની સલામત અને અસરકારક પદ્ધતિઓની ભલામણ કરવામાં કુટુંબ નિયોજન કરનારા પરિવારને માર્ગદર્શન પૂરું પાડે છે.<br /><br />આ વ્હિલમાં ગર્ભનિરોધકના સાત સર્વસામાન્ય પ્રકારોનો ઉપયોગ શરૂ કરવા અંગેની ભલામણોનો સમાવેશ કરવામાં આવ્યો છે :</p>\n  <ol>\n    <li>કમ્બાઇન્ડ પિલ્સ (સાથે લેવાની ગોળીઓ) (ઓછા ડૉઝની મોં વાટે લેવાની કમ્બાઇન્ડ ગર્ભનિરોધક ગોળીઓ, જેમાં < 35 Ug એથિનીલેસ્ટ્રેડિયલ આવે છે) અને કમ્બાઇન્ડ ઇન્જેક્ટેબલ ગર્ભનિરોધકો)</li>\n    <li>સેન્ટક્રોમેન પિલ્સ</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી પિલ્સ</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સ. DMPA (ત્રિ-માસિક ઇન્જેક્ટેબ) અને NET-EN (દ્વિ-માસિક ઇન્જેક્ટેબલ)</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પાન્ટ્સ</li>\n    <li>કૉપરયુક્ત IUCD</li>\n    <li>લેવોનોરજેસ્ટ્રલ ઇન્ટ્રા યુટેરાઇન ડીવાઇઝ (LNG-IUD)</li>\n  </ol>\n  <p><br />વ્હિલમાં આપવામાં આવેલું માર્ગદર્શન ગર્ભનિરોધક પદ્ધતિઓની શરૂઆત કરવા માટે લાગુ થાય છે. આ પદ્ધતિનો ઉપયોગ કરતી વખતે જો કોઈ સ્ત્રીમાં કોઈ તબીબી સ્થિતિ વિકસે ત્યારે આ પદ્ધતિનો ઉપયોગ ચાલું રાખવા માટેની ભલામણો <strong>મેડિકલ એલિજિબિલિટી ક્રાઇટેરિયા ફોર કૉન્ટ્રાસેપ્ટિવ યુઝ</strong> નામની માર્ગદર્શિકામાંથી મળી જશે.</p>\n  <p>તે MoHFW દ્વારા તૈયાર કરવામાં આવેલા ઇન્ડિયા-એડેપ્ટેડ ડબ્લ્યુએચઓ એમઇસી વ્હિલ 2022ની ઈ-આવૃત્તિ છે.</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>આ વ્હિલ ગર્ભનિરોધકની પદ્ધતિઓનો ઉપયોગ શરૂ કરવા માટેના તબીબી પાત્રતાના માપદંડો ધરાવે છે. તેને ગર્ભનિરોધકના ઉપયોગ માટે WHO MEC વ્હિલમાંથી લેવામાં આવ્યાં છે (વર્ષ 2022નું અપડેટ) અને તે મેડિકલ એલિજિબિલિટી ક્રાઇટેરિયા ફોર કૉન્ટ્રાસેપ્ટિવ યુઝ, ચોથી અને પાંચમી આવૃત્તિ (અનુક્રમે વર્ષ 2008 અને વર્ષ 2022) પર આધારિત છે. તે કોઈ ચોક્કસ તબીબી સ્થિતિ કે તબીબી રીતે સંબંધિત લાક્ષણિકતાઓ ધરાવતી મહિલાઓ માટે ગર્ભનિરોધકની સલામત અને અસરકારક પદ્ધતિઓની ભલામણ કરવામાં કુટુંબ નિયોજન કરનારા પરિવારને માર્ગદર્શન પૂરું પાડે છે.<br />આ વ્હિલમાં ગર્ભનિરોધકના સાત સર્વસામાન્ય પ્રકારોનો ઉપયોગ શરૂ કરવા અંગેની ભલામણોનો સમાવેશ કરવામાં આવ્યો છે :</p>\n  <ol>\n    <li>કમ્બાઇન્ડ પિલ્સ (સાથે લેવાની ગોળીઓ) (ઓછા ડૉઝની મોં વાટે લેવાની કમ્બાઇન્ડ ગર્ભનિરોધક ગોળીઓ, જેમાં < 35 Ug એથિનીલેસ્ટ્રેડિયલ આવે છે) અને કમ્બાઇન્ડ ઇન્જેક્ટેબલ ગર્ભનિરોધકો)</li>\n    <li>સેન્ટક્રોમેન પિલ્સ</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી પિલ્સ</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી ઇન્જેક્ટેબલ્સ. DMPA (ત્રિ-માસિક ઇન્જેક્ટેબ) અને NET-EN (દ્વિ-માસિક ઇન્જેક્ટેબલ)</li>\n    <li>પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પાન્ટ્સ</li>\n    <li>કૉપરયુક્ત IUCD</li>\n    <li>લેવોનોરજેસ્ટ્રલ ઇન્ટ્રા યુટેરાઇન ડીવાઇઝ (LNG-IUD)</li>\n  </ol>\n  <p><br />વ્હિલમાં આપવામાં આવેલું માર્ગદર્શન ગર્ભનિરોધક પદ્ધતિઓની શરૂઆત કરવા માટે લાગુ થાય છે. આ પદ્ધતિનો ઉપયોગ કરતી વખતે જો કોઈ સ્ત્રીમાં કોઈ તબીબી સ્થિતિ વિકસે ત્યારે આ પદ્ધતિનો ઉપયોગ ચાલું રાખવા માટેની ભલામણો <strong><i>મેડિકલ એલિજિબિલિટી ક્રાઇટેરિયા ફોર કૉન્ટ્રાસેપ્ટિવ યુઝ<i></strong> નામની માર્ગદર્શિકામાંથી મળી જશે.</p>\n  <p>તે MoHFW દ્વારા તૈયાર કરવામાં આવેલા ઇન્ડિયા-એડેપ્ટેડ ડબ્લ્યુએચઓ એમઇસી વ્હિલ 2022ની ઈ-આવૃત્તિ છે.</p>\n</div>"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>यह व्हील गर्भनिरोधक तरीकों का उपयोग प्रारंभ करने के लिए चिकित्सा पात्रता मानदंड सम्मिलित करता है। गर्भनिरोधक उपयोग (2022 अपडेट) के लिए इसे  WHO MEC व्हील से अनुकूलित किया है और यह गर्भनिरोधक उपयोग, चौथे और पांचवे संस्करण (2008 और 2022) के लिए चिकित्सा पात्रता मानदंड पर आधारित है। यह परिवार नियोजन प्रदाताओं को मार्गदर्शन प्रदान करता है जो प्रदाताओं द्वारा चिकित्सा स्थितियों या चिकित्सकीय रूप से संबंधित लक्षणों वाली महिलाओं के लिए सुरक्षित और प्रभावी गर्भनिरोधक तरीकों के सुझाव देने के लिए होता है।<br /><br />सात सामान्य प्रकार के गर्भ निरोधकों का उपयोग प्रारंभ करने की सिफारिशें व्हील में सम्मिलित हैं:</p>\n  <ol>\n    <li>कंबाइंड (संयुक्त) गोलियाँ (कम खुराक वाली कंबाइंड मौखिक गर्भनिरोधक, < 35 Ug एथिनिल एस्ट्राडियोल के साथ) और कंबाइंड इंजेक्शन योग्य गर्भनिरोधक</li>\n    <li>सेंटक्रोमन गोलियाँ</li>\n    <li>प्रोजेस्टोजेन-केवल गोलियाँ</li>\n    <li> प्रोजेस्टोजेन-केवल इंजेक्शन। DMPA (a 3-मासिक इंजेक्शन) और NET-EN (a 2-मासिक इंजेक्शन)</li>\n    <li> प्रोजेस्टोजन-केवल इम्प्लांट</li>\n    <li>कॉपर युक्त IUCD</li>\n    <li>लेवोनोर्गेस्ट्रेल इंट्रा यूटरिन डिवाइस (LNG-IUD)</li>\n  </ol>\n  <p><br />व्हील में दिया गया मार्गदर्शन गर्भनिरोधक विधियों के प्रारंभ पर लागू होता है। विधि का उपयोग करते समय जब किसी महिला में कोई चिकित्सीय स्थिति विकसित हो जाती है, तो विधि के उपयोग को जारी रखने की अनुशंसाएं <strong>गर्भनिरोधक उपयोग के लिए चिकित्सा पात्रता मानदंड</strong> दिशानिर्देशों में पाई जा सकती हैं।</p>\n  <p>यह स्वास्थ्य और परिवार कल्याण मंत्रालय द्वारा भारत के लिए अनुकूलित किए गए WHO MEC व्हील का ई-संस्करण है। Wheel by MoHFW</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>यह व्हील गर्भनिरोधक तरीकों का उपयोग प्रारंभ करने के लिए चिकित्सा पात्रता मानदंड सम्मिलित करता है। गर्भनिरोधक उपयोग (2022 अपडेट) के लिए इसे  WHO MEC व्हील से अनुकूलित किया है और यह गर्भनिरोधक उपयोग, चौथे और पांचवे संस्करण (2008 और 2022) के लिए चिकित्सा पात्रता मानदंड पर आधारित है। यह परिवार नियोजन प्रदाताओं को मार्गदर्शन प्रदान करता है जो प्रदाताओं द्वारा चिकित्सा स्थितियों या चिकित्सकीय रूप से संबंधित लक्षणों वाली महिलाओं के लिए सुरक्षित और प्रभावी गर्भनिरोधक तरीकों के सुझाव देने के लिए होता है।<br />सात सामान्य प्रकार के गर्भ निरोधकों का उपयोग प्रारंभ करने की सिफारिशें व्हील में सम्मिलित हैं:</p>\n  <ol>\n    <li>कंबाइंड (संयुक्त) गोलियाँ (कम खुराक वाली कंबाइंड मौखिक गर्भनिरोधक, < 35 Ug एथिनिल एस्ट्राडियोल के साथ) और कंबाइंड इंजेक्शन योग्य गर्भनिरोधक</li>\n    <li>सेंटक्रोमन गोलियाँ</li>\n    <li>प्रोजेस्टोजेन-केवल गोलियाँ</li>\n    <li> प्रोजेस्टोजेन-केवल इंजेक्शन। DMPA (a 3-मासिक इंजेक्शन) और NET-EN (a 2-मासिक इंजेक्शन)</li>\n    <li> प्रोजेस्टोजन-केवल इम्प्लांट</li>\n    <li>कॉपर युक्त IUCD</li>\n    <li>लेवोनोर्गेस्ट्रेल इंट्रा यूटरिन डिवाइस (LNG-IUD)</li>\n  </ol>\n  <p><br />व्हील में दिया गया मार्गदर्शन गर्भनिरोधक विधियों के प्रारंभ पर लागू होता है। विधि का उपयोग करते समय जब किसी महिला में कोई चिकित्सीय स्थिति विकसित हो जाती है, तो विधि के उपयोग को जारी रखने की अनुशंसाएं गर्भनिरोधक उपयोग के लिए चिकित्सा पात्रता मानदंड दिशानिर्देशों में पाई जा सकती हैं।</p>\n  <p>यह स्वास्थ्य और परिवार कल्याण मंत्रालय द्वारा भारत के लिए अनुकूलित किए गए WHO MEC व्हील का ई-संस्करण है। Wheel by MoHFW</p>\n</div>"
           }
         },
         "kn-IN" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ಈ ಚಕ್ರವು ಗರ್ಭನಿರೋಧಕ ವಿಧಾನಗಳ ಬಳಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ವೈದ್ಯಕೀಯ ಅರ್ಹತಾ ಮಾನದಂಡಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದನ್ನು ಗರ್ಭನಿರೋಧಕ ಬಳಕೆಗಾಗಿ (2022 ನವೀಕರಣ) WHO MEC ಚಕ್ರದಿಂದ ಅಳವಡಿಸಿಕೊಳ್ಳಲಾಗಿದೆ ಮತ್ತು ಗರ್ಭನಿರೋಧಕ ಬಳಕೆಗಾಗಿ ವೈದ್ಯಕೀಯ ಅರ್ಹತಾ ಮಾನದಂಡಗಳು, 4 ಮತ್ತು 5ನೇ ಆವೃತ್ತಿಯನ್ನು (2008 ಮತ್ತು 2022) ಆಧರಿಸಿದೆ. ವೈದ್ಯಕೀಯ ಪರಿಸ್ಥಿತಿಗಳು ಅಥವಾ ವೈದ್ಯಕೀಯ-ಸಂಬಂಧಿತ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುವ ಮಹಿಳೆಯರಿಗೆ ಸುರಕ್ಷಿತ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ ಗರ್ಭನಿರೋಧಕ ವಿಧಾನಗಳನ್ನು ಶಿಫಾರಸು ಮಾಡಲು ಇದು ಕುಟುಂಬ ಯೋಜನಾ ಪೂರೈಕೆದಾರರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತದೆ. <br /><br />ಚಕ್ರವು ಏಳು ಸಾಮಾನ್ಯ ರೀತಿಯ ಗರ್ಭನಿರೋಧಕಗಳ ಬಳಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಬಗ್ಗೆ ಶಿಫಾರಸುಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:</p>\n  <ol>\n    <li>ಸಂಯೋಜಿತ ಮಾತ್ರೆಗಳು (ಕಡಿಮೆ ಡೋಸ್ ಸಂಯೋಜಿತ ಮೌಖಿಕ ಗರ್ಭನಿರೋಧಕಗಳು,  &lt; 35 Ug ಎಥಿನೈಲೆಸ್ಟ್ರಾಡಿಯೋಲ್ ಜೊತೆ) ಮತ್ತು ಸಂಯೋಜಿತ ಚುಚ್ಚುಮದ್ದಿನ ಗರ್ಭನಿರೋಧಕಗಳು.</li>\n    <li>ಸೆಂಟ್ಕ್ರೋಮನ್ ಮಾತ್ರೆಗಳು. </li>\n    <li>ಪ್ರೊಜೆಸ್ಟೋಜೆನ್-ಮಾತ್ರ ಮಾತ್ರೆಗಳು.</li>\n    <li>ಪ್ರೊಜೆಸ್ಟೋಜೆನ್-ಮಾತ್ರ ಚುಚ್ಚುಮದ್ದುಗಳು. DMPA (3-ಮಾಸಿಕ ಚುಚ್ಚುಮದ್ದು) ಮತ್ತು NET-EN (2-ಮಾಸಿಕ ಚುಚ್ಚುಮದ್ದು)</li>\n    <li>ಪ್ರೊಜೆಸ್ಟೋಜೆನ್-ಮಾತ್ರದ ಅಳವಡಿಕೆಗಳು.</li>\n    <li>ತಾಮ್ರವನ್ನು ಹೊಂದಿರುವ IUCD.</li>\n    <li>ಲೆವೊನೊರ್ಗೆಸ್ಟ್ರೆಲ್ ಆಂತರಿಕ ಗರ್ಭಾಶಯದ ಸಾಧನ (LNG-IUD).</li>\n  </ol>\n  <p><br />ಚಕ್ರದಲ್ಲಿನ ಮಾರ್ಗದರ್ಶನವು ಗರ್ಭನಿರೋಧಕ ವಿಧಾನಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವುದಕ್ಕೆ ಅನ್ವಯಿಸುತ್ತದೆ. ಮಹಿಳೆಯು ವಿಧಾನವನ್ನು ಬಳಸುವಾಗ ವೈದ್ಯಕೀಯ ಸ್ಥಿತಿ ಬೆಳವಣಿಗೆಯಾದಲ್ಲಿ, ವಿಧಾನದ ಬಳಕೆಯನ್ನು ಮುಂದುವರಿಸುವ ಶಿಫಾರಸುಗಳನ್ನು <strong>ಗರ್ಭನಿರೋಧಕ ಬಳಕೆಗೆ ವೈದ್ಯಕೀಯ ಅರ್ಹತಾ ಮಾನದಂಡಗಳು </strong> ಮಾರ್ಗದರ್ಶಿಯಲ್ಲಿ ಕಾಣಬಹುದು.</p>\n  <p>ಇದು ಎಂಒಎಚ್ಎಫ್‌ಡಬ್ಲ್ಯೂನ ಭಾರತ-ಅಳವಡಿಸಿಕೊಂಡ ಡಬ್ಲ್ಯುಎಚ್ಒ ಎಂಇಸಿ ಚಕ್ರದ ಇ-ಆವೃತ್ತಿಯಾಗಿದೆ.</p>\n</div>"
+            "state" : "needs_review",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ಈ ಚಕ್ರವು ಗರ್ಭನಿರೋಧಕ ವಿಧಾನಗಳ ಬಳಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ವೈದ್ಯಕೀಯ ಅರ್ಹತಾ ಮಾನದಂಡಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದನ್ನು ಗರ್ಭನಿರೋಧಕ ಬಳಕೆಗಾಗಿ (2022 ನವೀಕರಣ) WHO MEC ಚಕ್ರದಿಂದ ಅಳವಡಿಸಿಕೊಳ್ಳಲಾಗಿದೆ ಮತ್ತು ಗರ್ಭನಿರೋಧಕ ಬಳಕೆಗಾಗಿ ವೈದ್ಯಕೀಯ ಅರ್ಹತಾ ಮಾನದಂಡಗಳು, 4 ಮತ್ತು 5ನೇ ಆವೃತ್ತಿಯನ್ನು (2008 ಮತ್ತು 2022) ಆಧರಿಸಿದೆ. ವೈದ್ಯಕೀಯ ಪರಿಸ್ಥಿತಿಗಳು ಅಥವಾ ವೈದ್ಯಕೀಯ-ಸಂಬಂಧಿತ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುವ ಮಹಿಳೆಯರಿಗೆ ಸುರಕ್ಷಿತ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ ಗರ್ಭನಿರೋಧಕ ವಿಧಾನಗಳನ್ನು ಶಿಫಾರಸು ಮಾಡಲು ಇದು ಕುಟುಂಬ ಯೋಜನಾ ಪೂರೈಕೆದಾರರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತದೆ. <br />ಚಕ್ರವು ಏಳು ಸಾಮಾನ್ಯ ರೀತಿಯ ಗರ್ಭನಿರೋಧಕಗಳ ಬಳಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಬಗ್ಗೆ ಶಿಫಾರಸುಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:</p>\n  <ol>\n    <li>ಸಂಯೋಜಿತ ಮಾತ್ರೆಗಳು (ಕಡಿಮೆ ಡೋಸ್ ಸಂಯೋಜಿತ ಮೌಖಿಕ ಗರ್ಭನಿರೋಧಕಗಳು,  &lt; 35 Ug ಎಥಿನೈಲೆಸ್ಟ್ರಾಡಿಯೋಲ್ ಜೊತೆ) ಮತ್ತು ಸಂಯೋಜಿತ ಚುಚ್ಚುಮದ್ದಿನ ಗರ್ಭನಿರೋಧಕಗಳು.</li>\n    <li>ಸೆಂಟ್ಕ್ರೋಮನ್ ಮಾತ್ರೆಗಳು. </li>\n    <li>ಪ್ರೊಜೆಸ್ಟೋಜೆನ್-ಮಾತ್ರ ಮಾತ್ರೆಗಳು.</li>\n    <li>ಪ್ರೊಜೆಸ್ಟೋಜೆನ್-ಮಾತ್ರ ಚುಚ್ಚುಮದ್ದುಗಳು. DMPA (3-ಮಾಸಿಕ ಚುಚ್ಚುಮದ್ದು) ಮತ್ತು NET-EN (2-ಮಾಸಿಕ ಚುಚ್ಚುಮದ್ದು)</li>\n    <li>ಪ್ರೊಜೆಸ್ಟೋಜೆನ್-ಮಾತ್ರದ ಅಳವಡಿಕೆಗಳು.</li>\n    <li>ತಾಮ್ರವನ್ನು ಹೊಂದಿರುವ IUCD.</li>\n    <li>ಲೆವೊನೊರ್ಗೆಸ್ಟ್ರೆಲ್ ಆಂತರಿಕ ಗರ್ಭಾಶಯದ ಸಾಧನ (LNG-IUD).</li>\n  </ol>\n  <p><br />ಚಕ್ರದಲ್ಲಿನ ಮಾರ್ಗದರ್ಶನವು ಗರ್ಭನಿರೋಧಕ ವಿಧಾನಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವುದಕ್ಕೆ ಅನ್ವಯಿಸುತ್ತದೆ. ಮಹಿಳೆಯು ವಿಧಾನವನ್ನು ಬಳಸುವಾಗ ವೈದ್ಯಕೀಯ ಸ್ಥಿತಿ ಬೆಳವಣಿಗೆಯಾದಲ್ಲಿ, ವಿಧಾನದ ಬಳಕೆಯನ್ನು ಮುಂದುವರಿಸುವ ಶಿಫಾರಸುಗಳನ್ನು <strong><i>ಗರ್ಭನಿರೋಧಕ ಬಳಕೆಗೆ ವೈದ್ಯಕೀಯ ಅರ್ಹತಾ ಮಾನದಂಡಗಳು </i></strong> ಮಾರ್ಗದರ್ಶಿಯಲ್ಲಿ ಕಾಣಬಹುದು.</p>\n  <p>ಇದು ಎಂಒಎಚ್ಎಫ್‌ಡಬ್ಲ್ಯೂನ ಭಾರತ-ಅಳವಡಿಸಿಕೊಂಡ ಡಬ್ಲ್ಯುಎಚ್ಒ ಎಂಇಸಿ ಚಕ್ರದ ಇ-ಆವೃತ್ತಿಯಾಗಿದೆ.</p>\n</div>"
           }
         },
         "ml-IN" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ഗർഭനിരോധന മാർഗ്ഗങ്ങളുടെ ഉപയോഗം ആരംഭിക്കുന്നതിനുള്ള മെഡിക്കൽ യോഗ്യതാ മാനദണ്ഡങ്ങൾ ഈ ചക്രത്തിൽ അടങ്ങിയിരിക്കുന്നു. ഗർഭനിരോധന ഉപയോഗത്തിനായി WHO MEC ചക്രത്തിൽ നിന്നാണ് ഇത് സ്വീകരിച്ചത് (2022 അപ്ഡേറ്റ്), കൂടാതെ ഇത് ഗർഭനിരോധന ഉപയോഗത്തിനുള്ള മെഡിക്കൽ യോഗ്യതാ മാനദണ്ഡം, 4-ഉം 5-ഉം പതിപ്പുകൾ (2008, 2022) എന്നിവയെ അടിസ്ഥാനമാക്കിയുള്ളതാണ്. ഇത് രോഗാവസ്ഥകളോ വൈദ്യശാസ്ത്രപരമായി പ്രസക്തമായ സവിശേഷതകളോ ഉള്ള സ്ത്രീകൾക്ക് സുരക്ഷിതവും ഫലപ്രദവുമായ ഗർഭനിരോധന മാർഗ്ഗങ്ങൾ ശുപാർശ ചെയ്യുന്നതിൽ കുടുംബാസൂത്രണ ദാതാക്കളെ നയിക്കുന്നു.<br /><br />ഏഴ് സാധാരണ ഗർഭനിരോധന മാർഗ്ഗങ്ങളുടെ ഉപയോഗം ആരംഭിക്കുന്നതിനുള്ള ശുപാർശകൾ ചക്രത്തിൽ ഉൾപ്പെടുന്നു : </p>\n  <ol>\n    <li>സംയോജിത ഗുളികകൾ (കുറഞ്ഞ ഡോസിൽ സംയോജിതമായി വായിലൂടെ കഴിക്കുന്ന ഗർഭനിരോധന മാർഗ്ഗങ്ങൾ, &lt; 35 Ug എഥിനൈലെസ്ട്രാഡിയോൾ) ഒപ്പം കുത്തിവയ്ക്കാവുന്ന ഗർഭനിരോധന മാർഗ്ഗങ്ങളും.</li>\n    <li>സെന്റ്ക്രോമൻ ഗുളികകൾ.</li>\n    <li>പ്രോജസ്റ്റോജൻ മാത്രമുള്ള ഗുളികകൾ.</li>\n    <li>പ്രോജസ്റ്റോജൻ മാത്രമുള്ള കുത്തിവയ്പ്പുകൾ. DMPA (3-മാസ കുത്തിവയ്പ്പ്), NET-EN (2-മാസ കുത്തിവയ്പ്പ്).</li>\n    <li>പ്രോജസ്റ്റോജൻ മാത്രമുള്ള ഇംപ്ലാന്റുകൾ.</li>\n    <li>കോപ്പർ-ബെയറിംഗ് IUCD.</li>\n    <li>ലെവോനോജെസ്ട്രെൽ ഇൻട്രാ യുട്ടെറൈൻ ഡിവൈസ് (LNG-IUD)</li>\n  </ol>\n  <p><br />ചക്രത്തിലെ മാർഗ്ഗനിർദ്ദേശം ഗർഭനിരോധന മാർഗ്ഗങ്ങൾ ആരംഭിക്കുന്നതിന് ബാധകമാണ്. ഈ രീതി ഉപയോഗിക്കുമ്പോൾ ഒരു സ്ത്രീക്ക് ആരോഗ്യപ്രശ്നങ്ങൾ ഉണ്ടാകുമ്പോൾ, ഉപയോഗം തുടരുന്നതിനുള്ള ശുപാർശകൾ, <strong>ഗർഭനിരോധന ഉപയോഗ മാർഗ്ഗനിർദ്ദേശങ്ങൾക്കായുള്ള മെഡിക്കൽ യോഗ്യതാ മാനദണ്ഡത്തിൽ</strong> കാണാം.</p>\n  <p>MoHFW-ന്റെ ഇന്ത്യയ്ക്ക് അനുരൂപമാക്കിയ WHO MEC ചക്രത്തിന്റെ ഇ-പതിപ്പാണിത്.</p>\n</div>"
+            "state" : "needs_review",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ഗർഭനിരോധന മാർഗ്ഗങ്ങളുടെ ഉപയോഗം ആരംഭിക്കുന്നതിനുള്ള മെഡിക്കൽ യോഗ്യതാ മാനദണ്ഡങ്ങൾ ഈ ചക്രത്തിൽ അടങ്ങിയിരിക്കുന്നു. ഗർഭനിരോധന ഉപയോഗത്തിനായി WHO MEC ചക്രത്തിൽ നിന്നാണ് ഇത് സ്വീകരിച്ചത് (2022 അപ്ഡേറ്റ്), കൂടാതെ ഇത് ഗർഭനിരോധന ഉപയോഗത്തിനുള്ള മെഡിക്കൽ യോഗ്യതാ മാനദണ്ഡം, 4-ഉം 5-ഉം പതിപ്പുകൾ (2008, 2022) എന്നിവയെ അടിസ്ഥാനമാക്കിയുള്ളതാണ്. ഇത് രോഗാവസ്ഥകളോ വൈദ്യശാസ്ത്രപരമായി പ്രസക്തമായ സവിശേഷതകളോ ഉള്ള സ്ത്രീകൾക്ക് സുരക്ഷിതവും ഫലപ്രദവുമായ ഗർഭനിരോധന മാർഗ്ഗങ്ങൾ ശുപാർശ ചെയ്യുന്നതിൽ കുടുംബാസൂത്രണ ദാതാക്കളെ നയിക്കുന്നു.<br />ഏഴ് സാധാരണ ഗർഭനിരോധന മാർഗ്ഗങ്ങളുടെ ഉപയോഗം ആരംഭിക്കുന്നതിനുള്ള ശുപാർശകൾ ചക്രത്തിൽ ഉൾപ്പെടുന്നു : </p>\n  <ol>\n    <li>സംയോജിത ഗുളികകൾ (കുറഞ്ഞ ഡോസിൽ സംയോജിതമായി വായിലൂടെ കഴിക്കുന്ന ഗർഭനിരോധന മാർഗ്ഗങ്ങൾ, &lt; 35 Ug എഥിനൈലെസ്ട്രാഡിയോൾ) ഒപ്പം കുത്തിവയ്ക്കാവുന്ന ഗർഭനിരോധന മാർഗ്ഗങ്ങളും.</li>\n    <li>സെന്റ്ക്രോമൻ ഗുളികകൾ.</li>\n    <li>പ്രോജസ്റ്റോജൻ മാത്രമുള്ള ഗുളികകൾ.</li>\n    <li>പ്രോജസ്റ്റോജൻ മാത്രമുള്ള കുത്തിവയ്പ്പുകൾ. DMPA (3-മാസ കുത്തിവയ്പ്പ്), NET-EN (2-മാസ കുത്തിവയ്പ്പ്).</li>\n    <li>പ്രോജസ്റ്റോജൻ മാത്രമുള്ള ഇംപ്ലാന്റുകൾ.</li>\n    <li>കോപ്പർ-ബെയറിംഗ് IUCD.</li>\n    <li>ലെവോനോജെസ്ട്രെൽ ഇൻട്രാ യുട്ടെറൈൻ ഡിവൈസ് (LNG-IUD)</li>\n  </ol>\n  <p><br />ചക്രത്തിലെ മാർഗ്ഗനിർദ്ദേശം ഗർഭനിരോധന മാർഗ്ഗങ്ങൾ ആരംഭിക്കുന്നതിന് ബാധകമാണ്. ഈ രീതി ഉപയോഗിക്കുമ്പോൾ ഒരു സ്ത്രീക്ക് ആരോഗ്യപ്രശ്നങ്ങൾ ഉണ്ടാകുമ്പോൾ, ഉപയോഗം തുടരുന്നതിനുള്ള ശുപാർശകൾ, <strong><i>ഗർഭനിരോധന ഉപയോഗ മാർഗ്ഗനിർദ്ദേശങ്ങൾക്കായുള്ള മെഡിക്കൽ യോഗ്യതാ മാനദണ്ഡത്തിൽ</i></strong> കാണാം.</p>\n  <p>MoHFW-ന്റെ ഇന്ത്യയ്ക്ക് അനുരൂപമാക്കിയ WHO MEC ചക്രത്തിന്റെ ഇ-പതിപ്പാണിത്.</p>\n</div>"
           }
         },
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ଗର୍ଭନିରୋଧନ ପ୍ରଣାଳୀର ବ୍ୟବହାର ଆରମ୍ଭ କରିବା ପାଇଁ ଏହି ହ୍ୱୀଲ୍‌ରେ ରହିଛି ଡାକ୍ତରୀ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ। ଏହାକୁ WHO MEC ଗର୍ଭନିରୋଧକ ବ୍ୟବହାର ପାଇଁ ହ୍ୱୀଲ୍ (2022 ଅଦ୍ୟତନ)ରୁ ଗ୍ରହଣ କରାଯାଇଛି ଏବଂ ଗର୍ଭନିରୋଧକ ବ୍ୟବହାର ପାଇଁ ଡାକ୍ତରୀ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ, 4ର୍ଥ ଓ 5ମ ସଂସ୍କରଣ (2008 ଓ 2022) ଉପରେ ଆଧାରିତ। ଏହା, ଡାକ୍ତରୀ ଅବସ୍ଥା କିମ୍ୱା ଡାକ୍ତରୀ ଭାବେ ପ୍ରାସଙ୍ଗିକ ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକ ସହିତ ମହିଳାମନଙ୍କ ପାଇଁ ସୁରକ୍ଷିତ ଓ ପ୍ରଭାବଶାଳୀ ଗର୍ଭନିରୋଧକ ପ୍ରଣାଳୀ ଏବଂ ସୁପାରିସ କରିବାରେ ପରିବାର ନିୟୋଜନ ପ୍ରଦାତାମାନଙ୍କର ମାର୍ଗଦର୍ଶନ କରିଥାଏ।<br />ହ୍<br />ୱୀଲ୍‌ରେ, ଗର୍ଭନିରୋଧକର ସାତୋଟି ସାଧାରଣ ପ୍ରକାରର ବ୍ୟବହାର ଆରମ୍ଭ କରିବା ଉପରେ ସୁପାରିସ ଅନ୍ତର୍ଭୁକ୍ତ ରହିଛି:</p>\n  <ol>\n    <li>ମିଶ୍ରିତ ବଟିକା (< 35 Ug ଏଥିନାଇଲେଷ୍ଟ୍ରେଡିଓଲ୍ ସହିତ ମୌଖିକ ଗର୍ଭନିରୋଧକର ନିମ୍ନ ମାତ୍ରା ମିଶାଯାଇଛି) ଏବଂ ମିଶ୍ରିତ ଇଞ୍ଜେକ୍ଟେବଲ୍ ଗର୍ଭନିରୋଧକ</li>\n    <li>ସେଣ୍ଟକ୍ରୋମନ୍ ବଟିକା</li>\n    <li>ପ୍ରୋଜେଷ୍ଟୋଜେନ୍-କେବଳ ବଟିକା</li>\n    <li>ପ୍ରୋଜେଷ୍ଟୋଜେନ୍-କେବଳ ଇଞ୍ଜେକ୍ଟେବଲ୍ସ। DMPA (ଏକ 3 ମାସିଆ ଇଞ୍ଜେକ୍ଟେବଲ୍) ଏବଂ NET-EN (ଏକ 2 ମାସିଆ ଇଞ୍ଜେକ୍ଟେବଲ୍)</li>\n    <li>ପ୍ରୋଜେଷ୍ଟୋଜେନ୍-କେବଳ ପ୍ରତ୍ୟାରୋପଣ</li>\n    <li>କପର୍-ଧାରଣ କରିଥିବା IUCD</li>\n    <li>ଲିଭୋନୋରଜେଷ୍ଟ୍ରେଲ୍ ଇଣ୍ଟ୍ରା ୟୁଟେରାଇନ୍ ଡିଭାଇସ୍ (LNG-IUD)</li>\n  </ol>\n  <p><br />ଗର୍ଭନିରୋଧକ ପ୍ରଣାଳୀ ଆରମ୍ଭ କରିବା ପାଇଁ ହ୍ୱୀଲ୍‌ରେ ଥିବା ମାର୍ଗଦର୍ଶନ ଲାଗୁ ହୋଇଥାଏ। ଯେତେବେଳେ କୌଣସି ମହିଳାଙ୍କଠାରେ ଏହି ପ୍ରଣାଳୀ ବ୍ୟବହାର କରିବା ସମୟରେ ଯଦି କୌଣସି ପ୍ରକାରର ଡାକ୍ତରୀ ଅବସ୍ଥା ବିକଶିତ ହୁଏ, ତେବେ ପ୍ରଣାଳୀ ବ୍ୟବହାରର ନିରନ୍ତରତା ନିମନ୍ତେ ସୁପାରିସଗୁଡ଼ିକ <strong>ଗର୍ଭନିରୋଧକ ବ୍ୟବହାର ପାଇଁ ଡାକ୍ତରୀ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ </strong>ମାର୍ଗଦର୍ଶନରେ ମିଳିପାରିବ।</p>\n  <p>ଏହା ହେଉଛି ଏକ MoHFW ଦ୍ୱାରା ଭାରତ-ଗୃହିତ WHO MEC ହ୍ୱୀଲ୍ ର ଇ-ସଂସ୍କରଣ  </p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ଗର୍ଭନିରୋଧନ ପ୍ରଣାଳୀର ବ୍ୟବହାର ଆରମ୍ଭ କରିବା ପାଇଁ ଏହି ହ୍ୱୀଲ୍‌ରେ ରହିଛି ଡାକ୍ତରୀ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ। ଏହାକୁ WHO MEC ଗର୍ଭନିରୋଧକ ବ୍ୟବହାର ପାଇଁ ହ୍ୱୀଲ୍ (2022 ଅଦ୍ୟତନ)ରୁ ଗ୍ରହଣ କରାଯାଇଛି ଏବଂ ଗର୍ଭନିରୋଧକ ବ୍ୟବହାର ପାଇଁ ଡାକ୍ତରୀ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ, 4ର୍ଥ ଓ 5ମ ସଂସ୍କରଣ (2008 ଓ 2022) ଉପରେ ଆଧାରିତ। ଏହା, ଡାକ୍ତରୀ ଅବସ୍ଥା କିମ୍ୱା ଡାକ୍ତରୀ ଭାବେ ପ୍ରାସଙ୍ଗିକ ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକ ସହିତ ମହିଳାମନଙ୍କ ପାଇଁ ସୁରକ୍ଷିତ ଓ ପ୍ରଭାବଶାଳୀ ଗର୍ଭନିରୋଧକ ପ୍ରଣାଳୀ ଏବଂ ସୁପାରିସ କରିବାରେ ପରିବାର ନିୟୋଜନ ପ୍ରଦାତାମାନଙ୍କର ମାର୍ଗଦର୍ଶନ କରିଥାଏ।<br />ହ୍ୱୀଲ୍‌ରେ, ଗର୍ଭନିରୋଧକର ସାତୋଟି ସାଧାରଣ ପ୍ରକାରର ବ୍ୟବହାର ଆରମ୍ଭ କରିବା ଉପରେ ସୁପାରିସ ଅନ୍ତର୍ଭୁକ୍ତ ରହିଛି:</p>\n  <ol>\n    <li>ମିଶ୍ରିତ ବଟିକା (< 35 Ug ଏଥିନାଇଲେଷ୍ଟ୍ରେଡିଓଲ୍ ସହିତ ମୌଖିକ ଗର୍ଭନିରୋଧକର ନିମ୍ନ ମାତ୍ରା ମିଶାଯାଇଛି) ଏବଂ ମିଶ୍ରିତ ଇଞ୍ଜେକ୍ଟେବଲ୍ ଗର୍ଭନିରୋଧକ</li>\n    <li>ସେଣ୍ଟକ୍ରୋମନ୍ ବଟିକା</li>\n    <li>ପ୍ରୋଜେଷ୍ଟୋଜେନ୍-କେବଳ ବଟିକା</li>\n    <li>ପ୍ରୋଜେଷ୍ଟୋଜେନ୍-କେବଳ ଇଞ୍ଜେକ୍ଟେବଲ୍ସ। DMPA (ଏକ 3 ମାସିଆ ଇଞ୍ଜେକ୍ଟେବଲ୍) ଏବଂ NET-EN (ଏକ 2 ମାସିଆ ଇଞ୍ଜେକ୍ଟେବଲ୍)</li>\n    <li>ପ୍ରୋଜେଷ୍ଟୋଜେନ୍-କେବଳ ପ୍ରତ୍ୟାରୋପଣ</li>\n    <li>କପର୍-ଧାରଣ କରିଥିବା IUCD</li>\n    <li>ଲିଭୋନୋରଜେଷ୍ଟ୍ରେଲ୍ ଇଣ୍ଟ୍ରା ୟୁଟେରାଇନ୍ ଡିଭାଇସ୍ (LNG-IUD)</li>\n  </ol>\n  <p><br />ଗର୍ଭନିରୋଧକ ପ୍ରଣାଳୀ ଆରମ୍ଭ କରିବା ପାଇଁ ହ୍ୱୀଲ୍‌ରେ ଥିବା ମାର୍ଗଦର୍ଶନ ଲାଗୁ ହୋଇଥାଏ। ଯେତେବେଳେ କୌଣସି ମହିଳାଙ୍କଠାରେ ଏହି ପ୍ରଣାଳୀ ବ୍ୟବହାର କରିବା ସମୟରେ ଯଦି କୌଣସି ପ୍ରକାରର ଡାକ୍ତରୀ ଅବସ୍ଥା ବିକଶିତ ହୁଏ, ତେବେ ପ୍ରଣାଳୀ ବ୍ୟବହାରର ନିରନ୍ତରତା ନିମନ୍ତେ ସୁପାରିସଗୁଡ଼ିକ ଗର୍ଭନିରୋଧକ ବ୍ୟବହାର ପାଇଁ ଡାକ୍ତରୀ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ ମାର୍ଗଦର୍ଶନରେ ମିଳିପାରିବ।</p>\n  <p>ଏହା ହେଉଛି ଏକ MoHFW ଦ୍ୱାରା ଭାରତ-ଗୃହିତ WHO MEC ହ୍ୱୀଲ୍ ର ଇ-ସଂସ୍କରଣ  </p>\n</div>"
           }
         },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ਇਸ ਵ੍ਹੀਲ ਵਿੱਚ ਗਰਭ ਨਿਰੋਧਕ ਵਿਧੀਆਂ ਦੀ ਵਰਤੋਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਡਾਕਟਰੀ ਯੋਗਤਾ ਦੇ ਮਾਪਦੰਡ ਸ਼ਾਮਲ ਹਨ। ਇਸਨੂੰ ਗਰਭ ਨਿਰੋਧਕ ਵਰਤੋਂ (2022 ਅਪਡੇਟ) ਲਈ WHO MEC ਵ੍ਹੀਲ ਤੋਂ ਅਨੁਕੂਲ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇਹ ਗਰਭ ਨਿਰੋਧਕ ਵਰਤੋਂ ਲਈ ਮੈਡੀਕਲ ਯੋਗਤਾ ਮਾਪਦੰਡਾਂ, ਚੌਥੇ ਅਤੇ ਪੰਜਵੇਂ ਸੰਸਕਰਣ (2008 ਅਤੇ 2022) 'ਤੇ ਅਧਾਰਿਤ ਹੈ। ਇਹ ਪਰਿਵਾਰ ਨਿਯੋਜਨ ਪ੍ਰਦਾਤਾਵਾਂ ਨੂੰ ਡਾਕਟਰੀ ਸਥਿਤੀਆਂ ਜਾਂ ਡਾਕਟਰੀ ਤੌਰ 'ਤੇ ਸੰਬੰਧਿਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਵਾਲੀਆਂ ਔਰਤਾਂ ਵਾਸਤੇ ਸੁਰੱਖਿਅਤ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਗਰਭ ਨਿਰੋਧਕ ਵਿਧੀਆਂ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕਰਨ ਵਿੱਚ ਮਾਰਗਦਰਸ਼ਨ ਕਰਦਾ ਹੈ।<br /><br />ਵ੍ਹੀਲ ਵਿੱਚ ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਸੱਤ ਆਮ ਕਿਸਮਾਂ ਦੇ ਗਰਭ ਨਿਰੋਧਕਾਂ ਦੀ ਵਰਤੋਂ ਸ਼ੁਰੂ ਕਰਨ ਦੀਆਂ ਸਿਫ਼ਾਰਸ਼ਾਂ ਸ਼ਾਮਲ ਹਨ:</p>\n  <ol>\n    <li>ਸੰਯੁਕਤ ਗੋਲੀਆਂ (ਘੱਟ ਖ਼ੁਰਾਕ ਵਾਲੀਆਂ ਸੰਯੁਕਤ ਮੌਖਿਕ ਗਰਭ ਨਿਰੋਧਕ, < 35 Ug ਐਥੀਨੀਅਲਸਟ੍ਰਾਡੀਓਲ ਦੇ ਨਾਲ) ਅਤੇ ਸੰਯੁਕਤ ਇੰਜੈਕਟੇਬਲ ਗਰਭ ਨਿਰੋਧਕਾਂ</li>\n    <li>ਸੈਂਟਰਕ੍ਰੋਮੈਨ ਗੋਲੀਆਂ</li>\n    <li>ਪ੍ਰੋਜੇਸਟੋਜਨ-ਸਿਰਫ਼ ਗੋਲੀਆਂ</li>\n    <li>ਪ੍ਰੋਜੇਸਟੋਜਨ-ਸਿਰਫ਼ ਇੰਜੈਕਟੇਬਲ। DMPA (ਇੱਕ 3-ਮਹੀਨਾਵਾਰ ਇੰਜੈਕਟੇਬਲ) ਅਤੇ NET-EN (ਇੱਕ 2-ਮਹੀਨਾਵਾਰ ਇੰਜੈਕਟੇਬਲ)</li>\n    <li>ਪ੍ਰੋਜੇਸਟੋਜਨ-ਸਿਰਫ਼ ਇਮਪਲਾਂਟ</li>\n    <li>ਕਾਪਰ-ਬੇਅਰਿੰਗ IUCD</li>\n    <li>Lਲੇਵੋਨੋਰਜੈਸਟਰਲ ਇੰਟਰਾ ਯੂਟਰਾਈਨ ਡਿਵਾਈਸ (LNG-IUD)</li>\n  </ol>\n  <p><br />ਵ੍ਹੀਲ ਵਿੱਚ ਦਿੱਤਾ ਮਾਰਗਦਰਸ਼ਨ ਗਰਭ ਨਿਰੋਧਕ ਵਿਧੀਆਂ ਦੀ ਸ਼ੁਰੂਆਤ 'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ। ਜਦੋਂ ਕਿਸੇ ਔਰਤ ਵਿੱਚ ਵਿਧੀ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਕੋਈ ਡਾਕਟਰੀ ਸਥਿਤੀ ਪੈਦਾ ਹੋ ਜਾਂਦੀ ਹੈ, ਤਾਂ ਵਿਧੀ ਦੀ ਵਰਤੋਂ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਿਫ਼ਾਰਸ਼ <strong>ਗਰਭ ਨਿਰੋਧਕ ਵਾਸਤੇ ਡਾਕਟਰੀ ਯੋਗਤਾ ਮਾਪਦੰਡ <strong>ਦਿਸ਼ਾ ਨਿਰਦੇਸ਼ਾਂ ਵਿੱਚ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ।</p>\n  <p>ਇਹ MoHFW ਦੁਆਰਾ ਭਾਰਤ ਅਨੁਕੂਲਿਤ WHO MEC ਵ੍ਹੀਲ ਦਾ ਇੱਕ ਈ-ਸੰਸਕਰਣ ਹੈ। </p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ਇਸ ਵ੍ਹੀਲ ਵਿੱਚ ਗਰਭ ਨਿਰੋਧਕ ਵਿਧੀਆਂ ਦੀ ਵਰਤੋਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਡਾਕਟਰੀ ਯੋਗਤਾ ਦੇ ਮਾਪਦੰਡ ਸ਼ਾਮਲ ਹਨ। ਇਸਨੂੰ ਗਰਭ ਨਿਰੋਧਕ ਵਰਤੋਂ (2022 ਅਪਡੇਟ) ਲਈ WHO MEC ਵ੍ਹੀਲ ਤੋਂ ਅਨੁਕੂਲ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇਹ ਗਰਭ ਨਿਰੋਧਕ ਵਰਤੋਂ ਲਈ ਮੈਡੀਕਲ ਯੋਗਤਾ ਮਾਪਦੰਡਾਂ, ਚੌਥੇ ਅਤੇ ਪੰਜਵੇਂ ਸੰਸਕਰਣ (2008 ਅਤੇ 2022) 'ਤੇ ਅਧਾਰਿਤ ਹੈ। ਇਹ ਪਰਿਵਾਰ ਨਿਯੋਜਨ ਪ੍ਰਦਾਤਾਵਾਂ ਨੂੰ ਡਾਕਟਰੀ ਸਥਿਤੀਆਂ ਜਾਂ ਡਾਕਟਰੀ ਤੌਰ 'ਤੇ ਸੰਬੰਧਿਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਵਾਲੀਆਂ ਔਰਤਾਂ ਵਾਸਤੇ ਸੁਰੱਖਿਅਤ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਗਰਭ ਨਿਰੋਧਕ ਵਿਧੀਆਂ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕਰਨ ਵਿੱਚ ਮਾਰਗਦਰਸ਼ਨ ਕਰਦਾ ਹੈ।<br />ਵ੍ਹੀਲ ਵਿੱਚ ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਸੱਤ ਆਮ ਕਿਸਮਾਂ ਦੇ ਗਰਭ ਨਿਰੋਧਕਾਂ ਦੀ ਵਰਤੋਂ ਸ਼ੁਰੂ ਕਰਨ ਦੀਆਂ ਸਿਫ਼ਾਰਸ਼ਾਂ ਸ਼ਾਮਲ ਹਨ:</p>\n  <ol>\n    <li>ਸੰਯੁਕਤ ਗੋਲੀਆਂ (ਘੱਟ ਖ਼ੁਰਾਕ ਵਾਲੀਆਂ ਸੰਯੁਕਤ ਮੌਖਿਕ ਗਰਭ ਨਿਰੋਧਕ, < 35 Ug ਐਥੀਨੀਅਲਸਟ੍ਰਾਡੀਓਲ ਦੇ ਨਾਲ) ਅਤੇ ਸੰਯੁਕਤ ਇੰਜੈਕਟੇਬਲ ਗਰਭ ਨਿਰੋਧਕਾਂ</li>\n    <li>ਸੈਂਟਰਕ੍ਰੋਮੈਨ ਗੋਲੀਆਂ</li>\n    <li>ਪ੍ਰੋਜੇਸਟੋਜਨ-ਸਿਰਫ਼ ਗੋਲੀਆਂ</li>\n    <li>ਪ੍ਰੋਜੇਸਟੋਜਨ-ਸਿਰਫ਼ ਇੰਜੈਕਟੇਬਲ। DMPA (ਇੱਕ 3-ਮਹੀਨਾਵਾਰ ਇੰਜੈਕਟੇਬਲ) ਅਤੇ NET-EN (ਇੱਕ 2-ਮਹੀਨਾਵਾਰ ਇੰਜੈਕਟੇਬਲ)</li>\n    <li>ਪ੍ਰੋਜੇਸਟੋਜਨ-ਸਿਰਫ਼ ਇਮਪਲਾਂਟ</li>\n    <li>ਕਾਪਰ-ਬੇਅਰਿੰਗ IUCD</li>\n    <li>Lਲੇਵੋਨੋਰਜੈਸਟਰਲ ਇੰਟਰਾ ਯੂਟਰਾਈਨ ਡਿਵਾਈਸ (LNG-IUD)</li>\n  </ol>\n  <p><br />ਵ੍ਹੀਲ ਵਿੱਚ ਦਿੱਤਾ ਮਾਰਗਦਰਸ਼ਨ ਗਰਭ ਨਿਰੋਧਕ ਵਿਧੀਆਂ ਦੀ ਸ਼ੁਰੂਆਤ 'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ। ਜਦੋਂ ਕਿਸੇ ਔਰਤ ਵਿੱਚ ਵਿਧੀ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਕੋਈ ਡਾਕਟਰੀ ਸਥਿਤੀ ਪੈਦਾ ਹੋ ਜਾਂਦੀ ਹੈ, ਤਾਂ ਵਿਧੀ ਦੀ ਵਰਤੋਂ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਿਫ਼ਾਰਸ਼ ਗਰਭ ਨਿਰੋਧਕ ਵਾਸਤੇ ਡਾਕਟਰੀ ਯੋਗਤਾ ਮਾਪਦੰਡ ਦਿਸ਼ਾ ਨਿਰਦੇਸ਼ਾਂ ਵਿੱਚ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ।</p>\n  <p>ਇਹ MoHFW ਦੁਆਰਾ ਭਾਰਤ ਅਨੁਕੂਲਿਤ WHO MEC ਵ੍ਹੀਲ ਦਾ ਇੱਕ ਈ-ਸੰਸਕਰਣ ਹੈ। </p>\n</div>"
           }
         },
         "ta-IN" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>கருத்தடை முறைகளைப் பயன்படுத்த தொடங்குவதற்கான மருத்துவத் தகுதி விதிகளை இந்த சக்கரம் கொண்டுள்ளது. இது கருத்தடை பயன்பாட்டுக்கென (2022  புதுப்பிப்பு) WHO MEC வீல்-லிலிருந்து தழுவப்பட்டது மற்றும் கருத்தடை பயன்பாடிற்கான மருத்துவத் தகுதி விதிகள், 4-வது மற்றும் 5-வது பதிப்பு (2008 மற்றும் 2022) அடிப்படையிலானது. மருத்துவ நிலைமைகள் அல்லது மருத்துவ சம்பந்தமான பண்புகளைக் கொண்ட பெண்களுக்கு பாதுகாப்பான மற்றும் பயனுள்ள கருத்தடை முறைகளைபரிந்துரைக்க குடும்பக் கட்டுப்பாடு வழங்குனர்களுக்கு இது வழிகாட்டுகிறது. .<br /><br />வீல் ஏழு பொதுவான கருத்தடை பொருட்களை உபயோகிக்கத் தொடங்குவதற்கான பரிந்துரைகளை உள்ளடக்கியுள்ளது : </p>\n  <ol>\n    <li>ஒருங்கிணைந்த மாத்திரைகள் (குறைந்த டோஸிலான ஒருங்கிணைந்த வாய்வழி கருத்தடை மாத்திரைகள், &lt; 35 Ug எதினைல்ஸ்ட்ராடியால்) மற்றும் ஒருங்கிணைந்த ஊசி மூலமான கருத்தடைமருந்துகளுடன்.</li>\n    <li> சென்ட்க்ரோமேன் (Centchroman) மாத்திரைகள்.</li>\n    <li>புரோஜெஸ்டோஜென் (Progestogen)– மாத்திரைகள் மட்டும்.</li>\n    <li> புரோஜெஸ்டோஜென் (Progestogen)- ஊசி மூலமான மருந்துகள் மட்டும். DMP(3 மாதம் ஊசி மூலம் செலுத்தக் கூடியது) மற்றும் NET-EN (2 மாதம் ஊசி மூலம் செலுத்தக் கூடியது).</li>\n    <li>புரோஜெஸ்டோஜென் (இம்ப்ளேன்ட்டுகள் மட்டுமே).</li>\n    <li>தாமிரம் – உள்ள IUCD.</li>\n    <li>லெவோனோர்ஜெஸ்ட்ரெல் .</li>\n  </ol>\n  <p><br />சக்கரத்தில் உள்ள வழிகாட்டுதல்கள், கருத்தடை முறைகளை தொடங்குவதற்கு பொருந்தும். கருத்தடை முறையை உபயோகிக்கும் போது  ஒரு பெண்ணுக்கு மருத்துவ நிலை உண்டானால், தொடர்ந்து  அந்த முறையை உபயோகிப்பதற்கான பரிந்துரைகளை <strong>கருத்தடை பயன்பாட்டுக்கான மருத்துவத் தகுதி வழிகாட்டுதல்கள்.</strong></p>\n  <p>இது MoHFW ஆல் இந்தியா-தழுவிய WHO MEC Wheel-இன் மின் பதிப்பாகும்.</p>\n</div>"
+            "state" : "needs_review",
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>கருத்தடை முறைகளைப் பயன்படுத்த தொடங்குவதற்கான மருத்துவத் தகுதி விதிகளை இந்த சக்கரம் கொண்டுள்ளது. இது கருத்தடை பயன்பாட்டுக்கென (2022  புதுப்பிப்பு) WHO MEC வீல்-லிலிருந்து தழுவப்பட்டது மற்றும் கருத்தடை பயன்பாடிற்கான மருத்துவத் தகுதி விதிகள், 4-வது மற்றும் 5-வது பதிப்பு (2008 மற்றும் 2022) அடிப்படையிலானது. மருத்துவ நிலைமைகள் அல்லது மருத்துவ சம்பந்தமான பண்புகளைக் கொண்ட பெண்களுக்கு பாதுகாப்பான மற்றும் பயனுள்ள கருத்தடை முறைகளைபரிந்துரைக்க குடும்பக் கட்டுப்பாடு வழங்குனர்களுக்கு இது வழிகாட்டுகிறது. .<br />வீல் ஏழு பொதுவான கருத்தடை பொருட்களை உபயோகிக்கத் தொடங்குவதற்கான பரிந்துரைகளை உள்ளடக்கியுள்ளது : </p>\n  <ol>\n    <li>ஒருங்கிணைந்த மாத்திரைகள் (குறைந்த டோஸிலான ஒருங்கிணைந்த வாய்வழி கருத்தடை மாத்திரைகள், &lt; 35 Ug எதினைல்ஸ்ட்ராடியால்) மற்றும் ஒருங்கிணைந்த ஊசி மூலமான கருத்தடைமருந்துகளுடன்.</li>\n    <li> சென்ட்க்ரோமேன் (Centchroman) மாத்திரைகள்.</li>\n    <li>புரோஜெஸ்டோஜென் (Progestogen)– மாத்திரைகள் மட்டும்.</li>\n    <li> புரோஜெஸ்டோஜென் (Progestogen)- ஊசி மூலமான மருந்துகள் மட்டும். DMP(3 மாதம் ஊசி மூலம் செலுத்தக் கூடியது) மற்றும் NET-EN (2 மாதம் ஊசி மூலம் செலுத்தக் கூடியது).</li>\n    <li>புரோஜெஸ்டோஜென் (இம்ப்ளேன்ட்டுகள் மட்டுமே).</li>\n    <li>தாமிரம் – உள்ள IUCD.</li>\n    <li>லெவோனோர்ஜெஸ்ட்ரெல் .</li>\n  </ol>\n  <p><br />சக்கரத்தில் உள்ள வழிகாட்டுதல்கள், கருத்தடை முறைகளை தொடங்குவதற்கு பொருந்தும். கருத்தடை முறையை உபயோகிக்கும் போது  ஒரு பெண்ணுக்கு மருத்துவ நிலை உண்டானால், தொடர்ந்து  அந்த முறையை உபயோகிப்பதற்கான பரிந்துரைகளை <strong><i>கருத்தடை பயன்பாட்டுக்கான மருத்துவத் தகுதி வழிகாட்டுதல்கள்.</i></strong></p>\n  <p>இது MoHFW ஆல் இந்தியா-தழுவிய WHO MEC Wheel-இன் மின் பதிப்பாகும்.</p>\n</div>"
           }
         },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ఈ చక్రం, గర్భనిరోధక పద్ధతులను వాడడం మొదలుపెట్టడానికి వైద్య అర్హత ప్రమాణాలను కలిగి ఉంది. ఇది గర్భనిరోధక సాధనాల ఉపయోగం కోసం WHO MEC వీల్ నుండి (2022 ఆధునీకరణతో) తీసుకోవడం జరిగింది. అలాగే, గర్భనిరోధక సాధనాల ఉపయోగం కోసం, వైద్య అర్హత ప్రమాణాలు, 4వ మరియు 5వ ఎడిషన్ (2008 మరియు 2022) ఆధారంగా రూపొందించబడింది. ఇది వైద్య పరిస్థితులు లేదా వైద్యపరంగా సంబంధిత లక్షణాలతో ఉన్న మహిళలకు, సురక్షితమైన మరియు సమర్థవంతమైన గర్భనిరోధక పద్ధతులను సిఫార్సు చేయడంలో కుటుంబ నియంత్రణ సాధనాలను అందించే సిబ్బందికి దిశా నిర్దేశం చేసి, దారి చూపిస్తుంది..<br /><br />చక్రం, ఏడు సాధారణ రకాల గర్భనిరోధకాల పద్ధతులను ఉపయోగించడం ప్రారంభించే సిఫార్సులను కలిగి ఉంటుంది:</p>\n  <ol>\n    <li>కలిపిన మాత్రల మిశ్రమం (తక్కువ మోతాదు కలిపిన నోటి మాత్రల గర్భనిరోధకాలు, <35 Ug ఇథినైల్‌స్ట్రాడియోల్‌తో) మరియు వాటితోపాటుగా సూదితో ఇంజెక్ట్ చేయగల గర్భనిరోధకాలు</li>\n    <li>సెంక్రోమన్ మాత్రలు</li>\n    <li>ప్రొజెస్టోజెన్- మాత్రలు మాత్రమే</li>\n    <li>ప్రొజెస్టోజెన్- ఇంజెక్షన్లు మాత్రమే. DMPA (ఒక 3-నెలలవారీ ఇంజెక్షన్) మరియు NET-EN (ఒక 2-నెలలవారీ ఇంజెక్షన్)</li>\n    <li>ప్రొజెస్టోజెన్-మాత్రమే ఇంప్లాంట్లు మాత్రమే</li>\n    <li>యోనిలోకి చొప్పించేది కాపర్-బేరింగ్ IUCD</li>\n    <li>యోనిలోకి చొప్పించేది లివోనార్జెస్ట్రెల్ ఇంట్రా యుటెరైన్ డివైస్ (LNG-IUD)</li>\n  </ol>\n  <p><br />చక్రంలోని మార్గదర్శకత్వం అనేది, తొలిదశలో గర్భనిరోధక పద్ధతుల ప్రారంభానికి వర్తిస్తుంది. ఒక పద్ధతిని ఉపయోగిస్తున్నప్పుడు, ఒక మహిళ ఒక రకమైన ఆరోగ్యపరిస్థితిని ఎదుర్కోవచ్చును. అప్పుడు, ఆపద్ధతిని కొనసాగించడానికి సిఫార్సులు, <strong>గర్భనిరోధక వినియోగ సాధనాల మార్గదర్శకాలలో ఆలక్షణాల కోసం వైద్య అర్హత ప్రమాణాలల</strong> చూడవచ్చు.</p>\n  <p>ఇది, భారత దేశం-  అవలంబించిన WHO MEC Wheel  తాలూకా, MoHFW వారిచేత రూపొందించబడిన ఒక ఈ వెర్షన్.</p>\n</div>"
+            "value" : "<div style=\"margin: 5px 0;\">\n  <p>ఈ చక్రం, గర్భనిరోధక పద్ధతులను వాడడం మొదలుపెట్టడానికి వైద్య అర్హత ప్రమాణాలను కలిగి ఉంది. ఇది గర్భనిరోధక సాధనాల ఉపయోగం కోసం WHO MEC వీల్ నుండి (2022 ఆధునీకరణతో) తీసుకోవడం జరిగింది. అలాగే, గర్భనిరోధక సాధనాల ఉపయోగం కోసం, వైద్య అర్హత ప్రమాణాలు, 4వ మరియు 5వ ఎడిషన్ (2008 మరియు 2022) ఆధారంగా రూపొందించబడింది. ఇది వైద్య పరిస్థితులు లేదా వైద్యపరంగా సంబంధిత లక్షణాలతో ఉన్న మహిళలకు, సురక్షితమైన మరియు సమర్థవంతమైన గర్భనిరోధక పద్ధతులను సిఫార్సు చేయడంలో కుటుంబ నియంత్రణ సాధనాలను అందించే సిబ్బందికి దిశా నిర్దేశం చేసి, దారి చూపిస్తుంది..<br />చక్రం, ఏడు సాధారణ రకాల గర్భనిరోధకాల పద్ధతులను ఉపయోగించడం ప్రారంభించే సిఫార్సులను కలిగి ఉంటుంది:</p>\n  <ol>\n    <li>కలిపిన మాత్రల మిశ్రమం (తక్కువ మోతాదు కలిపిన నోటి మాత్రల గర్భనిరోధకాలు, <35 Ug ఇథినైల్‌స్ట్రాడియోల్‌తో) మరియు వాటితోపాటుగా సూదితో ఇంజెక్ట్ చేయగల గర్భనిరోధకాలు</li>\n    <li>సెంక్రోమన్ మాత్రలు</li>\n    <li>ప్రొజెస్టోజెన్- మాత్రలు మాత్రమే</li>\n    <li>ప్రొజెస్టోజెన్- ఇంజెక్షన్లు మాత్రమే. DMPA (ఒక 3-నెలలవారీ ఇంజెక్షన్) మరియు NET-EN (ఒక 2-నెలలవారీ ఇంజెక్షన్)</li>\n    <li>ప్రొజెస్టోజెన్-మాత్రమే ఇంప్లాంట్లు మాత్రమే</li>\n    <li>యోనిలోకి చొప్పించేది కాపర్-బేరింగ్ IUCD</li>\n    <li>యోనిలోకి చొప్పించేది లివోనార్జెస్ట్రెల్ ఇంట్రా యుటెరైన్ డివైస్ (LNG-IUD)</li>\n  </ol>\n  <p><br />చక్రంలోని మార్గదర్శకత్వం అనేది, తొలిదశలో గర్భనిరోధక పద్ధతుల ప్రారంభానికి వర్తిస్తుంది. ఒక పద్ధతిని ఉపయోగిస్తున్నప్పుడు, ఒక మహిళ ఒక రకమైన ఆరోగ్యపరిస్థితిని ఎదుర్కోవచ్చును. అప్పుడు, ఆపద్ధతిని కొనసాగించడానికి సిఫార్సులు, <strong>గర్భనిరోధక వినియోగ సాధనాల మార్గదర్శకాలలో ఆలక్షణాల కోసం వైద్య అర్హత ప్రమాణాలల</strong> చూడవచ్చు.</p>\n  <p>ఇది, భారత దేశం-  అవలంబించిన WHO MEC Wheel  తాలూకా, MoHFW వారిచేత రూపొందించబడిన ఒక ఈ వెర్షన్.</p>\n</div>"
           }
         }
       }
@@ -2809,12 +2965,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "തീവ്രമായ വൈറൽ ഹെപ്പറ്റൈറ്റിസ്"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ତୀବ୍ର ଭାଇରାଲ୍ ହେପାଟାଇଟିସ୍"
           }
         },
         "pa-IN" : {
@@ -2941,18 +3091,6 @@
             "value" : "രീതികൾ എങ്ങനെ സുരക്ഷിതമായും ഫലപ്രദമായും ഉപയോഗിക്കാം എന്നതിനെക്കുറിച്ചുള്ള കൂടുതൽ വിവരങ്ങൾ."
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ସୁରକ୍ଷିତ ଓ ପ୍ରଭାବଶାଳୀ ଭାବରେ ପଦ୍ଧତି କିପରି ବ୍ୟବହାର କରାଯିବ, ସେ ସମ୍ବନ୍ଧରେ ଅତିରିକ୍ତ ସୂଚନା"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਅਤਿਰਿਕਤ ਜਾਣਕਾਰੀ ਦੱਸਦੀ ਹੈ ਕਿ ਵਿਧੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਢੰਗ ਨਾਲ ਕਿਵੇਂ ਵਰਤਣਾ ਹੈ।"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2967,19 +3105,13 @@
         }
       }
     },
-    "Additional Info on how to use the methods safely and effectively" : {
+    "Additional Info on how to use the methods safely and effectively " : {
       "extractionState" : "manual",
       "localizations" : {
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Additional Info on how to use the methods safely and effectively "
-          }
-        },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Additional Info on how to use the methods safely and effectively"
           }
         },
         "gu-IN" : {
@@ -2992,18 +3124,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "इन विधियों का सुरक्षित और प्रभावी तरीके से उपयोग कैसे करें, इसके बारे में अतिरिक्त जानकारी "
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ವಿಧಾನಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಹೇಗೆ ಬಳಸುವುದು ಎಂಬುದರ ಕುರಿತು ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ"
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "രീതികൾ എങ്ങനെ സുരക്ഷിതമായും ഫലപ്രദമായും ഉപയോഗിക്കാം എന്നതിനെക്കുറിച്ചുള്ള കൂടുതൽ വിവരങ്ങൾ"
           }
         },
         "or-IN" : {
@@ -3045,12 +3165,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કિશોરો."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "किशोर।"
           }
         },
         "kn-IN" : {
@@ -3112,12 +3226,6 @@
             "value" : "બીજા ત્રિમાસિકગાળામાં થયેલા ગર્ભપાત બાદ Cu IUCD અને LNG-IUD = કેટેગરી 2. પ્રોવાઇડર PPIUCD ટેકનિકમાં કુશળ હોવા જોઇએ."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "दूसरी तिमाही के गर्भपात के बाद, Cu IUCD और LNG-IUD = Cat 2. प्रदाता को PPIUCD तकनीक में कुशल होना चाहिए।"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3130,6 +3238,29 @@
             "value" : "രണ്ടാമത്തെ ത്രൈമാസത്തിലെ ഗർഭഛിദ്രത്തിന് ശേഷം, Cu IUCD, LNG-IUD = Cat 2. ദാതാവിന് PPIUCD സാങ്കേതികതയിൽ വൈദഗ്ദ്ധ്യം ഉണ്ടായിരിക്കണം."
           }
         },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "இரண்டாவது மூன்று மாத கருக்கலைப்புக்குப் பிறகு, Cu IUCD மற்றும்  LNG-IUD = வகை 2. வழங்குபவர் PPIUCD தொழில்நுட்பத்தில் திறமையானவராக இருக்க வேண்டும். "
+          }
+        }
+      }
+    },
+    "After 2nd trimester abortion, Cu IUCD and LNG-IUD = Cat 2.The provider should be skilled in PPIUCD technique" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After 2nd trimester abortion, Cu IUCD and LNG-IUD = Cat 2.The provider should be skilled in PPIUCD technique"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "किशोर"
+          }
+        },
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3139,13 +3270,13 @@
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ਦੂਜੀ ਤਿਮਾਹੀ ਦੇ ਗਰਭਪਾਤ ਤੋਂ ਬਾਅਦ, Cu IUCD ਅਤੇ LNG-IUD = Cat 2. ਪ੍ਰਦਾਤਾ ਨੂੰ PPIUCD ਤਕਨੀਕ ਵਿੱਚ ਹੁਨਰਮੰਦ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+            "value" : "ਦੂਜੀ ਤਿਮਾਹੀ ਦੇ ਗਰਭਪਾਤ ਤੋਂ ਬਾਅਦ, Cu IUCD ਅਤੇ LNG-IUD = CAT 2. ਪ੍ਰਦਾਤਾ ਨੂੰ PPIUCD ਤਕਨੀਕ ਵਿੱਚ ਹੁਨਰਮੰਦ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ"
           }
         },
-        "ta-IN" : {
+        "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "இரண்டாவது மூன்று மாத கருக்கலைப்புக்குப் பிறகு, Cu IUCD மற்றும்  LNG-IUD = வகை 2. வழங்குபவர் PPIUCD தொழில்நுட்பத்தில் திறமையானவராக இருக்க வேண்டும். "
+            "value" : "2వ త్రైమాసిక అబార్షన్ తర్వాత, Cu IUCD మరియు LNG-IUD = వర్గం/రకం  2. ప్రొవైడర్ PPIUCD టెక్నిక్‌లో నైపుణ్యం కలిగి ఉండాలి."
           }
         }
       }
@@ -3169,12 +3300,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "પ્રક્રિયા બાદ થોડું અથવા કંઈ પણ કરવાનું રહેતું નથી કે યાદ રાખવાનું રહેતું નથી."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "प्रक्रिया के बाद, करने या याद रखने के लिए बहुत कम या कुछ भी नहीं।"
           }
         },
         "kn-IN" : {
@@ -3276,6 +3401,112 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "వయస్సు"
+          }
+        }
+      }
+    },
+    "Age (≤40 Years)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বয়স (40 বছৰ বা ততোধিক)"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বয়স (40 বছৰ বা তার ঊর্ধ্বে)"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વય (≤40 વર્ષ)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आयु (≤40 वर्ष )"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ವಯಸ್ಸು (40 ವರ್ಷ ಮತ್ತು ಮೇಲ್ಪಟ್ಟವರು)"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "പ്രായം (40 വയസ്സും അതിനുമുകളിലും)"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "வயது (40 வயது மற்றும் அதற்கு மேலே)"
+          }
+        }
+      }
+    },
+    "Age (Menarche to <18 Years)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বয়স (ৰজোদৰ্শনৰ পৰা <18 বছৰলৈ)"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বয়স (ঋতুস্রাব শুরু হওয়া থেকে <18 বছর বয়স)"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વય (સૌપ્રથમ વખત રજોદર્શન શરૂ થવાથી માંડીને <18 વર્ષ સુધી)"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आयु\n(रजोदर्शन से <18 वर्ष )"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ವಯಸ್ಸು  (ಋತುಚಕ್ರದಿಂದ <18 ವರ್ಷಗಳು)"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "പ്രായം (18 വയസ്സിൽ താഴെയുള്ള ആർത്തവം)"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ବୟସ\nଋତୁସ୍ରାବ ପ୍ରାରମ୍ଭ <18 ବର୍ଷ"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਉਮਰ\n(ਮਾਹਵਾਰੀ ਤੋਂ < 18 ਸਾਲ )\n"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "வயது (மாத விடாய் முதல் 18 வயது வரை)"
           }
         }
       }
@@ -3431,12 +3662,6 @@
             "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને કોઈ પણ સમયે દાખલ કરી શકાય છે. તેને દાખલ કર્યા પછી પ્રથમ 7 દિવસ માટે તેમને બેક અપ મેથડની જરૂર પડશે."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "एक IUD को किसी भी समय महिला में अंतर्वेशित किया जा सकता है यदि यह निर्धारित किया जा सके कि महिला गर्भवती नहीं है। उसे अंतर्वेशन के बाद पहले 7 दिनों के लिए बैकअप विधि की आवश्यकता होगी।"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3449,18 +3674,6 @@
             "value" : "സ്ത്രീ ഗർഭിണിയല്ലെന്ന് നിർണ്ണയിക്കാൻ കഴിയുമെങ്കിൽ എപ്പോൾ വേണമെങ്കിലും ഒരു IUD നിക്ഷേപിക്കാവുന്നതാണ്. നിക്ഷേപിച്ച ശേഷം ആദ്യത്തെ 7 ദിവസത്തേക്ക് ബാക്കപ്പ് രീതി ആവശ്യമാണ്."
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଯଦି ମହିଳା ଜଣଙ୍କ ଗର୍ଭବତୀ ନୁହଁନ୍ତି ବୋଲି ନିର୍ଦ୍ଧାରଣ କରାଯାଇପାରିବ, ତେବେ ଯେକୌଣସି ସମୟରେ ଏକ IUD ଭର୍ତ୍ତି କରାଯାଇପାରିବ, ଭର୍ତ୍ତି କରାଯିବା ପରେ ତାଙ୍କୁ ପ୍ରଥମ 7 ଦିନ ପାଇଁ ବ୍ୟାକଅପ୍ ପ୍ରଣାଳୀ ଆବଶ୍ୟକ ହେବ।"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਇੱਕ IUD ਕਿਸੇ ਵੀ ਸਮੇਂ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ ਜੇਕਰ ਇਹ ਪਤਾ ਲਗਾਇਆ ਜਾ ਸਕਦਾ ਹੈ ਕਿ ਔਰਤ ਗਰਭਵਤੀ ਨਹੀਂ ਹੈ। ਉਸ ਨੂੰ ਸੰਮਿਲਨ ਤੋਂ ਬਾਅਦ ਪਹਿਲੇ 7 ਦਿਨਾਂ ਲਈ ਬੈਕਅੱਪ ਵਿਧੀ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3470,6 +3683,53 @@
       }
     },
     "An IUD can be inserted at the woman’s convenience if it is reasonably certain that she is not pregnant." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মহিলাগৰাকীৰ সুবিধা অনুযায়ী ইমপ্লেণ্ট কৰিব পাৰি যদি মহিলাগৰাকী গৰ্ভৱতী নহয় বুলি যুক্তিসঙ্গতভাৱে নিশ্চিত হোৱা যায়। "
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গর্ভবতী নন সেটি যুক্তিসম্মতভাবে নিশ্চিত হলে, মহিলার সুবিধা মতো IUD প্রবেশ করানো যায়। "
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને સ્ત્રીની અનુકૂળતાએ દાખલ કરી શકાય છે."
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ಮಹಿಳೆ ಗರ್ಭಿಣಿಯಲ್ಲ ಎಂದು ಸಕಾರಣವಾದ ಖಚಿತತೆಯಿದ್ದರೆ ಮಹಿಳೆಯ ಅನುಕೂಲಕ್ಕೆ ಅನುಗುಣವಾಗಿ IUDಯನ್ನು ಸೇರಿಸಬಹುದು. "
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "സ്ത്രീ ഗർഭിണിയല്ലെന്ന് ഏറെക്കുറെ ഉറപ്പുണ്ടെങ്കിൽ, അവരുടെ സൗകര്യം പോലെ ഒരു IUD നിക്ഷേപിക്കാവുന്നതാണ്. "
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਇੱਕ IUD ਔਰਤ ਦੀ ਸਹੂਲਤ ਅਨੁਸਾਰ ਦਾਖਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਜੇ ਇਹ ਵਾਜਬ ਤੌਰ 'ਤੇ ਨਿਸ਼ਚਤ ਹੈ ਕਿ ਉਹ ਗਰਭਵਤੀ ਨਹੀਂ ਹੈ।"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "அவள் கர்ப்பமாக இல்லை என்று கணிசமான உறுதியுடன் இருந்தால், பெண்ணின் வசதிக்கேற்ப IUD செருகப்படலாம்."
+          }
+        }
+      }
+    },
+    "An IUD can be inserted at the woman’s convenience if it is reasonably certain that she is not pregnant. " : {
       "extractionState" : "manual",
       "localizations" : {
         "as-IN" : {
@@ -3525,6 +3785,12 @@
             "state" : "translated",
             "value" : "அவள் கர்ப்பமாக இல்லை என்று கணிசமான உறுதியுடன் இருந்தால், பெண்ணின் வசதிக்கேற்ப IUD செருகப்படலாம்."
           }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఆమె గర్భవతి కాదని సహేతుకంగా నిశ్చయించుకుంటే, స్త్రీ సౌలభ్యం మేరకు IUDని చొప్పించవచ్చు."
+          }
         }
       }
     },
@@ -3547,12 +3813,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "રી ગર્ભવતી નથી તેની ચોક્કસપણે ખાતરી હોય તો, IUDને સ્ત્રીની અનુકૂળતાએ દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "महिला की सुविधानुसार IUD लगाया जा सकता है यदि यह निश्चित हो कि वह गर्भवती नहीं है। किसी अतिरिक्त गर्भनिरोधक सुरक्षा की जरूरत नहीं है।"
           }
         },
         "kn-IN" : {
@@ -4081,22 +4341,57 @@
             "value" : "ATV/r"
           }
         },
-        "or-IN" : {
+        "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ATV/r"
           }
-        },
-        "pa-IN" : {
+        }
+      }
+    },
+    "AZT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ATV/r"
+            "value" : "AZT"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AZT"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AZT"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AZT"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AZT"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AZT"
           }
         },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ATV/r"
+            "value" : "AZT"
           }
         }
       }
@@ -4636,12 +4931,6 @@
             "value" : "સ્તનના કેન્સરની કૌટુંબિક પૂર્વવિગત."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "स्तन कैंसर का पारिवारिक इतिहास"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4695,12 +4984,6 @@
             "value" : "स्तन कैंसर का पारिवारिक इतिहास"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "स्तनपान"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4751,7 +5034,7 @@
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "স্তন্যদান।"
+            "value" : "স্তন্যদান"
           }
         },
         "gu-IN" : {
@@ -5038,12 +5321,6 @@
             "value" : "കാൻസർ (സ്തനാർബുദം)"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "କର୍କଟ (ସ୍ତନ କର୍କଟ)"
-          }
-        },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5101,12 +5378,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "കാൻസർ (സെർവിക്കൽ കാൻസർ)"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "କର୍କଟ (ଗ୍ରୀବା କର୍କଟ)"
           }
         },
         "pa-IN" : {
@@ -5643,6 +5914,59 @@
         }
       }
     },
+    "CHC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC"
+          }
+        }
+      }
+    },
     "CHC can be initiated immediately post-abortion. No additional contraceptive protection is needed." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -5812,12 +6136,6 @@
             "value" : "സിറോസിസ്/കരളിലെ ട്യൂമർ"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ସିରୋସିସ୍/ ଯକୃତ ଟ୍ୟୁମର୍"
-          }
-        },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5899,6 +6217,53 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "క్లయింట్ ద్వారా నియంత్రించబడింది"
+          }
+        }
+      }
+    },
+    "COC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COC"
           }
         }
       }
@@ -6618,7 +6983,7 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "কণ্ডম, ডায়েফ্ৰাম: যৌন সম্ভোগ কৰাৰ সময়ত প্ৰতিবাৰেই সঠিকভাৱে ব্যৱহাৰ কৰিব।"
+            "value" : "কণ্ডম, ডায়েফ্ৰাম: যৌন সম্ভোগ কৰাৰ সময়ত প্ৰতিবাৰেই সঠিকভাৱে ব্যৱহাৰ কৰিব।"
           }
         },
         "bn-IN" : {
@@ -6630,7 +6995,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "કન્ડોમ્સ, ડાયાફ્રામ: તમે જ્યારે પણ જાતીય સમાગમ કરો ત્યારે દર વખતે યોગ્ય રીતે ઉપયોગમાં લો."
+            "value" : "કન્ડોમ્સ, ડાયાફ્રામઃ તમે જ્યારે પણ જાતીય સમાગમ કરો ત્યારે દર વખતે યોગ્ય રીતે ઉપયોગમાં લો."
           }
         },
         "hi" : {
@@ -6655,12 +7020,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ਨਿਰੋਧ, ਡਾਇਆਫ੍ਰਾਮ: ਹਰ ਵਾਰ ਸੈਕਸ ਕਰਨ ਦੌਰਾਨ ਸਹੀ ਤਰ੍ਹਾਂ ਉਪਯੋਗ ਕਰੋ।"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਕੰਡੋਮ, ਡਾਇਆਫ੍ਰਾਮ: ਹਰ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਸੈਕਸ ਕਰਦੇ ਹੋ ਤਾਂ ਸਹੀ ਵਰਤੋਂ ਕਰੋ।"
           }
         },
         "ta-IN" : {
@@ -7171,18 +7530,6 @@
             "value" : "Cu-IUCD"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cu-IUCD"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cu-IUCD"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7236,18 +7583,6 @@
             "value" : "Cu-IUD"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cu-IUD"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cu-IUD"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7293,18 +7628,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "നിലവിലുള്ളത്"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ସାମ୍ପ୍ରତିକ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਵਰਤਮਾਨ"
           }
         },
         "ta-IN" : {
@@ -7451,6 +7774,53 @@
         }
       }
     },
+    "D4T" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D4T"
+          }
+        }
+      }
+    },
     "Daily pill, weekly patch, or monthly ring, containing two hormones (estrogen and progestogen)." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -7550,18 +7920,6 @@
           }
         },
         "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DDI"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DDI"
-          }
-        },
-        "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "DDI"
@@ -7986,12 +8344,6 @@
             "value" : "તેમ છતાં તેમાં સુરક્ષા સંબંધિત કોઈ ચિંતાનું કારણ નથી."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "इसके बावजूद सुरक्षा संबंधी कोई चिंता नहीं है।"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8008,12 +8360,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ਇਸ ਦੇ ਬਾਵਜੂਦ, ਕੋਈ ਸੁਰੱਖਿਆ ਚਿੰਤਾਵਾਂ ਨਹੀਂ ਹਨ।"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਇਸ ਦੇ ਬਾਵਜੂਦ, ਕੋਈ ਸੁਰੱਖਿਆ ਚਿੰਤਾਵਾਂ ਨਹੀਂ ਹਨ."
           }
         },
         "ta-IN" : {
@@ -8465,12 +8811,6 @@
             "value" : "DMPA = 1; NET-EN = 2"
           }
         },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DMPA = 1; NET-EN = 2।"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8584,18 +8924,6 @@
           }
         },
         "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DRV/r"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DRV/r"
-          }
-        },
-        "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "DRV/r"
@@ -8843,12 +9171,6 @@
             "value" : "EC ਗੋਲੀ"
           }
         },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਈਸੀ ਗੋਲੀ"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8884,12 +9206,6 @@
             "value" : "EC પિલ્સ એ તમામ પ્રકારની શારીરિક અને તબીબી પરિસ્થિતિઓ માટેની કેટેગરી 1 છે અને h/o ગંભીર કાર્ડિયોવાસ્ક્યુલર બીમારી, માઇગ્રેન અને લિવરની ગંભીર બીમારી ધરાવતી મહિલાઓ માટે કેટેગરી 2 છે."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "सभी शारीरिक और चिकित्सीय स्थितियों के लिए ईसी गोली श्रेणी 1 है और वे महिलाएं जिन्हें गंभीर हृदय रोग, माइग्रेन और गंभीर यकृत रोग हैं उनके लिए श्रेणी 2 है।"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8918,6 +9234,59 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "EC வகை 1 மாத்திரைகள்,     அனைத்து உடலியல் மற்றும் மருத்துவ நிலைகளுக்குமானவை.   வகை 2 மாத்திரைகள் கடுமையான இருதய நோய், ஒற்றத்தலைவலி மற்றும் கடுமையான கல்லீரல் நோய் உள்ள பெண்களுக்கானவை."
+          }
+        }
+      }
+    },
+    "ECpill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC বড়ি"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC পিল"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC પિલ્સ"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC ಮಾತ್ರೆ"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC ഗുളിക"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC ਗੋਲੀ"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC மாத்திரை"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EC మాత్ర అనేది అన్ని శారీరక మరియు వైద్య పరిస్థితులకు కేటగిరీ 1 మరియు h/o తీవ్రమైన హృదయ సంబంధ వ్యాధులు, పార్శ్వపు నొప్పి మరియు తీవ్రమైన కాలేయ వ్యాధి ఉన్న మహిళలకు కేటగిరీ 2 ఇవ్వబడుతుంది."
           }
         }
       }
@@ -9113,6 +9482,47 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "గర్భం నిరోధించడానికి ప్రభావం"
+          }
+        }
+      }
+    },
+    "EFV" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EFV"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EFV"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EFV"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EFV"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EFV"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "கர்ப்பத்தை தடுக்கும் திறன்\n90%\n"
           }
         }
       }
@@ -9454,7 +9864,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "વાઈ (એન્ટિકોન્વુલસેન્ટ્સ પર)"
+            "value" : "વાઈ\n(એન્ટિકોન્વુલસેન્ટ્સ પર)\n"
           }
         },
         "hi" : {
@@ -9605,18 +10015,6 @@
             "value" : "ETR"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ETR"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ETR"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9751,6 +10149,47 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DMPA-IMకి అందుబాటులో ఉన్న ఆధారాలు DMPA-SCకి వర్తిస్తాయి మరియు కాబట్టి, DMPA-SCకి DMPA-IM వలె అదే వర్గాలు ఉండాలి."
+          }
+        }
+      }
+    },
+    "f not breastfeeding, LNG-IUD = Cat 1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "যদি স্তন্যপান কৰাই থকা নাই, LNG-IUD = Cat 1।"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্তন্যদান না করলে, LNG-IUD = শ্রেণি 1 ।"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જો સ્તનપાન ના કરતાં હોય તો, LNG-IUD = કેટેગરી 1."
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ಸ್ತನ್ಯಪಾನ ಮಾಡಿಸದಿದ್ದರೆ, LNG-IUD = Cat 1."
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "മുലയൂട്ടുന്നില്ലെങ്കിൽ, LNG-IUD = Cat 1."
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "தாய்ப்பால் ஊட்டாவிட்டால், LNG-IUD = வகை 1."
           }
         }
       }
@@ -9897,7 +10336,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "સ્ત્રીઓ માટેના કન્ડોમ્સ: યોગ્ય અને સતત ઉપયોગ કરવા પર 90%, કૉમન રીતે ઉપયોગ કરવા પર 79%."
+            "value" : "સ્ત્રીઓ માટેના કન્ડોમ્સઃ યોગ્ય અને સતત ઉપયોગ કરવા પર 90%, કૉમન રીતે ઉપયોગ કરવા પર 79%."
           }
         },
         "hi" : {
@@ -10092,7 +10531,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ફર્ટિલિટી પ્રત્યે જાગૃતિ પેદા કરવાની પદ્ધતિઓ: ગર્ભ રહેવાની સંભાવના ધરાવતા દિવસોએ જાતીય સમાગમ કરવાનું ટાળો કે કન્ડોમ્સનો ઉપયોગ કરો. સ્ટાન્ડર્ડ ડેઇઝ મેથડ અથવા ટુ ડે મેથડનો પણ ઉપયોગ કરી શકો છો."
+            "value" : "ફર્ટિલિટી પ્રત્યે જાગૃતિ પેદા કરવાની પદ્ધતિઓઃ ગર્ભ રહેવાની સંભાવના ધરાવતા દિવસોએ જાતીય સમાગમ કરવાનું ટાળો કે કન્ડોમ્સનો ઉપયોગ કરો. સ્ટાન્ડર્ડ ડેઇઝ મેથડ અથવા ટુ ડે મેથડનો પણ ઉપયોગ કરી શકો છો."
           }
         },
         "hi" : {
@@ -10222,7 +10661,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "જે સ્ત્રીઓ LAMનો ઉપયોગ કરી રહી છે, તેમણે જો અણધારી ગર્ભાવસ્થા સામે યોગ્ય સુરક્ષાની ખાતરી કરવી હોય તો અહીં નીચે જણાવેલા ત્રણેય માપદંડો પૂરાં કરવાના રહેશે:"
+            "value" : "જે સ્ત્રીઓ LAMનો ઉપયોગ કરી રહી છે, તેમણે જો અણધારી ગર્ભાવસ્થા સામે યોગ્ય સુરક્ષાની ખાતરી કરવી હોય તો અહીં નીચે જણાવેલા ત્રણેય માપદંડો પૂરાં કરવાના રહેશેઃ"
           }
         },
         "hi" : {
@@ -10529,6 +10968,53 @@
         }
       }
     },
+    "FTC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTC"
+          }
+        }
+      }
+    },
     "Generally use the method" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -10548,12 +11034,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સામાન્ય રીતે આ પદ્ધતિનો ઉપયોગ કરો"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "आमतौर पर  विधि का उपयोग करें"
           }
         },
         "kn-IN" : {
@@ -10674,12 +11154,6 @@
             "value" : "ઇન્જેક્શનને ફરીથી સમયસર લો."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "समय पर दोबारा इंजेक्शन लगवाएं।"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10690,18 +11164,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "കൃത്യസമയത്ത് ആവർത്തിച്ചുള്ള കുത്തിവയ്പ്പുകൾ എടുക്കുക."
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ସମୟ ଉପରେ ପୁନରାବର୍ତ୍ତୀ ଇଞ୍ଜେକ୍ସନ୍ ନିଅନ୍ତୁ।"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਸਮੇਂ ਸਿਰ ਦੁਹਰਾਓ ਟੀਕੇ ਲਗਵਾਓ।"
           }
         },
         "ta-IN" : {
@@ -12295,7 +12757,7 @@
         },
         "bn-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "যেকোনও পরিস্থিতিতে পদ্ধতি ব্যবহার করুন ।"
           }
         },
@@ -12319,13 +12781,13 @@
         },
         "kn-IN" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ಯಾವುದೇ ಪರಿಸ್ಥಿತಿಯಲ್ಲೂ ಈ ವಿಧಾನವನ್ನು ಬಳಸಿ"
+            "state" : "needs_review",
+            "value" : "ಯಾವುದೇ ಪರಿಸ್ಥಿತಿಯಲ್ಲೂ ಈ ವಿಧಾನವನ್ನು ಬಳಸಿ."
           }
         },
         "ml-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "ഏത് സാഹചര്യത്തിലും ഈ രീതി ഉപയോഗിക്കുക"
           }
         },
@@ -12343,13 +12805,13 @@
         },
         "ta-IN" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "இந்த முறையை எந்த சூழ்நிலையிலும் உபயோகிக்கவும்"
+            "state" : "needs_review",
+            "value" : "இந்த முறையை எந்த சூழ்நிலையிலும் உபயோகிக்கவும்."
           }
         },
         "te-IN" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "ఏ సందర్భంలోనైనా పద్ధతిని ఉపయోగించండి"
           }
         }
@@ -12574,13 +13036,13 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<br><br>শ্ৰেণী 1 আৰু 4 টো হ'ল স্পষ্টভাৱে নিৰ্দেশিত পৰামৰ্শ। শ্ৰেণী 2 বা 3-ৰ বাবে, অধিক নিদানিক যুক্তি বিচাৰৰ প্ৰয়োজন হ'ব আৰু সাৱধানে অনুসৰণ কৰাৰ প্ৰয়োজন হ'ব পাৰে। যদি নিদানিক যুক্তি বিচাৰ সীমিত হয়, শ্ৰেণী 1 আৰু 2 দুয়োটাৰ অৰ্থ হৈছে পদ্ধতিটো ব্যৱহাৰ কৰিব পাৰি আৰু শ্ৰেণী 3 বা 4 দুয়োটাৰ অৰ্থ হৈছে পদ্ধতিটো ব্যৱহাৰ কৰিব নালাগে।<br><br>কিছুমান স্থিতি বাবে কোনো প্ৰতিবন্ধকতা নাই: যেতিয়া সকলো পদ্ধতি ব্যৱহাৰ কৰিব পাৰি তেতিয়া বহুতো চিকিৎসাজনিত স্থিতি থাকে (অৰ্থাৎ, সকলো পদ্ধতি শ্ৰেণী 1 বা 2 হয়)। এই স্থিতিবোৰ <b>চৰ্ত </b>মেনুত সূচীভুক্ত কৰা হৈছে। <br><br>গৰ্ভনিৰোধক পদ্ধতিৰ যোগ্যতা প্ৰতিষ্ঠা হোৱাৰ পিছত, <strong>অতিৰিক্ত তথ্য</strong> স্ক্ৰীণখন অন্যান্য বিবেচনাৰ বিষয়ে পৰ্যালোচনা কৰিব পাৰি। গৰ্ভনিৰোধক কাৰ্যকৰীতাৰ এখন চাৰ্ট, বিভিন্ন পদ্ধতিৰ বাবে সাধাৰণ ব্যৱহাৰৰ তুলনা কৰা (এই এপ্পটোত স্পষ্টভাৱে অন্তৰ্ভুক্ত নোহোৱা কিছুমান সহ) এই মেনুত অন্তৰ্ভুক্ত কৰা হৈছে।<br><br>"
+            "value" : "<br><br>শ্ৰেণী 1 আৰু 4 টো হ'ল স্পষ্টভাৱে নিৰ্দেশিত পৰামৰ্শ। শ্ৰেণী 2 বা 3-ৰ বাবে, অধিক নিদানিক যুক্তি বিচাৰৰ প্ৰয়োজন হ'ব আৰু সাৱধানে অনুসৰণ কৰাৰ প্ৰয়োজন হ'ব পাৰে। যদি নিদানিক যুক্তি বিচাৰ সীমিত হয়, শ্ৰেণী 1 আৰু 2 দুয়োটাৰ অৰ্থ হৈছে পদ্ধতিটো ব্যৱহাৰ কৰিব পাৰি আৰু শ্ৰেণী 3 বা 4 দুয়োটাৰ অৰ্থ হৈছে পদ্ধতিটো ব্যৱহাৰ কৰিব নালাগে। .<br><br>কিছুমান স্থিতি বাবে কোনো প্ৰতিবন্ধকতা নাই: যেতিয়া সকলো পদ্ধতি ব্যৱহাৰ কৰিব পাৰি তেতিয়া বহুতো চিকিৎসাজনিত স্থিতি থাকে (অৰ্থাৎ, সকলো পদ্ধতি শ্ৰেণী 1 বা 2 হয়)। এই স্থিতিবোৰ <b>চৰ্ত </b>মেনুত সূচীভুক্ত কৰা হৈছে। <br><br>গৰ্ভনিৰোধক পদ্ধতিৰ যোগ্যতা প্ৰতিষ্ঠা হোৱাৰ পিছত, <strong>অতিৰিক্ত তথ্য</strong> স্ক্ৰীণখন অন্যান্য বিবেচনাৰ বিষয়ে পৰ্যালোচনা কৰিব পাৰি। গৰ্ভনিৰোধক কাৰ্যকৰীতাৰ এখন চাৰ্ট, বিভিন্ন পদ্ধতিৰ বাবে সাধাৰণ ব্যৱহাৰৰ তুলনা কৰা (এই এপ্পটোত স্পষ্টভাৱে অন্তৰ্ভুক্ত নোহোৱা কিছুমান সহ) এই মেনুত অন্তৰ্ভুক্ত কৰা হৈছে।<br><br>"
           }
         },
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "<br><br>শ্রেণি 1 ও 4 হল স্পষ্টভাবে নির্ধারিত সুপারিশ। শ্রেণি 2 বা 3-এর ক্ষেত্রে, নিদানিক সিদ্ধান্ত প্রয়োজন হবে এবং যত্নশীল ফলো-আপ করা আবশ্যক হতে পারে। নিদানিক সিদ্ধান্ত সীমিত হলে, শ্রেণি 1 ও 2 উভয়ের অর্থ হবে পদ্ধতিটি ব্যবহার করা যেতে পারে এবং শ্রেণি 3 বা 4 উভয়ের অর্থ হবে পদ্ধতিটি ব্যবহার করা উচিৎ নয়। <br><br>কয়েকটি সমস্যার ক্ষেত্রে কোনও নিষেধ নেই: চিকিৎসাগত বহু সমস্যায় সবগুলি পদ্ধতি ব্যবহার করা যায় (অর্থাৎ, সবগুলি পদ্ধতি শ্রেণি 1 বা 2 হবে)। সমস্যার মেনুতে এইসব<b> সমস্যা </b> তালিকাভুক্ত হয়েছে।<br><br>গর্ভনিরোধক পদ্ধতির যোগ্যতা প্রতিষ্ঠিত হওয়ার পর, অন্যান্য বিবেচনা সম্বন্ধে <strong>অতিরিক্ত তথ্য</strong> স্ক্রিনটি পর্যালোচনা করা যেতে পারে। এই মেনুতে বহু প্রকার পদ্ধতির (এই অ্যাপে বিশদে বলা হয়নি, এমন কয়েকটি সহ) সাধারণ ব্যবহার তুলনা করে গর্ভনিরোধকের কার্যকারিতার একটি চার্ট অন্তর্ভুক্ত করা হয়েছে।<br><br>"
+            "value" : "<br><br>শ্রেণি 1 ও 4 হল স্পষ্টভাবে নির্ধারিত সুপারিশ। শ্রেণি 2 বা 3-এর ক্ষেত্রে, নিদানিক সিদ্ধান্ত প্রয়োজন হবে এবং যত্নশীল ফলো-আপ করা আবশ্যক হতে পারে। নিদানিক সিদ্ধান্ত সীমিত হলে, শ্রেণি 1 ও 2 উভয়ের অর্থ হবে পদ্ধতিটি ব্যবহার করা যেতে পারে এবং শ্রেণি 3 বা 4 উভয়ের অর্থ হবে পদ্ধতিটি ব্যবহার করা উচিৎ নয়। <br><br>কয়েকটি সমস্যার ক্ষেত্রে কোনও নিষেধ নেই: চিকিৎসাগত বহু সমস্যায় সবগুলি পদ্ধতি ব্যবহার করা যায় (অর্থাৎ, সবগুলি পদ্ধতি শ্রেণি 1 বা 2 হবে)। সমস্যার মেনুতে এইসব<b>সমস্যা </b> তালিকাভুক্ত হয়েছে।<br><br>গর্ভনিরোধক পদ্ধতির যোগ্যতা প্রতিষ্ঠিত হওয়ার পর, অন্যান্য বিবেচনা সম্বন্ধে <strong>অতিরিক্ত তথ্য</strong> স্ক্রিনটি পর্যালোচনা করা যেতে পারে। এই মেনুতে বহু প্রকার পদ্ধতির (এই অ্যাপে বিশদে বলা হয়নি, এমন কয়েকটি সহ) সাধারণ ব্যবহার তুলনা করে গর্ভনিরোধকের কার্যকারিতার একটি চার্ট অন্তর্ভুক্ত করা হয়েছে।<br><br>"
           }
         },
         "en" : {
@@ -12728,7 +13190,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "उच्च रक्तचाप (<160/100)"
+            "value" : "उच्च रक्तचाप\n<160/100"
           }
         },
         "kn-IN" : {
@@ -12746,7 +13208,7 @@
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ରକ୍ତଚାପ (<160/100)"
+            "value" : "ରକ୍ତଚାପ\n<160/100"
           }
         },
         "pa-IN" : {
@@ -12775,43 +13237,43 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "হাইপারটেনশন (>160/100)"
+            "value" : "হাইপারটেনশন (<160/100)"
           }
         },
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "হাইপারটেনশন (>160/100)"
+            "value" : "হাইপারটেনশন (<160/100)"
           }
         },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "હાઇપરટેન્શન (>160/100)"
+            "value" : "હાઇપરટેન્શન (<160/100)"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "उच्च रक्तचाप (>160/100)"
+            "value" : "उच्च रक्तचाप\n<160/100"
           }
         },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ (>160/100)"
+            "value" : "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ (<160/100)"
           }
         },
         "ml-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "രക്താതിസമ്മർദ്ദം (>160/100)"
+            "value" : "രക്താതിസമ്മർദ്ദം (<160/100)"
           }
         },
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ରକ୍ତଚାପ (>160/100)"
+            "value" : "ରକ୍ତଚାପ\n>160/100"
           }
         },
         "pa-IN" : {
@@ -12823,7 +13285,7 @@
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "உயர் இரத்த அழுத்தம் (>160/100)"
+            "value" : "உயர் இரத்த அழுத்தம் (<160/100)"
           }
         },
         "te-IN" : {
@@ -12917,7 +13379,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "જો ડાયાબિટીસ જટિલ હોય કે 20 વર્ષથી વધારે સમયથી હોય તો: COCs, CICs, DMP અને NET-EN = 3-4."
+            "value" : "જો ડાયાબિટીસ જટિલ હોય કે 20 વર્ષથી વધારે સમયથી હોય તોઃ COCs, CICs, DMP અને NET-EN = 3-4."
           }
         },
         "hi" : {
@@ -13582,18 +14044,6 @@
             "value" : "ARV ചികിത്സ സ്വീകരിക്കുന്നില്ലെങ്കിൽ, ക്ലിനിക്കലായി സുഖമല്ലെങ്കിൽ, Cu IUCD, LNG-IUD = 3."
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଯଦି ARV ଚିକିତ୍ସା ଗ୍ରହଣ କରିନଥା’ନ୍ତି ଏବଂ ନୈଦାନିକ ଭାବେ ସୁସ୍ଥ ନଥା’ନ୍ତି, ତେବେ Cu IUCD ଓ LNG-IUD = 3"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਜੇ ARV ਇਲਾਜ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ ਅਤੇ ਡਾਕਟਰੀ ਤੌਰ 'ਤੇ ਠੀਕ ਨਹੀਂ ਹੈ, Cu IUCD ਅਤੇ LNG-IUD = 3।"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13751,12 +14201,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "જો પેલ્વિક TB, IUCD અને LNG-IUD = 4."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "यदि पेल्विक टीबी, तो Cu IUCD और LNG-IUD = 4"
           }
         },
         "kn-IN" : {
@@ -15041,12 +15485,6 @@
             "value" : "Impl."
           }
         },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ইমপ্ল্যান্ট"
-          }
-        },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15057,18 +15495,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "इम्प्ल."
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impl."
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impl."
           }
         },
         "or-IN" : {
@@ -15097,7 +15523,7 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ইমপ্লেণ্ট"
+            "value" : "ইমপ্লেণ্টচ"
           }
         },
         "bn-IN" : {
@@ -15162,13 +15588,13 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ইমপ্লেণ্ট, IUD, মহিলাৰ বন্ধ্যাকৰণ"
+            "value" : "ইমপ্লেণ্ট, IUD, মহিলাৰ বন্ধ্যাকৰণ:"
           }
         },
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ইমপ্ল্যান্ট, IUD, মহিলা বন্ধ্যাত্বকরণ"
+            "value" : "ইমপ্ল্যান্ট, IUD, মহিলা বন্ধ্যাত্বকরণ:"
           }
         },
         "gu-IN" : {
@@ -15180,25 +15606,25 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "इम्प्लांट, आईयूडी, महिला नसबंदी (स्टेरलाइजेशन)"
+            "value" : "इम्प्लांट, आईयूडी, महिला नसबंदी (स्टेरलाइजेशन) : प्रक्रिया के बाद, करने या याद रखने के लिए बहुत कम या कुछ भी नहीं।"
           }
         },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ಕಸಿಗಳು, IUD, ಸ್ತ್ರೀ ಸಂತಾನಹರಣ"
+            "value" : "ಕಸಿಗಳು, IUD, ಸ್ತ್ರೀ ಸಂತಾನಹರಣ:"
           }
         },
         "ml-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ഇംപ്ലാന്റുകൾ, IUD, സ്ത്രീകളുടെ വന്ധ്യംകരണം"
+            "value" : "ഇംപ്ലാന്റുകൾ, IUD, സ്ത്രീകളുടെ വന്ധ്യംകരണം:"
           }
         },
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ପ୍ରତ୍ୟାରୋପଣ, IUD, ମହିଳା ବନ୍ଧ୍ୟାକରଣ ପ୍ରକ୍ରିୟା"
+            "value" : "ପ୍ରତ୍ୟାରୋପଣ, IUD, ମହିଳା ବନ୍ଧ୍ୟାକରଣ ପ୍ରକ୍ରିୟା "
           }
         },
         "pa-IN" : {
@@ -15210,7 +15636,7 @@
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "இம்ப்ளேன்ட்டுகள், IUD, பெண் கருத்தடை"
+            "value" : "இம்ப்ளேன்ட்டுகள், IUD, பெண் கருத்தடை:"
           }
         },
         "te-IN" : {
@@ -15475,6 +15901,53 @@
         }
       }
     },
+    "Injectables:\\nGet repeat injections on time." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Injectables:\\nGet repeat injections on time."
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇન્જેક્ટેબલ્સઃ ઇન્જેક્શનને ફરીથી સમયસર લો."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इंजेक्टेबल्स: समय पर दोबारा इंजेक्शन लगवाएं।"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ଇଞ୍ଜେକ୍ଟେବଲ୍ସ: ସମୟ ଉପରେ ପୁନରାବର୍ତ୍ତୀ ଇଞ୍ଜେକ୍ସନ୍ ନିଅନ୍ତୁ।"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਟੀਕੇ ਲਗਾਉਣਾ: ਸਮੇਂ ਸਿਰ ਦੁਬਾਰਾ ਟੀਕੇ ਲਗਵਾਓ।"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஊசி மூலம் செலுத்தக்கூடியவை"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఇంజెక్ట్ చేయతగినవి:: సమయానికి పునరావృత ఇంజెక్షన్లు పొందండి."
+          }
+        }
+      }
+    },
     "Injected into the muscle or under the skin every 2 or 3 months, depending on the product." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -15605,7 +16078,7 @@
         }
       }
     },
-    "Iron-deficiency anaemia, sickle-cell disease and thalassaemia." : {
+    "Iron-deficiency anaemia,sickle-cell disease and thalassaemia." : {
       "extractionState" : "manual",
       "localizations" : {
         "as-IN" : {
@@ -16255,6 +16728,47 @@
         }
       }
     },
+    "LAM" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAM"
+          }
+        }
+      }
+    },
     "Lamivudine" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -16846,6 +17360,106 @@
         }
       }
     },
+    "LNG" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG"
+          }
+        }
+      }
+    },
+    "LNG-IUD" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LNG-IUD"
+          }
+        }
+      }
+    },
     "LNG-IUD = levonorgestrel-releasing IUD (20 µg/24 hours)." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -16912,71 +17526,6 @@
       }
     },
     "Long lasting" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "as-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "দীর্ঘস্থায়ী"
-          }
-        },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "দীর্ঘস্থায়ী"
-          }
-        },
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "લાંબા સમય સુધી ટકે છે"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "चिरस्थायी"
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ದೀರ್ಘಕಾಲ ಉಳಿಯುತ್ತದೆ"
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ദീർഘകാലം നിലനിൽക്കുന്നത്"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଦୀର୍ଘସ୍ଥାୟୀ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਚੱਲਣ ਵਾਲਾ"
-          }
-        },
-        "ta-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "நீண்ட காலம் நீடிப்பது"
-          }
-        },
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "దీర్ఘకాలం"
-          }
-        }
-      }
-    },
-    "Long Lasting" : {
       "extractionState" : "manual",
       "localizations" : {
         "as-IN" : {
@@ -17171,6 +17720,53 @@
         }
       }
     },
+    "LPV/r" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LPV/r"
+          }
+        }
+      }
+    },
     "Malaria." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -17319,7 +17915,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "પુરુષો માટેના કન્ડોમ્સ: યોગ્ય અને સતત ઉપયોગ કરવા પર 98%, કૉમન રીતે ઉપયોગ કરવા પર 85%."
+            "value" : "પુરુષો માટેના કન્ડોમ્સઃ યોગ્ય અને સતત ઉપયોગ કરવા પર 98%, કૉમન રીતે ઉપયોગ કરવા પર 85%."
           }
         },
         "hi" : {
@@ -17468,12 +18064,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "മെഡിക്കൽ"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଡାକ୍ତରୀ"
           }
         },
         "pa-IN" : {
@@ -17730,12 +18320,6 @@
             "value" : "18 വയസ്സിൽ താഴെയുള്ള ആർത്തവം"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ବୟସ\nଋତୁସ୍ରାବ ପ୍ରାରମ୍ଭ <18 ବର୍ଷ"
-          }
-        },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17746,71 +18330,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "மாத விடாய் முதல் 18 வயது வரை"
-          }
-        },
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "రజస్వల, పుష్పవతి అయినప్పటినుండి <18  సంవత్సరాలు"
-          }
-        }
-      }
-    },
-    "Menarche to <18 Years" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "as-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ৰজোদৰ্শনৰ পৰা <18 বছৰলৈ"
-          }
-        },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ঋতুস্রাব শুরু হওয়া থেকে <18 বছর বয়স"
-          }
-        },
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "સૌપ્રથમ વખત રજોદર્શન શરૂ થવાથી માંડીને <18 વર્ષ સુધી"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "रजोदर्शन से <18 वर्ष"
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ಋತುಚಕ್ರದಿಂದ <18 ವರ್ಷಗಳು"
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "18 വയസ്സിൽ താഴെയുള്ള ആർത്തവം"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ବୟସ\nଋତୁସ୍ରାବ ପ୍ରାରମ୍ଭ <18 ବର୍ଷ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਮਾਹਵਾਰੀ ਤੋਂ < 18 ਸਾਲ\n"
-          }
-        },
-        "ta-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வயது (மாத விடாய் முதல் 18 வயது வரை)"
           }
         },
         "te-IN" : {
@@ -17970,12 +18489,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ઑરાની"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "माइग्रेन"
           }
         },
         "kn-IN" : {
@@ -18223,19 +18736,13 @@
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "মাইগ্রেন।"
+            "value" : "মাইগ্রেন"
           }
         },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "માઇગ્રેન."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "माइग्रेन."
+            "value" : "માઇગ્રેન"
           }
         },
         "kn-IN" : {
@@ -18294,13 +18801,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "હળવો સિરોસિસ."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "हल्के सिरोसिस"
+            "value" : "માઇગ્રેન."
           }
         },
         "kn-IN" : {
@@ -18359,7 +18860,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 5 દિવસથી વધારે: સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ POPs શરૂ થઈ શકે છે. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 5 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ POPs શરૂ થઈ શકે છે. તેમણે આગામી 2 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
         },
         "hi" : {
@@ -18424,7 +18925,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 5 દિવસથી વધારે: સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ CHC શરૂ કરો. આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 5 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો જ CHC શરૂ કરો. આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહો અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરો."
           }
         },
         "hi" : {
@@ -18619,13 +19120,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 7 દિવસથી વધારે: સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "मासिक धर्म में रक्तस्राव शुरू होने के 7 दिन से अधिक समय के पश्चात: इंम्प्लांट को अंतः स्थापित किया जा सकता है यदि यह निश्चित हो जाए कि महिला गर्भवती नहीं है। उसे अगले 7 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાંનાં 7 દિવસથી વધારેઃ સ્ત્રી ગર્ભવતી થઈ નથી તેમ જો ચોક્કસપણે ખાતરી હોય તો ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. તેમણે આગામી 7 દિવસ સુધી જાતીય સમાગમથી દૂર રહેવું પડશે અથવા તો વધારાની ગર્ભનિરોધક સુરક્ષાનો ઉપયોગ કરવો પડશે."
           }
         },
         "kn-IN" : {
@@ -18640,12 +19135,6 @@
             "value" : "ആർത്തവ രക്തസ്രാവം ആരംഭിച്ച് 7 ദിവസത്തിൽ കൂടുതൽ: സ്ത്രീ ഗർഭിണിയല്ലെന്ന് ഏറെക്കുറെ ഉറപ്പുണ്ടെങ്കിൽ ഇംപ്ലാന്റ് നിക്ഷേപിക്കാവുന്നതാണ്. അടുത്ത 7 ദിവസത്തേക്ക് ലൈംഗിക ബന്ധത്തിൽ നിന്ന് അകന്നു നിൽക്കുകയോ അധിക ഗർഭനിരോധന സംരക്ഷണം ഉപയോഗിക്കുകയോ ചെയ്യേണ്ടതുണ്ട്."
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ମାସିକ ରକ୍ତସ୍ରାବ ଆରମ୍ଭ ହେବାର 7 ଦିନରୁ ଅଧିକ:ଯଦି ନିଶ୍ଚିତ ହୋଇଥିବେ ଯେ, ମହିଳା ଗର୍ଭବତୀ ନୁହଁନ୍ତି, ତେବେ ପ୍ରତ୍ୟାରୋପଣକୁ ଭର୍ତ୍ତି କରାଯାଇପାରିବ।ତାଙ୍କୁ ପରବର୍ତ୍ତୀ 7 ଦିନ ପର୍ଯ୍ୟନ୍ତ ଯୌନକ୍ରିୟାରୁ ଦୂରେଇ ରହିବାକୁ କିମ୍ୱା ଅତିରିକ୍ତ ଗର୍ଭନିରୋଧକ ସୁରକ୍ଷା ବ୍ୟବହାର କରିବାକୁ ପଡ଼ିବ।"
-          }
-        },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18656,6 +19145,35 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ఋతు రక్తస్రావం ప్రారంభమైనప్పటి నుండి 7 రోజుల కంటే ఎక్కువ: స్త్రీ గర్భవతి కాదని సహేతుకంగా నిశ్చయించినట్లయితే ఇంప్లాంట్‌ను చొప్పించవచ్చు. ఆమె సెక్స్ నుండి దూరంగా ఉండాలి లేదా తదుపరి 7 రోజుల పాటు అదనపు గర్భనిరోధక రక్షణను ఉపయోగించాలి."
+          }
+        }
+      }
+    },
+    "More than 7 days since the start of menstrual bleeding: The implant can be inserted if itis reasonably certain that the woman is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More than 7 days since the start of menstrual bleeding: The implant can be inserted if itis reasonably certain that the woman is not pregnant. She will need to abstain from sex or use additional contraceptive protection for the next 7 days."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मासिक धर्म में रक्तस्राव शुरू होने के 7 दिन से अधिक समय के पश्चात: इंम्प्लांट को अंतः स्थापित किया जा सकता है यदि यह निश्चित हो जाए कि महिला गर्भवती नहीं है। उसे अगले 7 दिनों तक सेक्स से दूर रहना होगा या अतिरिक्त गर्भनिरोधक सुरक्षा का उपयोग करना होगा।"
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ମାସିକ ରକ୍ତସ୍ରାବ ଆରମ୍ଭ ହେବାର 7 ଦିନରୁ ଅଧିକ:ଯଦି ନିଶ୍ଚିତ ହୋଇଥିବେ ଯେ, ମହିଳା ଗର୍ଭବତୀ ନୁହଁନ୍ତି, ତେବେ ପ୍ରତ୍ୟାରୋପଣକୁ ଭର୍ତ୍ତି କରାଯାଇପାରିବ।ତାଙ୍କୁ ପରବର୍ତ୍ତୀ 7 ଦିନ ପର୍ଯ୍ୟନ୍ତ ଯୌନକ୍ରିୟାରୁ ଦୂରେଇ ରହିବାକୁ କିମ୍ୱା ଅତିରିକ୍ତ ଗର୍ଭନିରୋଧକ ସୁରକ୍ଷା ବ୍ୟବହାର କରିବାକୁ ପଡ଼ିବ।"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மாதவிடாய் இரத்தப்போக்கு தொடங்கி 7 நாட்களுக்கு மேல் : பெண் கர்ப்பமாக இல்லை என்பது கணிசமாக உறுதியானால், உள்வைப்பு செருகப்படலாம். அடுத்த 7 நாட்களுக்கு அவள் உடலுறவை தவிர்க்க வேண்டும் அல்லது கூடுதல் பாதுகாப்பை பயன்படுத்த வேண்டும்."
           }
         }
       }
@@ -18743,7 +19261,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "એકથી વધારે જોખમકારક પરિબળોમાં સમાવિષ્ટ છે: વૃદ્ધાવસ્થા, ધૂમ્રપાન, હાઇપરટેન્શન (ઉચ્ચ રક્તચાપ), ડાયાબિટીસ, મેદસ્વીતા અને જ્ઞાત ડીસ્લિપિડેમિયા. દર્દી જો POP, ઇમ્પ્લાન્ટ, LNG-IUD (ફક્ત IHD) પર હોય ત્યારે સ્ટ્રોક/ IHD વિકસે તો દર્દીને નોન-હોર્મોનલ પદ્ધતિ પર લઈ લો."
+            "value" : "એકથી વધારે જોખમકારક પરિબળોમાં સમાવિષ્ટ છેઃ વૃદ્ધાવસ્થા, ધૂમ્રપાન, હાઇપરટેન્શન (ઉચ્ચ રક્તચાપ), ડાયાબિટીસ, મેદસ્વીતા અને જ્ઞાત ડીસ્લિપિડેમિયા. દર્દી જો POP, ઇમ્પ્લાન્ટ, LNG-IUD (ફક્ત IHD) પર હોય ત્યારે સ્ટ્રોક/ IHD વિકસે તો દર્દીને નોન-હોર્મોનલ પદ્ધતિ પર લઈ લો."
           }
         },
         "hi" : {
@@ -18811,12 +19329,6 @@
             "value" : "લાગુ થતું નથી"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "NA"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18827,18 +19339,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ബാധകമല്ല"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "NA"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਉਹ"
           }
         },
         "ta-IN" : {
@@ -18868,12 +19368,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "NA = લાગુ થતું નથી"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "NA = लागू नहीं"
           }
         },
         "kn-IN" : {
@@ -18910,6 +19404,71 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "NA = వర్తించదు"
+          }
+        }
+      }
+    },
+    "NA = not applicable<br><br>*Emergency contraceptive pills may be less effective among women with BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbspthan among women with < 25 kg/m<sup><small><small>2</small></small></sup>.<br><br>Despite this, there are no safety concerns." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = প্ৰযোজ্য নহয়।<br><br>*BMI <25 কিগ্ৰা/মি<sup><small><small>2</small></small></sup>&nbsp থকা মহিলাৰ তুলনাত BMI ≥ 30 কিগ্ৰা/মি<sup><small><small>2</small></small></sup>&nbsp থকা মহিলাৰ ক্ষেত্ৰত জৰুৰীকালীন গৰ্ভনিৰোধক বড়ি কম কাৰ্যকৰী হ'ব পাৰে।<br><br>\nতথাপিও, কোনো সুৰক্ষাৰ উদ্বেগ নাথাকে।"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = প্রযোজ্য নয়।<br><br>*যেসব মহিলার BMI ≥30 kg/m<sup><small><small>2</small></small></sup>&nbsp তাঁদের ক্ষেত্রে, <25 kg/m<sup><small><small>2</small></small></sup>&nbsp মহিলাদের তুলনায় জরুরী অবস্থায় গর্ভনিরোধক কম কার্যকর হতে পারে।<br><br>\nতাসত্ত্বেও, সুরক্ষার কোনও উদ্বেগ নেই।"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = લાગુ થતું નથી<br><br>*< 25 kg/m<sup><small><small>2</small></small></sup>&nbsp BMI ધરાવતી સ્ત્રીઓની સરખામણીએ BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbsp ધરાવતી સ્ત્રીઓમાં ઇમર્જન્સીમાં લેવાની ગર્ભનિરોધક ગોળીઓ ઓછી અસરકારક સાબિત થઈ શકે છે.<br><br>\nતેમ છતાં તેમાં સુરક્ષા સંબંધિત કોઈ ચિંતાનું કારણ નથી."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " NET-EN का NET-EN = 200 मिलीग्राम इंट्रामस्क्युलर रूप से दिया गया"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = ಅನ್ವಯಿಸುವುದಿಲ್ಲ.<br><br>* ತುರ್ತು ಗರ್ಭನಿರೋಧಕ ಮಾತ್ರೆಗಳು BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbsp ಹೊಂದಿರುವ ಮಹಿಳೆಯರಲ್ಲಿ < 25 kg/m<sup><small><small>2</small></small></sup>&nbsp ಮಹಿಳೆಯರಿಗಿಂತ ಕಡಿಮೆ ಪರಿಣಾಮಕಾರಿಯಾಗಿರಬಹುದು.<br><br>\nಇದರ ಹೊರತಾಗಿಯೂ, ಯಾವುದೇ ಸುರಕ್ಷತಾ ಚಿಂತೆಗಳಿಲ್ಲ."
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA =ബാധകമല്ല.<br><br>*അടിയന്തര ഗർഭനിരോധന ഗുളികകൾ BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>&nbsp ഉള്ള സ്ത്രീകളിൽ <25 kg/m<sup><small><small>2</small></small></sup>&nbsp ഉള്ള സ്ത്രീകളെ അപേക്ഷിച്ച് വളരെ കുറഞ്ഞ ഫലപ്രാപ്തി ഉള്ളതായിരിക്കാം.<br><br>\nഇങ്ങനെയാണെങ്കിലും, സുരക്ഷാ ആശങ്കകളൊന്നുമില്ല."
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = ପ୍ରଯୁଜ୍ୟ ନୁହେଁ<br><br>\n*< 25 kg/m<sup><small><small>2</small></small></sup>  ସହିତ ମହିଳାମାନଙ୍କ ତୁଳନାରେ BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> ସହିତ ମହିଳାମାନଙ୍କଠାରେ ଜରୁରୀକାଳୀନ ଗର୍ଭନିରୋଧକ ବଟିକା କମ ପ୍ରଭାବଶାଳୀ ଅଟେ।<br><br> \nଏହା ସତ୍ତ୍ୱେ, ସୁରକ୍ଷାକୁ ନେଇ ସେପରି କୌଣସି ଚିନ୍ତା ନାହିଁ।\n\n"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = ਲਾਗੂ ਨਹੀਂ ਹੁੰਦਾ<br><br>\n*ਐਮਰਜੈਂਸੀ ਗਰਭ ਨਿਰੋਧਕ ਗੋਲੀਆਂ <25 kg/m<sup><small><small>2</small></small></sup> ਵਾਲੀਆਂ ਔਰਤਾਂ ਦੇ ਮੁਕਾਬਲੇ BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup> ਵਾਲੀਆਂ ਔਰਤਾਂ ਵਿੱਚ ਘੱਟ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਇਸ ਦੇ ਬਾਵਜੂਦ,<br><br> ਕੋਈ ਸੁਰੱਖਿਆ ਚਿੰਤਾਵਾਂ ਨਹੀਂ ਹਨ।\n"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = பொருந்தாது.<br><br>*அவசரகால கருத்தடை மாத்திரைகள் BMI ≥30 கிலோ/மீ<sup><small><small>2</small></small></sup>&nbsp உள்ள பெண்களை விட <25 கிகி/மீ<sup><small><small>2</small></small></sup>&nbsp உள்ள பெண்களை விட குறைவான செயல்திறன் கொண்டதாக இருக்கலாம். இருந்தபோதிலும், பாதுகாப்பு கவலைகள் இல்லை.<br><br>\nஇப்படி இருந்தபோதிலும், பாதுகாப்பு கவலைகள் இல்லை."
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NA = వర్తించదు<br><br>\n*అత్యవసర గర్భనిరోధక మాత్రలు BMI ≥ 30 kg/m2 ఉన్న మహిళల్లో <25 kg/m2 ఉన్న మహిళల కంటే తక్కువ ప్రభావవంతంగా ఉండవచ్చు.<br><br>\nఅయినప్పటికీ, భద్రతా సమస్యలు లేవు.\n"
           }
         }
       }
@@ -19018,18 +19577,6 @@
             "value" : "ഇല്ല"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ନା"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਨੰ"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19081,18 +19628,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ഹോർമോൺ ഇല്ല"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "କୌଣସି ହର୍ମୋନ୍ ନାହିଁ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਕੋਈ ਹਾਰਮੋਨ ਨਹੀਂ"
           }
         },
         "ta-IN" : {
@@ -19254,12 +19789,6 @@
             "value" : "નોન-હોર્મોનલ કૉન્ટ્રાસેપ્ટિવ્સ\n(સેન્ટક્રોમેન)\n"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "गैर-हार्मोनल गर्भनिरोधक (सेंटक्रोमन)"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19396,12 +19925,6 @@
             "value" : "പഴുപ്പില്ലാത്ത സ്രവവും ഉയർന്ന അപകടസാധ്യതയിലുള്ള വ്യക്തിയും"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଅଣ-ପୂଜ ସ୍ରାବ ଏବଂ ଅଧିକ ବିପଦ ସହିତ ବ୍ୟକ୍ତିବିଶେଷ"
-          }
-        },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19506,12 +20029,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ન્યુક્લીયોસાઇડ રીવર્સ ટ્રાન્સસ્ક્રિપ્ટેઝ ઇન્હિબિટર્સ (NRTIs)"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "न्यूक्लियोसाइड रिवर्स ट्रांसक्रिपटेस इंहिबिटर्स (अवरोधक) (NRTI)"
           }
         },
         "kn-IN" : {
@@ -19635,13 +20152,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "કોષ્ટકમાં દર્શાવવામાં આવેલી સંખ્યાઓ ગર્ભાવસ્થાનો ચોક્કસ રીતે ઉપયોગ કર્યાના પ્રથમ વર્ષ દરમિયાન અનિચ્છિત ગર્ભાવસ્થાનો સામનો કરી રહેલી સ્ત્રીઓની ટકાવારીને સૂચવે છે. સ્રોત: ટ્રસેલ જે., 2011."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "कोष्ठक में संख्याएं गर्भनिरोधक के विशिष्ट उपयोग के प्रथम वर्ष के दौरान अनपेक्षित गर्भावस्था का अनुभव करने वाली महिलाओं के % को दर्शाती हैं। स्रोत : ट्रसेल जे., 2011"
+            "value" : "કોષ્ટકમાં દર્શાવવામાં આવેલી સંખ્યાઓ ગર્ભાવસ્થાનો ચોક્કસ રીતે ઉપયોગ કર્યાના પ્રથમ વર્ષ દરમિયાન અનિચ્છિત ગર્ભાવસ્થાનો સામનો કરી રહેલી સ્ત્રીઓની ટકાવારીને સૂચવે છે. સ્રોતઃ ટ્રસેલ જે., 2011."
           }
         },
         "kn-IN" : {
@@ -19688,7 +20199,7 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "সংখ্যাবোৰে পদ্ধতিটোৰ সাধাৰণ ব্যৱহাৰৰ প্ৰথম বছৰত অনিচ্ছাকৃত গৰ্ভধাৰণৰ অভিজ্ঞতা লাভ কৰা মহিলাৰ % সূচায়।\n"
+            "value" : "সংখ্যাবোৰে পদ্ধতিটোৰ সাধাৰণ ব্যৱহাৰৰ প্ৰথম বছৰত অনিচ্ছাকৃত গৰ্ভধাৰণৰ অভিজ্ঞতা লাভ কৰা মহিলাৰ % সূচায়।\n\n"
           }
         },
         "bn-IN" : {
@@ -19747,6 +20258,53 @@
         }
       }
     },
+    "NVP" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NVP"
+          }
+        }
+      }
+    },
     "Obesity* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>)." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -19759,7 +20317,7 @@
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "স্থূলতা* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>)।"
+            "value" : "স্থূলতা* (BMI ≥ 30 kg/m<sup><small><small>2</small></small></sup>)."
           }
         },
         "gu-IN" : {
@@ -19849,12 +20407,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ആന്റികൺവൾസന്റുകളിൽ"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଅପସ୍ମାରରୋଧୀଗୁଡ଼ିକରେ"
           }
         },
         "pa-IN" : {
@@ -19979,18 +20531,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "റിഫാംപിസിൻ റിഫാബുട്ടിനിൽ"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ରିଫାମ୍ପିସିନ୍ ରିଫାବ୍ୟୁଟିନ୍‌ରେ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਰਿਫੈਮਪਿਸਿਨ ਰਿਫਾਬਿਊਟਿਨ ਹੈ"
           }
         },
         "ta-IN" : {
@@ -20415,7 +20955,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "પેચ, રિંગ: નિશ્ચિત જગ્યાએ મૂકો, સમયસર બદલો"
+            "value" : "પેચ, રિંગઃ નિશ્ચિત જગ્યાએ મૂકો, સમયસર બદલો"
           }
         },
         "hi" : {
@@ -20858,7 +21398,7 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "বড়ি: হৰমনৰ বড়ি দৈনিক গ্ৰহণ কৰক আৰু হৰমন নোহোৱা বড়ি সপ্তাহত গ্ৰহণ কৰক।"
+            "value" : "বড়ি: হৰমনৰ বড়ি দৈনিক গ্ৰহণ কৰক আৰু হৰমন নোহোৱা বড়ি সপ্তাহত গ্ৰহণ কৰক।"
           }
         },
         "bn-IN" : {
@@ -20870,7 +21410,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ગોળીઓ: હોર્મોનની ગોળી દરરોજ લો અને નોન-હોર્મોનલ ગોળી દર અઠવાડિયે લો (શિડ્યૂલ મુજબ)."
+            "value" : "ગોળીઓઃ હોર્મોનની ગોળી દરરોજ લો અને નોન-હોર્મોનલ ગોળી દર અઠવાડિયે લો (શિડ્યૂલ મુજબ)."
           }
         },
         "hi" : {
@@ -20935,7 +21475,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "POIsમાં ડીપો મેડ્રોક્સીપ્રોજેસ્ટેરોન એસીટેટ (DMPA) નોરેથિસ્ટેરોન એનેન્થેટ (NET-EN)નો સમાવેશ થાય છે. અહીં ત્રણ સૂત્રીકરણો પર વિચારણા કરવામાં આવી છે:"
+            "value" : "POIsમાં ડીપો મેડ્રોક્સીપ્રોજેસ્ટેરોન એસીટેટ (DMPA) નોરેથિસ્ટેરોન એનેન્થેટ (NET-EN)નો સમાવેશ થાય છે. અહીં ત્રણ સૂત્રીકરણો પર વિચારણા કરવામાં આવી છેઃ"
           }
         },
         "hi" : {
@@ -21016,18 +21556,6 @@
           }
         },
         "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "POP"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "POP"
-          }
-        },
-        "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "POP"
@@ -21118,7 +21646,7 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "গৰ্ভপাত সম্পূৰ্ণ হোৱাৰ পিছত অবিলম্বে বা 7 দিনৰ ভিতৰত POP আৰম্ভ কৰিব পাৰি। কোনো অতিৰিক্ত গৰ্ভনিৰোধক সুৰক্ষাৰ প্ৰয়োজন নাই।"
+            "value" : "গৰ্ভপাত সম্পূৰ্ণ হোৱাৰ পিছত অবিলম্বে বা 7 দিনৰ ভিতৰত POP  আৰম্ভ কৰিব পাৰি।  কোনো অতিৰিক্ত গৰ্ভনিৰোধক সুৰক্ষাৰ প্ৰয়োজন নাই।"
           }
         },
         "bn-IN" : {
@@ -21644,7 +22172,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "પ્રસૂતિ પછી (સ્તનપાન કરાવનાર અથવા સ્તનપાન નહીં કરાવનાર)"
+            "value" : "પ્રસૂતિ પછી (સ્તનપાન કરાવનાર અથવા સ્તનપાન નહીં કરાવનાર)*"
           }
         },
         "hi" : {
@@ -21687,71 +22215,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ప్రసవానంతర (తల్లిపాలు ఇస్తున్నప్పుడు, లేదా తల్లిపాలు ఇవ్వనప్పుడు)"
-          }
-        }
-      }
-    },
-    "Postpartum (breastfeeding)" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "as-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "প্ৰসৱোত্তৰ (স্তন্যপান কৰাই থকা)"
-          }
-        },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "প্রসবের পর (স্তন্যদান)"
-          }
-        },
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "પ્રસૂતિ પછી (સ્તનપાન)"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "प्रसवोत्तर (स्तनपान)"
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ಪ್ರಸವಾನಂತರದ (ಸ್ತನ್ಯಪಾನ)"
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "പ്രസവശേഷം (മുലയൂട്ടൽ)"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ପ୍ରସବୋତ୍ତର (ସ୍ତନ୍ୟପାନ)"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਪ੍ਰਸਵ ਤੋਂ ਬਾਅਦ (ਛਾਤੀ ਦਾ ਦੁੱਧ ਚੁੰਘਾਉਣਾ)"
-          }
-        },
-        "ta-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "பிரசவத்துக்குப் பிறகு (தாய்பாலூட்டல்)"
-          }
-        },
-        "te-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ప్రసవానంతర (తల్లిపాలు ఇస్తుంటే)"
           }
         }
       }
@@ -21804,13 +22267,13 @@
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ਪ੍ਰਸਵ ਤੋਂ ਬਾਅਦ (ਛਾਤੀ ਦਾ ਦੁੱਧ ਚੁੰਘਾਉਣਾ)*"
+            "value" : "ਪ੍ਰਸਵ ਤੋਂ ਬਾਅਦ (ਛਾਤੀ ਦਾ ਦੁੱਧ ਚੁੰਘਾਉਣਾ)"
           }
         },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "பிரசவத்துக்குப் பிறகு (தாய்பாலூட்டல்)*"
+            "value" : "பிரசவத்துக்குப் பிறகு (தாய்பாலூட்டல்) "
           }
         },
         "te-IN" : {
@@ -22427,12 +22890,6 @@
             "value" : "ગર્ભાવસ્થા"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "गर्भावस्था."
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22490,12 +22947,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તે ફલિત થયેલા અંડાણું અને એન્ડોમેટ્રિયલ બેડની વચ્ચે બેમેળ પેદા કરીને એન્ડોમેટ્રિયમમાં બ્લાસ્ટોસીસ્ટના પ્રત્યારોપણને નિવારે છે. "
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "निषेचित डिंब और एंडोमेट्रियल (अंतर्गर्भाशयकला) पर्त के बीच अतुल्यकालिकता बनाकर एंडोमेट्रियम में ब्लास्टोसिस्ट के इम्प्लांटेशन को रोकता है।"
           }
         },
         "kn-IN" : {
@@ -22814,7 +23265,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પ્લાન્ટ્સ એ લાંબા સમય સુધી કામ કરતાં, કાઢી શકાતા ગર્ભનિરોધકનો એક પ્રકાર છે. જેના પર વિચારણા કરી શકાય તેવા વિવિધ પ્રકારના ઇમ્પ્લાન્ટ્સ અહીં નીચે મુજબ છે:"
+            "value" : "પ્રોજેસ્ટોજેન-ઓન્લી ઇમ્પ્લાન્ટ્સ એ લાંબા સમય સુધી કામ કરતાં, કાઢી શકાતા ગર્ભનિરોધકનો એક પ્રકાર છે. જેના પર વિચારણા કરી શકાય તેવા વિવિધ પ્રકારના ઇમ્પ્લાન્ટ્સ અહીં નીચે મુજબ છેઃ"
           }
         },
         "hi" : {
@@ -23065,40 +23516,10 @@
             "value" : "Progeston-only pills"
           }
         },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "শুধুমাত্র প্রোজেস্টোজেন পিল"
-          }
-        },
-        "gu-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "પ્રોજેસ્ટોન-ઓન્લી પિલ્સ"
-          }
-        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "प्रोजेस्टोजेन-केवल गोलियाँ"
-          }
-        },
-        "kn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ಪ್ರೊಜೆಸ್ಟನ್-ಮಾತ್ರದ ಮಾತ್ರೆಗಳು"
-          }
-        },
-        "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "പ്രോജസ്റ്റൺ മാത്രമുള്ള ഗുളികകൾ"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ପ୍ରୋଜେଷ୍ଟୋଜେନ୍-କେବଳ ବଟିକା"
           }
         },
         "pa-IN" : {
@@ -23290,18 +23711,6 @@
             "value" : "പ്രസവാനന്തരം/ ഗർഭഛിദ്രത്തിന് ശേഷം"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ପ୍ରସବକାଳ/ଗର୍ଭପାତ ପର"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਪਿਉਰਪੇਰਲ/ਪੋਸਟਬੋਰਟਲ"
-          }
-        },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23355,12 +23764,6 @@
             "value" : "പഴുപ്പ് പുറത്തേക്ക് വരുന്നു"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ପୂଜ ସ୍ରାବ"
-          }
-        },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23377,6 +23780,53 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "చీముతో కలిసిన డిశ్చార్జి, స్రావాలు"
+          }
+        }
+      }
+    },
+    "RAL" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAL"
           }
         }
       }
@@ -23467,12 +23917,6 @@
             "value" : "બળાત્કાર (STIનું ઊંચું જોખમ)."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "बलात्कार (STI का उच्च जोखिम)"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23535,7 +23979,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "बलात्कार (STI का निम्न जोखिम)"
+            "value" : "बलात्कार (STI का उच्च जोखिम) "
           }
         },
         "kn-IN" : {
@@ -24486,6 +24930,53 @@
         }
       }
     },
+    "RPV" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RPV"
+          }
+        }
+      }
+    },
     "RTV" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -24520,18 +25011,6 @@
           }
         },
         "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RTV"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RTV"
-          }
-        },
-        "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "RTV"
@@ -24675,7 +25154,7 @@
         }
       }
     },
-    "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period." : {
+    "Semen analysis, where available, can confirm contraceptive effectiveness after the 3–month waiting period.\\n\\n" : {
       "extractionState" : "manual",
       "localizations" : {
         "as-IN" : {
@@ -24829,7 +25308,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पूति (प्रासूतिक/प्रसवोत्तर)"
+            "value" : "पूति\nप्(रासूतिक/प्रसवोत्तर)"
           }
         },
         "kn-IN" : {
@@ -25344,12 +25823,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "સ્પર્મિસાઇડ"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "शुक्राणुनाशक"
           }
         },
         "kn-IN" : {
@@ -26043,12 +26516,6 @@
             "value" : "STIs/RTIs<sup><small><small>F</small></small></sup>"
           }
         },
-        "bn-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "STIs/RTIs<sup><small><small>F</small></small></sup>"
-          }
-        },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26074,12 +26541,6 @@
           }
         },
         "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "STIs/RTIs<sup><small><small>F</small></small></sup>"
-          }
-        },
-        "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "STIs/RTIs<sup><small><small>F</small></small></sup>"
@@ -26168,12 +26629,6 @@
       "extractionState" : "manual",
       "localizations" : {
         "as-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "STIs/RTIs<sup><small><small>F</small></small></sup> (পুঁজ যুক্ত স্রাব)"
-          }
-        },
-        "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "STIs/RTIs<sup><small><small>F</small></small></sup> (পুঁজ যুক্ত স্রাব)"
@@ -26463,12 +26918,6 @@
             "value" : "സർജിക്കൽ"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଶଲ୍ୟୋପଚାର"
-          }
-        },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26526,12 +26975,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ആന്റിബയോട്ടിക്കുകൾ എടുക്കൽ (റിഫാംപിസിൻ/റിഫാബുട്ടിൻ ഒഴികെ)."
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଆଣ୍ଟିବାୟୋଟିକ୍ ସେବନ କରିବା (ରିଫାମ୍ପିସିନ୍/ରିଫାବ୍ୟୁଟିନ୍ ଛଡ଼ା)"
           }
         },
         "pa-IN" : {
@@ -26680,6 +27123,53 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "TB (రిఫాంపిసిన్ రిఫాబుటిన్‌ పైన)"
+          }
+        }
+      }
+    },
+    "TDF" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TDF"
           }
         }
       }
@@ -26835,12 +27325,6 @@
             "value" : "જનરલ Cu-IUDને દાખલ કરવા માટેના પાત્રતાના માપદંડો ઇમર્જન્સીમાં ઉપયોગમાં લેવાની ગર્ભનિરોધક તરીકે Cu-IUDsને દાખલ કરવા માટે પણ લાગુ થાય છે."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "सामान्य Cu-IUD के अंतर्वेशन के लिए पात्रता मानदंड जो आपातकालीन गर्भनिरोधक के रूप में Cu-IUD के अंतर्वेशन के लिए भी लागू होते हैं।"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26851,18 +27335,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cu-IUD നിക്ഷേപിക്കുന്നതിനുള്ള പൊതുവായ യോഗ്യതാ മാനദണ്ഡം Cu-IUD-കൾ അടിയന്തിര ഗർഭനിരോധന മാർഗ്ഗമായി ചേർക്കുന്നതിനും ബാധകമാണ്. "
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଜରୁରୀକାଳୀନ ଗର୍ଭନିରୋଧକ ଭାବରେ Cu-IUDs ର ସନ୍ନିବେଶ ପାଇଁ ସାଧାରଣ Cu-IUD ସନ୍ନିବେଶ ନିମନ୍ତେ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ ମଧ୍ୟ ଲାଗୁ ହେବ।"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਆਮ Cu-IUD ਸੰਮਿਲਨ ਲਈ ਯੋਗਤਾ ਮਾਪਦੰਡ ਐਮਰਜੈਂਸੀ ਗਰਭ ਨਿਰੋਧ ਦੇ ਤੌਰ 'ਤੇ Cu-IUD ਦੇ ਸੰਮਿਲਨ ਲਈ ਵੀ ਲਾਗੂ ਹੁੰਦੇ ਹਨ।"
           }
         },
         "ta-IN" : {
@@ -27473,12 +27945,6 @@
             "value" : "શુક્રાણુ અને અંડાણુંનું મિલન થતું અટકાવવા સર્વાઇકલ મ્યુકસને જાડું કરી દે છે."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "शुक्राणु और अंडे को मिलने से रोकने के लिए गर्भाशय ग्रीवा के श्लेष्म (सर्वाइकल म्यूकस) को गाढ़ा करती है।"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27489,12 +27955,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ബീജവും അണ്ഡവും കൂടിച്ചേരുന്നത് തടയാൻ സെർവിക്കൽ മ്യൂക്കസ് കട്ടിയാക്കുന്നു."
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଶୁକ୍ରାଣୁ ଓ ଡିମ୍ୱକୁ ମିଶିବାରୁ ରୋକିବା ପାଇଁ ଗ୍ରୀବା ଶ୍ଳେଷ୍ମାକୁ ପତଳା କରିଥାଏ।"
           }
         },
         "pa-IN" : {
@@ -27606,7 +28066,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "गर्भावस्था को रोकने के लिए यह विधि अत्यधिक प्रभावी है। इसे असुरक्षित संभोग के 5 दिनों के अंदर आपातकालीन गर्भनिरोधक के रूप में उपयोग किया जा सकता है। हालाँकि, जब स्त्रीबीजजनन (ओव्यूलेशन) के समय का अनुमान लगाया जा सकता है, तो Cu-IUD को संभोग के 5 दिनों के बाद अन्तर्निविष्ट किया जा सकता है, यदि आवश्यक हो, जबकि अंतर्वेशन ओव्यूलेशन के 5 दिनों से अधिक बाद न हो।"
+            "value" : "गर्भावस्था को रोकने के लिए यह विधि अत्यधिक प्रभावी है। इसे असुरक्षित संभोग के 5 दिनों के अंदर आपातकालीन गर्भनिरोधक के रूप में उपयोग किया जा सकता है। हालाँकि, जब स्त्रीबीजजनन (ओव्यूलेशन) के समय का अनुमान लगाया जा सकता है, तो Cu-IUD को संभोग के 5 दिनों के बाद अन्तर्निविष्ट किया जा सकता है, यदि आवश्यक हो, जबकि अंतर्वेशन ओव्यूलेशन के 5 दिनों से अधिक बाद न हो।सामान्य Cu-IUD के अंतर्वेशन के लिए पात्रता मानदंड जो आपातकालीन गर्भनिरोधक के रूप में Cu-IUD के अंतर्वेशन के लिए भी लागू होते हैं।"
           }
         },
         "kn-IN" : {
@@ -27643,6 +28103,65 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "గర్భధారణను నివారించడానికి, ఈ పద్ధతి చాలా ప్రభావవంతంగా ఉంటుంది. అత్యవసర గర్భనిరోధకంగా అసురక్షిత సంభోగం. అయినప్పటికీ, ఇది 5 రోజుల్లో ఉపయోగించవచ్చు, అండోత్సర్గము యొక్క సమయాన్ని అంచనా వేయగలిగినప్పుడు, అవసరమైతే, అండోత్సర్గము తర్వాత 5 రోజుల కంటే ఎక్కువఅయి, చొప్పించడం జరగనంత వరకు, Cu-IUDని సంభోగం తర్వాత 5 రోజులకు మించితే,  చొప్పించవచ్చు."
+          }
+        }
+      }
+    },
+    "This method is highly effective for preventing pregnancy. It can be used within 5 days of unprotected intercourse as an emergency contraceptive. However, when the time of ovulation can be estimated, the Cu-IUD can be inserted beyond 5 days after intercourse, if necessary, as long as the insertion does not occur more than 5 days after ovulation.<br><br>The eligibility criteria for general Cu-IUD insertion also apply for the insertion of Cu-IUDs as emergency contraception." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "as-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গৰ্ভধাৰণ প্ৰতিৰোধ কৰাৰ বাবে এই পদ্ধতিটো যথেষ্ট কাৰ্যকৰী। ইয়াক অসুৰক্ষিত যৌন সম্ভোগৰ 5 দিনৰ ভিতৰত জৰুৰীকালীন গৰ্ভনিৰোধক হিচাপে ব্যৱহাৰ কৰিব পাৰি। অৱশ্যে, যেতিয়া ডিম্বস্ফোটনৰ সময় অনুমান কৰিব পাৰি, যৌন সম্ভোগৰ 5 দিনৰ পিছতো, প্ৰয়োজন হ'লে, ডিম্বস্ফোটনৰ 5 দিনৰ পিছলৈকে Cu-IUD প্ৰবিষ্ট কৰিব পাৰি।<br><br>সাধাৰণ Cu-IUD প্ৰবিষ্টিৰ বাবে যোগ্যতাৰ চৰ্তবোৰ জৰুৰীকালীন গৰ্ভনিৰোধক হিচাপে Cu-IUD প্ৰবিষ্ট কৰাৰ বাবেও প্ৰযোজ্য হয়।"
+          }
+        },
+        "bn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গর্ভধারণ রোধ করতে এই পদ্ধতিটি খুবই কার্যকর। এটি জরুরী অবস্থায় গর্ভনিরোধক হিসেবে অসুরক্ষিত যৌন মিলনের 5 দিনের মধ্যে ব্যবহার করা যায়। তবে, ডিম্বস্ফোটনের সময়টি অনুমান করা গেলে, প্রয়োজন হলে, যৌন মিলনের 5 দিন পর Cu-IUD প্রবেশ করানো যায়, যতক্ষণ না ডিম্বস্ফোটনের পর 5 দিনের বেশি প্রবেশন না করানো হয়।<br><br>জরুরী অবস্থায় গর্ভনিরোধক হিসেবে Cu-IUD প্রবেশনের জন্যও সাধারণ Cu-IUD প্রবেশনের যোগ্যতার নির্ণায়ক প্রযোজ্য হয়।"
+          }
+        },
+        "gu-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ પદ્ધતિ ગર્ભાવસ્થાને નિવારવા માટે અત્યંત અસરકારક છે. ઇમર્જન્સીમાં ઉપયોગમાં લેવાની ગર્ભનિરોધક તરીકે તેનો ઉપયોગ અસુરક્ષિત સમાગમ કર્યાના 5 દિવસની અંદર કરવાનો હોય છે. જોકે, જ્યારે અંડોત્સર્ગનો અંદાજ લગાવી શકાય છે, ત્યારે જો જરૂર જણાય તો જાતીય સમાગમના 5 દિવસ પછી પણ Cu-IUDને દાખલ કરી શકાય છે, જોકે, Cu-IUDને અંડોત્સર્ગના 5 દિવસ પછી દાખલ કરેલું હોવું જોઇએ નહીં.<br><br>જનરલ Cu-IUDને દાખલ કરવા માટેના પાત્રતાના માપદંડો ઇમર્જન્સીમાં ઉપયોગમાં લેવાની ગર્ભનિરોધક તરીકે Cu-IUDsને દાખલ કરવા માટે પણ લાગુ થાય છે."
+          }
+        },
+        "kn-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ಗರ್ಭಧಾರಣೆಯನ್ನು ತಡೆಗಟ್ಟಲು ಈ ವಿಧಾನವು ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿದೆ. ಇದನ್ನು ತುರ್ತು ಗರ್ಭನಿರೋಧಕವಾಗಿ ಅಸುರಕ್ಷಿತ ಸಂಭೋಗದ 5 ದಿನಗಳ ಒಳಗೆ ಬಳಸಬಹುದು. ಆದಾಗ್ಯೂ, ಅಂಡೋತ್ಪತ್ತಿಯ ಸಮಯವನ್ನು ಅಂದಾಜು ಮಾಡಬಹುದಾದಲ್ಲಿ, ಸಂಭೋಗದ ನಂತರದ 5 ದಿನಗಳಲ್ಲಿ, ಅಗತ್ಯವಿದ್ದರೆ, ಒಳಸೇರಿಸುವಿಕೆಯು ಅಂಡೋತ್ಪತ್ತಿಯ ನಂತರದ 5 ದಿನಗಳನ್ನು ಮೀರದಂತೆ ಆಗಿದ್ದಲ್ಲಿ Cu-IUDಯನ್ನು ಸೇರಿಸಬಹುದು.<br><br>ಸಾಮಾನ್ಯ Cu-IUD ಸೇರ್ಪಡೆಯ ಅರ್ಹತಾ ಮಾನದಂಡಗಳು Cu-IUDಗಳನ್ನು ತುರ್ತು ಗರ್ಭನಿರೋಧಕವಾಗಿ ಸೇರಿಸುವಾಗಲೂ ಕೂಡ ಅನ್ವಯಿಸುತ್ತವೆ."
+          }
+        },
+        "ml-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ഈ രീതി ഗർഭധാരണം തടയുന്നതിന് വളരെ ഫലപ്രദമാണ്. സുരക്ഷിതമല്ലാത്ത ലൈംഗിക ബന്ധം കഴിഞ്ഞ് 5 ദിവസത്തിനുള്ളിൽ ഇത് അടിയന്തിര ഗർഭനിരോധന മാർഗ്ഗമായി ഉപയോഗിക്കാം. എന്നിരുന്നാലും, അണ്ഡോത്പാദനം കഴിഞ്ഞ് 5 ദിവസത്തിൽ കൂടുതൽ നിക്ഷേപിക്കൽ സംഭവിക്കാത്തിടത്തോളം, ആവശ്യമെങ്കിൽ അണ്ഡോത്പാദന സമയം കണക്കാക്കാൻ കഴിയുമ്പോൾ, ലൈംഗിക ബന്ധത്തിന് ശേഷം 5 ദിവസത്തിനപ്പുറം Cu-IUD നിക്ഷേപിക്കാവുന്നതാണ്.<br><br>Cu-IUD നിക്ഷേപിക്കുന്നതിനുള്ള പൊതുവായ യോഗ്യതാ മാനദണ്ഡം Cu-IUD-കൾ അടിയന്തിര ഗർഭനിരോധന മാർഗ്ഗമായി ചേർക്കുന്നതിനും ബാധകമാണ്."
+          }
+        },
+        "or-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ଗର୍ଭଧାରଣ ରୋକିବା ପାଇଁ ଏହି ପ୍ରଣାଳୀ ହେଉଛି ସବୁଠାରୁ ପ୍ରଭାବଶାଳୀ। ଅସୁରକ୍ଷିତ ସମ୍ଭୋଗର 5 ଦିନ ମଧ୍ୟରେ ଏହାକୁ  ଏକ ଜରୁରୀକାଳୀନ ଗର୍ଭନିରୋଧକ ଭାବରେ ବ୍ୟବହାର କରିହେବ। ହେଲେ, ଯେତେବେଳେ ଡିମ୍ୱୋଦୟର ସମୟ ଅନୁମାନ କରିହେବ, ସେତେବେଳେ ସମ୍ଭୋଗର 5 ଦିନ ପରେ Cu-IUD ଭର୍ତ୍ତି କରିହେବ, ଯଦି ଆବଶ୍ୟକ ହୁଏ, ଯେପର୍ଯ୍ୟନ୍ତ ଡିମ୍ୱୋଦୟର 5 ଦିନରୁ ଅଧିକ ପର୍ଯ୍ୟନ୍ତ ସନ୍ନିବେଶ ଘଟିନଥିବ।<br><br>ଜରୁରୀକାଳୀନ ଗର୍ଭନିରୋଧକ ଭାବରେ Cu-IUDs ର ସନ୍ନିବେଶ ପାଇଁ ସାଧାରଣ Cu-IUD ସନ୍ନିବେଶ ନିମନ୍ତେ ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ ମଧ୍ୟ ଲାଗୁ ହେବ।\n"
+          }
+        },
+        "pa-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਗਰਭ ਅਵਸਥਾ ਨੂੰ ਰੋਕਣ ਲਈ ਇਹ ਤਰੀਕਾ ਬਹੁਤ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਹੈ। ਇਸਦੀ ਵਰਤੋਂ ਅਸੁਰੱਖਿਅਤ ਸੰਭੋਗ ਦੇ 5 ਦਿਨਾਂ ਦੇ  ਅੰਦਰ-ਅੰਦਰ ਐਮਰਜੈਂਸੀ ਗਰਭ ਨਿਰੋਧਕ ਵਜੋਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ। ਹਾਲਾਂਕਿ, ਜਦੋਂ ਓਵੂਲੇਸ਼ਨ ਦੇ ਸਮੇਂ ਦਾ ਅੰਦਾਜ਼ਾ ਲਗਾਇਆ ਜਾ ਸਕਦਾ ਹੈ, ਤਾਂ Cu-IUD ਨੂੰ ਸੰਭੋਗ ਤੋਂ 5 ਦਿਨਾਂ ਤੋਂ ਬਾਅਦ ਅੰਦਰ ਪਾਇਆ ਜਾ ਸਕਦਾ ਹੈ, ਜੇ ਜ਼ਰੂਰਤ ਹੋਵੇ, ਜਦੋਂ ਤੱਕ ਕਿ ਇਨਸਰਸ਼ਨ ਓਵੂਲੇਸ਼ਨ ਨੂੰ 5 ਦਿਨਾਂ ਤੋਂ ਵੱਧ ਨਾ ਹੋਏ ਹੋਣ।<br><br>ਆਮ Cu-IUD ਇਨਸਰਸ਼ਨ ਲਈ ਯੋਗਤਾ ਮਾਪਦੰਡ ਐਮਰਜੈਂਸੀ ਗਰਭ ਨਿਰੋਧਕ ਵਜੋਂ Cu-IUD ਦੀ ਇਨਸਰਸ਼ਨ ਲਈ ਵੀ ਲਾਗੂ ਹੁੰਦੇ ਹਨ\n"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "கர்ப்பத்தைத் தடுக்க இந்த முறை மிகவும் பயனுள்ளதாக இருக்கும். இதனை அவசர கருத்தடையாக பாதுகாப்பற்ற உடலுறவின் 5 நாட்களுக்குள் பயன்படுத்தப்படலாம். இருப்பினும், கருமுட்டை வெளியேறும் நேரத்தை மதிப்பிடும்போது, ​​ தேவைப்பட்டால், கருமுட்டை வெளியேறிய பின் 5 நாட்களுக்கு மேல் செருகப்படாமல் இருக்கும் வரை, Cu-IUD ஐ உடலுறவுக்குப் பிறகு 5 நாட்களுக்கு மேல் செருகலாம்.<br><br>பொது Cu-IUD செருகலுக்கான தகுதி அளவுகோல்கள் Cu-IUD-களை அவசர கருத்தடையாகச் செருகுவதற்கும்  பொருந்தும்."
+          }
+        },
+        "te-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "గర్భధారణను నివారించడానికి, ఈ పద్ధతి చాలా ప్రభావవంతంగా ఉంటుంది. అత్యవసర గర్భనిరోధకంగా అసురక్షిత సంభోగం. అయినప్పటికీ, ఇది 5 రోజుల్లో ఉపయోగించవచ్చు, అండోత్సర్గము యొక్క సమయాన్ని అంచనా వేయగలిగినప్పుడు, అవసరమైతే, అండోత్సర్గము తర్వాత 5 రోజుల కంటే ఎక్కువఅయి, చొప్పించడం జరగనంత వరకు, Cu-IUDని సంభోగం తర్వాత 5 రోజులకు మించితే, చొప్పించవచ్చు.<br><br>సాధారణ Cu-IUD చొప్పించడం కోసం అర్హత ప్రమాణాలు అత్యవసర గర్భనిరోధకంగా Cu-IUDలను చొప్పించడానికి కూడా వర్తిస్తాయి."
           }
         }
       }
@@ -27855,12 +28374,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ગર્ભાવસ્થા સામે અસરકારકતા જાળવી રાખવા માટે માસિક આવવાનું ફરી શરૂ થવાની સાથે જ, સ્તનપાનની ફ્રીક્વન્સી કે સમયગાળો ઘટી જતાં, બોટલથી દૂધ પીવડાવનું શરૂ કરતાં અથવા તો શિશુ 6 મહિનાનું થઈ જતાં ગર્ભનિરોધનની અન્ય પદ્ધતિનો ઉપયોગ કરવાનું શરૂ કરવું જોઇએ."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "गर्भावस्था के विरूद्ध प्रभावी सुरक्षा बनाए रखने के लिए, जैसे ही मासिक धर्म फिर से शुरू होता हो, स्तनपान बार-बार कराना कम हो या उसकी अवधि कम हो जाती हो, बोतल से दूध पिलाना शुरू कर दिया जाता हो, या बच्चा 6 महीने का हो जाता हो तो गर्भनिरोधक की एक अन्य विधि का उपयोग किया जाना चाहिए।"
           }
         },
         "kn-IN" : {
@@ -28247,12 +28760,6 @@
             "value" : "UPA"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "UPA"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28260,18 +28767,6 @@
           }
         },
         "ml-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "UPA"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "UPA"
-          }
-        },
-        "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UPA"
@@ -28377,12 +28872,6 @@
             "value" : "પ્રથમ 3 મહિના માટે અન્ય કોઈ પદ્ધતિનો ઉપયોગ કરો."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "पहले 3 महीनों के लिए दूसरी विधि का उपयोग करें।"
-          }
-        },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28393,12 +28882,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ആദ്യത്തെ 3 മാസത്തേക്ക് മറ്റൊരു രീതി ഉപയോഗിക്കുക"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ପ୍ରଥମ 3 ମାସ ପାଇଁ ଅନ୍ୟ ପ୍ରଣାଳୀ ବ୍ୟବହାର କରନ୍ତୁ।"
           }
         },
         "pa-IN" : {
@@ -28440,12 +28923,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "તમે જ્યારે પણ જાતીય સમાગમ કરો ત્યારે દર વખતે તેનો યોગ્ય રીતે ઉપયોગ કરો."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "हर बार यौन संबंध बनाते समय सही ढंग से उपयोग करें।"
           }
         },
         "kn-IN" : {
@@ -28523,18 +29000,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : " മറ്റ്, കൂടുതൽ ഉചിതമായ രീതികൾ ലഭ്യമല്ലാത്തപക്ഷം, അല്ലെങ്കിൽ സ്വീകാര്യമായില്ലെങ്കിൽ രീതിയുടെ ഉപയോഗം സാധാരണയായി ശുപാർശ ചെയ്യുന്നില്ല"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ପଦ୍ଧତିର ବ୍ୟବହାର ସାଧାରଣତ not ନୁହେଁ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਵਿਧੀ ਦੀ ਵਰਤੋਂ ਆਮ ਤੌਰ 'ਤੇ ਨਹੀਂ ਹੁੰਦੀ"
           }
         },
         "ta-IN" : {
@@ -28629,12 +29094,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "કોઈ પણ સંજોગોમાં પદ્ધતિનો ઉપયોગ કરો"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "विधि का उपयोग किसी भी परिस्थिति में करें"
           }
         },
         "kn-IN" : {
@@ -28758,7 +29217,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "वासेक्टोमी"
+            "value" : "पुरुष नसबंदी (वासेक्टोमी) : पहले 3 महीनों के लिए दूसरी विधि का उपयोग करें।"
           }
         },
         "kn-IN" : {
@@ -29488,12 +29947,6 @@
             "value" : "എപ്പോഴാണ് ഒരു സ്ത്രീക്ക് പ്രോജസ്റ്റോജൻ മാത്രമുള്ള കുത്തിവയ്പ്പുകൾ ആരംഭിക്കാൻ കഴിയുക?"
           }
         },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ଜଣେ ମହିଳା କେବେ ପ୍ରୋଜେଷ୍ଟୋଜେନ୍-କେବଳ ଇଞ୍ଜେକ୍ଟେବଲ୍ସ ଆରମ୍ଭ କରିପାରିବେ?"
-          }
-        },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29662,7 +30115,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "વિડ્રોઅલ, સ્પર્મિસાઇડ્સ:"
+            "value" : "વિડ્રોઅલ, સ્પર્મિસાઇડ્સઃ"
           }
         },
         "hi" : {
@@ -29727,7 +30180,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 5 દિવસની અંદર: POPsને શરૂ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 5 દિવસની અંદરઃ POPsને શરૂ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
           }
         },
         "hi" : {
@@ -29792,7 +30245,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 5 દિવસની અંદર: CHC શરૂ કરો. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 5 દિવસની અંદરઃ CHC શરૂ કરો. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
           }
         },
         "hi" : {
@@ -29922,7 +30375,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસની અંદર: પ્રથમ POI ઇન્જેક્શનને આપી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસની અંદરઃ પ્રથમ POI ઇન્જેક્શનને આપી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂર નથી."
           }
         },
         "hi" : {
@@ -29941,12 +30394,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ആർത്തവ രക്തസ്രാവം ആരംഭിച്ച് 7 ദിവസത്തിനുള്ളിൽ: ആദ്യത്തെ POI കുത്തിവയ്പ്പ് നൽകാം. അധിക ഗർഭനിരോധന സംരക്ഷണം ആവശ്യമില്ല."
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ମାସିକ ରକ୍ତସ୍ରାବ ଆରମ୍ଭ ହେବାର 7 ଦିନ ମଧ୍ୟରେ:ପ୍ରଥମ POIଇଞ୍ଜେକ୍ସନ୍ ପ୍ରଦାନ କରିହେବ।କୌଣସି ଅତିରିକ୍ତ ଗର୍ଭନିରୋଧକ ସୁରକ୍ଷାର ଆବଶ୍ୟକତା ନାହିଁ।"
           }
         },
         "pa-IN" : {
@@ -29987,7 +30434,7 @@
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસની અંદર: ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
+            "value" : "માસિક રક્તસ્રાવ શરૂ થયાં બાદ 7 દિવસની અંદરઃ ઇમ્પ્લાન્ટને દાખલ કરી શકાય છે. કોઈ વધારાની ગર્ભનિરોધક સુરક્ષાની જરૂરિયાત નથી."
           }
         },
         "hi" : {
@@ -30266,18 +30713,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "അതെ"
-          }
-        },
-        "or-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ହଁ"
-          }
-        },
-        "pa-IN" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਹਾਂ"
           }
         },
         "ta-IN" : {

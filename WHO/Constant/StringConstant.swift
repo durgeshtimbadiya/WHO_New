@@ -8,6 +8,8 @@
 import Foundation
 
 struct StringConstant {
+//    static let shared = StringConstant()
+
     //en, as-IN, bn-IN, gu-IN, hi-IN, kn-IN, ml-IN, or-IN, pa-IN, ta-IN, te-IN,
     static let selectedLanguage = UserDefaults.standard.value(forKey: "SelectedLanguege") as? String ?? "en"
     static let START = "START".localizeString()

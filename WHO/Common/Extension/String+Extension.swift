@@ -32,6 +32,27 @@ extension String {
     var htmlToString: String {
         return htmlToAttributedString?.string ?? ""
     }
+    
+    func composedCharacterSequenceCount() -> Int {
+        var count = 0
+        let range = self.startIndex ..< self.endIndex
+        self.enumerateSubstrings(in: range, options: [.byComposedCharacterSequences, .substringNotRequired]) {w,_,_,_ in
+                guard let word = w else {return}
+                count += 1
+            }
+        return count
+    }
+    
+//    - (NSInteger)nr_composedCharacterSequenceCount
+//    {
+//        __block NSInteger count = 0;
+//        [self enumerateSubstringsInRange:(NSRange){0, self.length}
+//                                 options:NSStringEnumerationByComposedCharacterSequences | NSStringEnumerationSubstringNotRequired
+//                              usingBlock:^(NSString * _Nullable substring, NSRange substringRange, NSRange enclosingRange, BOOL * _Nonnull stop) {
+//                                  count += 1;
+//                              }];
+//        return count;
+//    }
 }
 
 extension Bundle {

@@ -101,7 +101,7 @@ class EffectivenessTableViewCell: UITableViewCell {
             let attributeStr = NSMutableAttributedString(string: cellData.content1)
             let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
             let titleComp = cellData.content1.components(separatedBy: ":")
-            let rangeTitle1 = NSRange(location: 0, length: titleComp[0].count + 1)
+            let rangeTitle1 = NSRange(location: 0, length: titleComp[0].unicodeScalars.count + 1)
             attributeStr.addAttributes(boldAttributes as [NSAttributedString.Key : Any], range: rangeTitle1)
 
             contentLabel1.attributedText = attributeStr
@@ -117,7 +117,7 @@ class EffectivenessTableViewCell: UITableViewCell {
                 let attributeStr = NSMutableAttributedString(string: cellData.content2)
                 let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
                 let titleComp = cellData.content2.components(separatedBy: ":")
-                let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].count + 1 : 0)
+                let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].unicodeScalars.count + 1 : 0)
                 attributeStr.addAttributes(boldAttributes as [NSAttributedString.Key : Any], range: rangeTitle1)
 
                 contentLabel2.attributedText = attributeStr
@@ -133,7 +133,7 @@ class EffectivenessTableViewCell: UITableViewCell {
                 let attributeStr = NSMutableAttributedString(string: cellData.content3)
                 let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
                 let titleComp = cellData.content3.components(separatedBy: ":")
-                let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].count + 1 : 0)
+                let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].unicodeScalars.count + 1 : 0)
                 attributeStr.addAttributes(boldAttributes as [NSAttributedString.Key : Any], range: rangeTitle1)
                 
                 contentLabel3.attributedText = attributeStr
@@ -149,7 +149,7 @@ class EffectivenessTableViewCell: UITableViewCell {
                 let attributeStr = NSMutableAttributedString(string: cellData.content4)
                 let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
                 let titleComp = cellData.content4.components(separatedBy: ":")
-                let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].count + 1 : 0)
+                let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].unicodeScalars.count + 1 : 0)
                 attributeStr.addAttributes(boldAttributes as [NSAttributedString.Key : Any], range: rangeTitle1)
                 
                 contentLabel4.attributedText = attributeStr

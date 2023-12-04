@@ -43,7 +43,7 @@ class LanguageViewController: UIViewController {
         self.languageList.append(LanguageData(title: LanguageName.Kannada, code: LanguageCode.Kannada, searchString: "Kannada"))
         self.languageList.append(LanguageData(title: LanguageName.Malayalam, code: LanguageCode.Malayalam, searchString: "Malayalam"))
         self.languageList.append(LanguageData(title: LanguageName.Odia_Oriya, code: LanguageCode.Odia_Oriya, searchString: "Odia_Oriya"))
-        self.languageList.append(LanguageData(title: LanguageName.Punjabi, code: LanguageCode.Assamese, searchString: "Punjabi"))
+        self.languageList.append(LanguageData(title: LanguageName.Punjabi, code: LanguageCode.Punjabi, searchString: "Punjabi"))
         self.languageList.append(LanguageData(title: LanguageName.Tamil, code: LanguageCode.Tamil, searchString: "Tamil"))
         self.languageList.append(LanguageData(title: LanguageName.Telugu, code: LanguageCode.Telugu, searchString: "Telugu"))
         self.searchList = self.languageList
@@ -111,18 +111,27 @@ extension LanguageViewController: UITableViewDelegate {
         Bundle.setLanguage(lang: self.languageList[indexPath.row].code)
 //        UserDefaults.standard.setValue(self.languageList[indexPath.row].code, forKey: "SelectedLanguege")
         
-        let alertV = UIAlertController(title: "", message: "Please reopen application to change language", preferredStyle: .alert)
-        alertV.addAction(UIAlertAction(title: "Ok", style: .default, handler: { action in
-            exit(0)
-        }))
-        self.present(alertV, animated: true)
-        
-        if isFromLaunch {
-            self.navigationController?.popViewController(animated: true)
-        } else {
-            let dashBoard = Storyboard.dashboard.instantiateViewController(identifier: "DashboardViewController")
-            self.navigationController?.viewControllers = [dashBoard]
-        }
+//        if let window = UIApplication.shared.windows.first(where: { $0.isKeyWindow }) {
+//            let navigationController = Storyboard.dashboard.instantiateViewController(withIdentifier: "NavigationController") as! UINavigationController
+//
+//            navigationController.setViewControllers([Storyboard.dashboard.instantiateViewController(withIdentifier: "LaunchViewController")], animated: false)
+//    //        navigationController.setViewControllers([UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "DashboardViewController")], animated: false)
+//            window.rootViewController = navigationController
+//            UIView.transition(with: window, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
+//            window.makeKeyAndVisible()
+//        } else {
+            let alertV = UIAlertController(title: "", message: "Please reopen application to change language", preferredStyle: .alert)
+            alertV.addAction(UIAlertAction(title: "Ok", style: .default, handler: { action in
+                exit(0)
+            }))
+            self.present(alertV, animated: true)
+//        }        
+//        if isFromLaunch {
+//            self.navigationController?.popViewController(animated: true)
+//        } else {
+//            let dashBoard = Storyboard.dashboard.instantiateViewController(identifier: "DashboardViewController")
+//            self.navigationController?.viewControllers = [dashBoard]
+//        }
     }
 }
 

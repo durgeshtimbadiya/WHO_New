@@ -27,7 +27,7 @@ class HowToWheelViewController: UIViewController {
         self.tableView.layer.masksToBounds = true
         self.tableView.layer.maskedCorners = [.layerMinXMinYCorner, .layerMaxXMinYCorner]
         cellList.append(StringConstant.howtouse_1)
-        cellList.append(StringConstant.howtouse_2)
+        cellList.append("")
         cellList.append(StringConstant.howtouse_2)
         cellList.append(StringConstant.howtouse_3)
         cellList.append(StringConstant.howtouse_4)
@@ -58,28 +58,28 @@ extension HowToWheelViewController: UITableViewDataSource {
 //                cell.titleLabel.font = UIFont(name: "Roboto-Black", size: 15.0)
                 switch indexPath.row {
                 case 2:
-                    cell.titleLabel.text = StringConstant.yes
+                    cell.titleLabel.text = "1=\(StringConstant.yes)"
                     cell.titleLabel.backgroundColor = UIColor(hexString: "#80B942")
                     if cell.subTitleLabel != nil {
                         cell.subTitleLabel.textColor = UIColor(hexString: "#80B942")
                     }
                     break
                 case 3:
-                    cell.titleLabel.text = StringConstant.yes
+                    cell.titleLabel.text = "2=\(StringConstant.yes)"
                     cell.titleLabel.backgroundColor = UIColor(hexString: "#376CB2")
                     if cell.subTitleLabel != nil {
                         cell.subTitleLabel.textColor = UIColor(hexString: "#376CB2")
                     }
                     break
                 case 4:
-                    cell.titleLabel.text = StringConstant.no
+                    cell.titleLabel.text = "3=\(StringConstant.no)"
                     cell.titleLabel.backgroundColor = UIColor(hexString: "#F0822E")
                     if cell.subTitleLabel != nil {
                         cell.subTitleLabel.textColor = UIColor(hexString: "#F0822E")
                     }
                     break
                 case 5:
-                    cell.titleLabel.text = StringConstant.no
+                    cell.titleLabel.text = "4=\(StringConstant.no)"
                     cell.titleLabel.backgroundColor = UIColor(hexString: "#D02027")
                     if cell.subTitleLabel != nil {
                         cell.subTitleLabel.textColor = UIColor(hexString: "#D02027")
