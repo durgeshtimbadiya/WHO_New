@@ -870,8 +870,10 @@ struct EligibilityList {
     //common
     static let chc = "CHC".localizeString()
     static let combinedPill = "Combined pills and combined injectables".localizeString()
-    static let ageLess18 = "Menarche to <18 Years".localizeString()
-    static let ageLess40 = "(≤40 Years)".localizeString()
+    static let ageLess18_1 = "Menarche to <18 Years".localizeString()
+    static let ageLess18 = "Age (Menarche to <18 Years)".localizeString()
+    static let ageLess40_1 = "(≤40 Years)".localizeString()
+    static let ageLess40 = "Age (≤40 Years)".localizeString()
     static let num0 = "0".localizeString()
     static let num1 = "1".localizeString()
     static let num2 = "2".localizeString()

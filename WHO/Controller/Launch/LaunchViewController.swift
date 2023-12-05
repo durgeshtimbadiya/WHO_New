@@ -74,13 +74,13 @@ class LaunchViewController: UIViewController {
                         stackView.addArrangedSubview(imageVi)
                         
                         let titleLabel = UILabel()
-                        titleLabel.font = UIFont.boldSystemFont(ofSize: 17.0)
+                        titleLabel.font = UIFont.boldSystemFont(ofSize: 16.0)
                         titleLabel.text = ag.title
                         titleLabel.textColor = .white
                         titleLabel.textAlignment = .center
                         titleLabel.numberOfLines = 0
                         titleLabel.sizeToFit()
-                        let heightConstraint = NSLayoutConstraint(item: titleLabel, attribute: NSLayoutConstraint.Attribute.height, relatedBy: NSLayoutConstraint.Relation.equal, toItem: nil, attribute: NSLayoutConstraint.Attribute.notAnAttribute, multiplier: 1, constant: 80.0)
+                        let heightConstraint = NSLayoutConstraint(item: titleLabel, attribute: NSLayoutConstraint.Attribute.height, relatedBy: NSLayoutConstraint.Relation.equal, toItem: nil, attribute: NSLayoutConstraint.Attribute.notAnAttribute, multiplier: 1, constant: 90.0)
                         titleLabel.addConstraint(heightConstraint)
                         stackView.addArrangedSubview(titleLabel)
 

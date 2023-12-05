@@ -66,13 +66,12 @@ class ConditionsListViewController: UIViewController {
         pointValList.append(PointValueModel(point: AdditionalInfoString.detailDesPoint4_3, value: AdditionalInfoString.detailDesVal4_3))
         pointValList.append(PointValueModel(point: AdditionalInfoString.detailDesPoint4_4, value: AdditionalInfoString.detailDesVal4_4))
         addSubModels.append(AdditionalSubModel(title: AdditionalInfoString.detailTitle_4, description: AdditionalInfoString.detailSubTitle_4, list: pointValList))
-        addSubModels.append(AdditionalSubModel(title: "", description: "\n\n" + AdditionalInfoString.mainContent_1 + "\n\n" + AdditionalInfoString.mainContent_2 + "\n\n" + AdditionalInfoString.mainContent_3, list: [PointValueModel]()))
+        addSubModels.append(AdditionalSubModel(title: "", description: "<br><br>" + AdditionalInfoString.mainContent_1 + "<br><br>" + AdditionalInfoString.mainContent_2 + "<br><br>" + AdditionalInfoString.mainContent_3, list: [PointValueModel]()))
 
         additionalList.append(AdditionalModel(title: AdditionalInfoString.listTitle1, description: AdditionalInfoString.listContent1, subModels: addSubModels))
 
         
         additionalList.append(AdditionalModel(title: AdditionalInfoString.listTitle2, description: AdditionalInfoString.listContent2))
-        
         
         pointValList = [PointValueModel]()
         pointValList.append(PointValueModel(point: AntiretroviralString.point1_1, value: AntiretroviralString.value1_1))

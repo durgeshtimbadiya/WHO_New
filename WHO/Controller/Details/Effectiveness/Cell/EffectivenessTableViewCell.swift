@@ -102,6 +102,7 @@ class EffectivenessTableViewCell: UITableViewCell {
             let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
             let titleComp = cellData.content1.components(separatedBy: ":")
             let rangeTitle1 = NSRange(location: 0, length: titleComp[0].unicodeScalars.count + 1)
+            print("1: \(titleComp)")
             attributeStr.addAttributes(boldAttributes as [NSAttributedString.Key : Any], range: rangeTitle1)
 
             contentLabel1.attributedText = attributeStr
@@ -118,6 +119,7 @@ class EffectivenessTableViewCell: UITableViewCell {
                 let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
                 let titleComp = cellData.content2.components(separatedBy: ":")
                 let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].unicodeScalars.count + 1 : 0)
+                print("2: \(titleComp)")
                 attributeStr.addAttributes(boldAttributes as [NSAttributedString.Key : Any], range: rangeTitle1)
 
                 contentLabel2.attributedText = attributeStr
@@ -134,6 +136,7 @@ class EffectivenessTableViewCell: UITableViewCell {
                 let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
                 let titleComp = cellData.content3.components(separatedBy: ":")
                 let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].unicodeScalars.count + 1 : 0)
+                print("3: \(titleComp)")
                 attributeStr.addAttributes(boldAttributes as [NSAttributedString.Key : Any], range: rangeTitle1)
                 
                 contentLabel3.attributedText = attributeStr
@@ -150,6 +153,7 @@ class EffectivenessTableViewCell: UITableViewCell {
                 let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
                 let titleComp = cellData.content4.components(separatedBy: ":")
                 let rangeTitle1 = NSRange(location: 0, length: titleComp.count > 0 ? titleComp[0].unicodeScalars.count + 1 : 0)
+                print("4: \(titleComp)")
                 attributeStr.addAttributes(boldAttributes as [NSAttributedString.Key : Any], range: rangeTitle1)
                 
                 contentLabel4.attributedText = attributeStr

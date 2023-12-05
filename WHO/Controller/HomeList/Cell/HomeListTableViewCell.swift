@@ -138,15 +138,15 @@ class HomeListTableViewCell: UITableViewCell {
         }
        
         if titleLabel1 != nil {
-            titleLabel1.text = cellData.isSelected ? EligibilityList.ageLess40 : EligibilityList.ageLess18
+            titleLabel1.text = cellData.isSelected ? EligibilityList.ageLess40_1 : EligibilityList.ageLess18_1
             titleLabel1.sizeToFit()
         }
         if titleLabel2 != nil {
-            titleLabel2.text = EligibilityList.ageLess18
+            titleLabel2.text = EligibilityList.ageLess18_1
             titleLabel2.sizeToFit()
         }
         if titleLabel3 != nil {
-            titleLabel3.text = EligibilityList.ageLess40
+            titleLabel3.text = EligibilityList.ageLess40_1
             titleLabel3.sizeToFit()
         }
     }
