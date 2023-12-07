@@ -37,7 +37,7 @@ extension String {
         var count = 0
         let range = self.startIndex ..< self.endIndex
         self.enumerateSubstrings(in: range, options: [.byComposedCharacterSequences, .substringNotRequired]) {w,_,_,_ in
-                guard let word = w else {return}
+            guard w != nil else {return}
                 count += 1
             }
         return count
