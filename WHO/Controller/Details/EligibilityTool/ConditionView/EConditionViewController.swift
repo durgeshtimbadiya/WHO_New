@@ -47,6 +47,15 @@ class EConditionViewController: UIViewController {
         self.bottomSheetView.addGestureRecognizer(swipeUp)
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        self.contPreferenceButton.setTitle(ConditionList.continuePrefBtn, for: .normal)
+        self.seeRecomndButton.setTitle(ConditionList.seeRecomButton, for: .normal)
+        if let selectLng = UserDefaults.standard.value(forKey: "SelectedLanguege") as? String, selectLng == LanguageCode.Telugu {
+            self.contPreferenceButton.titleLabel?.font = UIFont.systemFont(ofSize: 16.0, weight: .medium)
+        }
+    }
+    
     @objc func respondToSwipeGesture(gesture: UIGestureRecognizer) {
         if let swipeGesture = gesture as? UISwipeGestureRecognizer {
 
@@ -73,11 +82,6 @@ class EConditionViewController: UIViewController {
         }
     }
     
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
-        self.contPreferenceButton.setTitle(ConditionList.continuePrefBtn, for: .normal)
-        self.seeRecomndButton.setTitle(ConditionList.seeRecomButton, for: .normal)
-    }
     
     @IBAction func tapOnConPreference(_ sender: UIButton) {
         self.containerVCC?.scrollMenuViewSelectedIndex(1)

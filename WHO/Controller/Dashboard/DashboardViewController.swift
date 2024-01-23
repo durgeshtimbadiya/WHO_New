@@ -13,6 +13,7 @@ class DashboardViewController: UIViewController {
     @IBOutlet weak var upperWheelImg: UIImageView!
     @IBOutlet weak var descLabel: UILabel!
     @IBOutlet weak var startButton: UIButton!
+    @IBOutlet weak var desHeightCons: NSLayoutConstraint!
 
     var _startTransform = CGAffineTransform()
     var _prevPoint = CGPointZero
@@ -27,6 +28,9 @@ class DashboardViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         descLabel.text = StringConstant.launchTagLine
+        if StringConstant.launchTagLine.unicodeScalars.count >= 89 {
+            desHeightCons.constant = 140.0
+        }
         startButton.setTitle(StringConstant.START, for: .normal)
         self.lowerWheelImg.image = UIImage(named: StringConstant.lower_wheel)
         self.upperWheelImg.image = UIImage(named: StringConstant.upper_wheel)

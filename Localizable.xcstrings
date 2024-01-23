@@ -211,6 +211,12 @@
             "value" : "*তবে, এই সময়কালে কর্মসূচীগত কারণে কয়েকটি গর্ভনিরোধক পদ্ধতি প্রদান করা যায়।"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "** It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period."
+          }
+        },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4247,6 +4253,12 @@
             "value" : "ন্যূনতম 2-3 মাস। একবারে দেওয়া যেতে পারে অথবা এটি দেশটির প্রোগ্রাম্যাটিক নির্দেশিকা অনুসারে আরও বেশি হতে পারে।"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up to 1 year of supply can be provided. However, the resupply schedule should be flexible."
+          }
+        },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5222,6 +5234,12 @@
             "value" : "স্তন্যদানের সময়ে ব্যবহার করা যায়; অবশ্যই প্রতিদিন একই সময়ে গ্রহণ করতে হবে।"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POPs contain only a progestogen and no estrogen."
+          }
+        },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6065,6 +6083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "গর্ভপাতের পর অবিলম্বে CHC শুরু করতে পারেন। কোনও অতিরিক্ত গর্ভনিরোধকের প্রয়োজন নেই।"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHC can be initiated immediately or within 7 days of completion of abortion. No additional contraceptive protection is needed."
           }
         },
         "gu-IN" : {
@@ -7033,7 +7057,7 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "কণ্ডম, ডায়েফ্ৰাম: যৌন সম্ভোগ কৰাৰ সময়ত প্ৰতিবাৰেই সঠিকভাৱে ব্যৱহাৰ কৰিব।"
+            "value" : "কণ্ডম, ডায়েফ্ৰাম: যৌন সম্ভোগ কৰাৰ সময়ত প্ৰতিবাৰেই সঠিকভাৱে ব্যৱহাৰ কৰিব।"
           }
         },
         "bn-IN" : {
@@ -10147,6 +10171,9 @@
         }
       }
     },
+    "Estimated Centchroman users x 9 strips + 10% Buffer Stock." : {
+      "extractionState" : "manual"
+    },
     "ETR" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -10774,7 +10801,7 @@
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ପ୍ରଜନନ ସଚେତନତା ପ୍ରଣାଳୀ: ସମ୍ଭୋଗଠାରୁ ଦୂରେଇ ରୁହନ୍ତୁ କିମ୍ବା ପ୍ରଜନନ ଦିନଗୁଡ଼ିକରେ କଣ୍ଡୋମ୍ ବ୍ୟବହାର କରନ୍ତୁ। ସାଧାରଣ ଦିନ ପ୍ରଣାଳୀ କିମ୍ବା ଦୁଇ ଦିନିଆ ପ୍ରଣାଳୀ ମଧ୍ୟ ବ୍ୟବହାର କରାଯାଇପାରିବ।"
+            "value" : "ପ୍ରଜନନ ସଚେତନତା ପ୍ରଣାଳୀ: ସମ୍ଭୋଗଠାରୁ ଦୂରେଇ ରୁହନ୍ତୁ କିମ୍ବା ପ୍ରଜନନ ଦିନଗୁଡ଼ିକରେ କଣ୍ଡୋମ୍ ବ୍ୟବହାର କରନ୍ତୁ। ସାଧାରଣ ଦିନ ପ୍ରଣାଳୀ କିମ୍ବା ଦୁଇ ଦିନିଆ ପ୍ରଣାଳୀ ମଧ୍ୟ ବ୍ୟବହାର କରାଯାଇପାରିବ।"
           }
         },
         "pa-IN" : {
@@ -12896,6 +12923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "POP কিভাবে ব্যবহার করবেন"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PROGESTOGEN-ONLY PILLS (POPs)"
           }
         },
         "gu-IN" : {
@@ -15272,6 +15305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "প্রসবের পর 21 দিনের কম হলে, যেকোনও সময়ে প্রথম ইনজেকশন নিতে পারেন। কোনও অতিরিক্ত গর্ভনিরোধকের প্রয়োজন নেই।*"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If she is less than 21 days postpartum, she can have the first injection at any time. No additional contraceptive protection is needed.**"
           }
         },
         "gu-IN" : {
@@ -19727,7 +19766,7 @@
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ମାସିକ ରକ୍ତସ୍ରାବ ଆରମ୍ଭ ହେବାର 7 ଦିନରୁ ଅଧିକ:ଯଦି ନିଶ୍ଚିତ ହୋଇଥିବେ ଯେ, ମହିଳା ଗର୍ଭବତୀ ନୁହଁନ୍ତି, ତେବେ ପ୍ରତ୍ୟାରୋପଣକୁ ଭର୍ତ୍ତି କରାଯାଇପାରିବ।ତାଙ୍କୁ ପରବର୍ତ୍ତୀ 7 ଦିନ ପର୍ଯ୍ୟନ୍ତ ଯୌନକ୍ରିୟାରୁ ଦୂରେଇ ରହିବାକୁ କିମ୍ୱା ଅତିରିକ୍ତ ଗର୍ଭନିରୋଧକ ସୁରକ୍ଷା ବ୍ୟବହାର କରିବାକୁ ପଡ଼ିବ।"
+            "value" : "ମାସିକ ରକ୍ତସ୍ରାବ ଆରମ୍ଭ ହେବାର 7 ଦିନରୁ ଅଧିକ:ଯଦି ନିଶ୍ଚିତ ହୋଇଥିବେ ଯେ, ମହିଳା ଗର୍ଭବତୀ ନୁହଁନ୍ତି, ତେବେ ପ୍ରତ୍ୟାରୋପଣକୁ ଭର୍ତ୍ତି କରାଯାଇପାରିବ।ତାଙ୍କୁ ପରବର୍ତ୍ତୀ 7 ଦିନ ପର୍ଯ୍ୟନ୍ତ ଯୌନକ୍ରିୟାରୁ ଦୂରେଇ ରହିବାକୁ କିମ୍ୱା ଅତିରିକ୍ତ ଗର୍ଭନିରୋଧକ ସୁରକ୍ଷା ବ୍ୟବହାର କରିବାକୁ ପଡ଼ିବ।"
           }
         },
         "pa-IN" : {
@@ -21092,7 +21131,7 @@
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ଅପସ୍ମାରରୋଧୀଗୁଡ଼ିକରେ"
+            "value" : "ଅପସ୍ମାରରୋଧୀଗୁଡ଼ିକରେ"
           }
         },
         "pa-IN" : {
@@ -21388,6 +21427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "অবশ্যই নির্দিষ্টভাবে অল্প বয়সী মানুষ, যেসব পুরুষ এখনও পিতা হননি ও অবসাদগ্রস্ত সমস্যা সহ মানসিক স্বাস্থ্যের সমস্যায় আক্রান্ত গ্রাহকদের ক্ষেত্রে মনোযোগ দিতে হবে। বন্ধ্যাত্বকরণের অভিপ্রেত স্থায়িত্ব ও পরিবর্ত, দীর্ঘস্থায়ী, খুবই কার্যকর পদ্ধতির উপলভ্যতা সম্বন্ধে সকল গ্রাহককে যত্নসহকারে পরামর্শ দেওয়া উচিৎ। অল্প বয়সী মানুষের ক্ষেত্রে এটি বাড়তি উদ্বেগের বিষয়। সিদ্ধান্তের প্রক্রিয়ায় অবশ্যই বন্ধ্যাত্বকরণ পদ্ধতি প্রদানের জন্য রাষ্ট্রীয় আইন ও বিদ্যমান বিধি বিবেচনা করতে হবে।"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Particular attention must be given in the case of young people, nulliparous women, men who have not yet been fathers and clients with mental health problems, including depressive conditions. All clients should be carefully counselled about the intended permanence of sterilization and the availability of alternative, long-term, highly effective methods. This is of extra concern for young people. The national laws and existing norms for the delivery of sterilization procedures must be considered in the decision process."
           }
         },
         "gu-IN" : {
@@ -22161,7 +22206,7 @@
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "বড়ি: হৰমনৰ বড়ি দৈনিক গ্ৰহণ কৰক আৰু হৰমন নোহোৱা বড়ি সপ্তাহত গ্ৰহণ কৰক।"
+            "value" : "বড়ি: হৰমনৰ বড়ি দৈনিক গ্ৰহণ কৰক আৰু হৰমন নোহোৱা বড়ি সপ্তাহত গ্ৰহণ কৰক।"
           }
         },
         "bn-IN" : {
@@ -22870,67 +22915,67 @@
         }
       }
     },
-    "Postpartum (breastfeeding and non-breastfeeding)*" : {
+    "Postpartum (breastfeeding and non-breastfeeding)" : {
       "extractionState" : "manual",
       "localizations" : {
         "as-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "প্ৰসৱোত্তৰ (স্তন্যপান কৰোৱা আৰু স্তন্যপান নকৰোৱা)*"
+            "value" : "প্ৰসৱৰ পিছৰ (স্তনপান আৰু স্তনপান নকৰা)"
           }
         },
         "bn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "প্রসবের পর (স্তন্যদান করা ও না করা)*"
+            "value" : "প্রসবের পর (স্তন্যদান করা ও না করা)"
           }
         },
         "gu-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "પ્રસૂતિ પછી (સ્તનપાન કરાવતી અને સ્તનપાન નહીં કરાવતી માતાઓ માટે)*"
+            "value" : "પ્રસૂતિ પછી (સ્તનપાન કરાવનાર અથવા સ્તનપાન નહીં કરાવનાર)"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "प्रसवोत्तर (स्तनपान और गैर-स्तनपान) "
+            "value" : "प्रसवोत्तर (स्तनपान या गैर-स्तनपान)"
           }
         },
         "kn-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ಪ್ರಸವಾನಂತರದ (ಸ್ತನ್ಯಪಾನ ಮಾಡಿಸುವ ಮತ್ತು ಸ್ತನ್ಯಪಾನ ಮಾಡಿಸದ)*"
+            "value" : "ಪ್ರಸವಾನಂತರದ (ಸ್ತನ್ಯಪಾನ ಮಾಡಿಸುವ ಮತ್ತು ಸ್ತನ್ಯಪಾನ ಮಾಡಿಸದ)"
           }
         },
         "ml-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "പ്രസവശേഷം (മുലയൂട്ടുന്നതും മുലയൂട്ടാത്തതും)*"
+            "value" : "പ്രസവശേഷം (മുലയൂട്ടൽ അല്ലെങ്കിൽ മുലയൂട്ടൽ അല്ലാത്തത്)"
           }
         },
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ପ୍ରସବୋତ୍ତର (ସ୍ତନ୍ୟପାନ ଓ ଅଣ-ସ୍ତନ୍ୟପାନ)*"
+            "value" : "ପ୍ରସବୋତ୍ତର (ସ୍ତନ୍ୟପାନ କିମ୍ୱା ଅଣ-ସ୍ତନ୍ୟପାନ)"
           }
         },
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ਪ੍ਰਸਵ ਤੋਂ ਬਾਅਦ (ਛਾਤੀ ਦਾ ਦੁੱਧ ਚੁੰਘਾਉਣਾ ਅਤੇ ਛਾਤੀ ਦਾ ਦੁੱਧ ਨਾ ਚੁੰਘਾਉਣਾ)*"
+            "value" : "ਪ੍ਰਸਵ ਤੋਂ ਬਾਅਦ (ਛਾਤੀ ਦਾ ਦੁੱਧ ਚੁੰਘਾਉਣਾ ਜਾਂ ਛਾਤੀ ਦਾ ਦੁੱਧ ਨਾ ਚੁੰਘਾਉਣਾ)"
           }
         },
         "ta-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "பிரசவத்திற்குப்பின் (தாய்ப்பால் ஊட்டுதல் மற்றும் தாய்ப்பால் கொடுக்காமலிருத்தல்)*"
+            "value" : "பிரசவத்திற்குப்பின் (தாய்ப்பால் ஊட்டுதல் மற்றும் தாய்ப்பால் கொடுக்காமலிருத்தல்)"
           }
         },
         "te-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ప్రసవానంతర (తల్లిపాలు ఇవ్వడం మరియు తల్లిపాలు ఇవ్వకపోవడం)*"
+            "value" : "ప్రసవానంతర (తల్లిపాలు ఇస్తున్నప్పుడు, లేదా తల్లిపాలు ఇవ్వనప్పుడు)"
           }
         }
       }
@@ -22948,6 +22993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "প্রসবের পর (স্তন্যদান করা ও না করা)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postpartum (breastfeeding or non-breastfeeding)"
           }
         },
         "gu-IN" : {
@@ -28118,7 +28169,7 @@
         "or-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ଆଣ୍ଟିବାୟୋଟିକ୍ ସେବନ କରିବା (ରିଫାମ୍ପିସିନ୍/ରିଫାବ୍ୟୁଟିନ୍ ଛଡ଼ା)"
+            "value" : "ଆଣ୍ଟିବାୟୋଟିକ୍ ସେବନ କରିବା (ରିଫାମ୍ପିସିନ୍/ରିଫାବ୍ୟୁଟିନ୍ ଛଡ଼ା)"
           }
         },
         "pa-IN" : {
@@ -28449,7 +28500,7 @@
         "pa-IN" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ਆਮ Cu-IUD ਇਨਸਰਸ਼ਨ ਲਈ ਯੋਗਤਾ ਮਾਪਦੰਡ ਐਮਰਜੈਂਸੀ ਗਰਭ ਨਿਰੋਧਕ ਵਜੋਂ Cu-IUD ਦੀ ਇਨਸਰਸ਼ਨ ਲਈ ਵੀ ਲਾਗੂ ਹੁੰਦੇ ਹਨ।"
+            "value" : "ਆਮ Cu-IUD ਇਨਸਰਸ਼ਨ ਲਈ ਯੋਗਤਾ ਮਾਪਦੰਡ ਐਮਰਜੈਂਸੀ ਗਰਭ ਨਿਰੋਧਕ ਵਜੋਂ Cu-IUD ਦੀ ਇਨਸਰਸ਼ਨ ਲਈ ਵੀ ਲਾਗੂ ਹੁੰਦੇ ਹਨ।"
           }
         },
         "ta-IN" : {
@@ -28544,6 +28595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "গর্ভপাত সম্পূর্ণ হওয়ার পর অবিলম্বে বা 7 দিনের মধ্যে প্রথম ইনজেকশন শুরু করা যায়। কোনও অতিরিক্ত গর্ভনিরোধকের প্রয়োজন নেই।"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The first injection can be given immediately or within 7 days after completion of abortion. No additional contraceptive protection is needed."
           }
         },
         "gu-IN" : {
@@ -28674,6 +28731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "গর্ভপাতের পর অবিলম্বে ইমপ্ল্যান্ট প্রবেশ করানো যায়। কোনও অতিরিক্ত গর্ভনিরোধকের প্রয়োজন নেই।"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The implant can be inserted immediately or within 7 days after completion of abortion. No additional contraceptive protection is needed."
           }
         },
         "gu-IN" : {
@@ -29075,7 +29138,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "शुक्राणु और अंडे को मिलने से रोकने के लिए गर्भाशय ग्रीवा के श्लेष्म (सर्वाइकल म्यूकस) को गाढ़ा करती है।"
+            "value" : "शुक्राणु और अंडे को मिलने से रोकने के लिए गर्भाशय ग्रीवा के श्लेष्म (सर्वाइकल म्यूकस) को गाढ़ा करती है।"
           }
         },
         "kn-IN" : {
@@ -31599,6 +31662,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ঋতুস্রাব শুরু হওয়ার পর 5 দিনের মধ্যে: CHC শুরু করুন।কোনও অতিরিক্ত গর্ভনিরোধকের প্রয়োজন নেই।"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Within 5 days after the start of menstrual bleeding: Start CHC. No additional contraceptive protection is needed."
           }
         },
         "gu-IN" : {

@@ -108,6 +108,7 @@
                     <navigationItem key="navigationItem" id="Fvo-ok-T69"/>
                     <nil key="simulatedTopBarMetrics"/>
                     <connections>
+                        <outlet property="desHeightCons" destination="VCa-qH-fFb" id="zfq-5u-kiw"/>
                         <outlet property="descLabel" destination="TCP-r7-I3k" id="K3B-Xm-Dwo"/>
                         <outlet property="lowerWheelImg" destination="nLt-8H-ZPe" id="Tcm-sE-j2l"/>
                         <outlet property="startButton" destination="yJu-6P-HEx" id="t9m-Tq-GGL"/>

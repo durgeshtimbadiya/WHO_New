@@ -99,7 +99,10 @@ class EffectivenessTableViewCell: UITableViewCell {
         
         if contentLabel1 != nil {
             let attributeStr = NSMutableAttributedString(string: cellData.content1)
-            let boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
+            var boldAttributes = [ NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 14.0) ]
+            if let selectLng = UserDefaults.standard.value(forKey: "SelectedLanguege") as? String, selectLng == LanguageCode.Telugu {
+                boldAttributes = [ NSAttributedString.Key.font: UIFont.systemFont(ofSize: 14.0, weight: .heavy) ]
+            }
             let titleComp = cellData.content1.components(separatedBy: ":")
             let rangeTitle1 = NSRange(location: 0, length: titleComp[0].unicodeScalars.count + 1)
             print("1: \(titleComp)")

@@ -61,7 +61,7 @@ struct NonHarmonal{
     
     static let title_4 = "How many months should be provided at a time?".localizeString()
     
-    static let content_5 = "At least 2–3 months. Can be given at a time and it may be more as per programmatic guidelines of the country.".localizeString()
+    static let content_5 = "Estimated Centchroman users x 9 strips + 10% Buffer Stock.".localizeString()
     
     static let title_6 = "When can a woman start Centchroman?".localizeString()
     
@@ -75,8 +75,8 @@ struct NonHarmonal{
     
     static let content_11 = "Start if it is reasonably certain that the woman is not pregnant. Abstain from sex or use additional contraceptive protection for the next 2 days.".localizeString()
     
-    static let title_12 = "Postpartum (breastfeeding and non-breastfeeding)*".localizeString()
-    
+    static let title_12 = "Postpartum (breastfeeding and non-breastfeeding)".localizeString()
+
     static let content_13 = "It is safe for breastfeeding mothers.".localizeString()
     
     static let content_14 = "If she is less than 21 days postpartum, she can start Centchroman at any time. No additional contraceptive protection is needed.*".localizeString()
@@ -90,7 +90,9 @@ struct NonHarmonal{
     static let content_18 = "Centchroman can be safely taken by women just after abortion, miscarriage or ectopic pregnancy.".localizeString()
     
     static let content_19 = "It can be initiated within 7 days of completion of abortion without a need for any backup method.".localizeString()
-    
+ 
+    static let content_20 = "* It is highly unlikely that a woman will ovulate and be at risk of pregnancy during the first 21 days postpartum. However, for programmatic reasons, some contraceptive methods may be provided during this period.".localizeString()
+
 }
 
 struct ProgestonOnlyPills{

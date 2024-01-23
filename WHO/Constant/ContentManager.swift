@@ -60,8 +60,9 @@ class ContentManager : NSObject {
         NonHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: NonHarmonal.content_16 ,bulletValue: ""))
         NonHarmonalList.append(ContraceptualContentModel(bullet: false ,title: NonHarmonal.title_17 ,content: "" ,bulletValue: ""))
         NonHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: NonHarmonal.content_18 ,bulletValue: ""))
-        NonHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: NonHarmonal.content_19 + "\n\n" ,bulletValue: ""))
-        
+        NonHarmonalList.append(ContraceptualContentModel(bullet: true ,title: "" ,content: NonHarmonal.content_19 ,bulletValue: ""))
+        NonHarmonalList.append(ContraceptualContentModel(bullet: false ,title: "" ,content: NonHarmonal.content_20 + "\n\n" ,bulletValue: ""))
+
         
         var ProgestonOnlyPillsList = [ContraceptualContentModel]()
         
